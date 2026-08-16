@@ -1,0 +1,35 @@
+/* New styling only. Never edit anything under assets/. */
+
+.site-prose {
+	font-family: Futura, Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	line-height: 1.6;
+	color: #d9dcd9;
+	text-transform: none;
+	letter-spacing: 0.2px;
+}
+
+.site-scroll {
+	overflow-y: auto;
+	max-height: 100%;
+	padding: 0 40px;
+}
+
+/* BankGothic for headings matches .menu-option, the face the recreation
+   already uses for labels. Beckett is reserved for .menu-title. */
+.site-prose h2 {
+	font-family: BankGothic, sans-serif;
+	font-size: 20px;
+	color: rgb(194, 162, 43);
+	text-transform: uppercase;
+	margin: 24px 0 4px;
+	letter-spacing: 1px;
+}
+
+.site-prose p { margin: 0 0 8px; }
+
+.site-prose ul { margin: 0 0 16px; padding-left: 20px; }
+
+.site-prose li { margin-bottom: 6px; }
+
+.site-prose a { color: rgb(194, 162, 43); }

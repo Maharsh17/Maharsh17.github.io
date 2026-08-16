@@ -1,0 +1,175 @@
+{
+  "generated": "2026-08-16",
+  "repos": [
+    {
+      "nameWithOwner": "CS222-UIUC/fa25-team118-titans",
+      "pushedAt": "2025-12-16",
+      "isPrivate": false,
+      "isArchived": false,
+      "description": "fa25-team-titans created by GitHub Classroom",
+      "releaseCount": 0,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "size": 120061
+        },
+        {
+          "name": "CSS",
+          "size": 13491
+        },
+        {
+          "name": "Shell",
+          "size": 3465
+        },
+        {
+          "name": "HTML",
+          "size": 1721
+        },
+        {
+          "name": "Dockerfile",
+          "size": 853
+        }
+      ]
+    },
+    {
+      "nameWithOwner": "InviteInstitute/lm-dashboard",
+      "pushedAt": "2026-08-10",
+      "isPrivate": false,
+      "isArchived": false,
+      "description": "Realtime LM Dashboard for Intervention Studies by Maharsh",
+      "releaseCount": 1,
+      "languages": [
+        {
+          "name": "Python",
+          "size": 319386
+        },
+        {
+          "name": "JavaScript",
+          "size": 104458
+        },
+        {
+          "name": "Shell",
+          "size": 1676
+        },
+        {
+          "name": "Makefile",
+          "size": 1582
+        },
+        {
+          "name": "CSS",
+          "size": 1435
+        },
+        {
+          "name": "Dockerfile",
+          "size": 1016
+        },
+        {
+          "name": "HTML",
+          "size": 877
+        }
+      ]
+    },
+    {
+      "nameWithOwner": "InviteInstitute/vex-agent-integration",
+      "pushedAt": "2026-08-10",
+      "isPrivate": false,
+      "isArchived": false,
+      "description": "Connecting VEX Triggers & Episodes to Pedagogical Agent",
+      "releaseCount": 0,
+      "languages": [
+        {
+          "name": "Python",
+          "size": 298215
+        },
+        {
+          "name": "JavaScript",
+          "size": 41768
+        },
+        {
+          "name": "PLpgSQL",
+          "size": 12641
+        },
+        {
+          "name": "CSS",
+          "size": 12113
+        },
+        {
+          "name": "Shell",
+          "size": 4238
+        },
+        {
+          "name": "Makefile",
+          "size": 1708
+        },
+        {
+          "name": "HTML",
+          "size": 871
+        },
+        {
+          "name": "Dockerfile",
+          "size": 360
+        }
+      ]
+    },
+    {
+      "nameWithOwner": "HarshithaS2023/ai4all",
+      "pushedAt": "2026-08-05",
+      "isPrivate": false,
+      "isArchived": false,
+      "description": null,
+      "releaseCount": 0,
+      "languages": [
+        {
+          "name": "HTML",
+          "size": 16692854
+        },
+        {
+          "name": "Python",
+          "size": 46639
+        }
+      ]
+    },
+    {
+      "nameWithOwner": "InviteInstitute/agent-lm-packages",
+      "pushedAt": "2026-07-31",
+      "isPrivate": false,
+      "isArchived": false,
+      "description": "VEX Log Parser & Learner Models for Shan/Noah Study",
+      "releaseCount": 0,
+      "languages": [
+        {
+          "name": "Python",
+          "size": 77258
+        }
+      ]
+    },
+    {
+      "nameWithOwner": "Maharsh17/county-clustering",
+      "pushedAt": "2026-08-15",
+      "isPrivate": false,
+      "isArchived": false,
+      "description": "Grouping 3,128 US counties by social vulnerability and upward mobility, then checking whether the groups are real or just an artifact of what I measured.",
+      "releaseCount": 0,
+      "languages": [
+        {
+          "name": "Python",
+          "size": 42762
+        }
+      ]
+    },
+    {
+      "nameWithOwner": "Maharsh17/resume-blaster",
+      "pushedAt": "2026-08-15",
+      "isPrivate": true,
+      "isArchived": false,
+      "description": "Resume Blaster with LLMs",
+      "releaseCount": 0,
+      "languages": [
+        {
+          "name": "TeX",
+          "size": 24115
+        }
+      ]
+    }
+  ]
+}
