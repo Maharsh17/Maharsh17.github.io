@@ -5,11 +5,10 @@
  * so at 3am the page is the game's midnight sky and at noon it is its midday
  * blue. Wraps around midnight, hence the modular distance below. */
 (function () {
-	// Paint the body itself rather than a layer behind it. A fixed element at
-	// z-index -1 under a body that has its own background colour is fragile
-	// stacking; the body has no such ambiguity.
+	// Runs on every page. The HUD page gets the full sky painted onto its body;
+	// every other page only receives --sky-top / --sky-bottom custom properties
+	// so accents can warm at sunset without repainting the GTA menu chrome.
 	var host = document.querySelector(".site-hud-page");
-	if (!host) return;
 
 	function lerp(a, b, t) { return Math.round(a + (b - a) * t); }
 
@@ -41,7 +40,15 @@
 
 		var top = mix(lo.top, hi.top, t);
 		var bottom = mix(lo.bottom, hi.bottom, t);
-		host.style.background = "linear-gradient(" + rgb(top) + " 0%, " + rgb(bottom) + " 100%)";
+
+		var root = document.documentElement;
+		root.style.setProperty("--sky-top", rgb(top));
+		root.style.setProperty("--sky-bottom", rgb(bottom));
+
+		if (host) {
+			host.style.background =
+				"linear-gradient(" + rgb(top) + " 0%, " + rgb(bottom) + " 100%)";
+		}
 
 		var label = document.querySelector(".site-sky-label");
 		if (label) {

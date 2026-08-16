@@ -29,19 +29,23 @@
 	}
 
 	function filledSlot(entry) {
+		// Garage line comes from data/vehicles.json when present. Derived from
+		// repo size and push recency, so it is reproducible rather than my taste.
+		var garage = entry.vehicle ? "  |  garage: " + entry.vehicle : "";
 		var href = entry.noRepo || entry.isPrivate
 			? "#"
 			: "https://github.com/" + entry.nameWithOwner;
 		var right = fmtDate(entry.pushedAt) + "  " + entry.status.toUpperCase();
 		return '<li class="menu-option menu-option--datagame"><a href="' + esc(href) + '"' +
 			(href === "#" ? "" : ' target="_blank" rel="noopener"') +
-			' title="' + esc(entry.blurb) + '">' +
+			' title="' + esc(entry.blurb + garage) + '">' +
 			'<span class="menu-option--datagame-left">' + esc(entry.slotName) + '</span>' +
 			'<span class="menu-option--datagame-right">' + esc(right) + '</span>' +
 			'</a></li>';
 	}
 
-	function render(overrides, projects) {
+	function render(overrides, projects, garageData) {
+		var garage = (garageData && garageData.garage) || {};
 		var byName = {};
 		var i;
 		if (projects && projects.repos) {
@@ -62,7 +66,8 @@
 				status: o.status,
 				noRepo: !!o.noRepo,
 				isPrivate: !!repo.isPrivate,
-				pushedAt: repo.pushedAt || o.pushedAt || ""
+				pushedAt: repo.pushedAt || o.pushedAt || "",
+				vehicle: (garage[key] || {}).vehicle || ""
 			};
 		}
 
@@ -83,8 +88,14 @@
 	getJSON("./data/overrides.json").then(function (overrides) {
 		// Slots must render even if the generated file is missing.
 		return getJSON("./data/projects.json").then(
-			function (projects) { render(overrides, projects); },
-			function () { render(overrides, null); }
+			function (projects) {
+				// The garage is optional decoration; never let it block slots.
+				return getJSON("./data/vehicles.json").then(
+					function (g) { render(overrides, projects, g); },
+					function () { render(overrides, projects, null); }
+				);
+			},
+			function () { render(overrides, null, null); }
 		);
 	}).catch(function () {
 		list.innerHTML = '<li class="menu-option menu-option--datagame ' +

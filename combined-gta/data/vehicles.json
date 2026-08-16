@@ -1,0 +1,54 @@
+{
+ "source": "handling.cfg + vehicles.ide",
+ "garage": {
+  "InviteInstitute/lm-dashboard": {
+   "vehicle": "Securicar",
+   "mass": 7000.0,
+   "topSpeed": 170.0,
+   "value": 40000,
+   "why": "420KB of code, last pushed 6 days ago"
+  },
+  "InviteInstitute/vex-agent-integration": {
+   "vehicle": "Fbiranch",
+   "mass": 3500.0,
+   "topSpeed": 170.0,
+   "value": 40000,
+   "why": "363KB of code, last pushed 6 days ago"
+  },
+  "InviteInstitute/agent-lm-packages": {
+   "vehicle": "Forklift",
+   "mass": 1000.0,
+   "topSpeed": 60.0,
+   "value": 9000,
+   "why": "75KB of code, last pushed 16 days ago"
+  },
+  "Maharsh17/county-clustering": {
+   "vehicle": "Cheetah",
+   "mass": 1200.0,
+   "topSpeed": 230.0,
+   "value": 105000,
+   "why": "41KB of code, last pushed 1 days ago"
+  },
+  "CS222-UIUC/fa25-team118-titans": {
+   "vehicle": "Tractor",
+   "mass": 2000.0,
+   "topSpeed": 70.0,
+   "value": 9000,
+   "why": "136KB of code, last pushed 243 days ago"
+  },
+  "Maharsh17/resume-blaster": {
+   "vehicle": "Pizzaboy",
+   "mass": 350.0,
+   "topSpeed": 190.0,
+   "value": 10000,
+   "why": "23KB of code, last pushed 1 days ago"
+  },
+  "HarshithaS2023/ai4all": {
+   "vehicle": "Dumper",
+   "mass": 20000.0,
+   "topSpeed": 110.0,
+   "value": 5000,
+   "why": "16347KB of code, last pushed 11 days ago"
+  }
+ }
+}

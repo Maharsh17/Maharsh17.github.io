@@ -142,3 +142,107 @@
 	margin: 6px 0 0;
 	text-align: center;
 }
+
+/* Death screen for 404. Pricedown is the game's logo face and is already
+   vendored in assets/menu/fonts/. */
+.site-wasted {
+	margin: 0;
+	min-height: 100vh;
+	background: #000;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	cursor: url("../assets/menu/images/mouse.png"), auto;
+}
+
+.site-wasted-inner { text-align: center; padding: 20px; }
+
+.site-wasted-word {
+	font-family: "Pricedown Bl", Impact, sans-serif;
+	font-size: clamp(64px, 18vw, 190px);
+	line-height: 1;
+	margin: 0;
+	color: #8b0000;
+	text-transform: uppercase;
+	letter-spacing: 4px;
+	text-shadow: 0 0 40px rgba(191, 36, 42, 0.55);
+}
+
+.site-wasted-sub {
+	font-family: Futura, Arial, sans-serif;
+	font-size: 16px;
+	letter-spacing: 2px;
+	color: rgba(217, 220, 217, 0.7);
+	margin: 12px 0 28px;
+}
+
+.site-wasted-nav a {
+	font-family: BankGothic, sans-serif;
+	font-size: 22px;
+	letter-spacing: 3px;
+	text-transform: uppercase;
+	color: rgb(194, 162, 43);
+	text-decoration: none;
+}
+
+.site-wasted-nav a:hover { color: #fff; }
+
+/* Map pins. .menu-content--map is a vendored class, so it is given position
+   context here rather than by editing assets/. */
+.menu-content--map { position: relative; }
+
+.site-pin {
+	position: absolute;
+	transform: translate(-50%, -50%);
+	z-index: 5;
+}
+
+.site-pin-icon {
+	display: block;
+	width: 22px;
+	height: 22px;
+	image-rendering: pixelated;
+	filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.9));
+}
+
+.site-pin-label {
+	position: absolute;
+	left: 28px;
+	top: 50%;
+	transform: translateY(-50%);
+	white-space: nowrap;
+	background: rgba(0, 0, 0, 0.82);
+	border: 1px solid rgba(194, 162, 43, 0.5);
+	padding: 5px 8px;
+	font-family: Futura, Arial, sans-serif;
+	font-size: 11px;
+	line-height: 1.4;
+	color: #d9dcd9;
+	text-transform: none;
+	opacity: 0;
+	pointer-events: none;
+	transition: opacity .15s ease;
+}
+
+.site-pin:hover .site-pin-label { opacity: 1; }
+.site-pin:hover { z-index: 6; }
+
+/* Sitewide horizon line. sky.js sets --sky-top / --sky-bottom on :root from
+   the game's timecyc.dat, so this strip warms at sunset and goes near-black at
+   midnight. Falls back to the midday blue if the JSON never loads. */
+:root { --sky-top: rgb(68, 117, 210); --sky-bottom: rgb(36, 117, 199); }
+
+body::before {
+	content: "";
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	height: 3px;
+	z-index: 9999;
+	pointer-events: none;
+	background: linear-gradient(90deg, var(--sky-top), var(--sky-bottom));
+}
+
+/* The HUD page paints the whole sky already; a strip on top of it is noise. */
+.site-hud-page::before { display: none; }
