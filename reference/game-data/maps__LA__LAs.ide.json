@@ -1,0 +1,1997 @@
+{
+ "objs": [
+  {
+   "id": 4806,
+   "modelName": "BTOLAND8_LAS",
+   "txdName": "ground5_las",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4807,
+   "modelName": "LAroads_20gh_LAs",
+   "txdName": "lasroads_las",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4808,
+   "modelName": "LAroadss_30_LAs",
+   "txdName": "lasroads_las",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4809,
+   "modelName": "LAroads_05_LAs",
+   "txdName": "freeway_las",
+   "drawDistance": 170,
+   "flags": 2097152
+  },
+  {
+   "id": 4810,
+   "modelName": "hillpalos04_LAs",
+   "txdName": "griffobs_las",
+   "drawDistance": 250,
+   "flags": 2097152
+  },
+  {
+   "id": 4811,
+   "modelName": "clifftest02",
+   "txdName": "beach_las",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4812,
+   "modelName": "clifftest05",
+   "txdName": "beach_las",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4813,
+   "modelName": "clifftest07",
+   "txdName": "beach_las",
+   "drawDistance": 180,
+   "flags": 0
+  },
+  {
+   "id": 4814,
+   "modelName": "clifftest09",
+   "txdName": "beach_las",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4815,
+   "modelName": "clifftestgrnd2",
+   "txdName": "beach_las",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4816,
+   "modelName": "ROCKLIFF1_LAS",
+   "txdName": "beach_las",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4817,
+   "modelName": "TRNTRK7_LAS",
+   "txdName": "traintrack_las",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4818,
+   "modelName": "TRNTRK8_LAS",
+   "txdName": "traintrack_las",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 4819,
+   "modelName": "TRNTRK5_LAS",
+   "txdName": "traintrack_las",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4820,
+   "modelName": "BTOLAND1_LAS",
+   "txdName": "ground4_las",
+   "drawDistance": 180,
+   "flags": 0
+  },
+  {
+   "id": 4821,
+   "modelName": "BTOLAND2_LAS",
+   "txdName": "union_las",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4822,
+   "modelName": "NWCSTRD1_LAS",
+   "txdName": "freeway2_las",
+   "drawDistance": 170,
+   "flags": 2097152
+  },
+  {
+   "id": 4823,
+   "modelName": "lasgrifroad",
+   "txdName": "griffobs_las",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4824,
+   "modelName": "lasgrifsteps2",
+   "txdName": "griffobs_las",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4825,
+   "modelName": "griffithoblas",
+   "txdName": "griffobs_las",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4826,
+   "modelName": "grifftop2",
+   "txdName": "griffobs_las",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4827,
+   "modelName": "LAroads_20ghi_LAs",
+   "txdName": "lasroads_las",
+   "drawDistance": 160,
+   "flags": 0
+  },
+  {
+   "id": 4828,
+   "modelName": "lasairprt5",
+   "txdName": "airport3_las",
+   "drawDistance": 175,
+   "flags": 0
+  },
+  {
+   "id": 4829,
+   "modelName": "lasairprt4",
+   "txdName": "airport_las",
+   "drawDistance": 180,
+   "flags": 0
+  },
+  {
+   "id": 4830,
+   "modelName": "lasairprt3",
+   "txdName": "airport2",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4831,
+   "modelName": "airpurt2_las",
+   "txdName": "airport2",
+   "drawDistance": 170,
+   "flags": 2097152
+  },
+  {
+   "id": 4832,
+   "modelName": "airtwer_Las",
+   "txdName": "airport3_las",
+   "drawDistance": 180,
+   "flags": 4
+  },
+  {
+   "id": 4833,
+   "modelName": "airpurtder_las",
+   "txdName": "airprtrunway_las",
+   "drawDistance": 200,
+   "flags": 0
+  },
+  {
+   "id": 4834,
+   "modelName": "airoad1d_LAS",
+   "txdName": "freeway_las",
+   "drawDistance": 220,
+   "flags": 2097152
+  },
+  {
+   "id": 4835,
+   "modelName": "airoad1b_LAS",
+   "txdName": "airoads_las",
+   "drawDistance": 200,
+   "flags": 0
+  },
+  {
+   "id": 4836,
+   "modelName": "LAroadsx_04_LAs",
+   "txdName": "freeway_las",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4837,
+   "modelName": "LApedhusrea_LAs",
+   "txdName": "lasroads_las",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4838,
+   "modelName": "airpurtderfr_las",
+   "txdName": "airprtrunway_las",
+   "drawDistance": 200,
+   "flags": 0
+  },
+  {
+   "id": 4839,
+   "modelName": "bchcostrd3_LAS",
+   "txdName": "freeway_las",
+   "drawDistance": 150,
+   "flags": 2097152
+  },
+  {
+   "id": 4840,
+   "modelName": "bchcostrd4_LAS",
+   "txdName": "freeway_las",
+   "drawDistance": 180,
+   "flags": 0
+  },
+  {
+   "id": 4841,
+   "modelName": "bchcostrd1_LAS",
+   "txdName": "freeway2_las",
+   "drawDistance": 175,
+   "flags": 2097152
+  },
+  {
+   "id": 4842,
+   "modelName": "Beach1_LAs0fg",
+   "txdName": "beach_las",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 4843,
+   "modelName": "Beach1_LAs0fhy",
+   "txdName": "beach_las",
+   "drawDistance": 180,
+   "flags": 0
+  },
+  {
+   "id": 4844,
+   "modelName": "Beach1_LAs04",
+   "txdName": "beach_las",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 4845,
+   "modelName": "hillpalos02_LAs",
+   "txdName": "griffobs_las",
+   "drawDistance": 250,
+   "flags": 2097152
+  },
+  {
+   "id": 4846,
+   "modelName": "LAcityped1_LAs",
+   "txdName": "lasroads_las",
+   "drawDistance": 170,
+   "flags": 0
+  },
+  {
+   "id": 4847,
+   "modelName": "Beach1_LAs0gj",
+   "txdName": "beach_las",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 4848,
+   "modelName": "sanpedbeaut",
+   "txdName": "ground5_las",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 4849,
+   "modelName": "snpdmshfnc3_LAS",
+   "txdName": "ground3_las",
+   "drawDistance": 170,
+   "flags": 0
+  },
+  {
+   "id": 4850,
+   "modelName": "snpedshpblk07",
+   "txdName": "oldshops_las",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4851,
+   "modelName": "hillpalos01_LAs",
+   "txdName": "griffobs_las",
+   "drawDistance": 250,
+   "flags": 2097152
+  },
+  {
+   "id": 4852,
+   "modelName": "hillpalos03_LAs",
+   "txdName": "griffobs_las",
+   "drawDistance": 250,
+   "flags": 2097152
+  },
+  {
+   "id": 4853,
+   "modelName": "traincano_LAS",
+   "txdName": "union_las",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4854,
+   "modelName": "lasundrairprt2",
+   "txdName": "airport_las",
+   "drawDistance": 180,
+   "flags": 0
+  },
+  {
+   "id": 4855,
+   "modelName": "lasundrairprt1",
+   "txdName": "airoads_las",
+   "drawDistance": 150,
+   "flags": 2097156
+  },
+  {
+   "id": 4856,
+   "modelName": "lasundrairprt3",
+   "txdName": "airoads_las",
+   "drawDistance": 150,
+   "flags": 2097156
+  },
+  {
+   "id": 4857,
+   "modelName": "snpedmtsp1_LAS",
+   "txdName": "oldshops_las",
+   "drawDistance": 75,
+   "flags": 0
+  },
+  {
+   "id": 4858,
+   "modelName": "snpedland1_LAS",
+   "txdName": "ground5_las",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4859,
+   "modelName": "snpedland2_LAS",
+   "txdName": "ground5_las",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4860,
+   "modelName": "unionstwar_LAS",
+   "txdName": "railway_las",
+   "drawDistance": 150,
+   "flags": 4
+  },
+  {
+   "id": 4861,
+   "modelName": "snpedhuair2_LAS",
+   "txdName": "ground4_las",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4862,
+   "modelName": "airtun2_LAS",
+   "txdName": "airprtrunway_las",
+   "drawDistance": 170,
+   "flags": 2097156
+  },
+  {
+   "id": 4863,
+   "modelName": "airtun1_LAS",
+   "txdName": "airprtrunway_las",
+   "drawDistance": 175,
+   "flags": 2097152
+  },
+  {
+   "id": 4864,
+   "modelName": "airtun3_LAS",
+   "txdName": "airprtrunway_las",
+   "drawDistance": 150,
+   "flags": 2097152
+  },
+  {
+   "id": 4865,
+   "modelName": "lasrnway2_LAS",
+   "txdName": "airprtrunway_las",
+   "drawDistance": 250,
+   "flags": 0
+  },
+  {
+   "id": 4866,
+   "modelName": "lasrnway1_LAS",
+   "txdName": "airprtrunway_las",
+   "drawDistance": 250,
+   "flags": 0
+  },
+  {
+   "id": 4867,
+   "modelName": "lasrnway3_LAS",
+   "txdName": "airprtrunway_las",
+   "drawDistance": 250,
+   "flags": 0
+  },
+  {
+   "id": 4868,
+   "modelName": "LAroads_23_LAs",
+   "txdName": "freeway2_las",
+   "drawDistance": 180,
+   "flags": 2097152
+  },
+  {
+   "id": 4869,
+   "modelName": "lasrnway8_LAS",
+   "txdName": "airprtrunway_las",
+   "drawDistance": 250,
+   "flags": 2097152
+  },
+  {
+   "id": 4870,
+   "modelName": "airpurt2ax_las",
+   "txdName": "airoads_las",
+   "drawDistance": 175,
+   "flags": 0
+  },
+  {
+   "id": 4871,
+   "modelName": "airpurt2bx_las",
+   "txdName": "airoads_las",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4872,
+   "modelName": "LAroads_042e_LAs",
+   "txdName": "freeway_las",
+   "drawDistance": 200,
+   "flags": 2097152
+  },
+  {
+   "id": 4873,
+   "modelName": "unionstwarc2_LAS",
+   "txdName": "railway_las",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4874,
+   "modelName": "Helipad1_las",
+   "txdName": "airport_las",
+   "drawDistance": 100,
+   "flags": 2097156
+  },
+  {
+   "id": 4875,
+   "modelName": "hillpalos06_LAs",
+   "txdName": "griffobs_las",
+   "drawDistance": 250,
+   "flags": 2097152
+  },
+  {
+   "id": 4876,
+   "modelName": "hillpalos08_LAs",
+   "txdName": "griffobs_las",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4877,
+   "modelName": "dwntwnbit4_LAS",
+   "txdName": "downtown1_las",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 4878,
+   "modelName": "obcity1_LAS",
+   "txdName": "lasroads_las",
+   "drawDistance": 150,
+   "flags": 2097152
+  },
+  {
+   "id": 4879,
+   "modelName": "hillpaloswal1_LAs",
+   "txdName": "griffobs_las",
+   "drawDistance": 210,
+   "flags": 0
+  },
+  {
+   "id": 4880,
+   "modelName": "dwntwnbit2_LAS",
+   "txdName": "downtown3_las",
+   "drawDistance": 100,
+   "flags": 2097152
+  },
+  {
+   "id": 4881,
+   "modelName": "uninstps_LAS01",
+   "txdName": "railway_las",
+   "drawDistance": 100,
+   "flags": 4
+  },
+  {
+   "id": 4882,
+   "modelName": "lasbrid1_LAS",
+   "txdName": "ground5_las",
+   "drawDistance": 150,
+   "flags": 2097156
+  },
+  {
+   "id": 4883,
+   "modelName": "bchcostair_LAS",
+   "txdName": "freeway_las",
+   "drawDistance": 180,
+   "flags": 2097152
+  },
+  {
+   "id": 4884,
+   "modelName": "lastranentun1_LAS",
+   "txdName": "traintrack_las",
+   "drawDistance": 180,
+   "flags": 0
+  },
+  {
+   "id": 4885,
+   "modelName": "lastranentun4_LAS",
+   "txdName": "traintrack_las",
+   "drawDistance": 190,
+   "flags": 2097152
+  },
+  {
+   "id": 4886,
+   "modelName": "gngspwnhus1_LAS",
+   "txdName": "ground4_las",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4887,
+   "modelName": "dwntwnbit1_LAS",
+   "txdName": "downtown_las",
+   "drawDistance": 100,
+   "flags": 2097152
+  },
+  {
+   "id": 4888,
+   "modelName": "dwntwnbit3_LAS",
+   "txdName": "downtown1_las",
+   "drawDistance": 100,
+   "flags": 2097152
+  },
+  {
+   "id": 4889,
+   "modelName": "dwntwnbit2b_LAS",
+   "txdName": "downtown3_las",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 4890,
+   "modelName": "lasairprterm2_LAS",
+   "txdName": "airport2",
+   "drawDistance": 170,
+   "flags": 2097156
+  },
+  {
+   "id": 4891,
+   "modelName": "billboard_LAS",
+   "txdName": "wiresetc_las",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 4892,
+   "modelName": "kbsgarage2_LAS",
+   "txdName": "kbgarage_las",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 4893,
+   "modelName": "LODtwnbit4_LAS01",
+   "txdName": "lod3_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4894,
+   "modelName": "dwntwnbit1b_LAS",
+   "txdName": "downtown_las",
+   "drawDistance": 100,
+   "flags": 2097152
+  },
+  {
+   "id": 4895,
+   "modelName": "lstrud_LAS",
+   "txdName": "lasroads_las",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4896,
+   "modelName": "clifftest12",
+   "txdName": "beach_las",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4897,
+   "modelName": "Beach1a1_LAs",
+   "txdName": "beach_las",
+   "drawDistance": 250,
+   "flags": 0
+  },
+  {
+   "id": 4898,
+   "modelName": "clifftestgrnd",
+   "txdName": "beach_las",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4899,
+   "modelName": "LODtwnbit3_LAS01",
+   "txdName": "lod3_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4900,
+   "modelName": "LODtwnbit2b_LAS01",
+   "txdName": "lod3_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4901,
+   "modelName": "LODtwnbit2_LAS01",
+   "txdName": "lod3_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4902,
+   "modelName": "LODalos01_LAs01",
+   "txdName": "lod3_las",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4903,
+   "modelName": "LODfftest07",
+   "txdName": "lod3_las",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4904,
+   "modelName": "LODoads_05_LAs01",
+   "txdName": "lod3_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4905,
+   "modelName": "LODch1a1_LAs01",
+   "txdName": "lod3_las",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4906,
+   "modelName": "LODfftest12",
+   "txdName": "lod3_las",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4907,
+   "modelName": "LODfftestgrnd",
+   "txdName": "lod3_las",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4908,
+   "modelName": "LODftest05",
+   "txdName": "lod3_las",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4909,
+   "modelName": "LODfftestgrnd03",
+   "txdName": "lod3_las",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4910,
+   "modelName": "LODfftest09",
+   "txdName": "lod3_las",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4911,
+   "modelName": "LODcostrd4_LAS01",
+   "txdName": "lod3_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4912,
+   "modelName": "LODKLIFF1_LAS01",
+   "txdName": "lod3_las",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4913,
+   "modelName": "LODfftest02",
+   "txdName": "lod3_las",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4914,
+   "modelName": "LODlpalos02_LAs01",
+   "txdName": "lod3_las",
+   "drawDistance": 650,
+   "flags": 0
+  },
+  {
+   "id": 4915,
+   "modelName": "LODlpalos04_LAs01",
+   "txdName": "lod3_las",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4916,
+   "modelName": "LODlpalos06_LAs01",
+   "txdName": "lod3_las",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4917,
+   "modelName": "LODffithoblas01",
+   "txdName": "lod3_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4918,
+   "modelName": "LODlpalos03_LAs01",
+   "txdName": "lod3_las",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4919,
+   "modelName": "LODgrifroad01",
+   "txdName": "lod3_las",
+   "drawDistance": 600,
+   "flags": 0
+  },
+  {
+   "id": 4920,
+   "modelName": "LODgrifsteps03",
+   "txdName": "lod3_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4921,
+   "modelName": "LODlpaloswal1_LAs01",
+   "txdName": "lod3_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4922,
+   "modelName": "LODoad1d_LAS01",
+   "txdName": "lod3_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4923,
+   "modelName": "LODoadsx_04_LAs01",
+   "txdName": "lod3_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4924,
+   "modelName": "LODoads_042e_LAs01",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4925,
+   "modelName": "LODlpalos08_LAs01",
+   "txdName": "lod3_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4926,
+   "modelName": "LODity1_LAS01",
+   "txdName": "lod3_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4927,
+   "modelName": "LODtwnbit1b_LAS01",
+   "txdName": "lod3_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4928,
+   "modelName": "LODObject02",
+   "txdName": "lod3_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4929,
+   "modelName": "LODcostair_LAS01",
+   "txdName": "lod3_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4930,
+   "modelName": "LODcostrd3_LAS01",
+   "txdName": "lod3_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4931,
+   "modelName": "LODch1_LAs0fhy01",
+   "txdName": "lod3_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4932,
+   "modelName": "LODch1_LAs0fg01",
+   "txdName": "lod3_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4933,
+   "modelName": "LODch1_LAs0gj01",
+   "txdName": "lod3_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4934,
+   "modelName": "LODtun1_LAS01",
+   "txdName": "lod3_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4935,
+   "modelName": "LODtun2_LAS01",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4936,
+   "modelName": "LODrnway2_LAS",
+   "txdName": "lod3_las",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4937,
+   "modelName": "LODrnway1_LAS",
+   "txdName": "lod3_las",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4938,
+   "modelName": "LODrnway3_LAS",
+   "txdName": "lod3_las",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4939,
+   "modelName": "LODrnway4_LAS01",
+   "txdName": "lod3_las",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4940,
+   "modelName": "LODpurtderfr_las01",
+   "txdName": "lod3_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4941,
+   "modelName": "LODoad1b_LAS01",
+   "txdName": "lod3_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4942,
+   "modelName": "LODairprt5",
+   "txdName": "lod3_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4943,
+   "modelName": "LODpurtder_las01",
+   "txdName": "lod3_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4944,
+   "modelName": "LODpurt2ax_las01",
+   "txdName": "lod3_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4945,
+   "modelName": "LODpurt2bx_las01",
+   "txdName": "lod3_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4946,
+   "modelName": "LODairprterm2_LAS",
+   "txdName": "lod3_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4947,
+   "modelName": "LODairprt3",
+   "txdName": "lod3_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4948,
+   "modelName": "LODtwer_Las01",
+   "txdName": "lod3_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4949,
+   "modelName": "LODipad1_las01",
+   "txdName": "lod3_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4950,
+   "modelName": "LODpurt2_las01",
+   "txdName": "lod3_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4951,
+   "modelName": "LODairprt4",
+   "txdName": "lod3_las",
+   "drawDistance": 600,
+   "flags": 0
+  },
+  {
+   "id": 4952,
+   "modelName": "LODLAND1_LAS01",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4953,
+   "modelName": "LODityped1_LAs01",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4954,
+   "modelName": "LODrnway8_LAS",
+   "txdName": "lod2_las",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4955,
+   "modelName": "LODrnway7_LAS",
+   "txdName": "lod2_las",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4956,
+   "modelName": "LODrnway5_LAS",
+   "txdName": "lod2_las",
+   "drawDistance": 1500,
+   "flags": 2097152
+  },
+  {
+   "id": 4957,
+   "modelName": "LODch1_LAs05",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4958,
+   "modelName": "LODtun3_LAS01",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4959,
+   "modelName": "LODcostrd1_LAS01",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4960,
+   "modelName": "LODoads_20ghi_LAs01",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4961,
+   "modelName": "LODLAND2_LAS01",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4962,
+   "modelName": "LODTRK8_LAS01",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4963,
+   "modelName": "LODTRK7_LAS01",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4964,
+   "modelName": "LODonstwar_LAS01",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4965,
+   "modelName": "LODonstwarc2_LAS01",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4966,
+   "modelName": "LODedland2_LAS01",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4967,
+   "modelName": "LODoadss_30_LAs01",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4968,
+   "modelName": "LODedhusrea_LAs01",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4969,
+   "modelName": "LODtripx1_LAS",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4970,
+   "modelName": "LODLAND8_LAS01",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4971,
+   "modelName": "LODTRK5_LAS01",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4972,
+   "modelName": "LODedhuair2_LAS01",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4973,
+   "modelName": "LODspwnhus1_LAS01",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4974,
+   "modelName": "LODrud_LAS01",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 2097152
+  },
+  {
+   "id": 4975,
+   "modelName": "LODedland1_LAS01",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4976,
+   "modelName": "LODpedbeaut01",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4977,
+   "modelName": "LODROAD1vb_LAS01",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4978,
+   "modelName": "LODedshpblk08",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4979,
+   "modelName": "LODedmtsp1_LAS01",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4980,
+   "modelName": "LODSTRD1_LAS01",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4981,
+   "modelName": "snpedteew1_LAS",
+   "txdName": "wiresetc2_las",
+   "drawDistance": 100,
+   "flags": 2097156
+  },
+  {
+   "id": 4982,
+   "modelName": "snpedteew3_LAS",
+   "txdName": "wiresetc_las",
+   "drawDistance": 100,
+   "flags": 2097156
+  },
+  {
+   "id": 4983,
+   "modelName": "snpedteew1vv_LAS",
+   "txdName": "wiresetc2_las",
+   "drawDistance": 100,
+   "flags": 2097156
+  },
+  {
+   "id": 4984,
+   "modelName": "snpedteew3gt_LAS",
+   "txdName": "wiresetc_las",
+   "drawDistance": 120,
+   "flags": 2097156
+  },
+  {
+   "id": 4985,
+   "modelName": "Cylinder03",
+   "txdName": "airport2",
+   "drawDistance": 170,
+   "flags": 2097156
+  },
+  {
+   "id": 4986,
+   "modelName": "odfwer_LAS",
+   "txdName": "griffobs_las",
+   "drawDistance": 150,
+   "flags": 2097156
+  },
+  {
+   "id": 4987,
+   "modelName": "LODfftop03",
+   "txdName": "lod3_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4988,
+   "modelName": "lasbillbrd1_las",
+   "txdName": "wiresetc_las",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4989,
+   "modelName": "LODgarage2_LAS01",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4990,
+   "modelName": "airprtwlkto1_LAS",
+   "txdName": "airport2",
+   "drawDistance": 180,
+   "flags": 0
+  },
+  {
+   "id": 4991,
+   "modelName": "lasairprterm1_LAS",
+   "txdName": "airport2",
+   "drawDistance": 170,
+   "flags": 2097156
+  },
+  {
+   "id": 4992,
+   "modelName": "airplants_LAS",
+   "txdName": "airportdetail",
+   "drawDistance": 150,
+   "flags": 2097156
+  },
+  {
+   "id": 4993,
+   "modelName": "airplnt2_LAS",
+   "txdName": "airportdetail",
+   "drawDistance": 70,
+   "flags": 2097156
+  },
+  {
+   "id": 4994,
+   "modelName": "airbillb_LAS",
+   "txdName": "airportdetail",
+   "drawDistance": 70,
+   "flags": 4
+  },
+  {
+   "id": 4995,
+   "modelName": "airsinage_LAS",
+   "txdName": "airportdetail",
+   "drawDistance": 100,
+   "flags": 4
+  },
+  {
+   "id": 4996,
+   "modelName": "airsinage2_LAS",
+   "txdName": "airportdetail",
+   "drawDistance": 100,
+   "flags": 4
+  },
+  {
+   "id": 4997,
+   "modelName": "airsinage3_LAS",
+   "txdName": "airportdetail",
+   "drawDistance": 70,
+   "flags": 4
+  },
+  {
+   "id": 4998,
+   "modelName": "airsinage4_LAS",
+   "txdName": "airportdetail",
+   "drawDistance": 70,
+   "flags": 4
+  },
+  {
+   "id": 4999,
+   "modelName": "airsinage6_LAS",
+   "txdName": "airportdetail",
+   "drawDistance": 70,
+   "flags": 4
+  },
+  {
+   "id": 5000,
+   "modelName": "airsinage5_LAS",
+   "txdName": "airportdetail",
+   "drawDistance": 70,
+   "flags": 4
+  },
+  {
+   "id": 5001,
+   "modelName": "lasrunwall2_LAS",
+   "txdName": "airprtrunway_las",
+   "drawDistance": 150,
+   "flags": 2097156
+  },
+  {
+   "id": 5002,
+   "modelName": "lasrnway4_LAS",
+   "txdName": "airprtrunway_las",
+   "drawDistance": 250,
+   "flags": 0
+  },
+  {
+   "id": 5003,
+   "modelName": "lasrnway5_LAS",
+   "txdName": "airprtrunway_las",
+   "drawDistance": 250,
+   "flags": 2097152
+  },
+  {
+   "id": 5004,
+   "modelName": "lasrnway6_LAS",
+   "txdName": "airprtrunway_las",
+   "drawDistance": 270,
+   "flags": 2097152
+  },
+  {
+   "id": 5005,
+   "modelName": "lasrunwall1_LAS",
+   "txdName": "airprtrunway_las",
+   "drawDistance": 190,
+   "flags": 2097156
+  },
+  {
+   "id": 5006,
+   "modelName": "airprtwlkto2_LAS",
+   "txdName": "airport2",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 5007,
+   "modelName": "lasrunwall3_LAS",
+   "txdName": "airprtrunway_las",
+   "drawDistance": 150,
+   "flags": 2097156
+  },
+  {
+   "id": 5008,
+   "modelName": "LODrnway6_LAS",
+   "txdName": "lod2_las",
+   "drawDistance": 1500,
+   "flags": 2097152
+  },
+  {
+   "id": 5009,
+   "modelName": "lasrnway7_LAS",
+   "txdName": "airprtrunway_las",
+   "drawDistance": 250,
+   "flags": 2097152
+  },
+  {
+   "id": 5010,
+   "modelName": "LODprtwlkto1_LAS",
+   "txdName": "lod3_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 5011,
+   "modelName": "LODprtwlkto2_LAS",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 5012,
+   "modelName": "LODairprterm1_LAS",
+   "txdName": "lod3_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 5013,
+   "modelName": "LAroakt1_30_LAs",
+   "txdName": "lasroads_las",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 5014,
+   "modelName": "LODoakt1_30_LAs",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 5015,
+   "modelName": "LODoads_20gh_LAs01",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 5016,
+   "modelName": "snpdPESS1_LAS",
+   "txdName": "ground3_las",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 5017,
+   "modelName": "lastripx1_LAS",
+   "txdName": "ground3_las",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 5018,
+   "modelName": "LODdmshfnc3_LAS",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 5019,
+   "modelName": "LODdPESS1_LAS",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 5020,
+   "modelName": "mul_LAS",
+   "txdName": "ground4_las",
+   "drawDistance": 100,
+   "flags": 2048
+  },
+  {
+   "id": 5021,
+   "modelName": "LAroadsbrk_05_LAs",
+   "txdName": "freeway_las",
+   "drawDistance": 200,
+   "flags": 2097152
+  },
+  {
+   "id": 5022,
+   "modelName": "LODoadsbrk_05_LAs",
+   "txdName": "lod3_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 5023,
+   "modelName": "grifovrhang2_LAS",
+   "txdName": "beach_las",
+   "drawDistance": 150,
+   "flags": 2097156
+  },
+  {
+   "id": 5024,
+   "modelName": "snpedtee_LAS",
+   "txdName": "wiresetc2_las",
+   "drawDistance": 150,
+   "flags": 2097156
+  },
+  {
+   "id": 5025,
+   "modelName": "snpedtedc_LAS",
+   "txdName": "wiresetc_las",
+   "drawDistance": 100,
+   "flags": 2097156
+  },
+  {
+   "id": 5026,
+   "modelName": "lstrudct1_LAS",
+   "txdName": "lasroads_las",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 5027,
+   "modelName": "LODrudct1_LAS",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 5028,
+   "modelName": "obcity1ct1_LAS",
+   "txdName": "lasroads_las",
+   "drawDistance": 180,
+   "flags": 2097152
+  },
+  {
+   "id": 5029,
+   "modelName": "LODity1ct1_LAS",
+   "txdName": "lod3_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 5030,
+   "modelName": "lasrunwall1ct_LAS",
+   "txdName": "airprtrunway_las",
+   "drawDistance": 150,
+   "flags": 2097156
+  },
+  {
+   "id": 5031,
+   "modelName": "snpedteairt_LAS",
+   "txdName": "wiresetc2_las",
+   "drawDistance": 150,
+   "flags": 2097156
+  },
+  {
+   "id": 5032,
+   "modelName": "las_runsigns_LAS",
+   "txdName": "airprtrunway_las",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 5033,
+   "modelName": "unmainstat_LAS",
+   "txdName": "union_las",
+   "drawDistance": 180,
+   "flags": 2097152
+  },
+  {
+   "id": 5034,
+   "modelName": "lasairprtcut4",
+   "txdName": "airport_las",
+   "drawDistance": 180,
+   "flags": 0
+  },
+  {
+   "id": 5035,
+   "modelName": "LODairprtcut4",
+   "txdName": "lod3_las",
+   "drawDistance": 600,
+   "flags": 0
+  },
+  {
+   "id": 5036,
+   "modelName": "BTOLAND1ct_LAS",
+   "txdName": "ground4_las",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 5037,
+   "modelName": "LODLAND1ct_LAS",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 5038,
+   "modelName": "airtun2ct_LAS",
+   "txdName": "airprtrunway_las",
+   "drawDistance": 180,
+   "flags": 2097156
+  },
+  {
+   "id": 5039,
+   "modelName": "LODtun2ct_LAS01",
+   "txdName": "lod3_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 5040,
+   "modelName": "unionliq_LAS",
+   "txdName": "shopliquor_las",
+   "drawDistance": 150,
+   "flags": 2097152
+  },
+  {
+   "id": 5041,
+   "modelName": "LODonliq_LAS01",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 5042,
+   "modelName": "bombshop_LAs",
+   "txdName": "bombshop_las",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 5043,
+   "modelName": "bombdoor_LAs",
+   "txdName": "shopliquor_las",
+   "drawDistance": 100,
+   "flags": 2048
+  },
+  {
+   "id": 5044,
+   "modelName": "las_runsignsx_LAS",
+   "txdName": "airprtrunway_las",
+   "drawDistance": 170,
+   "flags": 0
+  },
+  {
+   "id": 5045,
+   "modelName": "LODoads_23_LAs",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 5046,
+   "modelName": "bchcostrd4fuk_LAS",
+   "txdName": "freeway_las",
+   "drawDistance": 180,
+   "flags": 2097152
+  },
+  {
+   "id": 5047,
+   "modelName": "LODcostrd4fuk_LAS",
+   "txdName": "lod3_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 5048,
+   "modelName": "LODundrairprt3",
+   "txdName": "lod3_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 5049,
+   "modelName": "LODundrairprt1",
+   "txdName": "lod3_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 5050,
+   "modelName": "LODundrairprt2",
+   "txdName": "lod3_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 5051,
+   "modelName": "airobarsjm_LAS",
+   "txdName": "freeway_las",
+   "drawDistance": 150,
+   "flags": 2097152
+  },
+  {
+   "id": 5052,
+   "modelName": "BTOROAD1vb_LAS",
+   "txdName": "lasroads_las",
+   "drawDistance": 150,
+   "flags": 4
+  },
+  {
+   "id": 5053,
+   "modelName": "lodtranentun4_LAS",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 5054,
+   "modelName": "lodtranentun1_LAS",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 5055,
+   "modelName": "lodainstat_LAS",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 5056,
+   "modelName": "modLAS",
+   "txdName": "kbgarage_las",
+   "drawDistance": 100,
+   "flags": 2048
+  },
+  {
+   "id": 5060,
+   "modelName": "crlsafhus_LAS",
+   "txdName": "kbgarage_las",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 5061,
+   "modelName": "lascarl",
+   "txdName": "kbgarage_las",
+   "drawDistance": 100,
+   "flags": 2048
+  },
+  {
+   "id": 5062,
+   "modelName": "hillpawfnce_LAs",
+   "txdName": "griffobs_las",
+   "drawDistance": 150,
+   "flags": 2097156
+  },
+  {
+   "id": 5063,
+   "modelName": "lodbrid1_LAS",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 5064,
+   "modelName": "TRNTRK5z_LAS",
+   "txdName": "traintrack_las",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 5065,
+   "modelName": "LODTRK5z_LAS",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 5066,
+   "modelName": "mondoshave_LAS",
+   "txdName": "downtown_las",
+   "drawDistance": 100,
+   "flags": 2097152
+  },
+  {
+   "id": 5067,
+   "modelName": "LODnstps_LAS01",
+   "txdName": "lod2_las",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 5068,
+   "modelName": "airctsjm1_las",
+   "txdName": "airprtrunway_las",
+   "drawDistance": 175,
+   "flags": 2097152
+  },
+  {
+   "id": 5069,
+   "modelName": "ctscene1_las",
+   "txdName": "ctscene_las",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 5070,
+   "modelName": "sjmctfnce1_las",
+   "txdName": "freeway2_las",
+   "drawDistance": 170,
+   "flags": 2097156
+  },
+  {
+   "id": 5071,
+   "modelName": "sjmctfnce2_las",
+   "txdName": "freeway2_las",
+   "drawDistance": 175,
+   "flags": 2097152
+  },
+  {
+   "id": 5072,
+   "modelName": "sjmctfnce3_las",
+   "txdName": "airprtrunway_las",
+   "drawDistance": 150,
+   "flags": 2097152
+  },
+  {
+   "id": 5073,
+   "modelName": "sjmctfnce4_las",
+   "txdName": "freeway2_las",
+   "drawDistance": 180,
+   "flags": 2097152
+  },
+  {
+   "id": 5074,
+   "modelName": "sjmctfnce5_las",
+   "txdName": "airprtrunway_las",
+   "drawDistance": 250,
+   "flags": 2097156
+  },
+  {
+   "id": 5075,
+   "modelName": "sjmctfnce6_las",
+   "txdName": "freeway_las",
+   "drawDistance": 150,
+   "flags": 2097156
+  },
+  {
+   "id": 5076,
+   "modelName": "sjmctfnce7_las",
+   "txdName": "freeway_las",
+   "drawDistance": 180,
+   "flags": 2097156
+  },
+  {
+   "id": 5077,
+   "modelName": "sjmctfnce8_las",
+   "txdName": "airprtrunway_las",
+   "drawDistance": 250,
+   "flags": 2097156
+  },
+  {
+   "id": 5078,
+   "modelName": "ctscene2_las",
+   "txdName": "ctscene_las",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 5079,
+   "modelName": "sjmbarct1_LAS",
+   "txdName": "lasroads_las",
+   "drawDistance": 150,
+   "flags": 2097156
+  },
+  {
+   "id": 5080,
+   "modelName": "sjmbarct2_LAS",
+   "txdName": "lasroads_las",
+   "drawDistance": 180,
+   "flags": 2097156
+  },
+  {
+   "id": 5081,
+   "modelName": "rdcrashbar1_LAs",
+   "txdName": "freeway_las",
+   "drawDistance": 200,
+   "flags": 2097156
+  },
+  {
+   "id": 5082,
+   "modelName": "rdcrashbar2_LAs",
+   "txdName": "freeway_las",
+   "drawDistance": 170,
+   "flags": 2097156
+  },
+  {
+   "id": 5083,
+   "modelName": "alphbrk1_las",
+   "txdName": "wiresetc2_las",
+   "drawDistance": 150,
+   "flags": 2097220
+  },
+  {
+   "id": 5084,
+   "modelName": "alphbrk2_las",
+   "txdName": "wiresetc2_las",
+   "drawDistance": 150,
+   "flags": 2097220
+  },
+  {
+   "id": 5086,
+   "modelName": "alphbrk3_las",
+   "txdName": "wiresetc2_las",
+   "drawDistance": 150,
+   "flags": 2097220
+  },
+  {
+   "id": 5087,
+   "modelName": "alphbrk4_las",
+   "txdName": "wiresetc2_las",
+   "drawDistance": 150,
+   "flags": 2097220
+  },
+  {
+   "id": 5088,
+   "modelName": "alphbrk5_las",
+   "txdName": "wiresetc2_las",
+   "drawDistance": 150,
+   "flags": 2097220
+  },
+  {
+   "id": 5089,
+   "modelName": "alphbrk6_las",
+   "txdName": "wiresetc2_las",
+   "drawDistance": 150,
+   "flags": 2097220
+  }
+ ],
+ "tobj": [
+  {
+   "id": 5057,
+   "modelName": "lanitewin1_LAS",
+   "txdName": "nitewin_las",
+   "drawDistance": 700,
+   "flags": 12,
+   "timeOn": 20,
+   "timeOff": 6
+  },
+  {
+   "id": 5058,
+   "modelName": "lanitewin2_LAS",
+   "txdName": "nitewin_las",
+   "drawDistance": 700,
+   "flags": 12,
+   "timeOn": 20,
+   "timeOff": 6
+  },
+  {
+   "id": 5059,
+   "modelName": "lanitewin3_LAS",
+   "txdName": "nitewin_las",
+   "drawDistance": 700,
+   "flags": 12,
+   "timeOn": 20,
+   "timeOff": 6
+  }
+ ],
+ "path": [],
+ "2dfx": [],
+ "anim": [],
+ "txdp": []
+}

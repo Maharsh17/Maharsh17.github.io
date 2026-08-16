@@ -1,0 +1,893 @@
+{
+ "objs": [
+  {
+   "id": 1574,
+   "modelName": "trashcan",
+   "txdName": "dyn_trash",
+   "drawDistance": 40,
+   "flags": 128
+  },
+  {
+   "id": 1575,
+   "modelName": "drug_white",
+   "txdName": "dyn_drugs",
+   "drawDistance": 40,
+   "flags": 128
+  },
+  {
+   "id": 1576,
+   "modelName": "drug_orange",
+   "txdName": "dyn_drugs",
+   "drawDistance": 40,
+   "flags": 128
+  },
+  {
+   "id": 1577,
+   "modelName": "drug_yellow",
+   "txdName": "dyn_drugs",
+   "drawDistance": 40,
+   "flags": 128
+  },
+  {
+   "id": 1578,
+   "modelName": "drug_green",
+   "txdName": "dyn_drugs",
+   "drawDistance": 40,
+   "flags": 128
+  },
+  {
+   "id": 1579,
+   "modelName": "drug_blue",
+   "txdName": "dyn_drugs",
+   "drawDistance": 40,
+   "flags": 128
+  },
+  {
+   "id": 1580,
+   "modelName": "drug_red",
+   "txdName": "dyn_drugs",
+   "drawDistance": 40,
+   "flags": 128
+  },
+  {
+   "id": 1581,
+   "modelName": "keycard",
+   "txdName": "dyn_keycard",
+   "drawDistance": 40,
+   "flags": 128
+  },
+  {
+   "id": 1582,
+   "modelName": "pizzabox",
+   "txdName": "prop_pizzabox",
+   "drawDistance": 40,
+   "flags": 128
+  },
+  {
+   "id": 1583,
+   "modelName": "tar_gun2",
+   "txdName": "targets",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1584,
+   "modelName": "tar_gun1",
+   "txdName": "targets",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1585,
+   "modelName": "tar_civ2",
+   "txdName": "targets",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1586,
+   "modelName": "tar_civ1",
+   "txdName": "targets",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1587,
+   "modelName": "tar_frame",
+   "txdName": "targets",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1588,
+   "modelName": "tar_top",
+   "txdName": "targets",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1589,
+   "modelName": "tar_upright",
+   "txdName": "targets",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1590,
+   "modelName": "tar_upleft",
+   "txdName": "targets",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1591,
+   "modelName": "tar_downleft",
+   "txdName": "targets",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1592,
+   "modelName": "tar_downright",
+   "txdName": "targets",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1593,
+   "modelName": "plc_stinger",
+   "txdName": "plc_stinger",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1594,
+   "modelName": "chairsntable",
+   "txdName": "chairsntable",
+   "drawDistance": 70,
+   "flags": 128
+  },
+  {
+   "id": 1595,
+   "modelName": "satdishbig",
+   "txdName": "satdish",
+   "drawDistance": 140,
+   "flags": 2097284
+  },
+  {
+   "id": 1596,
+   "modelName": "satdishsml",
+   "txdName": "satdish",
+   "drawDistance": 140,
+   "flags": 2097284
+  },
+  {
+   "id": 1597,
+   "modelName": "cntrlrsac1",
+   "txdName": "centralresac1",
+   "drawDistance": 100,
+   "flags": 132
+  },
+  {
+   "id": 1598,
+   "modelName": "beachball",
+   "txdName": "beachball",
+   "drawDistance": 50,
+   "flags": 128
+  },
+  {
+   "id": 1599,
+   "modelName": "fish1single",
+   "txdName": "fish1",
+   "drawDistance": 40,
+   "flags": 132
+  },
+  {
+   "id": 1600,
+   "modelName": "fish2single",
+   "txdName": "fish2",
+   "drawDistance": 40,
+   "flags": 132
+  },
+  {
+   "id": 1601,
+   "modelName": "fish3s",
+   "txdName": "fish3",
+   "drawDistance": 40,
+   "flags": 132
+  },
+  {
+   "id": 1602,
+   "modelName": "jellyfish",
+   "txdName": "jellyfish1",
+   "drawDistance": 40,
+   "flags": 140
+  },
+  {
+   "id": 1603,
+   "modelName": "jellyfish01",
+   "txdName": "jellyfish2",
+   "drawDistance": 40,
+   "flags": 140
+  },
+  {
+   "id": 1604,
+   "modelName": "fish3single",
+   "txdName": "fish3",
+   "drawDistance": 40,
+   "flags": 132
+  },
+  {
+   "id": 1605,
+   "modelName": "fish1s",
+   "txdName": "fish1",
+   "drawDistance": 40,
+   "flags": 132
+  },
+  {
+   "id": 1606,
+   "modelName": "fish2s",
+   "txdName": "fish2",
+   "drawDistance": 40,
+   "flags": 132
+  },
+  {
+   "id": 1607,
+   "modelName": "dolphin",
+   "txdName": "dolphin",
+   "drawDistance": 40,
+   "flags": 128
+  },
+  {
+   "id": 1608,
+   "modelName": "shark",
+   "txdName": "shark",
+   "drawDistance": 40,
+   "flags": 128
+  },
+  {
+   "id": 1609,
+   "modelName": "turtle",
+   "txdName": "turtle",
+   "drawDistance": 40,
+   "flags": 128
+  },
+  {
+   "id": 1610,
+   "modelName": "sandcastle1",
+   "txdName": "sandcastle",
+   "drawDistance": 20,
+   "flags": 128
+  },
+  {
+   "id": 1611,
+   "modelName": "sandcastle2",
+   "txdName": "sandcastle",
+   "drawDistance": 20,
+   "flags": 128
+  },
+  {
+   "id": 1612,
+   "modelName": "submarine",
+   "txdName": "submarine",
+   "drawDistance": 40,
+   "flags": 128
+  },
+  {
+   "id": 1613,
+   "modelName": "nt_firehose_01",
+   "txdName": "alleyprop",
+   "drawDistance": 34,
+   "flags": 132
+  },
+  {
+   "id": 1614,
+   "modelName": "nt_alarm1_01",
+   "txdName": "alleyprop",
+   "drawDistance": 34,
+   "flags": 132
+  },
+  {
+   "id": 1615,
+   "modelName": "nt_alarm2_01",
+   "txdName": "alleyprop",
+   "drawDistance": 34,
+   "flags": 132
+  },
+  {
+   "id": 1616,
+   "modelName": "nt_securecam1_01",
+   "txdName": "genalley",
+   "drawDistance": 34,
+   "flags": 132
+  },
+  {
+   "id": 1617,
+   "modelName": "nt_aircon1_01",
+   "txdName": "alleyprop",
+   "drawDistance": 34,
+   "flags": 132
+  },
+  {
+   "id": 1618,
+   "modelName": "nt_aircon1_02",
+   "txdName": "alleyprop",
+   "drawDistance": 34,
+   "flags": 132
+  },
+  {
+   "id": 1619,
+   "modelName": "nt_vent1_01",
+   "txdName": "alleyprop",
+   "drawDistance": 34,
+   "flags": 132
+  },
+  {
+   "id": 1620,
+   "modelName": "nt_vent2_01",
+   "txdName": "alleyprop",
+   "drawDistance": 34,
+   "flags": 132
+  },
+  {
+   "id": 1621,
+   "modelName": "nt_vent3_01",
+   "txdName": "alleyprop",
+   "drawDistance": 34,
+   "flags": 132
+  },
+  {
+   "id": 1622,
+   "modelName": "nt_securecam2_01",
+   "txdName": "alleyprop",
+   "drawDistance": 34,
+   "flags": 132
+  },
+  {
+   "id": 1623,
+   "modelName": "nt_aircon3_01",
+   "txdName": "alleyprop",
+   "drawDistance": 34,
+   "flags": 132
+  },
+  {
+   "id": 1624,
+   "modelName": "nt_cablebox1_01",
+   "txdName": "alleyprop",
+   "drawDistance": 34,
+   "flags": 132
+  },
+  {
+   "id": 1625,
+   "modelName": "nt_cablebox2_01",
+   "txdName": "alleyprop",
+   "drawDistance": 34,
+   "flags": 132
+  },
+  {
+   "id": 1626,
+   "modelName": "nt_cablebox3_01",
+   "txdName": "alleyprop",
+   "drawDistance": 34,
+   "flags": 132
+  },
+  {
+   "id": 1627,
+   "modelName": "nt_alarm3_01",
+   "txdName": "alleyprop",
+   "drawDistance": 34,
+   "flags": 132
+  },
+  {
+   "id": 1628,
+   "modelName": "nt_cablebox4_01",
+   "txdName": "alleyprop",
+   "drawDistance": 34,
+   "flags": 132
+  },
+  {
+   "id": 1629,
+   "modelName": "nt_cablebox5_01",
+   "txdName": "alleyprop",
+   "drawDistance": 34,
+   "flags": 132
+  },
+  {
+   "id": 1630,
+   "modelName": "nt_cablebox6_01",
+   "txdName": "alleyprop",
+   "drawDistance": 34,
+   "flags": 132
+  },
+  {
+   "id": 1631,
+   "modelName": "waterjump2",
+   "txdName": "landjump",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1632,
+   "modelName": "waterjump1",
+   "txdName": "landjump",
+   "drawDistance": 240,
+   "flags": 128
+  },
+  {
+   "id": 1633,
+   "modelName": "landjump",
+   "txdName": "landjump",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1634,
+   "modelName": "landjump2",
+   "txdName": "landjump",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1635,
+   "modelName": "nt_aircon1dbl",
+   "txdName": "genalley",
+   "drawDistance": 34,
+   "flags": 132
+  },
+  {
+   "id": 1636,
+   "modelName": "rcbomb",
+   "txdName": "rcbomb",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1637,
+   "modelName": "od_pat_hutb",
+   "txdName": "od_beachstuff",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1638,
+   "modelName": "od_pat_hut",
+   "txdName": "od_beachstuff",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 1639,
+   "modelName": "od_vbnet",
+   "txdName": "od_beachstuff",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 1640,
+   "modelName": "beachtowel04",
+   "txdName": "od_beachstuff",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 1641,
+   "modelName": "beachtowel03",
+   "txdName": "od_beachstuff",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 1642,
+   "modelName": "beachtowel02",
+   "txdName": "od_beachstuff",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 1643,
+   "modelName": "beachtowel01",
+   "txdName": "od_beachstuff",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 1644,
+   "modelName": "lotion",
+   "txdName": "od_beachstuff",
+   "drawDistance": 10,
+   "flags": 0
+  },
+  {
+   "id": 1645,
+   "modelName": "lounge_wood_up",
+   "txdName": "od_beachstuff",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 1646,
+   "modelName": "lounge_towel_up",
+   "txdName": "od_beachstuff",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 1647,
+   "modelName": "lounge_wood_dn",
+   "txdName": "od_beachstuff",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 1648,
+   "modelName": "od_groyne01",
+   "txdName": "od_beachstuff",
+   "drawDistance": 200,
+   "flags": 128
+  },
+  {
+   "id": 1649,
+   "modelName": "wglasssmash",
+   "txdName": "wglass",
+   "drawDistance": 50,
+   "flags": 1028
+  },
+  {
+   "id": 1650,
+   "modelName": "petrolcanm",
+   "txdName": "petrolcan",
+   "drawDistance": 40,
+   "flags": 0
+  },
+  {
+   "id": 1651,
+   "modelName": "od_copwindows",
+   "txdName": "copshop",
+   "drawDistance": 30,
+   "flags": 516
+  },
+  {
+   "id": 1652,
+   "modelName": "fencehaiti",
+   "txdName": "fencehaiti",
+   "drawDistance": 60,
+   "flags": 132
+  },
+  {
+   "id": 1653,
+   "modelName": "fencehaitism",
+   "txdName": "fencehaiti",
+   "drawDistance": 60,
+   "flags": 132
+  },
+  {
+   "id": 1654,
+   "modelName": "dynamite",
+   "txdName": "dynamite",
+   "drawDistance": 40,
+   "flags": 4
+  },
+  {
+   "id": 1655,
+   "modelName": "waterjumpx2",
+   "txdName": "landjump",
+   "drawDistance": 240,
+   "flags": 128
+  },
+  {
+   "id": 1656,
+   "modelName": "Esc_step",
+   "txdName": "escstep",
+   "drawDistance": 15,
+   "flags": 128
+  },
+  {
+   "id": 1660,
+   "modelName": "ramp",
+   "txdName": "ramp2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1662,
+   "modelName": "nt_roadblockCI",
+   "txdName": "ci_studio1",
+   "drawDistance": 145,
+   "flags": 128
+  },
+  {
+   "id": 1663,
+   "modelName": "swivelchair_B",
+   "txdName": "policechair",
+   "drawDistance": 35,
+   "flags": 0
+  },
+  {
+   "id": 1664,
+   "modelName": "propwinebotl2",
+   "txdName": "propbarstuff",
+   "drawDistance": 20,
+   "flags": 0
+  },
+  {
+   "id": 1665,
+   "modelName": "propashtray1",
+   "txdName": "propbarstuff",
+   "drawDistance": 20,
+   "flags": 0
+  },
+  {
+   "id": 1666,
+   "modelName": "propbeerglass1",
+   "txdName": "propbarstuff",
+   "drawDistance": 20,
+   "flags": 0
+  },
+  {
+   "id": 1667,
+   "modelName": "propwineglass1",
+   "txdName": "propbarstuff",
+   "drawDistance": 20,
+   "flags": 0
+  },
+  {
+   "id": 1668,
+   "modelName": "propvodkabotl1",
+   "txdName": "propbarstuff",
+   "drawDistance": 20,
+   "flags": 0
+  },
+  {
+   "id": 1669,
+   "modelName": "propwinebotl1",
+   "txdName": "propbarstuff",
+   "drawDistance": 20,
+   "flags": 0
+  },
+  {
+   "id": 1670,
+   "modelName": "propcollecttable",
+   "txdName": "propbarstuff",
+   "drawDistance": 20,
+   "flags": 0
+  },
+  {
+   "id": 1671,
+   "modelName": "swivelchair_A",
+   "txdName": "policechair",
+   "drawDistance": 35,
+   "flags": 0
+  },
+  {
+   "id": 1672,
+   "modelName": "Gasgrenade",
+   "txdName": "gasgren",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 1673,
+   "modelName": "roadsign",
+   "txdName": "roadsign",
+   "drawDistance": 120,
+   "flags": 4
+  },
+  {
+   "id": 1674,
+   "modelName": "lodxrefhse1",
+   "txdName": "wshxreflod",
+   "drawDistance": 700,
+   "flags": 128
+  },
+  {
+   "id": 1675,
+   "modelName": "wshxrefhse1",
+   "txdName": "wshxrefhse",
+   "drawDistance": 50,
+   "flags": 128
+  },
+  {
+   "id": 1676,
+   "modelName": "washgaspump",
+   "txdName": "wshxrefpump",
+   "drawDistance": 45,
+   "flags": 128
+  },
+  {
+   "id": 1677,
+   "modelName": "wshxrefhse2",
+   "txdName": "wshxrefhse2",
+   "drawDistance": 55,
+   "flags": 128
+  },
+  {
+   "id": 1678,
+   "modelName": "lodxrefhse2",
+   "txdName": "wshxreflod",
+   "drawDistance": 700,
+   "flags": 128
+  },
+  {
+   "id": 1679,
+   "modelName": "chairsntableml",
+   "txdName": "chairsntable",
+   "drawDistance": 70,
+   "flags": 128
+  },
+  {
+   "id": 1680,
+   "modelName": "LODjumbo_01",
+   "txdName": "ap_LODbit",
+   "drawDistance": 900,
+   "flags": 0
+  },
+  {
+   "id": 1681,
+   "modelName": "ap_learjet1_01",
+   "txdName": "ap_learjets",
+   "drawDistance": 150,
+   "flags": 4
+  },
+  {
+   "id": 1682,
+   "modelName": "ap_radar1_01",
+   "txdName": "ap_misc1bit",
+   "drawDistance": 100,
+   "flags": 2097152
+  },
+  {
+   "id": 1683,
+   "modelName": "ap_jumbo_01",
+   "txdName": "ap_jumbos",
+   "drawDistance": 150,
+   "flags": 4
+  },
+  {
+   "id": 1684,
+   "modelName": "portakabin",
+   "txdName": "portakabin",
+   "drawDistance": 150,
+   "flags": 2097152
+  },
+  {
+   "id": 1685,
+   "modelName": "blockpallet",
+   "txdName": "blokpalet",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1686,
+   "modelName": "petrolpumpnew",
+   "txdName": "gen_petrol",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1687,
+   "modelName": "gen_roofbit1",
+   "txdName": "genroofbits",
+   "drawDistance": 60,
+   "flags": 4
+  },
+  {
+   "id": 1688,
+   "modelName": "gen_roofbit2",
+   "txdName": "genroofbits",
+   "drawDistance": 60,
+   "flags": 4
+  },
+  {
+   "id": 1689,
+   "modelName": "gen_roofbit3",
+   "txdName": "genroofbits",
+   "drawDistance": 60,
+   "flags": 0
+  },
+  {
+   "id": 1690,
+   "modelName": "gen_roofbit4",
+   "txdName": "genroofbits",
+   "drawDistance": 60,
+   "flags": 0
+  },
+  {
+   "id": 1691,
+   "modelName": "gen_roofbit5",
+   "txdName": "genroofbits",
+   "drawDistance": 60,
+   "flags": 0
+  },
+  {
+   "id": 1692,
+   "modelName": "roofstuff18",
+   "txdName": "moregenroofstuff",
+   "drawDistance": 76,
+   "flags": 0
+  },
+  {
+   "id": 1693,
+   "modelName": "roofstuff12",
+   "txdName": "moregenroofstuff",
+   "drawDistance": 76,
+   "flags": 0
+  },
+  {
+   "id": 1694,
+   "modelName": "roofstuff13",
+   "txdName": "moregenroofstuff",
+   "drawDistance": 76,
+   "flags": 2097156
+  },
+  {
+   "id": 1695,
+   "modelName": "roofstuff14",
+   "txdName": "moregenroofstuff",
+   "drawDistance": 76,
+   "flags": 0
+  },
+  {
+   "id": 1696,
+   "modelName": "roofstuff15",
+   "txdName": "moregenroofstuff",
+   "drawDistance": 76,
+   "flags": 0
+  },
+  {
+   "id": 1697,
+   "modelName": "roofstuff16",
+   "txdName": "moregenroofstuff",
+   "drawDistance": 76,
+   "flags": 0
+  },
+  {
+   "id": 1698,
+   "modelName": "Esc_step8",
+   "txdName": "escstep",
+   "drawDistance": 15,
+   "flags": 128
+  }
+ ],
+ "tobj": [
+  {
+   "id": 1657,
+   "modelName": "htl_fan_rotate_nt",
+   "txdName": "fanani",
+   "drawDistance": 30,
+   "flags": 0,
+   "timeOn": 20,
+   "timeOff": 6
+  },
+  {
+   "id": 1658,
+   "modelName": "htl_fan_static_nt",
+   "txdName": "fanani",
+   "drawDistance": 30,
+   "flags": 0,
+   "timeOn": 20,
+   "timeOff": 6
+  },
+  {
+   "id": 1659,
+   "modelName": "htl_fan_static_dy",
+   "txdName": "fanani",
+   "drawDistance": 30,
+   "flags": 0,
+   "timeOn": 6,
+   "timeOff": 20
+  },
+  {
+   "id": 1661,
+   "modelName": "htl_fan_rotate_dy",
+   "txdName": "fanani",
+   "drawDistance": 30,
+   "flags": 0,
+   "timeOn": 6,
+   "timeOff": 20
+  }
+ ],
+ "path": [],
+ "2dfx": [],
+ "anim": [],
+ "txdp": []
+}

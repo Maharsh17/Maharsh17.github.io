@@ -1,0 +1,4629 @@
+{
+ "objs": [
+  {
+   "id": 1700,
+   "modelName": "kb_bed_test1",
+   "txdName": "CJ_BEDS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1701,
+   "modelName": "kb_bed_test2",
+   "txdName": "CJ_MED_BEDS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1702,
+   "modelName": "kb_couch06",
+   "txdName": "kb_parker",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1703,
+   "modelName": "kb_couch02",
+   "txdName": "kb_parker",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1704,
+   "modelName": "kb_chair03",
+   "txdName": "kb_parker",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1705,
+   "modelName": "kb_chair04",
+   "txdName": "kb_parker",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1706,
+   "modelName": "kb_couch03",
+   "txdName": "kbcouch1",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1707,
+   "modelName": "kb_couch01",
+   "txdName": "kb_carcouch",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1708,
+   "modelName": "kb_chair02",
+   "txdName": "kbcouch1",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1709,
+   "modelName": "kb_couch08",
+   "txdName": "kbcouch1",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1710,
+   "modelName": "kb_couch07",
+   "txdName": "kbcouch1",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1711,
+   "modelName": "kb_chair01",
+   "txdName": "kbcouch1",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1712,
+   "modelName": "kb_couch05",
+   "txdName": "kbcouch1",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1713,
+   "modelName": "kb_couch04",
+   "txdName": "kbcouch1",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1714,
+   "modelName": "kb_swivelchair1",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1715,
+   "modelName": "kb_swivelchair2",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1716,
+   "modelName": "kb_slot_stool",
+   "txdName": "CJ_seating",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1717,
+   "modelName": "telly_low_test",
+   "txdName": "cj_TV",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1718,
+   "modelName": "snesish",
+   "txdName": "cj_electrical",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1719,
+   "modelName": "LOW_CONSOLE",
+   "txdName": "cj_electrical",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1720,
+   "modelName": "rest_chair",
+   "txdName": "CJ_seating",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1721,
+   "modelName": "est_chair1",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 2097152
+  },
+  {
+   "id": 1722,
+   "modelName": "off_chairnu",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 2097152
+  },
+  {
+   "id": 1723,
+   "modelName": "mrk_seating1",
+   "txdName": "kb_parker",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1724,
+   "modelName": "mrk_seating1b",
+   "txdName": "kb_parker",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1725,
+   "modelName": "mrk_bed1",
+   "txdName": "CJ_MED_BEDS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1726,
+   "modelName": "mrk_seating2",
+   "txdName": "mrk_couches2",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1727,
+   "modelName": "mrk_seating2b",
+   "txdName": "mrk_couches2",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1728,
+   "modelName": "mrk_seating3",
+   "txdName": "kbcouch1",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1729,
+   "modelName": "mrk_seating3b",
+   "txdName": "kbcouch1",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1730,
+   "modelName": "SWANK_CABINET_3",
+   "txdName": "CJ_FURNITURE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1731,
+   "modelName": "CJ_MLIGHT3",
+   "txdName": "CJ_LIGHTING",
+   "drawDistance": 30,
+   "flags": 2097152
+  },
+  {
+   "id": 1732,
+   "modelName": "CJ_Juke_Box",
+   "txdName": "CJ_FURNITURE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1733,
+   "modelName": "CJ_WASHINGMAC",
+   "txdName": "CJ_COMMERCIAL",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1734,
+   "modelName": "CJ_MLIGHT2",
+   "txdName": "CJ_LIGHTING",
+   "drawDistance": 30,
+   "flags": 2097152
+  },
+  {
+   "id": 1735,
+   "modelName": "CJ_EASYCHAIR1",
+   "txdName": "CJ_seating",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1736,
+   "modelName": "CJ_Stags_head",
+   "txdName": "CJ_AMMO",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1737,
+   "modelName": "MED_DINNING_5",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 1738,
+   "modelName": "CJ_Radiator_old",
+   "txdName": "CJTEMP",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1739,
+   "modelName": "SWANK_DIN_CHAIR_5",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 1740,
+   "modelName": "LOW_CABINET_3",
+   "txdName": "CJ_BED_FURN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1741,
+   "modelName": "LOW_CABINET_1",
+   "txdName": "CJ_BED_FURN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1742,
+   "modelName": "Med_BOOKSHELF",
+   "txdName": "CJ_FURNITURE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1743,
+   "modelName": "MED_CABINET_3",
+   "txdName": "CJ_BED_FURN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1744,
+   "modelName": "MED_SHELF",
+   "txdName": "CJ_FURNITURE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1745,
+   "modelName": "MED_BED_3",
+   "txdName": "CJ_MED_BEDS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1746,
+   "modelName": "SWANK_1_FootStool",
+   "txdName": "CJ_sofa",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1747,
+   "modelName": "LOW_TV_2",
+   "txdName": "cj_TV",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1748,
+   "modelName": "LOW_TV_3",
+   "txdName": "cj_TV",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1749,
+   "modelName": "MED_TV_3",
+   "txdName": "cj_TV",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1750,
+   "modelName": "MED_TV_2",
+   "txdName": "cj_TV",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1751,
+   "modelName": "MED_TV_4",
+   "txdName": "cj_TV",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1752,
+   "modelName": "SWANK_TV_3",
+   "txdName": "cj_TV",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1753,
+   "modelName": "SWANK_COUCH_1",
+   "txdName": "CJ_sofa",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1754,
+   "modelName": "SWANK_SINGLE_1",
+   "txdName": "CJ_sofa",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1755,
+   "modelName": "MED_SINGLE_2",
+   "txdName": "CJ_sofa",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1756,
+   "modelName": "LOW_COUCH_4",
+   "txdName": "CJ_sofa",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1757,
+   "modelName": "LOW_COUCH_5",
+   "txdName": "CJ_sofa",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1758,
+   "modelName": "LOW_SINGLE_4",
+   "txdName": "CJ_sofa",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1759,
+   "modelName": "LOW_SINGLE_1",
+   "txdName": "CJ_sofa",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1760,
+   "modelName": "MED_COUCH_2",
+   "txdName": "CJ_sofa",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1761,
+   "modelName": "SWANK_COUCH_2",
+   "txdName": "CJ_sofa",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1762,
+   "modelName": "SWANK_SINGLE_2",
+   "txdName": "CJ_sofa",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1763,
+   "modelName": "LOW_COUCH_1",
+   "txdName": "CJ_sofa",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1764,
+   "modelName": "LOW_COUCH_2",
+   "txdName": "CJ_sofa",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1765,
+   "modelName": "LOW_SINGLE_2",
+   "txdName": "CJ_sofa",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1766,
+   "modelName": "MED_COUCH_1",
+   "txdName": "CJ_sofa",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1767,
+   "modelName": "MED_SINGLE_1",
+   "txdName": "CJ_sofa",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1768,
+   "modelName": "LOW_COUCH_3",
+   "txdName": "CJ_sofa",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1769,
+   "modelName": "LOW_SINGLE_3",
+   "txdName": "CJ_sofa",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1770,
+   "modelName": "LOW_DINNING_2",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 1771,
+   "modelName": "CJ_bunk_bed1",
+   "txdName": "CJ_BEDS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1772,
+   "modelName": "CJ_HOT_DOG1",
+   "txdName": "CJ_COMMERCIAL",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1773,
+   "modelName": "CJ_COOKER2",
+   "txdName": "CJ_COMMERCIAL",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1774,
+   "modelName": "CJ_Monketshopsign",
+   "txdName": "CJ_COMMERCIAL",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1775,
+   "modelName": "CJ_SPRUNK1",
+   "txdName": "CJ_COMMERCIAL",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1776,
+   "modelName": "CJ_CANDYVENDOR",
+   "txdName": "CJ_COMMERCIAL",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 1777,
+   "modelName": "CJ_COOKER1",
+   "txdName": "CJ_COMMERCIAL",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1778,
+   "modelName": "CJ_MOP_PAIL",
+   "txdName": "CJ_COMMERCIAL",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1779,
+   "modelName": "CJ_TICKETMACHINE",
+   "txdName": "CJ_COMMERCIAL",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1780,
+   "modelName": "CJ_THIN_FRIGE",
+   "txdName": "CJ_COMMERCIAL",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1781,
+   "modelName": "MED_TV_1",
+   "txdName": "cj_TV",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1782,
+   "modelName": "MED_VIDEO_2",
+   "txdName": "cj_Video",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1783,
+   "modelName": "SWANK_VIDEO_2",
+   "txdName": "cj_Video",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1784,
+   "modelName": "LOW_VIDEO_2",
+   "txdName": "cj_Video",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1785,
+   "modelName": "LOW_VIDEO_1",
+   "txdName": "cj_Video",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1786,
+   "modelName": "SWANK_TV_4",
+   "txdName": "cj_TV",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1787,
+   "modelName": "MED_VIDEO_1",
+   "txdName": "cj_Video",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1788,
+   "modelName": "SWANK_VIDEO_1",
+   "txdName": "cj_Video",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1789,
+   "modelName": "CJ_chambermaid",
+   "txdName": "CJTEMP",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1790,
+   "modelName": "SWANK_VIDEO_3",
+   "txdName": "cj_Video",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1791,
+   "modelName": "SWANK_TV_2",
+   "txdName": "cj_TV",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1792,
+   "modelName": "SWANK_TV_1",
+   "txdName": "cj_TV",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1793,
+   "modelName": "LOW_BED_2",
+   "txdName": "CJ_BEDS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1794,
+   "modelName": "LOW_BED_3",
+   "txdName": "CJ_BEDS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1795,
+   "modelName": "SWANK_BED_2",
+   "txdName": "cj_S_Beds",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1796,
+   "modelName": "LOW_BED_4",
+   "txdName": "CJ_BEDS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1797,
+   "modelName": "SWANK_BED_3",
+   "txdName": "cj_S_Beds",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1798,
+   "modelName": "SWANK_BED_1",
+   "txdName": "cj_S_Beds",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1799,
+   "modelName": "MED_BED_4",
+   "txdName": "CJ_MED_BEDS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1800,
+   "modelName": "LOW_BED_1",
+   "txdName": "CJ_BEDS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1801,
+   "modelName": "SWANK_BED_4",
+   "txdName": "cj_S_Beds",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1802,
+   "modelName": "MED_BED_2",
+   "txdName": "CJ_MED_BEDS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1803,
+   "modelName": "MED_BED_7",
+   "txdName": "CJ_MED_BEDS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1804,
+   "modelName": "MED_BED_1",
+   "txdName": "CJ_MED_BEDS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1805,
+   "modelName": "CJ_BARSTOOL",
+   "txdName": "CJ_seating",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1806,
+   "modelName": "MED_OFFICE_CHAIR",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1807,
+   "modelName": "CJ_MEDIUMPOTS1",
+   "txdName": "CJTEMP",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1808,
+   "modelName": "CJ_WATERCOOLER2",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 1809,
+   "modelName": "MED_HI_FI",
+   "txdName": "CJ_HI_FI",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1810,
+   "modelName": "CJ_FOLDCHAIR",
+   "txdName": "CJ_seating",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1811,
+   "modelName": "MED_DIN_CHAIR_5",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 1812,
+   "modelName": "LOW_BED_5",
+   "txdName": "CJ_BEDS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1813,
+   "modelName": "COFFEE_LOW_5",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1814,
+   "modelName": "COFFEE_MED_1",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1815,
+   "modelName": "COFFEE_LOW_2",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1816,
+   "modelName": "COFFEE_LOW_3",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1817,
+   "modelName": "COFFEE_MED_2",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1818,
+   "modelName": "COFFEE_SWANK_2",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1819,
+   "modelName": "COFFEE_SWANK_4",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1820,
+   "modelName": "COFFEE_LOW_4",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1821,
+   "modelName": "COFFEE_LOW_1",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1822,
+   "modelName": "COFFEE_SWANK_6",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 1823,
+   "modelName": "COFFEE_MED_5",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1824,
+   "modelName": "craps_table",
+   "txdName": "gamingtble",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1825,
+   "modelName": "kb_table_chairs1",
+   "txdName": "kbmiscfrn1CJ",
+   "drawDistance": 25,
+   "flags": 0
+  },
+  {
+   "id": 1826,
+   "modelName": "kb_table1",
+   "txdName": "kbmiscfrn1",
+   "drawDistance": 15,
+   "flags": 128
+  },
+  {
+   "id": 1827,
+   "modelName": "man_sdr_tables",
+   "txdName": "kbmiscfrn2",
+   "drawDistance": 15,
+   "flags": 132
+  },
+  {
+   "id": 1828,
+   "modelName": "man_sdr_rug",
+   "txdName": "kbtgr_rug",
+   "drawDistance": 50,
+   "flags": 128
+  },
+  {
+   "id": 1829,
+   "modelName": "man_safenew",
+   "txdName": "kbmiscfrn2",
+   "drawDistance": 15,
+   "flags": 132
+  },
+  {
+   "id": 1830,
+   "modelName": "kb_bandit1",
+   "txdName": "kbslotmchines",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1831,
+   "modelName": "kb_bandit2",
+   "txdName": "kbslotmchines",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1832,
+   "modelName": "kb_bandit3",
+   "txdName": "kbslotmchines",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1833,
+   "modelName": "kb_bandit4",
+   "txdName": "kbslotmchines",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1834,
+   "modelName": "kb_bandit6",
+   "txdName": "kbslotmchines",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1835,
+   "modelName": "kb_bandit5",
+   "txdName": "kbslotmchines",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1836,
+   "modelName": "kb_bandit7",
+   "txdName": "kbslotmchines",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1837,
+   "modelName": "kb_bandit9",
+   "txdName": "kbslotmchines",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1838,
+   "modelName": "kb_bandit11",
+   "txdName": "kbslotmchines",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1839,
+   "modelName": "k_hifi_1",
+   "txdName": "kb_hifi",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1840,
+   "modelName": "speaker_2",
+   "txdName": "kb_hifi",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1841,
+   "modelName": "speaker_1",
+   "txdName": "kb_hifi",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1842,
+   "modelName": "shop_shelf05",
+   "txdName": "shop_shelf1",
+   "drawDistance": 100,
+   "flags": 2097152
+  },
+  {
+   "id": 1843,
+   "modelName": "shop_shelf02",
+   "txdName": "shop_shelf1",
+   "drawDistance": 100,
+   "flags": 2097152
+  },
+  {
+   "id": 1844,
+   "modelName": "shop_shelf03",
+   "txdName": "shop_shelf1",
+   "drawDistance": 100,
+   "flags": 2097152
+  },
+  {
+   "id": 1845,
+   "modelName": "shop_shelf10",
+   "txdName": "shop_shelf1",
+   "drawDistance": 100,
+   "flags": 2097156
+  },
+  {
+   "id": 1846,
+   "modelName": "shop_shelf04",
+   "txdName": "shop_shelf1",
+   "drawDistance": 100,
+   "flags": 2097156
+  },
+  {
+   "id": 1847,
+   "modelName": "shop_shelf06",
+   "txdName": "shop_shelf1",
+   "drawDistance": 100,
+   "flags": 2097152
+  },
+  {
+   "id": 1848,
+   "modelName": "shop_shelf07",
+   "txdName": "shop_shelf1",
+   "drawDistance": 100,
+   "flags": 2097152
+  },
+  {
+   "id": 1849,
+   "modelName": "shop_shelf09",
+   "txdName": "shop_shelf1",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1850,
+   "modelName": "shop_shelf08",
+   "txdName": "shop_shelf1",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1851,
+   "modelName": "dice1",
+   "txdName": "hi_cutdice",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1852,
+   "modelName": "dice02",
+   "txdName": "hi_cutdice",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1853,
+   "modelName": "pkr_chp_hi04",
+   "txdName": "kbchips1",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1854,
+   "modelName": "pkr_chp_hi05",
+   "txdName": "kbchips1",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1855,
+   "modelName": "pkr_chp_hi03",
+   "txdName": "kbchips1",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1856,
+   "modelName": "pkr_chp_hi02",
+   "txdName": "kbchips1",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1857,
+   "modelName": "pkr_chp_hi01",
+   "txdName": "kbchips1",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1858,
+   "modelName": "pkr_chp_hi06",
+   "txdName": "kbchips1",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1859,
+   "modelName": "pkr_chp_med04",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1860,
+   "modelName": "pkr_chp_med06",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1861,
+   "modelName": "pkr_chp_med05",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1862,
+   "modelName": "pkr_chp_med03",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1863,
+   "modelName": "pkr_chp_med02",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1864,
+   "modelName": "pkr_chp_med01",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1865,
+   "modelName": "pkr_chplo06",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1866,
+   "modelName": "pkr_chplo05",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1867,
+   "modelName": "pkr_chplo04",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1868,
+   "modelName": "pkr_chplo03",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1869,
+   "modelName": "pkr_chplo02",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1870,
+   "modelName": "pkr_chplo01",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1871,
+   "modelName": "pkr_chp_vlo04",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1872,
+   "modelName": "pkr_chp_vlo01",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1873,
+   "modelName": "pkr_chp_vlo02",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1874,
+   "modelName": "pkr_chp_vlo03",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1875,
+   "modelName": "pkr_chp_vlo05",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1876,
+   "modelName": "pkr_chp_vlo06",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1877,
+   "modelName": "chip_stack02",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1878,
+   "modelName": "chip_stack03",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1879,
+   "modelName": "chip_stack04",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1880,
+   "modelName": "chip_stack05",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1881,
+   "modelName": "chip_stack06",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1882,
+   "modelName": "chip_stack01",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1883,
+   "modelName": "shop_shelf01",
+   "txdName": "shop_shelf1",
+   "drawDistance": 100,
+   "flags": 2097152
+  },
+  {
+   "id": 1884,
+   "modelName": "shop_dblshlf",
+   "txdName": "shop_shelf1",
+   "drawDistance": 100,
+   "flags": 2097152
+  },
+  {
+   "id": 1885,
+   "modelName": "shop_baskets",
+   "txdName": "temp_shop",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1886,
+   "modelName": "shop_sec_cam",
+   "txdName": "temp_shop",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 1887,
+   "modelName": "shop_shelf11",
+   "txdName": "shop_shelf1",
+   "drawDistance": 100,
+   "flags": 2097152
+  },
+  {
+   "id": 1888,
+   "modelName": "shop_shelf12",
+   "txdName": "shop_shelf1",
+   "drawDistance": 100,
+   "flags": 2097152
+  },
+  {
+   "id": 1889,
+   "modelName": "shop_dblshlf01",
+   "txdName": "shop_shelf1",
+   "drawDistance": 100,
+   "flags": 2097152
+  },
+  {
+   "id": 1890,
+   "modelName": "shop_dblshlf02",
+   "txdName": "shop_shelf1",
+   "drawDistance": 100,
+   "flags": 2097152
+  },
+  {
+   "id": 1891,
+   "modelName": "shop_dblshlf03",
+   "txdName": "shop_shelf1",
+   "drawDistance": 100,
+   "flags": 2097152
+  },
+  {
+   "id": 1892,
+   "modelName": "security_gatsh",
+   "txdName": "temp_shop",
+   "drawDistance": 100,
+   "flags": 2097152
+  },
+  {
+   "id": 1893,
+   "modelName": "shoplight1",
+   "txdName": "temp_shop",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 1894,
+   "modelName": "garys_luv_ramp",
+   "txdName": "rampforduthie",
+   "drawDistance": 250,
+   "flags": 128
+  },
+  {
+   "id": 1895,
+   "modelName": "wheel_o_fortune",
+   "txdName": "kb_wheel1",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1896,
+   "modelName": "wheel_table",
+   "txdName": "kb_wheel1",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 1897,
+   "modelName": "wheel_support",
+   "txdName": "kb_wheel1",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1898,
+   "modelName": "clicker",
+   "txdName": "kb_wheel1",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1899,
+   "modelName": "pkr_chp_vlo07",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1900,
+   "modelName": "pkr_chplo07",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1901,
+   "modelName": "chip_stack07",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1902,
+   "modelName": "chip_stack08",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1903,
+   "modelName": "chip_stack09",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1904,
+   "modelName": "chip_stack10",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1905,
+   "modelName": "pkr_chplo08",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1906,
+   "modelName": "pkr_chplo09",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1907,
+   "modelName": "pkr_chplo10",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1908,
+   "modelName": "pkr_chplo11",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1909,
+   "modelName": "pkr_chp_vlo08",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1910,
+   "modelName": "pkr_chp_vlo09",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1911,
+   "modelName": "chip_stack11",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1912,
+   "modelName": "pkr_chp_vlo10",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1913,
+   "modelName": "pkr_chp_vlo11",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1914,
+   "modelName": "pkr_chp_vlo12",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1915,
+   "modelName": "pkr_chp_med07",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1916,
+   "modelName": "pkr_chp_med08",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1917,
+   "modelName": "pkr_chp_med09",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1918,
+   "modelName": "pkr_chp_med10",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1919,
+   "modelName": "pkr_chplo12",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1920,
+   "modelName": "pkr_chp_med11",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1921,
+   "modelName": "chip_stack12",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1922,
+   "modelName": "pkr_chp_med12",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1923,
+   "modelName": "pkr_chp_hi07",
+   "txdName": "kbchips1",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1924,
+   "modelName": "pkr_chp_hi08",
+   "txdName": "kbchips1",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1925,
+   "modelName": "pkr_chp_hi09",
+   "txdName": "kbchips1",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1926,
+   "modelName": "pkr_chp_hi10",
+   "txdName": "kbchips1",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1927,
+   "modelName": "pkr_chp_hi11",
+   "txdName": "kbchips1",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1928,
+   "modelName": "pkr_chp_hi12",
+   "txdName": "kbchips1",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1929,
+   "modelName": "wheel_wee01",
+   "txdName": "kbroul2",
+   "drawDistance": 299,
+   "flags": 4
+  },
+  {
+   "id": 1930,
+   "modelName": "chip_stack13",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1931,
+   "modelName": "chip_stack14",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1932,
+   "modelName": "chip_stack15",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1933,
+   "modelName": "chip_stack16",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1934,
+   "modelName": "pkr_chp_hi13",
+   "txdName": "kbchips1",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1935,
+   "modelName": "pkr_chp_hi14",
+   "txdName": "kbchips1",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1936,
+   "modelName": "pkr_chp_hi15",
+   "txdName": "kbchips1",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1937,
+   "modelName": "pkr_chp_hi16",
+   "txdName": "kbchips1",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1938,
+   "modelName": "pkr_chp_hi17",
+   "txdName": "kbchips1",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1939,
+   "modelName": "pkr_chp_hi18",
+   "txdName": "kbchips1",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1940,
+   "modelName": "chip_stack18",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1941,
+   "modelName": "chip_stack17",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1942,
+   "modelName": "kg50",
+   "txdName": "dum1",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1943,
+   "modelName": "kg20",
+   "txdName": "dum1",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1944,
+   "modelName": "kg10",
+   "txdName": "dum1",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1945,
+   "modelName": "kg5",
+   "txdName": "dum1",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1946,
+   "modelName": "baskt_ball_hi",
+   "txdName": "bball1",
+   "drawDistance": 50,
+   "flags": 128
+  },
+  {
+   "id": 1947,
+   "modelName": "CHIPS_TEMP",
+   "txdName": "chips2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1948,
+   "modelName": "slot_4chris",
+   "txdName": "kbslotnu",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1949,
+   "modelName": "barrier_4andy",
+   "txdName": "barrier",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 1950,
+   "modelName": "kb_beer",
+   "txdName": "kbeer",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1951,
+   "modelName": "kb_beer01",
+   "txdName": "kbeer",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1952,
+   "modelName": "turn_arm_R",
+   "txdName": "mixkb1",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1953,
+   "modelName": "turn_plater_R",
+   "txdName": "mixkb1",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1954,
+   "modelName": "turn_table_R",
+   "txdName": "mixkb1",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1955,
+   "modelName": "turn_armL",
+   "txdName": "mixkb1",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1956,
+   "modelName": "turn_platerL",
+   "txdName": "mixkb1",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1957,
+   "modelName": "turn_tableL",
+   "txdName": "mixkb1",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1958,
+   "modelName": "mxr_mix_body",
+   "txdName": "mixkb1",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1959,
+   "modelName": "shop_till",
+   "txdName": "shop_till",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1960,
+   "modelName": "record2",
+   "txdName": "record1",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1961,
+   "modelName": "record3",
+   "txdName": "record1",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1962,
+   "modelName": "record1",
+   "txdName": "record1",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1963,
+   "modelName": "est_desk",
+   "txdName": "estateprops",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 1964,
+   "modelName": "est_dsk_stuf",
+   "txdName": "estateprops",
+   "drawDistance": 30,
+   "flags": 132
+  },
+  {
+   "id": 1965,
+   "modelName": "imcmptrkdrl_LAS",
+   "txdName": "imrancomp_LAS",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 1966,
+   "modelName": "imcompmovedr1_las",
+   "txdName": "steve_doors",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1967,
+   "modelName": "imcmptrkdrr_LAS",
+   "txdName": "steve_doors",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1968,
+   "modelName": "dinerseat_2",
+   "txdName": "dinerseat2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1969,
+   "modelName": "dinerseat_3",
+   "txdName": "dinerseat2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1970,
+   "modelName": "dinerseat_1",
+   "txdName": "dinerseat1",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1971,
+   "modelName": "kb_flykiller",
+   "txdName": "flykiller",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1972,
+   "modelName": "kb_cuntopdisp2",
+   "txdName": "display1",
+   "drawDistance": 100,
+   "flags": 2097156
+  },
+  {
+   "id": 1973,
+   "modelName": "kb_cuntopdisp1",
+   "txdName": "display1",
+   "drawDistance": 100,
+   "flags": 2097156
+  },
+  {
+   "id": 1974,
+   "modelName": "kb_golfball",
+   "txdName": "golfball",
+   "drawDistance": 20,
+   "flags": 128
+  },
+  {
+   "id": 1975,
+   "modelName": "e_test",
+   "txdName": "texttest",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1976,
+   "modelName": "w_test",
+   "txdName": "texttest",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1977,
+   "modelName": "vendin3",
+   "txdName": "cooler1",
+   "drawDistance": 100,
+   "flags": 2097156
+  },
+  {
+   "id": 1978,
+   "modelName": "roulette_tbl",
+   "txdName": "kbroul1",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 1979,
+   "modelName": "wheel_wee",
+   "txdName": "kbroul2",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 1980,
+   "modelName": "wilshire7dr1_law",
+   "txdName": "Lawest1",
+   "drawDistance": 101,
+   "flags": 2176
+  },
+  {
+   "id": 1981,
+   "modelName": "shlf1_cab_mid",
+   "txdName": "new_cabinets3",
+   "drawDistance": 100,
+   "flags": 2097156
+  },
+  {
+   "id": 1982,
+   "modelName": "shlf2_cab_mid",
+   "txdName": "new_cabinets",
+   "drawDistance": 100,
+   "flags": 2097156
+  },
+  {
+   "id": 1983,
+   "modelName": "shlf4_cab_mid",
+   "txdName": "new_cabinets2",
+   "drawDistance": 100,
+   "flags": 2097156
+  },
+  {
+   "id": 1984,
+   "modelName": "shlf5_till",
+   "txdName": "shop_shelf1",
+   "drawDistance": 100,
+   "flags": 2097152
+  },
+  {
+   "id": 1985,
+   "modelName": "punchbagnu",
+   "txdName": "punchbag2",
+   "drawDistance": 100,
+   "flags": 2097280
+  },
+  {
+   "id": 1986,
+   "modelName": "shlf2_cab_rt",
+   "txdName": "new_cabinets",
+   "drawDistance": 100,
+   "flags": 2097156
+  },
+  {
+   "id": 1987,
+   "modelName": "shlf4_cablft",
+   "txdName": "new_cabinets2",
+   "drawDistance": 100,
+   "flags": 2097156
+  },
+  {
+   "id": 1988,
+   "modelName": "shlf4_cab_rt",
+   "txdName": "new_cabinets2",
+   "drawDistance": 100,
+   "flags": 2097156
+  },
+  {
+   "id": 1989,
+   "modelName": "kb_coolerlft2",
+   "txdName": "cooler1",
+   "drawDistance": 100,
+   "flags": 2097156
+  },
+  {
+   "id": 1990,
+   "modelName": "kb_coolerlft",
+   "txdName": "cooler1",
+   "drawDistance": 100,
+   "flags": 2097156
+  },
+  {
+   "id": 1991,
+   "modelName": "shlf1_cablft1",
+   "txdName": "new_cabinets3",
+   "drawDistance": 100,
+   "flags": 2097156
+  },
+  {
+   "id": 1992,
+   "modelName": "shlf2_cablft",
+   "txdName": "new_cabinets",
+   "drawDistance": 100,
+   "flags": 2097156
+  },
+  {
+   "id": 1993,
+   "modelName": "shlf3_cab_mid2",
+   "txdName": "new_cabinets",
+   "drawDistance": 100,
+   "flags": 2097156
+  },
+  {
+   "id": 1994,
+   "modelName": "shlf3_cablft",
+   "txdName": "new_cabinets",
+   "drawDistance": 100,
+   "flags": 2097156
+  },
+  {
+   "id": 1995,
+   "modelName": "shlf3_cab_rt",
+   "txdName": "new_cabinets",
+   "drawDistance": 100,
+   "flags": 2097156
+  },
+  {
+   "id": 1996,
+   "modelName": "shlf1_cab_rt",
+   "txdName": "new_cabinets3",
+   "drawDistance": 100,
+   "flags": 2097156
+  },
+  {
+   "id": 1997,
+   "modelName": "hos_trolley",
+   "txdName": "hos_trolley",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1998,
+   "modelName": "officedesk1l",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 1999,
+   "modelName": "officedesk2",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2000,
+   "modelName": "filing_cab_nu",
+   "txdName": "nu_filing",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2001,
+   "modelName": "nu_plant_ofc",
+   "txdName": "plants",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2002,
+   "modelName": "water_coolnu",
+   "txdName": "nu_filing",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2003,
+   "modelName": "cr_safe_body",
+   "txdName": "kbmiscfrn2",
+   "drawDistance": 15,
+   "flags": 132
+  },
+  {
+   "id": 2004,
+   "modelName": "cr_safe_door",
+   "txdName": "kbmiscfrn2",
+   "drawDistance": 15,
+   "flags": 132
+  },
+  {
+   "id": 2005,
+   "modelName": "cr_safe_cash",
+   "txdName": "kbmiscfrn2",
+   "drawDistance": 15,
+   "flags": 132
+  },
+  {
+   "id": 2006,
+   "modelName": "cr_safe_dial",
+   "txdName": "kbmiscfrn2",
+   "drawDistance": 15,
+   "flags": 132
+  },
+  {
+   "id": 2007,
+   "modelName": "filing_cab_nu01",
+   "txdName": "nu_filing",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 2008,
+   "modelName": "officedesk1",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2009,
+   "modelName": "officedesk2l",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2010,
+   "modelName": "nu_plant3_ofc",
+   "txdName": "plants",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2011,
+   "modelName": "nu_plant2_ofc",
+   "txdName": "plants",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2012,
+   "modelName": "shop_shelf13",
+   "txdName": "shop_shelf1",
+   "drawDistance": 100,
+   "flags": 2097152
+  },
+  {
+   "id": 2013,
+   "modelName": "kit_cab_sink",
+   "txdName": "mrk_kitstuf",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 2014,
+   "modelName": "kit_cab_mid",
+   "txdName": "mrk_kitstuf",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 2015,
+   "modelName": "kit_cab_rght",
+   "txdName": "mrk_kitstuf",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 2016,
+   "modelName": "kit_cab_lft",
+   "txdName": "mrk_kitstuf",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 2017,
+   "modelName": "kit_cab_cookr",
+   "txdName": "mrk_kitstuf",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 2018,
+   "modelName": "kit_cab_washin",
+   "txdName": "mrk_kitstuf",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 2019,
+   "modelName": "kit_cab_frdg",
+   "txdName": "mrk_kitstuf",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 2020,
+   "modelName": "mrk_sidebrd1",
+   "txdName": "bdcabinets",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 2021,
+   "modelName": "mrk_bdsdecab1",
+   "txdName": "bdcabinets",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 2022,
+   "modelName": "kit_cab_crnr",
+   "txdName": "mrk_kitstuf",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 2023,
+   "modelName": "mrk_stnd_lmp",
+   "txdName": "bitsnbobs",
+   "drawDistance": 30,
+   "flags": 2097152
+  },
+  {
+   "id": 2024,
+   "modelName": "mrk_liv_tble",
+   "txdName": "hi_cutbnkcoch",
+   "drawDistance": 80,
+   "flags": 4
+  },
+  {
+   "id": 2025,
+   "modelName": "mrk_wrobe_tmp",
+   "txdName": "wardrobe_tmp",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 2026,
+   "modelName": "mrk_shade_tmp",
+   "txdName": "shadetmp",
+   "drawDistance": 100,
+   "flags": 2097152
+  },
+  {
+   "id": 2027,
+   "modelName": "dinerseat_4",
+   "txdName": "dinerseat3",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 2028,
+   "modelName": "SWANK_CONSOLE",
+   "txdName": "cj_games",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2029,
+   "modelName": "SWANK_DINNING_1",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 2030,
+   "modelName": "MED_DINNING_1",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 2031,
+   "modelName": "MED_DINNING_3",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 2032,
+   "modelName": "MED_DINNING_2",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 2033,
+   "modelName": "CJ_sawnoff2",
+   "txdName": "CJ_AMMO",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2034,
+   "modelName": "CJ_sawnoff",
+   "txdName": "CJ_AMMO",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2035,
+   "modelName": "CJ_M16",
+   "txdName": "CJ_AMMO",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2036,
+   "modelName": "CJ_psg1",
+   "txdName": "CJ_AMMO",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2037,
+   "modelName": "CJ_PISTOL_AMMO",
+   "txdName": "CJ_AMMO",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2038,
+   "modelName": "AMMO_BOX_S2",
+   "txdName": "CJ_AMMO",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2039,
+   "modelName": "AMMO_BOX_S1",
+   "txdName": "CJ_AMMO",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2040,
+   "modelName": "AMMO_BOX_M1",
+   "txdName": "CJ_AMMO",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2041,
+   "modelName": "AMMO_BOX_M2",
+   "txdName": "CJ_AMMO",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2042,
+   "modelName": "AMMO_BOX_M3",
+   "txdName": "CJ_AMMO",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2043,
+   "modelName": "AMMO_BOX_M4",
+   "txdName": "CJ_AMMO",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2044,
+   "modelName": "CJ_MP5K",
+   "txdName": "CJ_AMMO",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2045,
+   "modelName": "CJ_BBAT_NAILS",
+   "txdName": "CJ_AMMO",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2046,
+   "modelName": "CJ_GUNCUPBOARD",
+   "txdName": "CJ_AMMO",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2047,
+   "modelName": "CJ_FLAG1",
+   "txdName": "CJ_AMMO_POSTERS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2048,
+   "modelName": "CJ_FLAG2",
+   "txdName": "CJ_AMMO_POSTERS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2049,
+   "modelName": "CJ_TARGET1",
+   "txdName": "CJ_AMMO_POSTERS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2050,
+   "modelName": "CJ_TARGET2",
+   "txdName": "CJ_AMMO_POSTERS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2051,
+   "modelName": "CJ_TARGET4",
+   "txdName": "CJ_AMMO_POSTERS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2052,
+   "modelName": "CJ_TOMMY_HAT",
+   "txdName": "CJ_AMMO",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2053,
+   "modelName": "CJ_JERRY_HAT",
+   "txdName": "CJ_AMMO",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2054,
+   "modelName": "CJ_CAPT_HAT",
+   "txdName": "CJ_AMMO",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2055,
+   "modelName": "CJ_TARGET5",
+   "txdName": "CJ_AMMO_POSTERS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2056,
+   "modelName": "CJ_TARGET6",
+   "txdName": "CJ_AMMO_POSTERS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2057,
+   "modelName": "Flame_tins",
+   "txdName": "CJ_AMMO",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2058,
+   "modelName": "CJ_Gun_docs",
+   "txdName": "CJ_AMMO",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2059,
+   "modelName": "CJ_GUNSTUFF1",
+   "txdName": "CJ_AMMO2",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 2060,
+   "modelName": "CJ_SANDBAG",
+   "txdName": "CJ_AMMO",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2061,
+   "modelName": "CJ_SHELLS1",
+   "txdName": "CJ_AMMO",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2062,
+   "modelName": "CJ_OilDrum2",
+   "txdName": "CJ_AMMO",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2063,
+   "modelName": "CJ_GREENSHELVES",
+   "txdName": "CJ_AMMO",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2064,
+   "modelName": "CJ_FEILDGUN",
+   "txdName": "CJ_AMMO",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2065,
+   "modelName": "CJ_M_FILEING1",
+   "txdName": "CJ_OFF_NEW",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2066,
+   "modelName": "CJ_M_FILEING2",
+   "txdName": "CJ_OFF_NEW",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2067,
+   "modelName": "CJ_M_FILEING3",
+   "txdName": "CJ_OFF_NEW",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2068,
+   "modelName": "CJ_cammo_NET",
+   "txdName": "CJ_AMMO_net",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 2069,
+   "modelName": "CJ_MLIGHT7",
+   "txdName": "CJ_LIGHTING",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2070,
+   "modelName": "CJ_MLIGHT6",
+   "txdName": "CJ_LIGHTING",
+   "drawDistance": 30,
+   "flags": 2097152
+  },
+  {
+   "id": 2071,
+   "modelName": "CJ_MLIGHT5",
+   "txdName": "CJ_LIGHTING",
+   "drawDistance": 30,
+   "flags": 2097152
+  },
+  {
+   "id": 2072,
+   "modelName": "CJ_MLIGHT4",
+   "txdName": "CJ_LIGHTING",
+   "drawDistance": 30,
+   "flags": 2097152
+  },
+  {
+   "id": 2073,
+   "modelName": "CJ_MLIGHT1",
+   "txdName": "CJ_LIGHTING",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2074,
+   "modelName": "CJ_MLIGHT8",
+   "txdName": "CJ_LIGHTING",
+   "drawDistance": 30,
+   "flags": 2097156
+  },
+  {
+   "id": 2075,
+   "modelName": "CJ_MLIGHT9",
+   "txdName": "CJ_LIGHTING",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2076,
+   "modelName": "CJ_MLIGHT10",
+   "txdName": "CJ_LIGHTING",
+   "drawDistance": 30,
+   "flags": 2097152
+  },
+  {
+   "id": 2077,
+   "modelName": "CJ_MLIGHT11",
+   "txdName": "CJ_LIGHTING",
+   "drawDistance": 30,
+   "flags": 2097152
+  },
+  {
+   "id": 2078,
+   "modelName": "SWANK_CABINET_1",
+   "txdName": "CJ_FURNITURE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2079,
+   "modelName": "SWANK_DIN_CHAIR_2",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 2080,
+   "modelName": "SWANK_DINNING_2",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 2081,
+   "modelName": "COFFEE_SWANK_3",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2082,
+   "modelName": "COFFEE_MED_3",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2083,
+   "modelName": "COFFEE_MED_4",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2084,
+   "modelName": "MED_CABINET_1",
+   "txdName": "CJ_FURNITURE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2085,
+   "modelName": "SWANK_DINNING_3",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 2086,
+   "modelName": "SWANK_DINNING_4",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 132
+  },
+  {
+   "id": 2087,
+   "modelName": "MED_CABINET_2",
+   "txdName": "CJ_FURNITURE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2088,
+   "modelName": "LOW_CABINET_4",
+   "txdName": "CJ_BED_FURN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2089,
+   "modelName": "SWANK_CABINET_2",
+   "txdName": "CJ_FURNITURE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2090,
+   "modelName": "SWANK_BED_5",
+   "txdName": "cj_S_Beds",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2091,
+   "modelName": "TV_WARD_Med_1",
+   "txdName": "CJ_FURNITURE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2092,
+   "modelName": "SWANK_CABINET_5",
+   "txdName": "CJ_FURNITURE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2093,
+   "modelName": "TV_WARD_Low",
+   "txdName": "CJ_FURNITURE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2094,
+   "modelName": "SWANK_CABINET_4",
+   "txdName": "CJ_BED_FURN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2095,
+   "modelName": "LOW_CABINET_2",
+   "txdName": "CJ_BED_FURN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2096,
+   "modelName": "CJ_RockingChair",
+   "txdName": "CJ_seating",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2097,
+   "modelName": "Bath_high",
+   "txdName": "CJ_FURNITURE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2098,
+   "modelName": "CJ_SLOTCOVER1",
+   "txdName": "CJ_INT",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2099,
+   "modelName": "MED_HI_FI_1",
+   "txdName": "CJ_HI_FI",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 2100,
+   "modelName": "MED_HI_FI_2",
+   "txdName": "CJ_HI_FI",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2101,
+   "modelName": "MED_HI_FI_3",
+   "txdName": "CJ_HI_FI",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2102,
+   "modelName": "LOW_HI_FI_2",
+   "txdName": "CJ_HI_FI",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2103,
+   "modelName": "LOW_HI_FI_1",
+   "txdName": "CJ_HI_FI",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2104,
+   "modelName": "SWANK_HI_FI",
+   "txdName": "CJ_HI_FI",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2105,
+   "modelName": "CJ_MLIGHT14",
+   "txdName": "CJ_LIGHTING",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2106,
+   "modelName": "CJ_MLIGHT15",
+   "txdName": "CJ_LIGHTING",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2107,
+   "modelName": "CJ_MLIGHT12",
+   "txdName": "CJ_LIGHTING",
+   "drawDistance": 30,
+   "flags": 2097152
+  },
+  {
+   "id": 2108,
+   "modelName": "CJ_MLIGHT13",
+   "txdName": "CJ_LIGHTING",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 2109,
+   "modelName": "LOW_DINNING_3",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 2110,
+   "modelName": "LOW_DINNING_4",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 2111,
+   "modelName": "LOW_DINNING_5",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 2112,
+   "modelName": "MED_DINNING_4",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 2113,
+   "modelName": "baskgamenet",
+   "txdName": "SPORTS",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 2114,
+   "modelName": "basketball",
+   "txdName": "SPORTS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2115,
+   "modelName": "LOW_DINNING_1",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 2116,
+   "modelName": "LOW_DINNING_6",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 2117,
+   "modelName": "SWANK_DINNING_5",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 2118,
+   "modelName": "SWANK_DINNING_6",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 2119,
+   "modelName": "MED_DINNING_6",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 2120,
+   "modelName": "MED_DIN_CHAIR_4",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 2121,
+   "modelName": "LOW_DIN_CHAIR_2",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 2122,
+   "modelName": "SWANK_DIN_CHAIR_3",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 2123,
+   "modelName": "SWANK_DIN_CHAIR_4",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 2124,
+   "modelName": "SWANK_DIN_CHAIR_1",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 2125,
+   "modelName": "MED_DIN_CHAIR_1",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 2126,
+   "modelName": "COFFEE_SWANK_5",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2127,
+   "modelName": "CJ_K1_FRIDGE_UNIT",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2128,
+   "modelName": "CJ_K1_TALL_UNIT",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2129,
+   "modelName": "CJ_K1_LOW_UNIT",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2130,
+   "modelName": "CJ_K1_SINK",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2131,
+   "modelName": "CJ_KITCH2_FRIDGE",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2132,
+   "modelName": "CJ_KITCH2_SINK",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2133,
+   "modelName": "CJ_KITCH2_R",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2134,
+   "modelName": "CJ_KITCH2_M",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2135,
+   "modelName": "CJ_K3_COOKER",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2136,
+   "modelName": "CJ_K3_SINK",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2137,
+   "modelName": "CJ_K3_LOW_UNIT3",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2138,
+   "modelName": "CJ_K3_LOW_UNIT1",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2139,
+   "modelName": "CJ_K3_LOW_UNIT2",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2140,
+   "modelName": "CJ_K3_TALL_UNIT1",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2141,
+   "modelName": "CJ_KITCH2_L",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2142,
+   "modelName": "CJ_K4_LOW_UNIT2",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2143,
+   "modelName": "CJ_K4_LOW_UNIT1",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2144,
+   "modelName": "CJ_COOKER3",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2145,
+   "modelName": "CJ_K3_UNIT06",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2146,
+   "modelName": "CJ_TROLLY1",
+   "txdName": "CJTEMP",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2147,
+   "modelName": "CJ_KITCH1_FRIDGE",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2148,
+   "modelName": "CJ_K4_LOW_UNIT03",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2149,
+   "modelName": "CJ_MICROWAVE1",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2150,
+   "modelName": "CJ_SINK1",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2151,
+   "modelName": "CJ_K5_LOW_UNIT2",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2152,
+   "modelName": "CJ_K5_LOW_UNIT3",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2153,
+   "modelName": "CJ_K5_UNIT1",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2154,
+   "modelName": "CJ_K5_LOW_UNIT1",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2155,
+   "modelName": "CJ_K5_LOW_UNIT4",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2156,
+   "modelName": "CJ_K6_LOW_UNIT1",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2157,
+   "modelName": "CJ_K6_LOW_UNIT2",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2158,
+   "modelName": "CJ_KITCH1_L",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2159,
+   "modelName": "CJ_K6_LOW_UNIT4",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2160,
+   "modelName": "CJ_K6_LOW_UNIT3",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2161,
+   "modelName": "MED_OFFICE_UNIT_4",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2162,
+   "modelName": "MED_OFFICE_UNIT_1",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2163,
+   "modelName": "MED_OFFICE_UNIT_2",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2164,
+   "modelName": "MED_OFFICE_UNIT_5",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2165,
+   "modelName": "MED_OFFICE_DESK_1",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2166,
+   "modelName": "MED_OFFICE_DESK_2",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2167,
+   "modelName": "MED_OFFICE_UNIT_7",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2168,
+   "modelName": "partition",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2169,
+   "modelName": "MED_OFFICE3_DESK_1",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2170,
+   "modelName": "CJ_KITCH1_COOKER",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2171,
+   "modelName": "MED_OFFICE4_DESK_1",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2172,
+   "modelName": "MED_OFFICE2_DESK_1",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2173,
+   "modelName": "MED_OFFICE_DESK_3",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2174,
+   "modelName": "MED_OFFICE4_DESK_2",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2175,
+   "modelName": "MED_OFFICE4_DESK_3",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2176,
+   "modelName": "Casino_light4",
+   "txdName": "casino_props",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2177,
+   "modelName": "Casino_light3",
+   "txdName": "casino_props",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2178,
+   "modelName": "Casino_light2",
+   "txdName": "casino_props",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2179,
+   "modelName": "Casino_light1",
+   "txdName": "casino_props",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2180,
+   "modelName": "MED_OFFICE5_DESK_3",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2181,
+   "modelName": "MED_OFFICE5_DESK_2",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2182,
+   "modelName": "MED_OFFICE5_DESK_1",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2183,
+   "modelName": "MED_OFFICE3_DESK_09",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2184,
+   "modelName": "MED_OFFICE6_DESK_2",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2185,
+   "modelName": "MED_OFFICE6_DESK_1",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2186,
+   "modelName": "PHOTOCOPIER_1",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2187,
+   "modelName": "partition2",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2188,
+   "modelName": "blck_jack",
+   "txdName": "kbblackjack",
+   "drawDistance": 100,
+   "flags": 4
+  },
+  {
+   "id": 2189,
+   "modelName": "poker_tbl",
+   "txdName": "kbroul1",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2190,
+   "modelName": "PC_1",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2191,
+   "modelName": "MED_OFFICE2_CAB",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2192,
+   "modelName": "FAN_1",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2193,
+   "modelName": "MED_OFFICE2_DESK_2",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2194,
+   "modelName": "Plant_Pot_2",
+   "txdName": "plants",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 2195,
+   "modelName": "Plant_Pot_3",
+   "txdName": "plants",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 2196,
+   "modelName": "WORK_LAMP1",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2197,
+   "modelName": "FILLING_CABINET",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2198,
+   "modelName": "MED_OFFICE2_DESK_3",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2199,
+   "modelName": "MED_OFFICE6_MC_1",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2200,
+   "modelName": "MED_OFFICE5_UNIT_1",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2201,
+   "modelName": "PRINTER_1",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2202,
+   "modelName": "PHOTOCOPIER_2",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2203,
+   "modelName": "Plant_Pot_1",
+   "txdName": "plants",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 2204,
+   "modelName": "MED_OFFICE8_CABINET",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2205,
+   "modelName": "MED_OFFICE8_DESK_1",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2206,
+   "modelName": "MED_OFFICE8_DESK_02",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2207,
+   "modelName": "MED_OFFICE7_DESK_1",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2208,
+   "modelName": "MED_OFFICE7_UNIT_1",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2209,
+   "modelName": "MED_OFFICE9_DESK_1",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2210,
+   "modelName": "MED_OFFICE9_UNIT_1",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2211,
+   "modelName": "MED_OFFICE9_UNIT_2",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 2212,
+   "modelName": "burgerhigh",
+   "txdName": "burger_tray",
+   "drawDistance": 30,
+   "flags": 2097152
+  },
+  {
+   "id": 2213,
+   "modelName": "burgerlow",
+   "txdName": "burger_tray",
+   "drawDistance": 30,
+   "flags": 2097152
+  },
+  {
+   "id": 2214,
+   "modelName": "burgermed",
+   "txdName": "burger_tray",
+   "drawDistance": 30,
+   "flags": 2097152
+  },
+  {
+   "id": 2215,
+   "modelName": "clucklow",
+   "txdName": "CHICK_tray",
+   "drawDistance": 30,
+   "flags": 2097152
+  },
+  {
+   "id": 2216,
+   "modelName": "cluckmed",
+   "txdName": "CHICK_tray",
+   "drawDistance": 30,
+   "flags": 2097152
+  },
+  {
+   "id": 2217,
+   "modelName": "cluckhigh",
+   "txdName": "CHICK_tray",
+   "drawDistance": 30,
+   "flags": 2097152
+  },
+  {
+   "id": 2218,
+   "modelName": "pizzalow",
+   "txdName": "pizza_tray",
+   "drawDistance": 30,
+   "flags": 2097152
+  },
+  {
+   "id": 2219,
+   "modelName": "pizzamed",
+   "txdName": "pizza_tray",
+   "drawDistance": 30,
+   "flags": 2097152
+  },
+  {
+   "id": 2220,
+   "modelName": "pizzahigh",
+   "txdName": "pizza_tray",
+   "drawDistance": 30,
+   "flags": 2097152
+  },
+  {
+   "id": 2221,
+   "modelName": "rustylow",
+   "txdName": "donut_tray",
+   "drawDistance": 30,
+   "flags": 2097152
+  },
+  {
+   "id": 2222,
+   "modelName": "rustyhigh",
+   "txdName": "donut_tray",
+   "drawDistance": 30,
+   "flags": 2097152
+  },
+  {
+   "id": 2223,
+   "modelName": "rustymed",
+   "txdName": "donut_tray",
+   "drawDistance": 30,
+   "flags": 2097152
+  },
+  {
+   "id": 2224,
+   "modelName": "CJ_Sphere_TV",
+   "txdName": "cj_TV",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2225,
+   "modelName": "SWANK_HI_FI_2",
+   "txdName": "CJ_HI_FI2",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2226,
+   "modelName": "LOW_HI_FI_3",
+   "txdName": "CJ_HI_FI2",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2227,
+   "modelName": "SWANK_HI_FI_3",
+   "txdName": "CJ_HI_FI2",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2228,
+   "modelName": "CJ_SHOVEL",
+   "txdName": "bitsnbobs",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2229,
+   "modelName": "SWANK_SPEAKER",
+   "txdName": "CJ_HI_FI2",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2230,
+   "modelName": "SWANK_SPEAKER_2",
+   "txdName": "CJ_HI_FI2",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2231,
+   "modelName": "SWANK_SPEAKER_3",
+   "txdName": "CJ_HI_FI2",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2232,
+   "modelName": "MED_SPEAKER_4",
+   "txdName": "CJ_HI_FI",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2233,
+   "modelName": "SWANK_SPEAKER_4",
+   "txdName": "CJ_HI_FI2",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2234,
+   "modelName": "COFFEE_LOW_6",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2235,
+   "modelName": "COFFEE_MED_6",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2236,
+   "modelName": "COFFEE_SWANK_1",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2237,
+   "modelName": "CJ_SHOVEL2",
+   "txdName": "bitsnbobs",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2238,
+   "modelName": "CJ_LAVA_LAMP",
+   "txdName": "CJ_LIGHTING",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2239,
+   "modelName": "CJ_MLIGHT16",
+   "txdName": "CJ_LIGHTING",
+   "drawDistance": 30,
+   "flags": 2097152
+  },
+  {
+   "id": 2240,
+   "modelName": "Plant_Pot_8",
+   "txdName": "plants_designer",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 2241,
+   "modelName": "Plant_Pot_5",
+   "txdName": "plants",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 2242,
+   "modelName": "Plant_Pot_7",
+   "txdName": "plants_designer",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 2243,
+   "modelName": "Plant_Pot_6",
+   "txdName": "plants_designer",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 2244,
+   "modelName": "Plant_Pot_9",
+   "txdName": "plants_TABLETOP",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 2245,
+   "modelName": "Plant_Pot_11",
+   "txdName": "plants_TABLETOP",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 2246,
+   "modelName": "Plant_Pot_14",
+   "txdName": "plants_office",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 2247,
+   "modelName": "Plant_Pot_15",
+   "txdName": "plants_galss",
+   "drawDistance": 30,
+   "flags": 132
+  },
+  {
+   "id": 2248,
+   "modelName": "Plant_Pot_16",
+   "txdName": "plants_designer",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 2249,
+   "modelName": "Plant_Pot_18",
+   "txdName": "plants_galss",
+   "drawDistance": 30,
+   "flags": 132
+  },
+  {
+   "id": 2250,
+   "modelName": "Plant_Pot_19",
+   "txdName": "plants_galss",
+   "drawDistance": 30,
+   "flags": 132
+  },
+  {
+   "id": 2251,
+   "modelName": "Plant_Pot_20",
+   "txdName": "plants_galss",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 2252,
+   "modelName": "Plant_Pot_21",
+   "txdName": "plants_TABLETOP",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 2253,
+   "modelName": "Plant_Pot_22",
+   "txdName": "plants_TABLETOP",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 2254,
+   "modelName": "Frame_Clip_1",
+   "txdName": "Picture_frame_clip",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2255,
+   "modelName": "Frame_Clip_2",
+   "txdName": "Picture_frame_clip",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2256,
+   "modelName": "Frame_Clip_3",
+   "txdName": "Picture_frame_clip",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2257,
+   "modelName": "Frame_Clip_4",
+   "txdName": "Picture_frame_clip",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2258,
+   "modelName": "Frame_Clip_5",
+   "txdName": "Picture_frame_clip",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2259,
+   "modelName": "Frame_Clip_6",
+   "txdName": "Picture_frame_clip",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2260,
+   "modelName": "Frame_SLIM_1",
+   "txdName": "Picture_frame_clip",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2261,
+   "modelName": "Frame_SLIM_2",
+   "txdName": "Picture_frame_clip",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2262,
+   "modelName": "Frame_SLIM_3",
+   "txdName": "Picture_frame_clip",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2263,
+   "modelName": "Frame_SLIM_4",
+   "txdName": "Picture_frame_clip",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2264,
+   "modelName": "Frame_SLIM_5",
+   "txdName": "Picture_frame_clip",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2265,
+   "modelName": "Frame_SLIM_6",
+   "txdName": "Picture_frame_clip",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2266,
+   "modelName": "Frame_WOOD_5",
+   "txdName": "Picture_frame",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2267,
+   "modelName": "Frame_WOOD_3",
+   "txdName": "Picture_frame",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2268,
+   "modelName": "Frame_WOOD_2",
+   "txdName": "Picture_frame",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2269,
+   "modelName": "Frame_WOOD_4",
+   "txdName": "Picture_frame",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2270,
+   "modelName": "Frame_WOOD_6",
+   "txdName": "Picture_frame",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2271,
+   "modelName": "Frame_WOOD_1",
+   "txdName": "Picture_frame",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2272,
+   "modelName": "Frame_Fab_5",
+   "txdName": "Picture_frame",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2273,
+   "modelName": "Frame_Fab_1",
+   "txdName": "Picture_frame",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2274,
+   "modelName": "Frame_Fab_6",
+   "txdName": "Picture_frame",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2275,
+   "modelName": "Frame_Fab_4",
+   "txdName": "Picture_frame",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2276,
+   "modelName": "Frame_Fab_3",
+   "txdName": "Picture_frame",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2277,
+   "modelName": "Frame_Fab_2",
+   "txdName": "Picture_frame",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2278,
+   "modelName": "Frame_Thick_2",
+   "txdName": "Picture_frame",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2279,
+   "modelName": "Frame_Thick_6",
+   "txdName": "Picture_frame",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2280,
+   "modelName": "Frame_Thick_1",
+   "txdName": "Picture_frame",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2281,
+   "modelName": "Frame_Thick_5",
+   "txdName": "Picture_frame",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2282,
+   "modelName": "Frame_Thick_4",
+   "txdName": "Picture_frame",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2283,
+   "modelName": "Frame_Thick_3",
+   "txdName": "Picture_frame",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2284,
+   "modelName": "Frame_6",
+   "txdName": "Picture_frame",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2285,
+   "modelName": "Frame_1",
+   "txdName": "Picture_frame",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2286,
+   "modelName": "Frame_5",
+   "txdName": "Picture_frame",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2287,
+   "modelName": "Frame_4",
+   "txdName": "Picture_frame",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2288,
+   "modelName": "Frame_3",
+   "txdName": "Picture_frame",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2289,
+   "modelName": "Frame_2",
+   "txdName": "Picture_frame",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2290,
+   "modelName": "SWK_COUCH_1",
+   "txdName": "CJ_sofa",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2291,
+   "modelName": "SWK_SINGLE_1",
+   "txdName": "CJ_sofa",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2292,
+   "modelName": "SWK_SINGLE_1b",
+   "txdName": "CJ_sofa",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2293,
+   "modelName": "SWK_1_FStool",
+   "txdName": "CJ_sofa",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2294,
+   "modelName": "CJ_K_COOKER1",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2295,
+   "modelName": "CJ_BEANBAG",
+   "txdName": "CJ_seating",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2296,
+   "modelName": "TV_UNIT_1",
+   "txdName": "CJ_FURNITURE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2297,
+   "modelName": "TV_UNIT_2",
+   "txdName": "CJ_FURNITURE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2298,
+   "modelName": "SWANK_BED_7",
+   "txdName": "cj_S_Beds",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2299,
+   "modelName": "SWANK_BED_6",
+   "txdName": "cj_S_Beds",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2300,
+   "modelName": "MED_BED_8",
+   "txdName": "CJ_MED_BEDS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2301,
+   "modelName": "MED_BED_9",
+   "txdName": "CJ_MED_BEDS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2302,
+   "modelName": "LOW_BED_06",
+   "txdName": "CJ_BEDS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2303,
+   "modelName": "CJ_K3_WASH_MAC",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2304,
+   "modelName": "CJ_K1_LOW_CORNER",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2305,
+   "modelName": "CJ_K3_C_UNIT",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2306,
+   "modelName": "SWANK_CABINET_4D",
+   "txdName": "CJ_BED_FURN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2307,
+   "modelName": "SWANK_CABINET_4b",
+   "txdName": "CJ_BED_FURN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2308,
+   "modelName": "MED_OFFICE4_DESK_4",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2309,
+   "modelName": "MED_OFFICE_CHAIR2",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2310,
+   "modelName": "MIKE_DIN_CHAIR",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 2311,
+   "modelName": "CJ_TV_TABLE2",
+   "txdName": "cj_TV_stand",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2312,
+   "modelName": "CJ_TELE_2",
+   "txdName": "cj_TV_stand",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2313,
+   "modelName": "CJ_TV_TABLE1",
+   "txdName": "cj_TV_stand",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2314,
+   "modelName": "CJ_TV_TABLE3",
+   "txdName": "cj_TV_stand",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2315,
+   "modelName": "CJ_TV_TABLE4",
+   "txdName": "cj_TV_stand",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2316,
+   "modelName": "CJ_TELE_4",
+   "txdName": "cj_TV_stand",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2317,
+   "modelName": "CJ_TELE_3",
+   "txdName": "cj_TV_stand",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2318,
+   "modelName": "CJ_TELE_1",
+   "txdName": "cj_TV_stand",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2319,
+   "modelName": "CJ_TV_TABLE5",
+   "txdName": "cj_TV_stand",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2320,
+   "modelName": "CJ_TELE_5",
+   "txdName": "cj_TV_stand",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2321,
+   "modelName": "CJ_TV_TABLE6",
+   "txdName": "cj_TV_stand",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2322,
+   "modelName": "CJ_TELE_6",
+   "txdName": "cj_TV_stand",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2323,
+   "modelName": "CJ_BEDROOM1",
+   "txdName": "CJ_BED_FURN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2324,
+   "modelName": "reel2",
+   "txdName": "slotsX",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 2325,
+   "modelName": "kb_bandit_U",
+   "txdName": "slotsX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2326,
+   "modelName": "reel3",
+   "txdName": "slotsX",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 2327,
+   "modelName": "reel1",
+   "txdName": "slotsX",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 2328,
+   "modelName": "LOW_CABINET_1_S",
+   "txdName": "CJ_BED_FURN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2329,
+   "modelName": "LOW_CABINET_1_L",
+   "txdName": "CJ_BED_FURN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2330,
+   "modelName": "CJ_BEDROOM1_W",
+   "txdName": "CJ_BED_FURN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2331,
+   "modelName": "CJ_BED_FURN_1",
+   "txdName": "CJ_BED_FURN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2332,
+   "modelName": "KEV_SAFE",
+   "txdName": "kbmiscfrn2",
+   "drawDistance": 15,
+   "flags": 132
+  },
+  {
+   "id": 2333,
+   "modelName": "CJ_BED_FURN_1b",
+   "txdName": "CJ_BED_FURN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2334,
+   "modelName": "CJ_KITCH1_M",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2335,
+   "modelName": "CJ_KITCH1_R",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2336,
+   "modelName": "CJ_KITCH1_SINK",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2337,
+   "modelName": "CJ_KITCH1_WASHER",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2338,
+   "modelName": "CJ_KITCH1_CORNER",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2339,
+   "modelName": "CJ_KITCH2_COOKER",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2340,
+   "modelName": "CJ_KITCH2_WASHER",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2341,
+   "modelName": "CJ_KITCH2_CORNER",
+   "txdName": "CJ_KITCHEN",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2342,
+   "modelName": "donut_disp",
+   "txdName": "D_S",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2343,
+   "modelName": "CJ_BARB_CHAIR_2",
+   "txdName": "cb_bar_bits",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2344,
+   "modelName": "CJ_REMOTE",
+   "txdName": "CJ_HI_FI",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2345,
+   "modelName": "Plant_Pot_23",
+   "txdName": "plants_TABLETOP",
+   "drawDistance": 30,
+   "flags": 2097284
+  },
+  {
+   "id": 2346,
+   "modelName": "CJ_HIFI_TABLE",
+   "txdName": "cj_TV_stand",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2347,
+   "modelName": "CJ_Wheel_1",
+   "txdName": "CJ_REELS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2348,
+   "modelName": "CJ_Wheel_02",
+   "txdName": "CJ_REELS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2349,
+   "modelName": "CJ_Wheel_03",
+   "txdName": "CJ_REELS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2350,
+   "modelName": "CJ_BARSTOOL_2",
+   "txdName": "CJ_seating",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2351,
+   "modelName": "CJ_DYN_PLUNGE_1",
+   "txdName": "CJ_AMMO",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2352,
+   "modelName": "CJ_DYN_PLUNGE_2",
+   "txdName": "CJ_AMMO",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2353,
+   "modelName": "cluck_healthy",
+   "txdName": "CHICK_tray",
+   "drawDistance": 30,
+   "flags": 2097152
+  },
+  {
+   "id": 2354,
+   "modelName": "burger_healthy",
+   "txdName": "burger_tray",
+   "drawDistance": 30,
+   "flags": 2097152
+  },
+  {
+   "id": 2355,
+   "modelName": "pizza_healthy",
+   "txdName": "pizza_tray",
+   "drawDistance": 30,
+   "flags": 2097152
+  },
+  {
+   "id": 2356,
+   "modelName": "police_OFF_CHAIR",
+   "txdName": "CJ_OFFICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2357,
+   "modelName": "DUNC_DINNING",
+   "txdName": "CJ_TABLES",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 2358,
+   "modelName": "AMMO_BOX_c2",
+   "txdName": "CJ_AMMO",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2359,
+   "modelName": "AMMO_BOX_c5",
+   "txdName": "CJ_AMMO",
+   "drawDistance": 30,
+   "flags": 0
+  }
+ ],
+ "tobj": [],
+ "path": [],
+ "2dfx": [],
+ "anim": [],
+ "txdp": []
+}

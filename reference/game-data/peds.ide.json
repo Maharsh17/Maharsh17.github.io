@@ -1,0 +1,4971 @@
+{
+ "peds": [
+  {
+   "id": 0,
+   "modelName": "null",
+   "txdName": "generic",
+   "defaultPedType": "PLAYER1",
+   "behaviour": "STAT_PLAYER",
+   "animGroup": "player",
+   "canDriveMask": 0,
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 9,
+   "radio2": 9,
+   "extra": [
+    "PED_TYPE_PLAYER",
+    "VOICE_PLY_CR",
+    "VOICE_PLY_CR"
+   ]
+  },
+  {
+   "id": 7,
+   "modelName": "male01",
+   "txdName": "male01",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_SENSIBLE_GUY",
+   "animGroup": "man",
+   "canDriveMask": 0,
+   "flags": 0,
+   "animFile": "man",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_MALE01",
+    "VOICE_GEN_MALE01"
+   ]
+  },
+  {
+   "id": 9,
+   "modelName": "BFORI",
+   "txdName": "BFORI",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_COWARD",
+   "animGroup": "woman",
+   "canDriveMask": "120C",
+   "flags": 0,
+   "animFile": "man",
+   "radio1": 7,
+   "radio2": 3,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_BFORI",
+    "VOICE_GEN_BFORI"
+   ]
+  },
+  {
+   "id": 10,
+   "modelName": "BFOST",
+   "txdName": "BFOST",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_STREET_GIRL",
+   "animGroup": "oldfatwoman",
+   "canDriveMask": 1003,
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 9,
+   "radio2": 3,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_BFOST",
+    "VOICE_GEN_BFOST"
+   ]
+  },
+  {
+   "id": 11,
+   "modelName": "VBFYCRP",
+   "txdName": "VBFYCRP",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_SUIT_GIRL",
+   "animGroup": "woman",
+   "canDriveMask": "130C",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 3,
+   "radio2": 7,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_BFYCRP",
+    "VOICE_GEN_BFYCRP"
+   ]
+  },
+  {
+   "id": 12,
+   "modelName": "BFYRI",
+   "txdName": "BFYRI",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_COWARD",
+   "animGroup": "sexywoman",
+   "canDriveMask": "120C",
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 7,
+   "radio2": 9,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_BFYRI",
+    "VOICE_GEN_BFYRI"
+   ]
+  },
+  {
+   "id": 13,
+   "modelName": "BFYST",
+   "txdName": "BFYST",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_STREET_GIRL",
+   "animGroup": "woman",
+   "canDriveMask": 1983,
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 0,
+   "radio2": 3,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_BFYST",
+    "VOICE_GEN_BFYST"
+   ]
+  },
+  {
+   "id": 14,
+   "modelName": "BMORI",
+   "txdName": "bmori",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_COWARD",
+   "animGroup": "man",
+   "canDriveMask": "120C",
+   "flags": 0,
+   "animFile": "man",
+   "radio1": 9,
+   "radio2": 8,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_BMORI",
+    "VOICE_GEN_BMORI"
+   ]
+  },
+  {
+   "id": 15,
+   "modelName": "BMOST",
+   "txdName": "bmost",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_STREET_GUY",
+   "animGroup": "man",
+   "canDriveMask": 1003,
+   "flags": 0,
+   "animFile": "man",
+   "radio1": 8,
+   "radio2": 9,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_BMOST",
+    "VOICE_GEN_BMOST"
+   ]
+  },
+  {
+   "id": 16,
+   "modelName": "BMYAP",
+   "txdName": "BMYAP",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_COWARD",
+   "animGroup": "man",
+   "canDriveMask": "110F",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 0,
+   "radio2": 8,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_BMYAP",
+    "VOICE_GEN_BMYAP"
+   ]
+  },
+  {
+   "id": 17,
+   "modelName": "BMYBU",
+   "txdName": "BMYBU",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_SUIT_GUY",
+   "animGroup": "man",
+   "canDriveMask": "120C",
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 7,
+   "radio2": 9,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_BMYBU",
+    "VOICE_GEN_BMYBU"
+   ]
+  },
+  {
+   "id": 18,
+   "modelName": "BMYBE",
+   "txdName": "BMYBE",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_BEACH_GUY",
+   "animGroup": "man",
+   "canDriveMask": 1000,
+   "flags": 0,
+   "animFile": "beach",
+   "radio1": 7,
+   "radio2": 3,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_BMYBE",
+    "VOICE_GEN_BMYBE"
+   ]
+  },
+  {
+   "id": 19,
+   "modelName": "BMYDJ",
+   "txdName": "BMYDJ",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_STREET_GUY",
+   "animGroup": "gang1",
+   "canDriveMask": "170F",
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 5,
+   "radio2": 0,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_BMYDJ",
+    "VOICE_GEN_BMYDJ"
+   ]
+  },
+  {
+   "id": 20,
+   "modelName": "BMYRI",
+   "txdName": "BMYRI",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_COWARD",
+   "animGroup": "man",
+   "canDriveMask": "120C",
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 7,
+   "radio2": 5,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_BMYRI",
+    "VOICE_GEN_BMYRI"
+   ]
+  },
+  {
+   "id": 21,
+   "modelName": "BMYCR",
+   "txdName": "BMYCR",
+   "defaultPedType": "CRIMINAL",
+   "behaviour": "STAT_CRIMINAL",
+   "animGroup": "gang1",
+   "canDriveMask": "110F",
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 5,
+   "radio2": 0,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_BMYCR",
+    "VOICE_GEN_BMYCR"
+   ]
+  },
+  {
+   "id": 22,
+   "modelName": "BMYST",
+   "txdName": "BMYST",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_STREET_GUY",
+   "animGroup": "gang2",
+   "canDriveMask": 1983,
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 0,
+   "radio2": 3,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_BMYST",
+    "VOICE_GEN_BMYST"
+   ]
+  },
+  {
+   "id": 23,
+   "modelName": "WMYBMX",
+   "txdName": "WMYBMX",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_STREET_GUY",
+   "animGroup": "man",
+   "canDriveMask": 800,
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 6,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WMYBMX",
+    "VOICE_GEN_WMYBMX"
+   ]
+  },
+  {
+   "id": 24,
+   "modelName": "WBDYG1",
+   "txdName": "WBDYG1",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TOUGH_GUY",
+   "animGroup": "man",
+   "canDriveMask": "170F",
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 10,
+   "radio2": 1,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_BBDYG1",
+    "VOICE_GEN_BBDYG1"
+   ]
+  },
+  {
+   "id": 25,
+   "modelName": "WBDYG2",
+   "txdName": "WBDYG2",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TOUGH_GUY",
+   "animGroup": "man",
+   "canDriveMask": "170F",
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 2,
+   "radio2": 1,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_BBDYG2",
+    "VOICE_GEN_BBDYG2"
+   ]
+  },
+  {
+   "id": 26,
+   "modelName": "WMYBP",
+   "txdName": "WMYBP",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_GEEK_GUY",
+   "animGroup": "man",
+   "canDriveMask": 1000,
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 2,
+   "radio2": 6,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WMYBP",
+    "VOICE_GEN_WMYBP"
+   ]
+  },
+  {
+   "id": 27,
+   "modelName": "WMYCON",
+   "txdName": "WMYCON",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_SUIT_GUY",
+   "animGroup": "man",
+   "canDriveMask": "130C",
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 1,
+   "radio2": 2,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WMYCON",
+    "VOICE_GEN_WMYCON"
+   ]
+  },
+  {
+   "id": 28,
+   "modelName": "BMYDRUG",
+   "txdName": "BMYdrug",
+   "defaultPedType": "CRIMINAL",
+   "behaviour": "STAT_CRIMINAL",
+   "animGroup": "gang2",
+   "canDriveMask": "110F",
+   "flags": 0,
+   "animFile": "man",
+   "radio1": 5,
+   "radio2": 5,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_BMYDRUG",
+    "VOICE_GEN_BMYDRUG"
+   ]
+  },
+  {
+   "id": 29,
+   "modelName": "WMYDRUG",
+   "txdName": "WMYdrug",
+   "defaultPedType": "CRIMINAL",
+   "behaviour": "STAT_CRIMINAL",
+   "animGroup": "man",
+   "canDriveMask": "110F",
+   "flags": 0,
+   "animFile": "man",
+   "radio1": 4,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WMYDRUG",
+    "VOICE_GEN_WMYDRUG"
+   ]
+  },
+  {
+   "id": 30,
+   "modelName": "HMYDRUG",
+   "txdName": "HMYdrug",
+   "defaultPedType": "CRIMINAL",
+   "behaviour": "STAT_CRIMINAL",
+   "animGroup": "man",
+   "canDriveMask": "110F",
+   "flags": 0,
+   "animFile": "man",
+   "radio1": 9,
+   "radio2": 7,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_HMYDRUG",
+    "VOICE_GEN_HMYDRUG"
+   ]
+  },
+  {
+   "id": 31,
+   "modelName": "DWFOLC",
+   "txdName": "dwfolc",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_OLD_GIRL",
+   "animGroup": "oldfatwoman",
+   "canDriveMask": 1003,
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 1,
+   "radio2": 10,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_DWFOLC",
+    "VOICE_GEN_DWFOLC"
+   ]
+  },
+  {
+   "id": 32,
+   "modelName": "DWMOLC1",
+   "txdName": "dwmolc1",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_OLD_GUY",
+   "animGroup": "man",
+   "canDriveMask": 1003,
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 1,
+   "radio2": 10,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_DWMOLC1",
+    "VOICE_GEN_DWMOLC1"
+   ]
+  },
+  {
+   "id": 33,
+   "modelName": "DWMOLC2",
+   "txdName": "dwmolc2",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_OLD_GUY",
+   "animGroup": "man",
+   "canDriveMask": 1003,
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 1,
+   "radio2": 2,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_DWMOLC2",
+    "VOICE_GEN_DWMOLC2"
+   ]
+  },
+  {
+   "id": 34,
+   "modelName": "DWMYLC1",
+   "txdName": "dwmylc1",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TOUGH_GUY",
+   "animGroup": "man",
+   "canDriveMask": 1983,
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 2,
+   "radio2": 1,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_DWMYLC1",
+    "VOICE_GEN_DWMYLC2"
+   ]
+  },
+  {
+   "id": 35,
+   "modelName": "HMOGAR",
+   "txdName": "HMOgar",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_OLD_GUY",
+   "animGroup": "man",
+   "canDriveMask": 1003,
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 10,
+   "radio2": 2,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WMYGAR",
+    "VOICE_GEN_WMYGAR"
+   ]
+  },
+  {
+   "id": 36,
+   "modelName": "WMYGOL1",
+   "txdName": "WMYgol1",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_COWARD",
+   "animGroup": "man",
+   "canDriveMask": "170F",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 2,
+   "radio2": 3,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WMYGOL1",
+    "VOICE_GEN_WMYGOL1"
+   ]
+  },
+  {
+   "id": 37,
+   "modelName": "WMYGOL2",
+   "txdName": "WMYgol2",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_COWARD",
+   "animGroup": "man",
+   "canDriveMask": "170F",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 7,
+   "radio2": 3,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WMYGOL2",
+    "VOICE_GEN_WMYGOL2"
+   ]
+  },
+  {
+   "id": 38,
+   "modelName": "HFORI",
+   "txdName": "hfori",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_COWARD",
+   "animGroup": "woman",
+   "canDriveMask": "120C",
+   "flags": 0,
+   "animFile": "man",
+   "radio1": 10,
+   "radio2": 9,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_HFORI",
+    "VOICE_GEN_HFORI"
+   ]
+  },
+  {
+   "id": 39,
+   "modelName": "HFOST",
+   "txdName": "hfost",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_OLD_GIRL",
+   "animGroup": "oldfatwoman",
+   "canDriveMask": 1003,
+   "flags": 0,
+   "animFile": "man",
+   "radio1": 9,
+   "radio2": 3,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_HFOST",
+    "VOICE_GEN_HFOST"
+   ]
+  },
+  {
+   "id": 40,
+   "modelName": "HFYRI",
+   "txdName": "HFYRI",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_COWARD",
+   "animGroup": "sexywoman",
+   "canDriveMask": "120C",
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 7,
+   "radio2": 3,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_HFYRI",
+    "VOICE_GEN_HFYRI"
+   ]
+  },
+  {
+   "id": 41,
+   "modelName": "HFYST",
+   "txdName": "HFYST",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_STREET_GIRL",
+   "animGroup": "woman",
+   "canDriveMask": 1983,
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 6,
+   "radio2": 1,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_HFYST",
+    "VOICE_GEN_HFYST"
+   ]
+  },
+  {
+   "id": 43,
+   "modelName": "HMORI",
+   "txdName": "HMORI",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_COWARD",
+   "animGroup": "man",
+   "canDriveMask": "120C",
+   "flags": 0,
+   "animFile": "man",
+   "radio1": 10,
+   "radio2": 9,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_HMORI",
+    "VOICE_GEN_HMORI"
+   ]
+  },
+  {
+   "id": 44,
+   "modelName": "HMOST",
+   "txdName": "HMOST",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_STREET_GUY",
+   "animGroup": "man",
+   "canDriveMask": 1003,
+   "flags": 0,
+   "animFile": "man",
+   "radio1": 2,
+   "radio2": 2,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_HMOST",
+    "VOICE_GEN_HMOST"
+   ]
+  },
+  {
+   "id": 45,
+   "modelName": "HMYBE",
+   "txdName": "HMYBE",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_BEACH_GUY",
+   "animGroup": "man",
+   "canDriveMask": 1000,
+   "flags": 0,
+   "animFile": "beach",
+   "radio1": 7,
+   "radio2": 3,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_HMYBE",
+    "VOICE_GEN_HMYBE"
+   ]
+  },
+  {
+   "id": 46,
+   "modelName": "HMYRI",
+   "txdName": "HMYRI",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_SUIT_GUY",
+   "animGroup": "man",
+   "canDriveMask": 1983,
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 6,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_HMYRI",
+    "VOICE_GEN_HMYRI"
+   ]
+  },
+  {
+   "id": 47,
+   "modelName": "HMYCR",
+   "txdName": "HMYCR",
+   "defaultPedType": "CRIMINAL",
+   "behaviour": "STAT_CRIMINAL",
+   "animGroup": "man",
+   "canDriveMask": "110F",
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 0,
+   "radio2": 0,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_HMYCR",
+    "VOICE_GEN_HMYCR"
+   ]
+  },
+  {
+   "id": 48,
+   "modelName": "HMYST",
+   "txdName": "HMYST",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TOURIST",
+   "animGroup": "man",
+   "canDriveMask": 1983,
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 0,
+   "radio2": 5,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_HMYST",
+    "VOICE_GEN_HMYST"
+   ]
+  },
+  {
+   "id": 49,
+   "modelName": "OMOKUNG",
+   "txdName": "OMOkung",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_OLD_GUY",
+   "animGroup": "oldman",
+   "canDriveMask": 1003,
+   "flags": 0,
+   "animFile": "man",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_OMOKUNG",
+    "VOICE_GEN_OMOKUNG"
+   ]
+  },
+  {
+   "id": 50,
+   "modelName": "WMYMECH",
+   "txdName": "WMYMECH",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TOUGH_GUY",
+   "animGroup": "man",
+   "canDriveMask": 1433,
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 6,
+   "radio2": 6,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WMYMECH",
+    "VOICE_GEN_WMYMECH"
+   ]
+  },
+  {
+   "id": 51,
+   "modelName": "BMYMOUN",
+   "txdName": "BMYMOUN",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_SENSIBLE_GUY",
+   "animGroup": "man",
+   "canDriveMask": 800,
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 2,
+   "radio2": "0 PED_TYPE_GEN",
+   "extra": [
+    "VOICE_GEN_BMYMOUN",
+    "VOICE_GEN_BMYMOUN"
+   ]
+  },
+  {
+   "id": 52,
+   "modelName": "WMYMOUN",
+   "txdName": "WMYMOUN",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_SENSIBLE_GUY",
+   "animGroup": "man",
+   "canDriveMask": 800,
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 6,
+   "radio2": 2,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WMYMOUN",
+    "VOICE_GEN_WMYMOUN"
+   ]
+  },
+  {
+   "id": 53,
+   "modelName": "OFORI",
+   "txdName": "OFORI",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_OLD_GIRL",
+   "animGroup": "oldwoman",
+   "canDriveMask": "120C",
+   "flags": 0,
+   "animFile": "man",
+   "radio1": 10,
+   "radio2": 1,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_OFORI",
+    "VOICE_GEN_OFORI"
+   ]
+  },
+  {
+   "id": 54,
+   "modelName": "OFOST",
+   "txdName": "OFOST",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_STREET_GIRL",
+   "animGroup": "oldwoman",
+   "canDriveMask": 1003,
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 10,
+   "radio2": 3,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_OFOST",
+    "VOICE_GEN_OFOST"
+   ]
+  },
+  {
+   "id": 55,
+   "modelName": "OFYRI",
+   "txdName": "OFYRI",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_COWARD",
+   "animGroup": "woman",
+   "canDriveMask": "120C",
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 2,
+   "radio2": 7,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_OFYRI",
+    "VOICE_GEN_OFYRI"
+   ]
+  },
+  {
+   "id": 56,
+   "modelName": "OFYST",
+   "txdName": "OFYST",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_TOURIST",
+   "animGroup": "woman",
+   "canDriveMask": 1003,
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 6,
+   "radio2": 6,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_OFYST",
+    "VOICE_GEN_OFYST"
+   ]
+  },
+  {
+   "id": 57,
+   "modelName": "OMORI",
+   "txdName": "OMORI",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_COWARD",
+   "animGroup": "man",
+   "canDriveMask": "120C",
+   "flags": 0,
+   "animFile": "man",
+   "radio1": 10,
+   "radio2": 10,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_OMORI",
+    "VOICE_GEN_OMORI"
+   ]
+  },
+  {
+   "id": 58,
+   "modelName": "OMOST",
+   "txdName": "OMOST",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_STREET_GUY",
+   "animGroup": "man",
+   "canDriveMask": 1003,
+   "flags": 0,
+   "animFile": "man",
+   "radio1": 2,
+   "radio2": 1,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_OMOST",
+    "VOICE_GEN_OMOST"
+   ]
+  },
+  {
+   "id": 59,
+   "modelName": "OMYRI",
+   "txdName": "OMYRI",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_COWARD",
+   "animGroup": "man",
+   "canDriveMask": "120C",
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 2,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_OMYRI",
+    "VOICE_GEN_OMYRI"
+   ]
+  },
+  {
+   "id": 60,
+   "modelName": "OMYST",
+   "txdName": "OMYST",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TOURIST",
+   "animGroup": "man",
+   "canDriveMask": 1983,
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 3,
+   "radio2": 6,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_OMYST",
+    "VOICE_GEN_OMYST"
+   ]
+  },
+  {
+   "id": 61,
+   "modelName": "WMYPLT",
+   "txdName": "WMYPLT",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_SUIT_GUY",
+   "animGroup": "man",
+   "canDriveMask": 1000,
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 1,
+   "radio2": 2,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WMYPLT",
+    "VOICE_GEN_WMYPLT"
+   ]
+  },
+  {
+   "id": 62,
+   "modelName": "WMOPJ",
+   "txdName": "WMOpj",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_OLD_GUY",
+   "animGroup": "oldman",
+   "canDriveMask": 1000,
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 1,
+   "radio2": 1,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WMOPJ",
+    "VOICE_GEN_WMOPJ"
+   ]
+  },
+  {
+   "id": 63,
+   "modelName": "BFYPRO",
+   "txdName": "BFYPRO",
+   "defaultPedType": "PROSTITUTE",
+   "behaviour": "STAT_PROSTITUTE",
+   "animGroup": "pro",
+   "canDriveMask": 1000,
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_BFYPRO",
+    "VOICE_GEN_BFYPRO"
+   ]
+  },
+  {
+   "id": 64,
+   "modelName": "HFYPRO",
+   "txdName": "HFYPRO",
+   "defaultPedType": "PROSTITUTE",
+   "behaviour": "STAT_PROSTITUTE",
+   "animGroup": "pro",
+   "canDriveMask": 1000,
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_HFYPRO",
+    "VOICE_GEN_HFYPRO"
+   ]
+  },
+  {
+   "id": 66,
+   "modelName": "BMYPOL1",
+   "txdName": "BMYpol1",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TOUGH_GUY",
+   "animGroup": "man",
+   "canDriveMask": "110F",
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 0,
+   "radio2": 0,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_BMYPOL1",
+    "VOICE_GEN_BMYPOL1"
+   ]
+  },
+  {
+   "id": 67,
+   "modelName": "BMYPOL2",
+   "txdName": "BMYpol2",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TOUGH_GUY",
+   "animGroup": "man",
+   "canDriveMask": "110F",
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 8,
+   "radio2": 8,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_BMYPOL2",
+    "VOICE_GEN_BMYPOL2"
+   ]
+  },
+  {
+   "id": 68,
+   "modelName": "WMOPREA",
+   "txdName": "WMOprea",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_SUIT_GUY",
+   "animGroup": "man",
+   "canDriveMask": "170F",
+   "flags": 0,
+   "animFile": "man",
+   "radio1": 1,
+   "radio2": 10,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WMOPREA",
+    "VOICE_GEN_WMOPREA"
+   ]
+  },
+  {
+   "id": 69,
+   "modelName": "SBFYST",
+   "txdName": "sbfyst",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_TOURIST",
+   "animGroup": "woman",
+   "canDriveMask": 1983,
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 4,
+   "radio2": 6,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SBFYST",
+    "VOICE_GEN_SBFYST"
+   ]
+  },
+  {
+   "id": 70,
+   "modelName": "WMOSCI",
+   "txdName": "WMOsci",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_OLD_GUY",
+   "animGroup": "man",
+   "canDriveMask": "120C",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 10,
+   "radio2": 10,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WMOSCI",
+    "VOICE_GEN_WMOSCI"
+   ]
+  },
+  {
+   "id": 71,
+   "modelName": "WMYSGRD",
+   "txdName": "WMYSGRD",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TOUGH_GUY",
+   "animGroup": "man",
+   "canDriveMask": "170F",
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 2,
+   "radio2": 6,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WMYSGRAD",
+    "VOICE_GEN_WMYSGRAD"
+   ]
+  },
+  {
+   "id": 72,
+   "modelName": "SWMYHP1",
+   "txdName": "SWMYhp1",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TOUGH_GUY",
+   "animGroup": "man",
+   "canDriveMask": 1983,
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 8,
+   "radio2": 2,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SWMYHP1",
+    "VOICE_GEN_SWMYHP1"
+   ]
+  },
+  {
+   "id": 73,
+   "modelName": "SWMYHP2",
+   "txdName": "SWMYhp2",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_COWARD",
+   "animGroup": "man",
+   "canDriveMask": 1882,
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 2,
+   "radio2": 8,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SWMYHP2",
+    "VOICE_GEN_SWMYHP2"
+   ]
+  },
+  {
+   "id": 75,
+   "modelName": "SWFOPRO",
+   "txdName": "sWFOpro",
+   "defaultPedType": "PROSTITUTE",
+   "behaviour": "STAT_PROSTITUTE",
+   "animGroup": "pro",
+   "canDriveMask": 1000,
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 3,
+   "radio2": 3,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SWFOPRO",
+    "VOICE_GEN_SWFOPRO"
+   ]
+  },
+  {
+   "id": 76,
+   "modelName": "WFYSTEW",
+   "txdName": "WFYSTEW",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_GEEK_GIRL",
+   "animGroup": "sexywoman",
+   "canDriveMask": 1000,
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 6,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WFYSTEW",
+    "VOICE_GEN_WFYSTEW"
+   ]
+  },
+  {
+   "id": 77,
+   "modelName": "SWMOTR1",
+   "txdName": "sWMOtr1",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TRAMP_MALE",
+   "animGroup": "man",
+   "canDriveMask": 1000,
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SWMOTR1",
+    "VOICE_GEN_SWMOTR1"
+   ]
+  },
+  {
+   "id": 78,
+   "modelName": "WMOTR1",
+   "txdName": "WMOTR1",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TRAMP_MALE",
+   "animGroup": "man",
+   "canDriveMask": 1000,
+   "flags": 0,
+   "animFile": "man",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WMOTR1",
+    "VOICE_GEN_WMOTR1"
+   ]
+  },
+  {
+   "id": 79,
+   "modelName": "BMOTR1",
+   "txdName": "BMOTR1",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TRAMP_MALE",
+   "animGroup": "man",
+   "canDriveMask": 1000,
+   "flags": 0,
+   "animFile": "man",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_BMOTR1",
+    "VOICE_GEN_BMOTR1"
+   ]
+  },
+  {
+   "id": 80,
+   "modelName": "VBMYBOX",
+   "txdName": "VBMYbox",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TOUGH_GUY",
+   "animGroup": "man",
+   "canDriveMask": 1000,
+   "flags": 0,
+   "animFile": "man",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_BMYBOX",
+    "VOICE_GEN_BMYBOX"
+   ]
+  },
+  {
+   "id": 81,
+   "modelName": "VWMYBOX",
+   "txdName": "VWMYbox",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TOUGH_GUY",
+   "animGroup": "man",
+   "canDriveMask": 1000,
+   "flags": 0,
+   "animFile": "man",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WMYBOX",
+    "VOICE_GEN_WMYBOX"
+   ]
+  },
+  {
+   "id": 82,
+   "modelName": "VHMYELV",
+   "txdName": "VHMYELV",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_COWARD",
+   "animGroup": "man",
+   "canDriveMask": "170F",
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 1,
+   "radio2": 2,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_VHMYELV",
+    "VOICE_GEN_VHMYELV"
+   ]
+  },
+  {
+   "id": 83,
+   "modelName": "VBMYELV",
+   "txdName": "VBMYELV",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TOUGH_GUY",
+   "animGroup": "man",
+   "canDriveMask": "170F",
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 2,
+   "radio2": 1,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_VBMYELV",
+    "VOICE_GEN_VBMYELV"
+   ]
+  },
+  {
+   "id": 84,
+   "modelName": "VIMYELV",
+   "txdName": "VIMYELV",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_COWARD",
+   "animGroup": "man",
+   "canDriveMask": "170F",
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 1,
+   "radio2": 1,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_VIMYELV",
+    "VOICE_GEN_VIMYELV"
+   ]
+  },
+  {
+   "id": 85,
+   "modelName": "VWFYPRO",
+   "txdName": "VWFYPRO",
+   "defaultPedType": "PROSTITUTE",
+   "behaviour": "STAT_PROSTITUTE",
+   "animGroup": "pro",
+   "canDriveMask": 1000,
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_VWFYPRO",
+    "VOICE_GEN_VWFYPRO"
+   ]
+  },
+  {
+   "id": 87,
+   "modelName": "VWFYST1",
+   "txdName": "VWFYST1",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_STREET_GIRL",
+   "animGroup": "sexywoman",
+   "canDriveMask": 1000,
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_VWFYST1",
+    "VOICE_GEN_VWFYST1"
+   ]
+  },
+  {
+   "id": 88,
+   "modelName": "WFORI",
+   "txdName": "WFORI",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_COWARD",
+   "animGroup": "oldwoman",
+   "canDriveMask": "120C",
+   "flags": 0,
+   "animFile": "man",
+   "radio1": 10,
+   "radio2": 1,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WFORI",
+    "VOICE_GEN_WFORI"
+   ]
+  },
+  {
+   "id": 89,
+   "modelName": "WFOST",
+   "txdName": "WFOST",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_STREET_GIRL",
+   "animGroup": "oldfatwoman",
+   "canDriveMask": 1003,
+   "flags": 0,
+   "animFile": "man",
+   "radio1": 1,
+   "radio2": 2,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WFOST",
+    "VOICE_GEN_WFOST"
+   ]
+  },
+  {
+   "id": 90,
+   "modelName": "WFYJG",
+   "txdName": "WFYJG",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_COWARD",
+   "animGroup": "jogwoman",
+   "canDriveMask": 1000,
+   "flags": 0,
+   "animFile": "beach",
+   "radio1": 9,
+   "radio2": 9,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WFYJG",
+    "VOICE_GEN_WFYJG"
+   ]
+  },
+  {
+   "id": 91,
+   "modelName": "WFYRI",
+   "txdName": "WFYRI",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_COWARD",
+   "animGroup": "sexywoman",
+   "canDriveMask": "120C",
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 4,
+   "radio2": 6,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WFYRI",
+    "VOICE_GEN_WFYRI"
+   ]
+  },
+  {
+   "id": 92,
+   "modelName": "WFYRO",
+   "txdName": "WFYRO",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_SKATER",
+   "animGroup": "skate",
+   "canDriveMask": 1000,
+   "flags": 1,
+   "animFile": "skate",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WFYRO",
+    "VOICE_GEN_WFYRO"
+   ]
+  },
+  {
+   "id": 93,
+   "modelName": "WFYST",
+   "txdName": "WFYST",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_STREET_GIRL",
+   "animGroup": "sexywoman",
+   "canDriveMask": 1983,
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 4,
+   "radio2": 6,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WFYST",
+    "VOICE_GEN_WFYST"
+   ]
+  },
+  {
+   "id": 94,
+   "modelName": "WMORI",
+   "txdName": "WMORI",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_SUIT_GUY",
+   "animGroup": "man",
+   "canDriveMask": "120C",
+   "flags": 0,
+   "animFile": "man",
+   "radio1": 10,
+   "radio2": 10,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WMORI",
+    "VOICE_GEN_WMORI"
+   ]
+  },
+  {
+   "id": 95,
+   "modelName": "WMOST",
+   "txdName": "WMOST",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_OLD_GUY",
+   "animGroup": "man",
+   "canDriveMask": 1003,
+   "flags": 0,
+   "animFile": "man",
+   "radio1": 8,
+   "radio2": 1,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WMOST",
+    "VOICE_GEN_WMOST"
+   ]
+  },
+  {
+   "id": 96,
+   "modelName": "WMYJG",
+   "txdName": "WMYJG",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_SENSIBLE_GUY",
+   "animGroup": "jogger",
+   "canDriveMask": 1000,
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 9,
+   "radio2": 9,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WMYJG",
+    "VOICE_GEN_WMYJG"
+   ]
+  },
+  {
+   "id": 97,
+   "modelName": "WMYLG",
+   "txdName": "WMYlG",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_GEEK_GUY",
+   "animGroup": "jogger",
+   "canDriveMask": 1000,
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 9,
+   "radio2": 9,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WMYLG",
+    "VOICE_GEN_WMYLG"
+   ]
+  },
+  {
+   "id": 98,
+   "modelName": "WMYRI",
+   "txdName": "WMYRI",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_SHOPPER",
+   "animGroup": "man",
+   "canDriveMask": "120C",
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 6,
+   "radio2": 9,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WMYRI",
+    "VOICE_GEN_WMYRI"
+   ]
+  },
+  {
+   "id": 99,
+   "modelName": "WMYRO",
+   "txdName": "WMYRO",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_SKATER",
+   "animGroup": "skate",
+   "canDriveMask": 1000,
+   "flags": 0,
+   "animFile": "skate",
+   "radio1": 9,
+   "radio2": 9,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WMYRO",
+    "VOICE_GEN_WMYRO"
+   ]
+  },
+  {
+   "id": 100,
+   "modelName": "WMYCR",
+   "txdName": "WMYCR",
+   "defaultPedType": "CRIMINAL",
+   "behaviour": "STAT_CRIMINAL",
+   "animGroup": "man",
+   "canDriveMask": "110F",
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 2,
+   "radio2": 6,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WMYCR",
+    "VOICE_GEN_WMYCR"
+   ]
+  },
+  {
+   "id": 101,
+   "modelName": "WMYST",
+   "txdName": "WMYST",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_STREET_GUY",
+   "animGroup": "man",
+   "canDriveMask": 1983,
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 4,
+   "radio2": 3,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WMYST",
+    "VOICE_GEN_WMYST"
+   ]
+  },
+  {
+   "id": 102,
+   "modelName": "BALLAS1",
+   "txdName": "BALLAS1",
+   "defaultPedType": "GANG1",
+   "behaviour": "STAT_GANG1",
+   "animGroup": "gang1",
+   "canDriveMask": "110F",
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 3,
+   "radio2": 3,
+   "extra": [
+    "PED_TYPE_GANG",
+    "VOICE_GNG_BALLAS1",
+    "VOICE_GNG_BALLAS2"
+   ]
+  },
+  {
+   "id": 103,
+   "modelName": "BALLAS2",
+   "txdName": "BALLAS2",
+   "defaultPedType": "GANG1",
+   "behaviour": "STAT_GANG1",
+   "animGroup": "gang2",
+   "canDriveMask": "110F",
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 3,
+   "radio2": 3,
+   "extra": [
+    "PED_TYPE_GANG",
+    "VOICE_GNG_BALLAS3",
+    "VOICE_GNG_BALLAS4"
+   ]
+  },
+  {
+   "id": 104,
+   "modelName": "BALLAS3",
+   "txdName": "BALLAS3",
+   "defaultPedType": "GANG1",
+   "behaviour": "STAT_GANG1",
+   "animGroup": "gang1",
+   "canDriveMask": "110F",
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 3,
+   "radio2": 3,
+   "extra": [
+    "PED_TYPE_GANG",
+    "VOICE_GNG_BALLAS5",
+    "VOICE_GNG_BALLAS5"
+   ]
+  },
+  {
+   "id": 105,
+   "modelName": "FAM1",
+   "txdName": "FAM1",
+   "defaultPedType": "GANG2",
+   "behaviour": "STAT_GANG2",
+   "animGroup": "gang2",
+   "canDriveMask": "110F",
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 5,
+   "radio2": 5,
+   "extra": [
+    "PED_TYPE_GANG",
+    "VOICE_GNG_FAM1",
+    "VOICE_GNG_FAM2"
+   ]
+  },
+  {
+   "id": 106,
+   "modelName": "FAM2",
+   "txdName": "FAM2",
+   "defaultPedType": "GANG2",
+   "behaviour": "STAT_GANG2",
+   "animGroup": "gang1",
+   "canDriveMask": "110F",
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 5,
+   "radio2": 5,
+   "extra": [
+    "PED_TYPE_GANG",
+    "VOICE_GNG_FAM3",
+    "VOICE_GNG_FAM4"
+   ]
+  },
+  {
+   "id": 107,
+   "modelName": "FAM3",
+   "txdName": "FAM3",
+   "defaultPedType": "GANG2",
+   "behaviour": "STAT_GANG2",
+   "animGroup": "gang2",
+   "canDriveMask": "110F",
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 5,
+   "radio2": 5,
+   "extra": [
+    "PED_TYPE_GANG",
+    "VOICE_GNG_FAM5",
+    "VOICE_GNG_FAM5"
+   ]
+  },
+  {
+   "id": 108,
+   "modelName": "LSV1",
+   "txdName": "LSV1",
+   "defaultPedType": "GANG3",
+   "behaviour": "STAT_GANG3",
+   "animGroup": "gang1",
+   "canDriveMask": "110F",
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 9,
+   "radio2": 2,
+   "extra": [
+    "PED_TYPE_GANG",
+    "VOICE_GNG_LSV1",
+    "VOICE_GNG_LSV2"
+   ]
+  },
+  {
+   "id": 109,
+   "modelName": "LSV2",
+   "txdName": "LSV2",
+   "defaultPedType": "GANG3",
+   "behaviour": "STAT_GANG3",
+   "animGroup": "gang2",
+   "canDriveMask": "110F",
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 9,
+   "radio2": 2,
+   "extra": [
+    "PED_TYPE_GANG",
+    "VOICE_GNG_LSV3",
+    "VOICE_GNG_LSV4"
+   ]
+  },
+  {
+   "id": 110,
+   "modelName": "LSV3",
+   "txdName": "LSV3",
+   "defaultPedType": "GANG3",
+   "behaviour": "STAT_GANG3",
+   "animGroup": "gang1",
+   "canDriveMask": "110F",
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 9,
+   "radio2": 2,
+   "extra": [
+    "PED_TYPE_GANG",
+    "VOICE_GNG_LSV5",
+    "VOICE_GNG_LSV5"
+   ]
+  },
+  {
+   "id": 111,
+   "modelName": "MAFFA",
+   "txdName": "MAFFA",
+   "defaultPedType": "CRIMINAL",
+   "behaviour": "STAT_CRIMINAL",
+   "animGroup": "man",
+   "canDriveMask": "110F",
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 2,
+   "radio2": 2,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_MAFFA",
+    "VOICE_GEN_MAFFA"
+   ]
+  },
+  {
+   "id": 112,
+   "modelName": "MAFFB",
+   "txdName": "MAFFB",
+   "defaultPedType": "CRIMINAL",
+   "behaviour": "STAT_CRIMINAL",
+   "animGroup": "man",
+   "canDriveMask": "110F",
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 2,
+   "radio2": 2,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_MAFFB",
+    "VOICE_GEN_MAFFB"
+   ]
+  },
+  {
+   "id": 113,
+   "modelName": "MAFBOSS",
+   "txdName": "MAFBOSS",
+   "defaultPedType": "CRIMINAL",
+   "behaviour": "STAT_CRIMINAL",
+   "animGroup": "man",
+   "canDriveMask": "110F",
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 2,
+   "radio2": 2,
+   "extra": [
+    "PED_TYPE_GANG",
+    "VOICE_GNG_MAFBOSS",
+    "VOICE_GNG_MAFBOSS"
+   ]
+  },
+  {
+   "id": 114,
+   "modelName": "VLA1",
+   "txdName": "VLA1",
+   "defaultPedType": "GANG8",
+   "behaviour": "STAT_GANG8",
+   "animGroup": "gang1",
+   "canDriveMask": "110F",
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 0,
+   "radio2": 0,
+   "extra": [
+    "PED_TYPE_GANG",
+    "VOICE_GNG_VLA1",
+    "VOICE_GNG_VLA2"
+   ]
+  },
+  {
+   "id": 115,
+   "modelName": "VLA2",
+   "txdName": "VLA2",
+   "defaultPedType": "GANG8",
+   "behaviour": "STAT_GANG8",
+   "animGroup": "gang2",
+   "canDriveMask": "110F",
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 0,
+   "radio2": 0,
+   "extra": [
+    "PED_TYPE_GANG",
+    "VOICE_GNG_VLA3",
+    "VOICE_GNG_VLA4"
+   ]
+  },
+  {
+   "id": 116,
+   "modelName": "VLA3",
+   "txdName": "VLA3",
+   "defaultPedType": "GANG8",
+   "behaviour": "STAT_GANG8",
+   "animGroup": "gang1",
+   "canDriveMask": "110F",
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 0,
+   "radio2": 0,
+   "extra": [
+    "PED_TYPE_GANG",
+    "VOICE_GNG_VLA5",
+    "VOICE_GNG_VLA5"
+   ]
+  },
+  {
+   "id": 117,
+   "modelName": "TRIADA",
+   "txdName": "TRIADA",
+   "defaultPedType": "GANG7",
+   "behaviour": "STAT_GANG7",
+   "animGroup": "man",
+   "canDriveMask": "110F",
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 4,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GANG",
+    "VOICE_GNG_STRI1",
+    "VOICE_GNG_STRI5"
+   ]
+  },
+  {
+   "id": 118,
+   "modelName": "TRIADB",
+   "txdName": "TRIADB",
+   "defaultPedType": "GANG7",
+   "behaviour": "STAT_GANG7",
+   "animGroup": "man",
+   "canDriveMask": "110F",
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 4,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GANG",
+    "VOICE_GNG_STRI1",
+    "VOICE_GNG_STRI1"
+   ]
+  },
+  {
+   "id": 120,
+   "modelName": "TRIBOSS",
+   "txdName": "TRIBOSS",
+   "defaultPedType": "GANG7",
+   "behaviour": "STAT_GANG7",
+   "animGroup": "man",
+   "canDriveMask": "110F",
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 4,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GANG",
+    "VOICE_GNG_STRI1",
+    "VOICE_GNG_STRI1"
+   ]
+  },
+  {
+   "id": 121,
+   "modelName": "DNB1",
+   "txdName": "DNB1",
+   "defaultPedType": "GANG5",
+   "behaviour": "STAT_GANG5",
+   "animGroup": "gang1",
+   "canDriveMask": "110F",
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 3,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GANG",
+    "VOICE_GNG_DNB1",
+    "VOICE_GNG_DNB1"
+   ]
+  },
+  {
+   "id": 122,
+   "modelName": "DNB2",
+   "txdName": "DNB2",
+   "defaultPedType": "GANG5",
+   "behaviour": "STAT_GANG5",
+   "animGroup": "gang2",
+   "canDriveMask": "110F",
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 3,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GANG",
+    "VOICE_GNG_DNB2",
+    "VOICE_GNG_DNB2"
+   ]
+  },
+  {
+   "id": 123,
+   "modelName": "DNB3",
+   "txdName": "DNB3",
+   "defaultPedType": "GANG5",
+   "behaviour": "STAT_GANG5",
+   "animGroup": "gang1",
+   "canDriveMask": "110F",
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 3,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GANG",
+    "VOICE_GNG_DNB3",
+    "VOICE_GNG_DNB5"
+   ]
+  },
+  {
+   "id": 124,
+   "modelName": "VMAFF1",
+   "txdName": "VMAFF1",
+   "defaultPedType": "GANG6",
+   "behaviour": "STAT_GANG6",
+   "animGroup": "gang1",
+   "canDriveMask": "110F",
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 2,
+   "radio2": 2,
+   "extra": [
+    "PED_TYPE_GANG",
+    "VOICE_GNG_VMAFF1",
+    "VOICE_GNG_VMAFF2"
+   ]
+  },
+  {
+   "id": 125,
+   "modelName": "VMAFF2",
+   "txdName": "VMAFF2",
+   "defaultPedType": "GANG6",
+   "behaviour": "STAT_GANG6",
+   "animGroup": "man",
+   "canDriveMask": "110F",
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 2,
+   "radio2": 2,
+   "extra": [
+    "PED_TYPE_GANG",
+    "VOICE_GNG_VMAFF3",
+    "VOICE_GNG_VMAFF3"
+   ]
+  },
+  {
+   "id": 126,
+   "modelName": "VMAFF3",
+   "txdName": "VMAFF3",
+   "defaultPedType": "GANG6",
+   "behaviour": "STAT_GANG6",
+   "animGroup": "man",
+   "canDriveMask": "110F",
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 2,
+   "radio2": 2,
+   "extra": [
+    "PED_TYPE_GANG",
+    "VOICE_GNG_VMAFF4",
+    "VOICE_GNG_VMAFF4"
+   ]
+  },
+  {
+   "id": 127,
+   "modelName": "VMAFF4",
+   "txdName": "VMAFF4",
+   "defaultPedType": "GANG6",
+   "behaviour": "STAT_GANG6",
+   "animGroup": "man",
+   "canDriveMask": "110F",
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 2,
+   "radio2": 2,
+   "extra": [
+    "PED_TYPE_GANG",
+    "VOICE_GNG_VMAFF5",
+    "VOICE_GNG_VMAFF5"
+   ]
+  },
+  {
+   "id": 128,
+   "modelName": "DNMYLC",
+   "txdName": "DNMYLC",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TOUGH_GUY",
+   "animGroup": "man",
+   "canDriveMask": "1FFF",
+   "flags": 0,
+   "animFile": "man",
+   "radio1": 2,
+   "radio2": 1,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_DNMYLC",
+    "VOICE_GEN_DNMYLC"
+   ]
+  },
+  {
+   "id": 129,
+   "modelName": "DNFOLC1",
+   "txdName": "DNFOLC1",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_COWARD",
+   "animGroup": "oldwoman",
+   "canDriveMask": 1003,
+   "flags": 0,
+   "animFile": "man",
+   "radio1": 10,
+   "radio2": 2,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_DNFOLC1",
+    "VOICE_GEN_DNFOLC1"
+   ]
+  },
+  {
+   "id": 130,
+   "modelName": "DNFOLC2",
+   "txdName": "DNFOLC2",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_COWARD",
+   "animGroup": "oldwoman",
+   "canDriveMask": 1003,
+   "flags": 0,
+   "animFile": "man",
+   "radio1": 10,
+   "radio2": 10,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_DNFOLC2",
+    "VOICE_GEN_DNFOLC2"
+   ]
+  },
+  {
+   "id": 131,
+   "modelName": "DNFYLC",
+   "txdName": "DNFYLC",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_COWARD",
+   "animGroup": "sexywoman",
+   "canDriveMask": "1FFF",
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 2,
+   "radio2": 6,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_DNFYLC",
+    "VOICE_GEN_DNFYLC"
+   ]
+  },
+  {
+   "id": 132,
+   "modelName": "DNMOLC1",
+   "txdName": "DNMOLC1",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_OLD_GUY",
+   "animGroup": "man",
+   "canDriveMask": 1003,
+   "flags": 0,
+   "animFile": "man",
+   "radio1": 1,
+   "radio2": 10,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_DNMOLC1",
+    "VOICE_GEN_DNMOLC1"
+   ]
+  },
+  {
+   "id": 133,
+   "modelName": "DNMOLC2",
+   "txdName": "DNMOLC2",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_OLD_GUY",
+   "animGroup": "man",
+   "canDriveMask": 1003,
+   "flags": 0,
+   "animFile": "man",
+   "radio1": 10,
+   "radio2": 2,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_DNMOLC2",
+    "VOICE_GEN_DNMOLC2"
+   ]
+  },
+  {
+   "id": 134,
+   "modelName": "SBMOTR2",
+   "txdName": "SBMOTR2",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TRAMP_MALE",
+   "animGroup": "oldman",
+   "canDriveMask": 1000,
+   "flags": 0,
+   "animFile": "man",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SBMOTR1",
+    "VOICE_GEN_SBMOTR2"
+   ]
+  },
+  {
+   "id": 135,
+   "modelName": "SWMOTR2",
+   "txdName": "SWMOTR2",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TRAMP_MALE",
+   "animGroup": "man",
+   "canDriveMask": 1000,
+   "flags": 0,
+   "animFile": "man",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SWMOTR2",
+    "VOICE_GEN_SWMOTR2"
+   ]
+  },
+  {
+   "id": 136,
+   "modelName": "SBMYTR3",
+   "txdName": "SBMYTR3",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TRAMP_MALE",
+   "animGroup": "man",
+   "canDriveMask": 1000,
+   "flags": 0,
+   "animFile": "man",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SBMYTR3",
+    "VOICE_GEN_SBMYTR3"
+   ]
+  },
+  {
+   "id": 137,
+   "modelName": "SWMOTR3",
+   "txdName": "SWMOTR3",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TRAMP_MALE",
+   "animGroup": "man",
+   "canDriveMask": 1000,
+   "flags": 0,
+   "animFile": "man",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SWMOTR3",
+    "VOICE_GEN_SWMOTR3"
+   ]
+  },
+  {
+   "id": 138,
+   "modelName": "WFYBE",
+   "txdName": "WFYBE",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_COWARD",
+   "animGroup": "woman",
+   "canDriveMask": 1000,
+   "flags": 0,
+   "animFile": "beach",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WFYBE",
+    "VOICE_GEN_WFYBE"
+   ]
+  },
+  {
+   "id": 139,
+   "modelName": "BFYBE",
+   "txdName": "BFYBE",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_BEACH_GIRL",
+   "animGroup": "woman",
+   "canDriveMask": 1000,
+   "flags": 0,
+   "animFile": "beach",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_BFYBE",
+    "VOICE_GEN_BFYBE"
+   ]
+  },
+  {
+   "id": 140,
+   "modelName": "HFYBE",
+   "txdName": "HFYBE",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_BEACH_GIRL",
+   "animGroup": "woman",
+   "canDriveMask": 1000,
+   "flags": 0,
+   "animFile": "beach",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_HFYBE",
+    "VOICE_GEN_HFYBE"
+   ]
+  },
+  {
+   "id": 141,
+   "modelName": "SOFYBU",
+   "txdName": "SOFYBU",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_SUIT_GIRL",
+   "animGroup": "busywoman",
+   "canDriveMask": "120C",
+   "flags": 0,
+   "animFile": "man",
+   "radio1": 4,
+   "radio2": 0,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SOFYBU",
+    "VOICE_GEN_SOFYBU"
+   ]
+  },
+  {
+   "id": 142,
+   "modelName": "SBMYST",
+   "txdName": "SBMYST",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_STREET_GUY",
+   "animGroup": "man",
+   "canDriveMask": 1983,
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 8,
+   "radio2": 5,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SBMYST",
+    "VOICE_GEN_SBMYST"
+   ]
+  },
+  {
+   "id": 143,
+   "modelName": "SBMYCR",
+   "txdName": "SBMYCR",
+   "defaultPedType": "CRIMINAL",
+   "behaviour": "STAT_CRIMINAL",
+   "animGroup": "gang1",
+   "canDriveMask": "110F",
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 5,
+   "radio2": 0,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SBMYCR",
+    "VOICE_GEN_SBMYCR"
+   ]
+  },
+  {
+   "id": 144,
+   "modelName": "BMYCG",
+   "txdName": "bmycg",
+   "defaultPedType": "CRIMINAL",
+   "behaviour": "STAT_CRIMINAL",
+   "animGroup": "gang2",
+   "canDriveMask": "110F",
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 8,
+   "radio2": 3,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_BMYCG",
+    "VOICE_GEN_BMYCG"
+   ]
+  },
+  {
+   "id": 145,
+   "modelName": "WFYCRK",
+   "txdName": "Wfycrk",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_CRIMINAL",
+   "animGroup": "woman",
+   "canDriveMask": "110F",
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 4,
+   "radio2": 3,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WFYCRK",
+    "VOICE_GEN_WFYCRK"
+   ]
+  },
+  {
+   "id": 146,
+   "modelName": "HMYCM",
+   "txdName": "hmycm",
+   "defaultPedType": "CRIMINAL",
+   "behaviour": "STAT_CRIMINAL",
+   "animGroup": "man",
+   "canDriveMask": "110F",
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 8,
+   "radio2": 10,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_HMYCM",
+    "VOICE_GEN_HMYCM"
+   ]
+  },
+  {
+   "id": 147,
+   "modelName": "WMYBU",
+   "txdName": "wmybu",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_COWARD",
+   "animGroup": "man",
+   "canDriveMask": "120C",
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 6,
+   "radio2": 3,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WMYBU",
+    "VOICE_GEN_WMYBU"
+   ]
+  },
+  {
+   "id": 148,
+   "modelName": "BFYBU",
+   "txdName": "bfybu",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_SUIT_GIRL",
+   "animGroup": "busywoman",
+   "canDriveMask": "120C",
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 3,
+   "radio2": 7,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_BFYBU",
+    "VOICE_GEN_BFYBU"
+   ]
+  },
+  {
+   "id": 150,
+   "modelName": "WFYBU",
+   "txdName": "wfybu",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_SUIT_GIRL",
+   "animGroup": "busywoman",
+   "canDriveMask": "120C",
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 9,
+   "radio2": 2,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WFYBU",
+    "VOICE_GEN_WFYBU"
+   ]
+  },
+  {
+   "id": 151,
+   "modelName": "DWFYLC1",
+   "txdName": "Dwfylc1",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_TOUGH_GIRL",
+   "animGroup": "sexywoman",
+   "canDriveMask": 1983,
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 1,
+   "radio2": 1,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_DWFYLC1",
+    "VOICE_GEN_DWFYLC2"
+   ]
+  },
+  {
+   "id": 152,
+   "modelName": "WFYPRO",
+   "txdName": "WFYpro",
+   "defaultPedType": "PROSTITUTE",
+   "behaviour": "STAT_PROSTITUTE",
+   "animGroup": "pro",
+   "canDriveMask": 1000,
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WFYPRO",
+    "VOICE_GEN_WFYPRO"
+   ]
+  },
+  {
+   "id": 153,
+   "modelName": "WMYCONB",
+   "txdName": "wmyconb",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_SUIT_GUY",
+   "animGroup": "man",
+   "canDriveMask": "170F",
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 6,
+   "radio2": 2,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WMYCONB",
+    "VOICE_GEN_WMYCONB"
+   ]
+  },
+  {
+   "id": 154,
+   "modelName": "WMYBE",
+   "txdName": "wmybe",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_SENSIBLE_GUY",
+   "animGroup": "man",
+   "canDriveMask": 1000,
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WMYBE",
+    "VOICE_GEN_WMYBE"
+   ]
+  },
+  {
+   "id": 155,
+   "modelName": "WMYPIZZ",
+   "txdName": "wmypizz",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_SENSIBLE_GUY",
+   "animGroup": "man",
+   "canDriveMask": 1000,
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GFD",
+    "VOICE_GFD_WMYPIZZ",
+    "VOICE_GFD_WMYPIZZ"
+   ]
+  },
+  {
+   "id": 156,
+   "modelName": "BMOBAR",
+   "txdName": "bmobar",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_OLD_GUY",
+   "animGroup": "man",
+   "canDriveMask": 1000,
+   "flags": 0,
+   "animFile": "man",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GFD",
+    "VOICE_GFD_BMOBAR",
+    "VOICE_GFD_BMOBAR"
+   ]
+  },
+  {
+   "id": 157,
+   "modelName": "CWFYHB",
+   "txdName": "cwfyhb",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_TOUGH_GIRL",
+   "animGroup": "woman",
+   "canDriveMask": 1000,
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_CWFYHB1",
+    "VOICE_GEN_CWFYHB1"
+   ]
+  },
+  {
+   "id": 158,
+   "modelName": "CWMOFR",
+   "txdName": "cwmofr",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_OLD_GUY",
+   "animGroup": "man",
+   "canDriveMask": 1000,
+   "flags": 0,
+   "animFile": "man",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_CWMOFR1",
+    "VOICE_GEN_CWMOFR1"
+   ]
+  },
+  {
+   "id": 159,
+   "modelName": "CWMOHB1",
+   "txdName": "cwmohb1",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_OLD_GUY",
+   "animGroup": "man",
+   "canDriveMask": "110F",
+   "flags": 0,
+   "animFile": "man",
+   "radio1": 1,
+   "radio2": 1,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_CWMOHB1",
+    "VOICE_GEN_CWMOHB1"
+   ]
+  },
+  {
+   "id": 160,
+   "modelName": "CWMOHB2",
+   "txdName": "cwmohb2",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_OLD_GUY",
+   "animGroup": "oldman",
+   "canDriveMask": 1983,
+   "flags": 0,
+   "animFile": "man",
+   "radio1": 1,
+   "radio2": 1,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_CWMOHB2",
+    "VOICE_GEN_CWMOHB2"
+   ]
+  },
+  {
+   "id": 161,
+   "modelName": "CWMYFR",
+   "txdName": "cwmyfr",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TOUGH_GUY",
+   "animGroup": "man",
+   "canDriveMask": 1983,
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 1,
+   "radio2": 6,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_CWMYFR",
+    "VOICE_GEN_CWMYFR"
+   ]
+  },
+  {
+   "id": 162,
+   "modelName": "CWMYHB1",
+   "txdName": "cwmyhb1",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TOUGH_GUY",
+   "animGroup": "oldman",
+   "canDriveMask": 1983,
+   "flags": 0,
+   "animFile": "man",
+   "radio1": 6,
+   "radio2": 2,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_CWMYHB1",
+    "VOICE_GEN_CWMYHB1"
+   ]
+  },
+  {
+   "id": 163,
+   "modelName": "BMYBOUN",
+   "txdName": "bmyboun",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TOUGH_GUY",
+   "animGroup": "man",
+   "canDriveMask": "170F",
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 5,
+   "radio2": 8,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_BMYBOUN",
+    "VOICE_GEN_BMYBOUN"
+   ]
+  },
+  {
+   "id": 164,
+   "modelName": "WMYBOUN",
+   "txdName": "wmyboun",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TOUGH_GUY",
+   "animGroup": "man",
+   "canDriveMask": "170F",
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 5,
+   "radio2": 6,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WMYBOUN",
+    "VOICE_GEN_WMYBOUN"
+   ]
+  },
+  {
+   "id": 165,
+   "modelName": "WMOMIB",
+   "txdName": "wmomib",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_SUIT_GUY",
+   "animGroup": "man",
+   "canDriveMask": "120C",
+   "flags": 0,
+   "animFile": "man",
+   "radio1": 10,
+   "radio2": 11,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WMOMIB",
+    "VOICE_GEN_WMOMIB"
+   ]
+  },
+  {
+   "id": 166,
+   "modelName": "BMYMIB",
+   "txdName": "bmymib",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_SUIT_GUY",
+   "animGroup": "man",
+   "canDriveMask": "120C",
+   "flags": 0,
+   "animFile": "man",
+   "radio1": 11,
+   "radio2": 10,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_BMYMIB",
+    "VOICE_GEN_BMYMIB"
+   ]
+  },
+  {
+   "id": 167,
+   "modelName": "WMYBELL",
+   "txdName": "wmybell",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_SENSIBLE_GUY",
+   "animGroup": "man",
+   "canDriveMask": 1000,
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GFD",
+    "VOICE_GFD_WMYBELL",
+    "VOICE_GFD_WMYBELL"
+   ]
+  },
+  {
+   "id": 168,
+   "modelName": "BMOCHIL",
+   "txdName": "bmochil",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_SENSIBLE_GUY",
+   "animGroup": "man",
+   "canDriveMask": 1000,
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_BMOST",
+    "VOICE_GEN_BMOST"
+   ]
+  },
+  {
+   "id": 169,
+   "modelName": "SOFYRI",
+   "txdName": "sofyri",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_COWARD",
+   "animGroup": "sexywoman",
+   "canDriveMask": "120C",
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 6,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SOFYRI",
+    "VOICE_GEN_SOFYRI"
+   ]
+  },
+  {
+   "id": 170,
+   "modelName": "SOMYST",
+   "txdName": "somyst",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_COWARD",
+   "animGroup": "man",
+   "canDriveMask": 1983,
+   "flags": 0,
+   "animFile": "man",
+   "radio1": 4,
+   "radio2": 9,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SOMYST",
+    "VOICE_GEN_SOMYST"
+   ]
+  },
+  {
+   "id": 171,
+   "modelName": "VWMYBJD",
+   "txdName": "vwmybjd",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_SUIT_GUY",
+   "animGroup": "man",
+   "canDriveMask": 1000,
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_VWMYBJD",
+    "VOICE_GEN_VWMYBJD"
+   ]
+  },
+  {
+   "id": 172,
+   "modelName": "VWFYCRP",
+   "txdName": "vwfycrp",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_SUIT_GIRL",
+   "animGroup": "busywoman",
+   "canDriveMask": 1000,
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WFYCRP",
+    "VOICE_GEN_WFYCRP"
+   ]
+  },
+  {
+   "id": 173,
+   "modelName": "SFR1",
+   "txdName": "SFR1",
+   "defaultPedType": "GANG4",
+   "behaviour": "STAT_GANG4",
+   "animGroup": "gang1",
+   "canDriveMask": "110F",
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 8,
+   "radio2": 8,
+   "extra": [
+    "PED_TYPE_GANG",
+    "VOICE_GNG_SFR1",
+    "VOICE_GNG_SFR2"
+   ]
+  },
+  {
+   "id": 174,
+   "modelName": "SFR2",
+   "txdName": "SFR2",
+   "defaultPedType": "GANG4",
+   "behaviour": "STAT_GANG4",
+   "animGroup": "gang2",
+   "canDriveMask": "110F",
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 8,
+   "radio2": 8,
+   "extra": [
+    "PED_TYPE_GANG",
+    "VOICE_GNG_SFR3",
+    "VOICE_GNG_SFR4"
+   ]
+  },
+  {
+   "id": 175,
+   "modelName": "SFR3",
+   "txdName": "SFR3",
+   "defaultPedType": "GANG4",
+   "behaviour": "STAT_GANG4",
+   "animGroup": "gang1",
+   "canDriveMask": "110F",
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 8,
+   "radio2": 8,
+   "extra": [
+    "PED_TYPE_GANG",
+    "VOICE_GNG_SFR5",
+    "VOICE_GNG_SFR5"
+   ]
+  },
+  {
+   "id": 176,
+   "modelName": "BMYBAR",
+   "txdName": "BMYBAR",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_SENSIBLE_GUY",
+   "animGroup": "man",
+   "canDriveMask": 1000,
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GFD",
+    "VOICE_GFD_BMYBARB",
+    "VOICE_GFD_BMYBARB"
+   ]
+  },
+  {
+   "id": 177,
+   "modelName": "WMYBAR",
+   "txdName": "WMYBAR",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_SENSIBLE_GUY",
+   "animGroup": "man",
+   "canDriveMask": 1000,
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GFD",
+    "VOICE_GFD_WMYBARB",
+    "VOICE_GFD_WMYBARB"
+   ]
+  },
+  {
+   "id": 178,
+   "modelName": "WFYSEX",
+   "txdName": "WFYSEX",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_STREET_GIRL",
+   "animGroup": "sexywoman",
+   "canDriveMask": 1000,
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_NOVOICE",
+    "VOICE_GEN_NOVOICE"
+   ]
+  },
+  {
+   "id": 179,
+   "modelName": "WMYAMMO",
+   "txdName": "WMYAMMO",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TOUGH_GUY",
+   "animGroup": "man",
+   "canDriveMask": 1000,
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GFD",
+    "VOICE_GFD_WMYAMMO",
+    "VOICE_GFD_WMYAMMO"
+   ]
+  },
+  {
+   "id": 180,
+   "modelName": "BMYTATT",
+   "txdName": "BMYTATT",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TOUGH_GUY",
+   "animGroup": "man",
+   "canDriveMask": 1000,
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GFD",
+    "VOICE_GFD_BMYTATT",
+    "VOICE_GFD_BMYTATT"
+   ]
+  },
+  {
+   "id": 181,
+   "modelName": "VWMYCR",
+   "txdName": "VWMYCR",
+   "defaultPedType": "CRIMINAL",
+   "behaviour": "STAT_CRIMINAL",
+   "animGroup": "man",
+   "canDriveMask": "110F",
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 2,
+   "radio2": 9,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_VWMYCR",
+    "VOICE_GEN_VWMYCR"
+   ]
+  },
+  {
+   "id": 182,
+   "modelName": "VBMOCD",
+   "txdName": "VBMOCD",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TAXIDRIVER",
+   "animGroup": "man",
+   "canDriveMask": 40,
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 8,
+   "radio2": 9,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_VBMOCD",
+    "VOICE_GEN_VBMOCD"
+   ]
+  },
+  {
+   "id": 183,
+   "modelName": "VBMYCR",
+   "txdName": "VBMYCR",
+   "defaultPedType": "CRIMINAL",
+   "behaviour": "STAT_CRIMINAL",
+   "animGroup": "man",
+   "canDriveMask": "110F",
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 5,
+   "radio2": 0,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_VBMYCR",
+    "VOICE_GEN_VBMYCR"
+   ]
+  },
+  {
+   "id": 184,
+   "modelName": "VHMYCR",
+   "txdName": "VHMYCR",
+   "defaultPedType": "CRIMINAL",
+   "behaviour": "STAT_CRIMINAL",
+   "animGroup": "man",
+   "canDriveMask": "110F",
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 0,
+   "radio2": 3,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_VHMYCR",
+    "VOICE_GEN_VHMYCR"
+   ]
+  },
+  {
+   "id": 185,
+   "modelName": "SBMYRI",
+   "txdName": "SBMYRI",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_STREET_GUY",
+   "animGroup": "man",
+   "canDriveMask": "120C",
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 7,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SBMYRI",
+    "VOICE_GEN_SBMYRI"
+   ]
+  },
+  {
+   "id": 186,
+   "modelName": "SOMYRI",
+   "txdName": "SOMYRI",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_SUIT_GUY",
+   "animGroup": "man",
+   "canDriveMask": "120C",
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 4,
+   "radio2": 0,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SOMYRI",
+    "VOICE_GEN_SOMYRI"
+   ]
+  },
+  {
+   "id": 187,
+   "modelName": "SOMYBU",
+   "txdName": "SOMYBU",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_SUIT_GUY",
+   "animGroup": "man",
+   "canDriveMask": "120C",
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 4,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SOMYBU",
+    "VOICE_GEN_SOMYBU"
+   ]
+  },
+  {
+   "id": 188,
+   "modelName": "SWMYST",
+   "txdName": "SWMYST",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TOURIST",
+   "animGroup": "man",
+   "canDriveMask": 1983,
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 0,
+   "radio2": 3,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SWMYST",
+    "VOICE_GEN_SWMYST"
+   ]
+  },
+  {
+   "id": 189,
+   "modelName": "WMYVA",
+   "txdName": "WMYVA",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_STREET_GUY",
+   "animGroup": "man",
+   "canDriveMask": 1983,
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 6,
+   "radio2": 2,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WMYVA",
+    "VOICE_GEN_WMYVA"
+   ]
+  },
+  {
+   "id": 190,
+   "modelName": "COPGRL3",
+   "txdName": "COPGRL3",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_STREET_GIRL",
+   "animGroup": "busywoman",
+   "canDriveMask": "1FFF",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 0,
+   "radio2": 3,
+   "extra": [
+    "PED_TYPE_GFD",
+    "VOICE_GFD_BARBARA",
+    "VOICE_GFD_BARBARA"
+   ]
+  },
+  {
+   "id": 191,
+   "modelName": "GUNGRL3",
+   "txdName": "GUNGRL3",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_STREET_GIRL",
+   "animGroup": "woman",
+   "canDriveMask": "1FFF",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 0,
+   "radio2": 3,
+   "extra": [
+    "PED_TYPE_GFD",
+    "VOICE_GFD_HELENA",
+    "VOICE_GFD_HELENA"
+   ]
+  },
+  {
+   "id": 192,
+   "modelName": "MECGRL3",
+   "txdName": "MECGRL3",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_STREET_GIRL",
+   "animGroup": "sexywoman",
+   "canDriveMask": "1FFF",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 0,
+   "radio2": 3,
+   "extra": [
+    "PED_TYPE_GFD",
+    "VOICE_GFD_MICHELLE",
+    "VOICE_GFD_MICHELLE"
+   ]
+  },
+  {
+   "id": 193,
+   "modelName": "NURGRL3",
+   "txdName": "NURGRL3",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_SUIT_GIRL",
+   "animGroup": "sexywoman",
+   "canDriveMask": "1FFF",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 0,
+   "radio2": 3,
+   "extra": [
+    "PED_TYPE_GFD",
+    "VOICE_GFD_KATIE",
+    "VOICE_GFD_KATIE"
+   ]
+  },
+  {
+   "id": 194,
+   "modelName": "CROGRL3",
+   "txdName": "CROGRL3",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_SUIT_GIRL",
+   "animGroup": "sexywoman",
+   "canDriveMask": "1FFF",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 0,
+   "radio2": 3,
+   "extra": [
+    "PED_TYPE_GFD",
+    "VOICE_GFD_MILLIE",
+    "VOICE_GFD_MILLIE"
+   ]
+  },
+  {
+   "id": 195,
+   "modelName": "GANGRL3",
+   "txdName": "GANGRL3",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_STREET_GIRL",
+   "animGroup": "woman",
+   "canDriveMask": "1FFF",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 0,
+   "radio2": 3,
+   "extra": [
+    "PED_TYPE_GFD",
+    "VOICE_GFD_DENISE",
+    "VOICE_GFD_DENISE"
+   ]
+  },
+  {
+   "id": 196,
+   "modelName": "CWFOFR",
+   "txdName": "CWFOFR",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_COWARD",
+   "animGroup": "oldwoman",
+   "canDriveMask": 1003,
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 1,
+   "radio2": 1,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_CWFOFR",
+    "VOICE_GEN_CWFOFR"
+   ]
+  },
+  {
+   "id": 197,
+   "modelName": "CWFOHB",
+   "txdName": "CWFOHB",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_OLD_GIRL",
+   "animGroup": "oldwoman",
+   "canDriveMask": 1003,
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 1,
+   "radio2": 1,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_CWFOHB",
+    "VOICE_GEN_CWFOHB"
+   ]
+  },
+  {
+   "id": 198,
+   "modelName": "CWFYFR1",
+   "txdName": "CWFYFR1",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_TOUGH_GIRL",
+   "animGroup": "woman",
+   "canDriveMask": 1983,
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 2,
+   "radio2": 1,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_CWFYFR1",
+    "VOICE_GEN_CWFYFR1"
+   ]
+  },
+  {
+   "id": 199,
+   "modelName": "CWFYFR2",
+   "txdName": "CWFYFR2",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_STREET_GIRL",
+   "animGroup": "woman",
+   "canDriveMask": 1983,
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 1,
+   "radio2": 1,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_CWFYFR2",
+    "VOICE_GEN_CWFYFR2"
+   ]
+  },
+  {
+   "id": 200,
+   "modelName": "CWMYHB2",
+   "txdName": "CWMYHB2",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TOUGH_GUY",
+   "animGroup": "man",
+   "canDriveMask": 1983,
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 1,
+   "radio2": 1,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_CWMYHB2",
+    "VOICE_GEN_CWMYHB2"
+   ]
+  },
+  {
+   "id": 201,
+   "modelName": "DWFYLC2",
+   "txdName": "DWFYLC2",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_STREET_GIRL",
+   "animGroup": "woman",
+   "canDriveMask": 1983,
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 6,
+   "radio2": 2,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_DWFYLC2",
+    "VOICE_GEN_DWFYLC2"
+   ]
+  },
+  {
+   "id": 202,
+   "modelName": "DWMYLC2",
+   "txdName": "DWMYLC2",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TOUGH_GUY",
+   "animGroup": "man",
+   "canDriveMask": 1983,
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 6,
+   "radio2": 2,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_DWMYLC2",
+    "VOICE_GEN_DWMYLC2"
+   ]
+  },
+  {
+   "id": 203,
+   "modelName": "OMYKARA",
+   "txdName": "OMYKARA",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TOUGH_GUY",
+   "animGroup": "man",
+   "canDriveMask": "1FFF",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 0,
+   "radio2": 7,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_NOVOICE",
+    "VOICE_GEN_NOVOICE"
+   ]
+  },
+  {
+   "id": 204,
+   "modelName": "WMYKARA",
+   "txdName": "WMYKARA",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TOUGH_GUY",
+   "animGroup": "man",
+   "canDriveMask": "1FFF",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 2,
+   "radio2": 0,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_NOVOICE",
+    "VOICE_GEN_NOVOICE"
+   ]
+  },
+  {
+   "id": 205,
+   "modelName": "WFYBURG",
+   "txdName": "WFYBURG",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_STREET_GIRL",
+   "animGroup": "woman",
+   "canDriveMask": "1FFF",
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 0,
+   "radio2": 3,
+   "extra": [
+    "PED_TYPE_GFD",
+    "VOICE_GFD_WFYBURG",
+    "VOICE_GFD_WFYBURG"
+   ]
+  },
+  {
+   "id": 206,
+   "modelName": "VWMYCD",
+   "txdName": "VWMYCD",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TAXIDRIVER",
+   "animGroup": "man",
+   "canDriveMask": 40,
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 6,
+   "radio2": 5,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_VWMYCD",
+    "VOICE_GEN_VWMYCD"
+   ]
+  },
+  {
+   "id": 207,
+   "modelName": "VHFYPRO",
+   "txdName": "VHFYPRO",
+   "defaultPedType": "PROSTITUTE",
+   "behaviour": "STAT_PROSTITUTE",
+   "animGroup": "pro",
+   "canDriveMask": 1000,
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_VHFYPRO",
+    "VOICE_GEN_VHFYPRO"
+   ]
+  },
+  {
+   "id": 209,
+   "modelName": "OMONOOD",
+   "txdName": "OMONOOD",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_OLD_GUY",
+   "animGroup": "oldman",
+   "canDriveMask": "1FFF",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_OMOST",
+    "VOICE_GEN_OMOST"
+   ]
+  },
+  {
+   "id": 210,
+   "modelName": "OMOBOAT",
+   "txdName": "OMOBOAT",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_OLD_GUY",
+   "animGroup": "oldman",
+   "canDriveMask": "1FFF",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_OMOBOAT",
+    "VOICE_GEN_OMOBOAT"
+   ]
+  },
+  {
+   "id": 211,
+   "modelName": "WFYCLOT",
+   "txdName": "WFYCLOT",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_STREET_GIRL",
+   "animGroup": "woman",
+   "canDriveMask": "1FFF",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GFD",
+    "VOICE_GFD_WFYCLOT",
+    "VOICE_GFD_WFYCLOT"
+   ]
+  },
+  {
+   "id": 212,
+   "modelName": "VWMOTR1",
+   "txdName": "VWMOTR1",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TRAMP_MALE",
+   "animGroup": "man",
+   "canDriveMask": 1000,
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_VWMOTR1",
+    "VOICE_GEN_VWMOTR1"
+   ]
+  },
+  {
+   "id": 213,
+   "modelName": "VWMOTR2",
+   "txdName": "VWMOTR2",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TRAMP_MALE",
+   "animGroup": "man",
+   "canDriveMask": 1000,
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_VWMOTR2",
+    "VOICE_GEN_VWMOTR2"
+   ]
+  },
+  {
+   "id": 214,
+   "modelName": "VWFYWAI",
+   "txdName": "VWFYWAI",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_STREET_GIRL",
+   "animGroup": "woman",
+   "canDriveMask": "1FFF",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_VWFYWAI",
+    "VOICE_GEN_VWFYWAI"
+   ]
+  },
+  {
+   "id": 215,
+   "modelName": "SBFORI",
+   "txdName": "SBFORI",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_COWARD",
+   "animGroup": "woman",
+   "canDriveMask": "120C",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 9,
+   "radio2": 10,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SBFORI",
+    "VOICE_GEN_SBFORI"
+   ]
+  },
+  {
+   "id": 216,
+   "modelName": "SWFYRI",
+   "txdName": "SWFYRI",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_SHOPPER",
+   "animGroup": "woman",
+   "canDriveMask": "120C",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 4,
+   "radio2": 6,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SWFYRI",
+    "VOICE_GEN_SWFYRI"
+   ]
+  },
+  {
+   "id": 217,
+   "modelName": "WMYCLOT",
+   "txdName": "WMYCLOT",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_STREET_GUY",
+   "animGroup": "man",
+   "canDriveMask": "1FFF",
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GFD",
+    "VOICE_GFD_WMYCLOT",
+    "VOICE_GFD_WMYCLOT"
+   ]
+  },
+  {
+   "id": 218,
+   "modelName": "SBFOST",
+   "txdName": "SBFOST",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_STREET_GIRL",
+   "animGroup": "woman",
+   "canDriveMask": 1003,
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 8,
+   "radio2": 9,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SBFOST",
+    "VOICE_GEN_SBFOST"
+   ]
+  },
+  {
+   "id": 219,
+   "modelName": "SBFYRI",
+   "txdName": "SBFYRI",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_COWARD",
+   "animGroup": "woman",
+   "canDriveMask": "120C",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 7,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SBFYRI",
+    "VOICE_GEN_SBFYRI"
+   ]
+  },
+  {
+   "id": 220,
+   "modelName": "SBMOCD",
+   "txdName": "SBMOCD",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TAXIDRIVER",
+   "animGroup": "man",
+   "canDriveMask": 40,
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 0,
+   "radio2": 0,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SBMOCD",
+    "VOICE_GEN_SBMOCD"
+   ]
+  },
+  {
+   "id": 221,
+   "modelName": "SBMORI",
+   "txdName": "SBMORI",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_SUIT_GUY",
+   "animGroup": "man",
+   "canDriveMask": "120C",
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 8,
+   "radio2": 0,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SBMORI",
+    "VOICE_GEN_SBMORI"
+   ]
+  },
+  {
+   "id": 222,
+   "modelName": "SBMOST",
+   "txdName": "SBMOST",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_STREET_GUY",
+   "animGroup": "man",
+   "canDriveMask": 1003,
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 0,
+   "radio2": 8,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SBMOST",
+    "VOICE_GEN_SBMOST"
+   ]
+  },
+  {
+   "id": 223,
+   "modelName": "SHMYCR",
+   "txdName": "SHMYCR",
+   "defaultPedType": "CRIMINAL",
+   "behaviour": "STAT_CRIMINAL",
+   "animGroup": "man",
+   "canDriveMask": "110F",
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 4,
+   "radio2": 9,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SHMYCR",
+    "VOICE_GEN_SHMYCR"
+   ]
+  },
+  {
+   "id": 224,
+   "modelName": "SOFORI",
+   "txdName": "SOFORI",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_OLD_GIRL",
+   "animGroup": "woman",
+   "canDriveMask": "120C",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 1,
+   "radio2": 10,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SOFORI",
+    "VOICE_GEN_SOFORI"
+   ]
+  },
+  {
+   "id": 225,
+   "modelName": "SOFOST",
+   "txdName": "SOFOST",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_STREET_GIRL",
+   "animGroup": "woman",
+   "canDriveMask": 1003,
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 9,
+   "radio2": 10,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SOFOST",
+    "VOICE_GEN_SOFOST"
+   ]
+  },
+  {
+   "id": 226,
+   "modelName": "SOFYST",
+   "txdName": "SOFYST",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_STREET_GIRL",
+   "animGroup": "woman",
+   "canDriveMask": 1003,
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 4,
+   "radio2": 7,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SOFYST",
+    "VOICE_GEN_SOFYST"
+   ]
+  },
+  {
+   "id": 227,
+   "modelName": "SOMOBU",
+   "txdName": "SOMOBU",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_SUIT_GUY",
+   "animGroup": "man",
+   "canDriveMask": "120C",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 10,
+   "radio2": 10,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SOMOBU",
+    "VOICE_GEN_SOMOBU"
+   ]
+  },
+  {
+   "id": 228,
+   "modelName": "SOMORI",
+   "txdName": "SOMORI",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_COWARD",
+   "animGroup": "man",
+   "canDriveMask": "120C",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 9,
+   "radio2": 3,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SOMORI",
+    "VOICE_GEN_SOMORI"
+   ]
+  },
+  {
+   "id": 229,
+   "modelName": "SOMOST",
+   "txdName": "SOMOST",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_STREET_GUY",
+   "animGroup": "man",
+   "canDriveMask": 1003,
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 9,
+   "radio2": 2,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SOMOST",
+    "VOICE_GEN_SOMOST"
+   ]
+  },
+  {
+   "id": 230,
+   "modelName": "SWMOTR5",
+   "txdName": "SWMOTR5",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TRAMP_MALE",
+   "animGroup": "man",
+   "canDriveMask": 1000,
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SWMOTR5",
+    "VOICE_GEN_SWMOTR5"
+   ]
+  },
+  {
+   "id": 231,
+   "modelName": "SWFORI",
+   "txdName": "SWFORI",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_COWARD",
+   "animGroup": "woman",
+   "canDriveMask": "120C",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 10,
+   "radio2": 1,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SWFORI",
+    "VOICE_GEN_SWFORI"
+   ]
+  },
+  {
+   "id": 232,
+   "modelName": "SWFOST",
+   "txdName": "SWFOST",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_STREET_GIRL",
+   "animGroup": "woman",
+   "canDriveMask": 1003,
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 7,
+   "radio2": 10,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SWFOST",
+    "VOICE_GEN_SWFOST"
+   ]
+  },
+  {
+   "id": 233,
+   "modelName": "SWFYST",
+   "txdName": "SWFYST",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_STREET_GIRL",
+   "animGroup": "woman",
+   "canDriveMask": 1983,
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 7,
+   "radio2": 3,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SWFYST",
+    "VOICE_GEN_SWFYST"
+   ]
+  },
+  {
+   "id": 234,
+   "modelName": "SWMOCD",
+   "txdName": "SWMOCD",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TAXIDRIVER",
+   "animGroup": "man",
+   "canDriveMask": 40,
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 2,
+   "radio2": 9,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SWMOCD",
+    "VOICE_GEN_SWMOCD"
+   ]
+  },
+  {
+   "id": 235,
+   "modelName": "SWMORI",
+   "txdName": "SWMORI",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_SUIT_GUY",
+   "animGroup": "man",
+   "canDriveMask": "120C",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 7,
+   "radio2": 0,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SWMORI",
+    "VOICE_GEN_SWMORI"
+   ]
+  },
+  {
+   "id": 236,
+   "modelName": "SWMOST",
+   "txdName": "SWMOST",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_STREET_GUY",
+   "animGroup": "man",
+   "canDriveMask": 1983,
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 2,
+   "radio2": 1,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SWMOST",
+    "VOICE_GEN_SWMOST"
+   ]
+  },
+  {
+   "id": 237,
+   "modelName": "SHFYPRO",
+   "txdName": "SHFYPRO",
+   "defaultPedType": "PROSTITUTE",
+   "behaviour": "STAT_PROSTITUTE",
+   "animGroup": "pro",
+   "canDriveMask": 1000,
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SHFYPRO",
+    "VOICE_GEN_SHFYPRO"
+   ]
+  },
+  {
+   "id": 238,
+   "modelName": "SBFYPRO",
+   "txdName": "SBFYPRO",
+   "defaultPedType": "PROSTITUTE",
+   "behaviour": "STAT_PROSTITUTE",
+   "animGroup": "pro",
+   "canDriveMask": 1000,
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SBFYPRO",
+    "VOICE_GEN_SBFYPRO"
+   ]
+  },
+  {
+   "id": 239,
+   "modelName": "SWMOTR4",
+   "txdName": "SWMOTR4",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TRAMP_MALE",
+   "animGroup": "man",
+   "canDriveMask": 1000,
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SWMOTR4",
+    "VOICE_GEN_SWMOTR4"
+   ]
+  },
+  {
+   "id": 240,
+   "modelName": "SWMYRI",
+   "txdName": "SWMYRI",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_COWARD",
+   "animGroup": "man",
+   "canDriveMask": "120C",
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 4,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SWMYRI",
+    "VOICE_GEN_SWMYRI"
+   ]
+  },
+  {
+   "id": 241,
+   "modelName": "SMYST",
+   "txdName": "SMYST",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_STREET_GUY",
+   "animGroup": "man",
+   "canDriveMask": 1983,
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 0,
+   "radio2": 5,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SMYST",
+    "VOICE_GEN_SMYST"
+   ]
+  },
+  {
+   "id": 242,
+   "modelName": "SMYST2",
+   "txdName": "SMYST2",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_STREET_GUY",
+   "animGroup": "man",
+   "canDriveMask": "130C",
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 0,
+   "radio2": 8,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SMYST2",
+    "VOICE_GEN_SMYST2"
+   ]
+  },
+  {
+   "id": 243,
+   "modelName": "SFYPRO",
+   "txdName": "SFYPRO",
+   "defaultPedType": "PROSTITUTE",
+   "behaviour": "STAT_PROSTITUTE",
+   "animGroup": "pro",
+   "canDriveMask": 1000,
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SFYPRO",
+    "VOICE_GEN_SFYPRO"
+   ]
+  },
+  {
+   "id": 244,
+   "modelName": "VBFYST2",
+   "txdName": "VBFYST2",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_STREET_GIRL",
+   "animGroup": "sexywoman",
+   "canDriveMask": 1000,
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_VBFYST2",
+    "VOICE_GEN_VBFYST2"
+   ]
+  },
+  {
+   "id": 245,
+   "modelName": "VBFYPRO",
+   "txdName": "VBFYPRO",
+   "defaultPedType": "PROSTITUTE",
+   "behaviour": "STAT_PROSTITUTE",
+   "animGroup": "pro",
+   "canDriveMask": 1000,
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_VBFYPRO",
+    "VOICE_GEN_VBFYPRO"
+   ]
+  },
+  {
+   "id": 246,
+   "modelName": "VHFYST3",
+   "txdName": "VHFYST3",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_STREET_GIRL",
+   "animGroup": "sexywoman",
+   "canDriveMask": 1000,
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_VHFYST3",
+    "VOICE_GEN_VHFYST3"
+   ]
+  },
+  {
+   "id": 247,
+   "modelName": "BIKERA",
+   "txdName": "BIKERA",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TOUGH_GUY",
+   "animGroup": "man",
+   "canDriveMask": 0,
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 5,
+   "radio2": 2,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_BIKERA",
+    "VOICE_GEN_BIKERA"
+   ]
+  },
+  {
+   "id": 248,
+   "modelName": "BIKERB",
+   "txdName": "BIKERB",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TOUGH_GUY",
+   "animGroup": "man",
+   "canDriveMask": 0,
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 2,
+   "radio2": 5,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_BIKERB",
+    "VOICE_GEN_BIKERB"
+   ]
+  },
+  {
+   "id": 249,
+   "modelName": "BMYPIMP",
+   "txdName": "BMYPIMP",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_STREET_GUY",
+   "animGroup": "man",
+   "canDriveMask": "130C",
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 3,
+   "radio2": 7,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_BMYPI",
+    "VOICE_GEN_BMYPI"
+   ]
+  },
+  {
+   "id": 250,
+   "modelName": "SWMYCR",
+   "txdName": "SWMYCR",
+   "defaultPedType": "CRIMINAL",
+   "behaviour": "STAT_CRIMINAL",
+   "animGroup": "man",
+   "canDriveMask": "110F",
+   "flags": 1,
+   "animFile": "man",
+   "radio1": 6,
+   "radio2": 0,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SWMYCR",
+    "VOICE_GEN_SWMYCR"
+   ]
+  },
+  {
+   "id": 251,
+   "modelName": "WFYLG",
+   "txdName": "WFYLG",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_BEACH_GIRL",
+   "animGroup": "woman",
+   "canDriveMask": 1000,
+   "flags": 0,
+   "animFile": "beach",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WFYLG",
+    "VOICE_GEN_WFYLG"
+   ]
+  },
+  {
+   "id": 252,
+   "modelName": "WMYVA2",
+   "txdName": "WMYVA2",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_STREET_GUY",
+   "animGroup": "man",
+   "canDriveMask": 1983,
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 9,
+   "radio2": 7,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WMYVA",
+    "VOICE_GEN_WMYVA"
+   ]
+  },
+  {
+   "id": 253,
+   "modelName": "BMOSEC",
+   "txdName": "BMOSEC",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_OLD_GUY",
+   "animGroup": "man",
+   "canDriveMask": 1003,
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 8,
+   "radio2": 0,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_BMOSEC",
+    "VOICE_GEN_BMOSEC"
+   ]
+  },
+  {
+   "id": 254,
+   "modelName": "BIKDRUG",
+   "txdName": "BIKDRUG",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_CRIMINAL",
+   "animGroup": "man",
+   "canDriveMask": 0,
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 6,
+   "radio2": 2,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_BIKDRUG",
+    "VOICE_GEN_BIKDRUG"
+   ]
+  },
+  {
+   "id": 255,
+   "modelName": "WMYCH",
+   "txdName": "WMYCH",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TOUGH_GUY",
+   "animGroup": "man",
+   "canDriveMask": 0,
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 7,
+   "radio2": 0,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WMYCH",
+    "VOICE_GEN_WMYCH"
+   ]
+  },
+  {
+   "id": 256,
+   "modelName": "SBFYSTR",
+   "txdName": "SBFYSTR",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_STREET_GIRL",
+   "animGroup": "sexywoman",
+   "canDriveMask": "130C",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 3,
+   "radio2": 7,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SBFYST",
+    "VOICE_GEN_SBFYST"
+   ]
+  },
+  {
+   "id": 257,
+   "modelName": "SWFYSTR",
+   "txdName": "SWFYSTR",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_STREET_GIRL",
+   "animGroup": "sexywoman",
+   "canDriveMask": "130C",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 5,
+   "radio2": 9,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_SWFYST",
+    "VOICE_GEN_SWFYST"
+   ]
+  },
+  {
+   "id": 258,
+   "modelName": "HECK1",
+   "txdName": "HECK1",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TOUGH_GUY",
+   "animGroup": "man",
+   "canDriveMask": 0,
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 7,
+   "radio2": 0,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_NOVOICE",
+    "VOICE_GEN_NOVOICE"
+   ]
+  },
+  {
+   "id": 259,
+   "modelName": "HECK2",
+   "txdName": "HECK2",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TOUGH_GUY",
+   "animGroup": "man",
+   "canDriveMask": 0,
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 7,
+   "radio2": 0,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_NOVOICE",
+    "VOICE_GEN_NOVOICE"
+   ]
+  },
+  {
+   "id": 260,
+   "modelName": "BMYCON",
+   "txdName": "BMYCON",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TOUGH_GUY",
+   "animGroup": "man",
+   "canDriveMask": 0,
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 7,
+   "radio2": 0,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_BMYCON",
+    "VOICE_GEN_BMYCON"
+   ]
+  },
+  {
+   "id": 261,
+   "modelName": "WMYCD1",
+   "txdName": "WMYCD1",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TAXIDRIVER",
+   "animGroup": "man",
+   "canDriveMask": 40,
+   "flags": 1,
+   "animFile": "null",
+   "radio1": 6,
+   "radio2": 1,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_WMYCD1",
+    "VOICE_GEN_WMYCD1"
+   ]
+  },
+  {
+   "id": 262,
+   "modelName": "BMOCD",
+   "txdName": "BMOCD",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_TAXIDRIVER",
+   "animGroup": "man",
+   "canDriveMask": 40,
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 8,
+   "radio2": 0,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_BMOCD",
+    "VOICE_GEN_BMOCD"
+   ]
+  },
+  {
+   "id": 263,
+   "modelName": "VWFYWA2",
+   "txdName": "VWFYWA2",
+   "defaultPedType": "CIVFEMALE",
+   "behaviour": "STAT_STREET_GIRL",
+   "animGroup": "woman",
+   "canDriveMask": "1FFF",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_VWFYWAI",
+    "VOICE_GEN_VWFYWAI"
+   ]
+  },
+  {
+   "id": 264,
+   "modelName": "WMOICE",
+   "txdName": "WMOICE",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_STREET_GUY",
+   "animGroup": "man",
+   "canDriveMask": "1FFF",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 1,
+   "radio2": 4,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_NOVOICE",
+    "VOICE_GEN_NOVOICE"
+   ]
+  },
+  {
+   "id": 274,
+   "modelName": "laemt1",
+   "txdName": "laemt1",
+   "defaultPedType": "MEDIC",
+   "behaviour": "STAT_MEDIC",
+   "animGroup": "swat",
+   "canDriveMask": "1FFF",
+   "flags": 0,
+   "animFile": "medic",
+   "radio1": 9,
+   "radio2": 9,
+   "extra": [
+    "PED_TYPE_EMG",
+    "VOICE_EMG_EMT1",
+    "VOICE_EMG_EMT5"
+   ]
+  },
+  {
+   "id": 275,
+   "modelName": "lvemt1",
+   "txdName": "lvemt1",
+   "defaultPedType": "MEDIC",
+   "behaviour": "STAT_MEDIC",
+   "animGroup": "swat",
+   "canDriveMask": "1FFF",
+   "flags": 0,
+   "animFile": "medic",
+   "radio1": 9,
+   "radio2": 9,
+   "extra": [
+    "PED_TYPE_EMG",
+    "VOICE_EMG_EMT1",
+    "VOICE_EMG_EMT5"
+   ]
+  },
+  {
+   "id": 276,
+   "modelName": "sfemt1",
+   "txdName": "sfemt1",
+   "defaultPedType": "MEDIC",
+   "behaviour": "STAT_MEDIC",
+   "animGroup": "swat",
+   "canDriveMask": "1FFF",
+   "flags": 0,
+   "animFile": "medic",
+   "radio1": 9,
+   "radio2": 9,
+   "extra": [
+    "PED_TYPE_EMG",
+    "VOICE_EMG_EMT1",
+    "VOICE_EMG_EMT5"
+   ]
+  },
+  {
+   "id": 277,
+   "modelName": "lafd1",
+   "txdName": "lafd1",
+   "defaultPedType": "FIREMAN",
+   "behaviour": "STAT_FIREMAN",
+   "animGroup": "swat",
+   "canDriveMask": "1FFF",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 9,
+   "radio2": 9,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_NOVOICE",
+    "VOICE_GEN_NOVOICE"
+   ]
+  },
+  {
+   "id": 278,
+   "modelName": "lvfd1",
+   "txdName": "lvfd1",
+   "defaultPedType": "FIREMAN",
+   "behaviour": "STAT_FIREMAN",
+   "animGroup": "swat",
+   "canDriveMask": "1FFF",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 9,
+   "radio2": 9,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_NOVOICE",
+    "VOICE_GEN_NOVOICE"
+   ]
+  },
+  {
+   "id": 279,
+   "modelName": "sffd1",
+   "txdName": "sffd1",
+   "defaultPedType": "FIREMAN",
+   "behaviour": "STAT_FIREMAN",
+   "animGroup": "swat",
+   "canDriveMask": "1FFF",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 9,
+   "radio2": 9,
+   "extra": [
+    "PED_TYPE_GEN",
+    "VOICE_GEN_NOVOICE",
+    "VOICE_GEN_NOVOICE"
+   ]
+  },
+  {
+   "id": 280,
+   "modelName": "lapd1",
+   "txdName": "lapd1",
+   "defaultPedType": "COP",
+   "behaviour": "STAT_COP",
+   "animGroup": "swat",
+   "canDriveMask": "1FFF",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 9,
+   "radio2": 9,
+   "extra": [
+    "PED_TYPE_EMG",
+    "VOICE_EMG_LAPD1",
+    "VOICE_EMG_LAPD8"
+   ]
+  },
+  {
+   "id": 281,
+   "modelName": "sfpd1",
+   "txdName": "sfpd1",
+   "defaultPedType": "COP",
+   "behaviour": "STAT_COP",
+   "animGroup": "swat",
+   "canDriveMask": "1FFF",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 9,
+   "radio2": 9,
+   "extra": [
+    "PED_TYPE_EMG",
+    "VOICE_EMG_SFPD1",
+    "VOICE_EMG_SFPD5"
+   ]
+  },
+  {
+   "id": 282,
+   "modelName": "lvpd1",
+   "txdName": "lvpd1",
+   "defaultPedType": "COP",
+   "behaviour": "STAT_COP",
+   "animGroup": "swat",
+   "canDriveMask": "1FFF",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 9,
+   "radio2": 9,
+   "extra": [
+    "PED_TYPE_EMG",
+    "VOICE_EMG_LVPD1",
+    "VOICE_EMG_LVPD5"
+   ]
+  },
+  {
+   "id": 283,
+   "modelName": "csher",
+   "txdName": "csher",
+   "defaultPedType": "COP",
+   "behaviour": "STAT_COP",
+   "animGroup": "swat",
+   "canDriveMask": "1FFF",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 9,
+   "radio2": 9,
+   "extra": [
+    "PED_TYPE_EMG",
+    "VOICE_EMG_RCOP1",
+    "VOICE_EMG_RCOP4"
+   ]
+  },
+  {
+   "id": 284,
+   "modelName": "lapdm1",
+   "txdName": "lapdm1",
+   "defaultPedType": "COP",
+   "behaviour": "STAT_COP",
+   "animGroup": "swat",
+   "canDriveMask": "1FFF",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 9,
+   "radio2": 9,
+   "extra": [
+    "PED_TYPE_EMG",
+    "VOICE_EMG_MCOP1",
+    "VOICE_EMG_MCOP6"
+   ]
+  },
+  {
+   "id": 285,
+   "modelName": "swat",
+   "txdName": "swat",
+   "defaultPedType": "COP",
+   "behaviour": "STAT_COP",
+   "animGroup": "swat",
+   "canDriveMask": "1FFF",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 9,
+   "radio2": 9,
+   "extra": [
+    "PED_TYPE_EMG",
+    "VOICE_EMG_SWAT1",
+    "VOICE_EMG_SWAT6"
+   ]
+  },
+  {
+   "id": 286,
+   "modelName": "fbi",
+   "txdName": "fbi",
+   "defaultPedType": "COP",
+   "behaviour": "STAT_COP",
+   "animGroup": "swat",
+   "canDriveMask": "1FFF",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 9,
+   "radio2": 9,
+   "extra": [
+    "PED_TYPE_EMG",
+    "VOICE_EMG_FBI2",
+    "VOICE_EMG_FBI6"
+   ]
+  },
+  {
+   "id": 287,
+   "modelName": "army",
+   "txdName": "army",
+   "defaultPedType": "COP",
+   "behaviour": "STAT_COP",
+   "animGroup": "swat",
+   "canDriveMask": "1FFF",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 9,
+   "radio2": 9,
+   "extra": [
+    "PED_TYPE_EMG",
+    "VOICE_EMG_ARMY1",
+    "VOICE_EMG_ARMY3"
+   ]
+  },
+  {
+   "id": 288,
+   "modelName": "dsher",
+   "txdName": "dsher",
+   "defaultPedType": "COP",
+   "behaviour": "STAT_COP",
+   "animGroup": "swat",
+   "canDriveMask": "1FFF",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 9,
+   "radio2": 9,
+   "extra": [
+    "PED_TYPE_EMG",
+    "VOICE_EMG_RCOP1",
+    "VOICE_EMG_RCOP4"
+   ]
+  },
+  {
+   "id": 290,
+   "modelName": "special01",
+   "txdName": "generic",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_STD_MISSION",
+   "animGroup": "man",
+   "canDriveMask": "1FFF",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 9,
+   "radio2": 9,
+   "extra": [
+    "PED_TYPE_SPC",
+    0,
+    0
+   ]
+  },
+  {
+   "id": 291,
+   "modelName": "special02",
+   "txdName": "generic",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_STD_MISSION",
+   "animGroup": "man",
+   "canDriveMask": "1FFF",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 9,
+   "radio2": 9,
+   "extra": [
+    "PED_TYPE_SPC",
+    0,
+    0
+   ]
+  },
+  {
+   "id": 292,
+   "modelName": "special03",
+   "txdName": "generic",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_STD_MISSION",
+   "animGroup": "man",
+   "canDriveMask": "1FFF",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 9,
+   "radio2": 9,
+   "extra": [
+    "PED_TYPE_SPC",
+    0,
+    0
+   ]
+  },
+  {
+   "id": 293,
+   "modelName": "special04",
+   "txdName": "generic",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_STD_MISSION",
+   "animGroup": "man",
+   "canDriveMask": "1FFF",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 9,
+   "radio2": 9,
+   "extra": [
+    "PED_TYPE_SPC",
+    0,
+    0
+   ]
+  },
+  {
+   "id": 294,
+   "modelName": "special05",
+   "txdName": "generic",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_STD_MISSION",
+   "animGroup": "man",
+   "canDriveMask": "1FFF",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 9,
+   "radio2": 9,
+   "extra": [
+    "PED_TYPE_SPC",
+    0,
+    0
+   ]
+  },
+  {
+   "id": 295,
+   "modelName": "special06",
+   "txdName": "generic",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_STD_MISSION",
+   "animGroup": "man",
+   "canDriveMask": "1FFF",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 9,
+   "radio2": 9,
+   "extra": [
+    "PED_TYPE_SPC",
+    0,
+    0
+   ]
+  },
+  {
+   "id": 296,
+   "modelName": "special07",
+   "txdName": "generic",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_STD_MISSION",
+   "animGroup": "man",
+   "canDriveMask": "1FFF",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 9,
+   "radio2": 9,
+   "extra": [
+    "PED_TYPE_SPC",
+    0,
+    0
+   ]
+  },
+  {
+   "id": 297,
+   "modelName": "special08",
+   "txdName": "generic",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_STD_MISSION",
+   "animGroup": "man",
+   "canDriveMask": "1FFF",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 9,
+   "radio2": 9,
+   "extra": [
+    "PED_TYPE_SPC",
+    0,
+    0
+   ]
+  },
+  {
+   "id": 298,
+   "modelName": "special09",
+   "txdName": "generic",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_STD_MISSION",
+   "animGroup": "man",
+   "canDriveMask": "1FFF",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 9,
+   "radio2": 9,
+   "extra": [
+    "PED_TYPE_SPC",
+    0,
+    0
+   ]
+  },
+  {
+   "id": 299,
+   "modelName": "special10",
+   "txdName": "generic",
+   "defaultPedType": "CIVMALE",
+   "behaviour": "STAT_STD_MISSION",
+   "animGroup": "fatman",
+   "canDriveMask": "1FFF",
+   "flags": 0,
+   "animFile": "null",
+   "radio1": 9,
+   "radio2": 9,
+   "extra": [
+    "PED_TYPE_SPC",
+    0,
+    0
+   ]
+  }
+ ]
+}

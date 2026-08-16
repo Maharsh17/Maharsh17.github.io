@@ -1,0 +1,5368 @@
+{
+ "objs": [
+  {
+   "id": 12800,
+   "modelName": "cunte_roads01",
+   "txdName": "cunteroads5",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12801,
+   "modelName": "cunte_roads03",
+   "txdName": "cunteroads4",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12802,
+   "modelName": "cunte_roads04",
+   "txdName": "cunteroads2",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12803,
+   "modelName": "cunte_roads06",
+   "txdName": "cunteroads2",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12804,
+   "modelName": "cuntEground01",
+   "txdName": "CE_ground12",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 12805,
+   "modelName": "CE_bigshed1",
+   "txdName": "CE_loadbay",
+   "drawDistance": 230,
+   "flags": 2097280
+  },
+  {
+   "id": 12806,
+   "modelName": "cunte_roads08",
+   "txdName": "cunteroads2",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12807,
+   "modelName": "sw_logs4",
+   "txdName": "sw_logcamp",
+   "drawDistance": 100,
+   "flags": 132
+  },
+  {
+   "id": 12808,
+   "modelName": "sw_logs3",
+   "txdName": "sw_logcamp",
+   "drawDistance": 50,
+   "flags": 128
+  },
+  {
+   "id": 12809,
+   "modelName": "cunte_roads11",
+   "txdName": "cunteroads1",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12810,
+   "modelName": "cunte_roads12",
+   "txdName": "cunteroads1",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12811,
+   "modelName": "cunte_roads13",
+   "txdName": "cunteroads2",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12812,
+   "modelName": "cunte_roads14",
+   "txdName": "cunteroads2",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12813,
+   "modelName": "cunte_roads15",
+   "txdName": "cunteroads2",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12814,
+   "modelName": "cuntyeland04",
+   "txdName": "factorycunte",
+   "drawDistance": 120,
+   "flags": 128
+  },
+  {
+   "id": 12815,
+   "modelName": "cunte_roads16",
+   "txdName": "cunteroads2",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12816,
+   "modelName": "cunte_roads17",
+   "txdName": "cunteroads4",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12817,
+   "modelName": "cunte_roads19",
+   "txdName": "cunteroads4",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12818,
+   "modelName": "cunte_roads20",
+   "txdName": "cunteroads4",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12819,
+   "modelName": "cunte_roads21",
+   "txdName": "cunteroads4",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12820,
+   "modelName": "cunte_roads22",
+   "txdName": "cunteroads4",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12821,
+   "modelName": "cratesinalley",
+   "txdName": "alleystuff",
+   "drawDistance": 40,
+   "flags": 128
+  },
+  {
+   "id": 12822,
+   "modelName": "smalltwnbld05",
+   "txdName": "CE_bankalley3",
+   "drawDistance": 100,
+   "flags": 2097280
+  },
+  {
+   "id": 12823,
+   "modelName": "cuntEground02",
+   "txdName": "CE_ground02",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 12824,
+   "modelName": "CEgroundTP104",
+   "txdName": "CE_ground12",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 12825,
+   "modelName": "cuntEground08",
+   "txdName": "CE_ground08",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 12826,
+   "modelName": "cunte_roads23",
+   "txdName": "cunteroads5",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12827,
+   "modelName": "cunte_roads24",
+   "txdName": "cunteroads4",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12828,
+   "modelName": "cunte_roads25",
+   "txdName": "cunteroads4",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12829,
+   "modelName": "cunte_roads26",
+   "txdName": "cunteroads5",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12830,
+   "modelName": "cunte_roads27",
+   "txdName": "cunteroads5",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12831,
+   "modelName": "coe_traintrax_10",
+   "txdName": "CE_traintrack1",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 12832,
+   "modelName": "coe_traintrax_03",
+   "txdName": "CE_traintrack2",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 12833,
+   "modelName": "coe_traintrax_04",
+   "txdName": "CE_traintrack2",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 12834,
+   "modelName": "LODcoe_traintrax_05",
+   "txdName": "CE_LOD_05",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 12835,
+   "modelName": "coe_traintrax_06",
+   "txdName": "CE_traintrack1",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 12836,
+   "modelName": "coe_traintrax_07",
+   "txdName": "CE_traintrack1",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 12837,
+   "modelName": "coe_traintrax_08",
+   "txdName": "CE_traintrack1",
+   "drawDistance": 299,
+   "flags": 2097156
+  },
+  {
+   "id": 12838,
+   "modelName": "coe_traintrax_09",
+   "txdName": "CE_traintrack1",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 12839,
+   "modelName": "cos_sbanksteps02",
+   "txdName": "cos_bankblock1",
+   "drawDistance": 50,
+   "flags": 2097284
+  },
+  {
+   "id": 12840,
+   "modelName": "cos_pizskyglas01",
+   "txdName": "cos_bankroofs",
+   "drawDistance": 100,
+   "flags": 2097284
+  },
+  {
+   "id": 12841,
+   "modelName": "cos_pizinterior",
+   "txdName": "cos_pizzaplace",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 12842,
+   "modelName": "cos_pizseats",
+   "txdName": "cos_pizzaplace",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 12843,
+   "modelName": "cos_liquorshop",
+   "txdName": "cunte_lik",
+   "drawDistance": 120,
+   "flags": 2097280
+  },
+  {
+   "id": 12844,
+   "modelName": "cos_liqinside",
+   "txdName": "cos_liquorstore",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 12845,
+   "modelName": "cos_liqinsidebits",
+   "txdName": "cos_liquorstore",
+   "drawDistance": 50,
+   "flags": 2097284
+  },
+  {
+   "id": 12846,
+   "modelName": "otb_sign",
+   "txdName": "coe_offtrackshop",
+   "drawDistance": 50,
+   "flags": 132
+  },
+  {
+   "id": 12847,
+   "modelName": "sprunk_fact",
+   "txdName": "sprunkworks",
+   "drawDistance": 130,
+   "flags": 2097284
+  },
+  {
+   "id": 12848,
+   "modelName": "coe_sprunlkfenc",
+   "txdName": "cunte_town1",
+   "drawDistance": 100,
+   "flags": 2097284
+  },
+  {
+   "id": 12849,
+   "modelName": "CornerStore_01",
+   "txdName": "cunte_town1",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 12850,
+   "modelName": "sw_block01",
+   "txdName": "cunte_block1",
+   "drawDistance": 120,
+   "flags": 128
+  },
+  {
+   "id": 12851,
+   "modelName": "cunte_roads29",
+   "txdName": "cunteroads1",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12852,
+   "modelName": "cunte_roads30",
+   "txdName": "cunteroads1",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12853,
+   "modelName": "sw_gas01",
+   "txdName": "cunte_gas01",
+   "drawDistance": 100,
+   "flags": 2097284
+  },
+  {
+   "id": 12854,
+   "modelName": "sw_gas01int",
+   "txdName": "cunte_gas01",
+   "drawDistance": 80,
+   "flags": 2097284
+  },
+  {
+   "id": 12855,
+   "modelName": "sw_copshop",
+   "txdName": "cunte_cop",
+   "drawDistance": 150,
+   "flags": 2097152
+  },
+  {
+   "id": 12856,
+   "modelName": "sw_bridge",
+   "txdName": "counte_bridge",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 12857,
+   "modelName": "CE_bridge02",
+   "txdName": "counte_bridge",
+   "drawDistance": 80,
+   "flags": 0
+  },
+  {
+   "id": 12858,
+   "modelName": "sw_gate1",
+   "txdName": "wiresnshit",
+   "drawDistance": 150,
+   "flags": 2097156
+  },
+  {
+   "id": 12859,
+   "modelName": "sw_cont03",
+   "txdName": "CE_loadbay",
+   "drawDistance": 80,
+   "flags": 128
+  },
+  {
+   "id": 12860,
+   "modelName": "sw_cont04",
+   "txdName": "CE_loadbay",
+   "drawDistance": 120,
+   "flags": 128
+  },
+  {
+   "id": 12861,
+   "modelName": "sw_cont05",
+   "txdName": "CE_loadbay",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 12862,
+   "modelName": "sw_block03",
+   "txdName": "sw_block03",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 12863,
+   "modelName": "sw_genstore02",
+   "txdName": "sw_genstore1",
+   "drawDistance": 100,
+   "flags": 2097280
+  },
+  {
+   "id": 12864,
+   "modelName": "cuntEground11",
+   "txdName": "CE_ground08",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 12865,
+   "modelName": "cuntEground13",
+   "txdName": "CE_ground12",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 12866,
+   "modelName": "CEgroundT202",
+   "txdName": "CE_ground07",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 12867,
+   "modelName": "cunte_roads32",
+   "txdName": "cunteroads5",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12868,
+   "modelName": "cuntEground26",
+   "txdName": "CE_ground05",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 12869,
+   "modelName": "cyecuntEground28",
+   "txdName": "CE_ground04",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 12870,
+   "modelName": "CE_grndPALCST06",
+   "txdName": "CE_ground03",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 12871,
+   "modelName": "cuntEground34",
+   "txdName": "CE_ground01",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 12872,
+   "modelName": "cuntEground43",
+   "txdName": "CE_ground12",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 12873,
+   "modelName": "cunte_roads33",
+   "txdName": "cunteroads1",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12874,
+   "modelName": "cunte_roads34",
+   "txdName": "cunteroads1",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12875,
+   "modelName": "cunte_roads35",
+   "txdName": "cunteroads1",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12876,
+   "modelName": "cunte_roads39",
+   "txdName": "cunteroads4",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12877,
+   "modelName": "cunte_roads40",
+   "txdName": "cunteroads3",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12878,
+   "modelName": "cunte_roads41",
+   "txdName": "cunteroads3",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12879,
+   "modelName": "cunte_roads42",
+   "txdName": "cunteroads4",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12880,
+   "modelName": "cunte_roads43",
+   "txdName": "cunteroads4",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12881,
+   "modelName": "cunte_roads44",
+   "txdName": "cunteroads4",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12882,
+   "modelName": "cunte_roads45",
+   "txdName": "cunteroads4",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12883,
+   "modelName": "cunte_roads46",
+   "txdName": "cunteroads4",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12884,
+   "modelName": "cunte_roads47",
+   "txdName": "cunteroads4",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12885,
+   "modelName": "cunte_roads48",
+   "txdName": "cunteroads4",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12886,
+   "modelName": "cunte_roads49",
+   "txdName": "cunteroads5",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12887,
+   "modelName": "cunte_roads50",
+   "txdName": "cunteroads6",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12888,
+   "modelName": "cunte_roads51",
+   "txdName": "cunteroads6",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12889,
+   "modelName": "cunte_roads52",
+   "txdName": "cunteroads6",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12890,
+   "modelName": "cunte_roads54",
+   "txdName": "cunteroads6",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12891,
+   "modelName": "cunte_roads56",
+   "txdName": "cunteroads2",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12892,
+   "modelName": "cunteroads_58",
+   "txdName": "cunteroads1",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12893,
+   "modelName": "cunte_roads59",
+   "txdName": "cunteroads1",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12894,
+   "modelName": "cunte_roads60",
+   "txdName": "cunteroads1",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12895,
+   "modelName": "cunte_roads61",
+   "txdName": "cunteroads1",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12896,
+   "modelName": "cunte_roads62",
+   "txdName": "cunteroads6",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12897,
+   "modelName": "cunte_roads63",
+   "txdName": "cunteroads6",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12898,
+   "modelName": "cunte_roads69",
+   "txdName": "cunteroads6",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12899,
+   "modelName": "cunte_roads71",
+   "txdName": "cunteroads5",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12900,
+   "modelName": "cunte_roads72",
+   "txdName": "cunteroads5",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12901,
+   "modelName": "cunte_roads73",
+   "txdName": "cunteroads5",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12902,
+   "modelName": "cunte_roads74",
+   "txdName": "cunteroads2",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12903,
+   "modelName": "cunte_roads75",
+   "txdName": "cunteroads2",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12904,
+   "modelName": "cuntetownrd1",
+   "txdName": "cunteroads5",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 12905,
+   "modelName": "cuntetownrd2",
+   "txdName": "cunteroads5",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 12906,
+   "modelName": "cuntetownrd3",
+   "txdName": "cunteroads5",
+   "drawDistance": 200,
+   "flags": 0
+  },
+  {
+   "id": 12907,
+   "modelName": "cuntetownrd4",
+   "txdName": "cunteroads5",
+   "drawDistance": 200,
+   "flags": 0
+  },
+  {
+   "id": 12908,
+   "modelName": "cuntEground09b",
+   "txdName": "CE_ground11",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 12909,
+   "modelName": "sw_bridge03",
+   "txdName": "counte_b2",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 12910,
+   "modelName": "sw_trainbridge1",
+   "txdName": "sw_railbridge1",
+   "drawDistance": 80,
+   "flags": 0
+  },
+  {
+   "id": 12911,
+   "modelName": "sw_Silo02",
+   "txdName": "sw_farm1",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 12912,
+   "modelName": "sw_Silo04",
+   "txdName": "sw_farm1",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 12913,
+   "modelName": "sw_fueldrum03",
+   "txdName": "sw_farm1",
+   "drawDistance": 60,
+   "flags": 128
+  },
+  {
+   "id": 12914,
+   "modelName": "sw_corrug01",
+   "txdName": "sw_farm1",
+   "drawDistance": 50,
+   "flags": 128
+  },
+  {
+   "id": 12915,
+   "modelName": "CE_bigbarn07",
+   "txdName": "sw_farm1",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 12916,
+   "modelName": "CE_farmland04",
+   "txdName": "CE_ground11",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 12917,
+   "modelName": "sw_haypile03",
+   "txdName": "sw_farm1",
+   "drawDistance": 50,
+   "flags": 128
+  },
+  {
+   "id": 12918,
+   "modelName": "sw_haypile05",
+   "txdName": "sw_farm1",
+   "drawDistance": 50,
+   "flags": 128
+  },
+  {
+   "id": 12919,
+   "modelName": "sw_tempbarn06",
+   "txdName": "sw_farm1",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 12920,
+   "modelName": "sw_tempbarn02",
+   "txdName": "sw_farm1",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 12921,
+   "modelName": "sw_farment01",
+   "txdName": "sw_farm1",
+   "drawDistance": 50,
+   "flags": 128
+  },
+  {
+   "id": 12922,
+   "modelName": "sw_farment02",
+   "txdName": "sw_farm1",
+   "drawDistance": 50,
+   "flags": 128
+  },
+  {
+   "id": 12923,
+   "modelName": "sw_blockbit05",
+   "txdName": "sw_block05",
+   "drawDistance": 120,
+   "flags": 128
+  },
+  {
+   "id": 12924,
+   "modelName": "sw_block06",
+   "txdName": "sw_block06",
+   "drawDistance": 120,
+   "flags": 4
+  },
+  {
+   "id": 12925,
+   "modelName": "sw_SHED01",
+   "txdName": "sw_sheds",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 12926,
+   "modelName": "sw_sheds_base",
+   "txdName": "sw_sheds",
+   "drawDistance": 120,
+   "flags": 128
+  },
+  {
+   "id": 12927,
+   "modelName": "sw_pipepile01",
+   "txdName": "sw_sheds",
+   "drawDistance": 60,
+   "flags": 128
+  },
+  {
+   "id": 12928,
+   "modelName": "sw_shedInterior04",
+   "txdName": "sw_sheds",
+   "drawDistance": 30,
+   "flags": 2097280
+  },
+  {
+   "id": 12929,
+   "modelName": "sw_SHED06",
+   "txdName": "sw_sheds",
+   "drawDistance": 100,
+   "flags": 2097280
+  },
+  {
+   "id": 12930,
+   "modelName": "sw_pipepile02",
+   "txdName": "sw_sheds",
+   "drawDistance": 60,
+   "flags": 2097284
+  },
+  {
+   "id": 12931,
+   "modelName": "CE_brewery",
+   "txdName": "sw_brewery",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 12932,
+   "modelName": "sw_trailer02",
+   "txdName": "dk_midbuilds",
+   "drawDistance": 200,
+   "flags": 2097280
+  },
+  {
+   "id": 12933,
+   "modelName": "sw_breweryFence01",
+   "txdName": "sw_brewery",
+   "drawDistance": 200,
+   "flags": 2097284
+  },
+  {
+   "id": 12934,
+   "modelName": "sw_trailer03",
+   "txdName": "dk_midbuilds",
+   "drawDistance": 200,
+   "flags": 128
+  },
+  {
+   "id": 12935,
+   "modelName": "sw_securitycab03",
+   "txdName": "dk_midbuilds",
+   "drawDistance": 200,
+   "flags": 128
+  },
+  {
+   "id": 12936,
+   "modelName": "sw_beersign02",
+   "txdName": "dk_midbuilds",
+   "drawDistance": 200,
+   "flags": 128
+  },
+  {
+   "id": 12937,
+   "modelName": "CE_CATshack",
+   "txdName": "sw_oldshack",
+   "drawDistance": 200,
+   "flags": 2097284
+  },
+  {
+   "id": 12938,
+   "modelName": "sw_apartments02",
+   "txdName": "sw_apartments",
+   "drawDistance": 120,
+   "flags": 2097280
+  },
+  {
+   "id": 12939,
+   "modelName": "sw_apartmentsBase",
+   "txdName": "sw_apartments",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 12940,
+   "modelName": "sw_apartments07",
+   "txdName": "sw_apartments",
+   "drawDistance": 120,
+   "flags": 2097280
+  },
+  {
+   "id": 12941,
+   "modelName": "sw_LastDrop",
+   "txdName": "sw_ware01",
+   "drawDistance": 120,
+   "flags": 128
+  },
+  {
+   "id": 12942,
+   "modelName": "sw_shedInterior01",
+   "txdName": "sw_sheds",
+   "drawDistance": 30,
+   "flags": 2097280
+  },
+  {
+   "id": 12943,
+   "modelName": "sw_SHED07",
+   "txdName": "sw_sheds",
+   "drawDistance": 100,
+   "flags": 2097280
+  },
+  {
+   "id": 12944,
+   "modelName": "sw_lasershop",
+   "txdName": "CE_bankalley2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 12945,
+   "modelName": "sw_dryclean01",
+   "txdName": "CE_bankalley2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 12946,
+   "modelName": "sw_furnistore01",
+   "txdName": "CE_bankalley1",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 12947,
+   "modelName": "sw_musicstore01",
+   "txdName": "CE_bankalley1",
+   "drawDistance": 80,
+   "flags": 128
+  },
+  {
+   "id": 12948,
+   "modelName": "sw_block01a",
+   "txdName": "CE_bankalley1",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 12949,
+   "modelName": "sw_jazzmags",
+   "txdName": "CE_bankalley2",
+   "drawDistance": 80,
+   "flags": 128
+  },
+  {
+   "id": 12950,
+   "modelName": "cos_sbanksteps03",
+   "txdName": "cos_bankblock1",
+   "drawDistance": 50,
+   "flags": 2097284
+  },
+  {
+   "id": 12951,
+   "modelName": "sw_shopflat01",
+   "txdName": "CE_bankalley2",
+   "drawDistance": 80,
+   "flags": 128
+  },
+  {
+   "id": 12952,
+   "modelName": "sw_bankalley",
+   "txdName": "alleystuff",
+   "drawDistance": 200,
+   "flags": 128
+  },
+  {
+   "id": 12953,
+   "modelName": "sw_blockbit01",
+   "txdName": "CE_bankalley3",
+   "drawDistance": 80,
+   "flags": 128
+  },
+  {
+   "id": 12954,
+   "modelName": "sw_furnipile01",
+   "txdName": "sw_furniture",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 12955,
+   "modelName": "dock_props01",
+   "txdName": "alleystuff",
+   "drawDistance": 40,
+   "flags": 128
+  },
+  {
+   "id": 12956,
+   "modelName": "sw_trailerjump",
+   "txdName": "CE_loadbay",
+   "drawDistance": 200,
+   "flags": 2097284
+  },
+  {
+   "id": 12957,
+   "modelName": "sw_pickupwreck01",
+   "txdName": "sw_oldshack",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 12958,
+   "modelName": "cos_sbanksteps01",
+   "txdName": "cos_bankblock1",
+   "drawDistance": 50,
+   "flags": 2097284
+  },
+  {
+   "id": 12959,
+   "modelName": "sw_library",
+   "txdName": "sw_library",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 12960,
+   "modelName": "sw_church01",
+   "txdName": "sw_church",
+   "drawDistance": 100,
+   "flags": 2097280
+  },
+  {
+   "id": 12961,
+   "modelName": "sw_hedstones",
+   "txdName": "sw_church",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 12962,
+   "modelName": "sw_shopflat04",
+   "txdName": "sw_apartflat",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 12963,
+   "modelName": "sw_shopflat02",
+   "txdName": "sw_apartflatx",
+   "drawDistance": 120,
+   "flags": 2097280
+  },
+  {
+   "id": 12964,
+   "modelName": "sw_block07",
+   "txdName": "sw_block09",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 12965,
+   "modelName": "cunte_roads10",
+   "txdName": "cunteroads5",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12966,
+   "modelName": "cunte_roads66",
+   "txdName": "cunteroads5",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12967,
+   "modelName": "cunte_roads67",
+   "txdName": "cunteroads1",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12968,
+   "modelName": "cunte_roads68",
+   "txdName": "cunteroads1",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12969,
+   "modelName": "CE_ground08",
+   "txdName": "CE_ground01",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 12970,
+   "modelName": "cunte_roads76",
+   "txdName": "cunteroads1",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12971,
+   "modelName": "cunte_roads78",
+   "txdName": "cunteroads2",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 12972,
+   "modelName": "sw_bridge01",
+   "txdName": "counte_bridge",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 12973,
+   "modelName": "roadfromLAN2",
+   "txdName": "cunteroads2",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 12974,
+   "modelName": "cunte_roads40a",
+   "txdName": "cunteroads3",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 12975,
+   "modelName": "cunteroads43ramp01",
+   "txdName": "cunteroads4",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 12976,
+   "modelName": "sw_diner1",
+   "txdName": "sw_diner1",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 12977,
+   "modelName": "cratesinalley01",
+   "txdName": "sw_diner1",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 12978,
+   "modelName": "sw_SHED02",
+   "txdName": "CE_payspray",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 12979,
+   "modelName": "sw_block09",
+   "txdName": "sw_block9",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 12980,
+   "modelName": "sw_block10",
+   "txdName": "sw_block10",
+   "drawDistance": 120,
+   "flags": 128
+  },
+  {
+   "id": 12981,
+   "modelName": "sw_fact01",
+   "txdName": "sw_fact01",
+   "drawDistance": 200,
+   "flags": 0
+  },
+  {
+   "id": 12982,
+   "modelName": "sw_shopflat06",
+   "txdName": "sw_apartflatx",
+   "drawDistance": 100,
+   "flags": 2097280
+  },
+  {
+   "id": 12983,
+   "modelName": "sw_med1",
+   "txdName": "sw_med1",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 12984,
+   "modelName": "sw_block11",
+   "txdName": "sw_block11",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 12985,
+   "modelName": "cos_sbanksteps05",
+   "txdName": "cos_bankblock1",
+   "drawDistance": 50,
+   "flags": 2097284
+  },
+  {
+   "id": 12986,
+   "modelName": "sw_well1",
+   "txdName": "sw_well1",
+   "drawDistance": 50,
+   "flags": 2097284
+  },
+  {
+   "id": 12987,
+   "modelName": "cos_sbanksteps06",
+   "txdName": "cos_bankblock1",
+   "drawDistance": 50,
+   "flags": 2097284
+  },
+  {
+   "id": 12988,
+   "modelName": "sw_fact02",
+   "txdName": "sw_fact02",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 12989,
+   "modelName": "cuntEground06",
+   "txdName": "CE_ground08",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 12990,
+   "modelName": "sw_jetty",
+   "txdName": "sw_jetty",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 12991,
+   "modelName": "sw_shack02",
+   "txdName": "sw_shack2",
+   "drawDistance": 200,
+   "flags": 128
+  },
+  {
+   "id": 12992,
+   "modelName": "CE_archbridge",
+   "txdName": "CE_oldbridge",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 12993,
+   "modelName": "cunte_roads09",
+   "txdName": "cunteroads2",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 12994,
+   "modelName": "cunte_roads57",
+   "txdName": "cunteroads2",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 12995,
+   "modelName": "cunte_roads64",
+   "txdName": "cunteroads2",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 12996,
+   "modelName": "cunte_roads65",
+   "txdName": "cunteroads2",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 12997,
+   "modelName": "cunte_roads77",
+   "txdName": "cunteroads2",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 12998,
+   "modelName": "cunte_roads80",
+   "txdName": "cunteroads2",
+   "drawDistance": 250,
+   "flags": 1
+  },
+  {
+   "id": 12999,
+   "modelName": "cunte_roads82",
+   "txdName": "cunteroads2",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 13000,
+   "modelName": "cunte_roads83",
+   "txdName": "cunteroads2",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 13001,
+   "modelName": "cunte_roads84",
+   "txdName": "cunteroads2",
+   "drawDistance": 250,
+   "flags": 1
+  },
+  {
+   "id": 13002,
+   "modelName": "cuntebigbarn",
+   "txdName": "sw_smlfarm",
+   "drawDistance": 299,
+   "flags": 128
+  },
+  {
+   "id": 13003,
+   "modelName": "cunte_racestart",
+   "txdName": "ce_racestart",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 13004,
+   "modelName": "sw_logs01",
+   "txdName": "sw_logcamp",
+   "drawDistance": 100,
+   "flags": 132
+  },
+  {
+   "id": 13005,
+   "modelName": "sw_logs6",
+   "txdName": "sw_logcamp",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 13006,
+   "modelName": "sw_office1",
+   "txdName": "sw_office",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 13007,
+   "modelName": "sw_bankbits",
+   "txdName": "sw_bankint",
+   "drawDistance": 100,
+   "flags": 2097284
+  },
+  {
+   "id": 13008,
+   "modelName": "sw_block02",
+   "txdName": "sw_block01",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 13009,
+   "modelName": "sw_block02alpha",
+   "txdName": "sw_block01",
+   "drawDistance": 60,
+   "flags": 2097284
+  },
+  {
+   "id": 13010,
+   "modelName": "sw_Block01alpha",
+   "txdName": "cunte_block1",
+   "drawDistance": 40,
+   "flags": 2097284
+  },
+  {
+   "id": 13011,
+   "modelName": "cos_sbanksteps04",
+   "txdName": "sw_block12",
+   "drawDistance": 40,
+   "flags": 2097284
+  },
+  {
+   "id": 13012,
+   "modelName": "sw_shopflat05",
+   "txdName": "sw_apartflat5",
+   "drawDistance": 120,
+   "flags": 128
+  },
+  {
+   "id": 13013,
+   "modelName": "sw_block12",
+   "txdName": "sw_block12",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 13014,
+   "modelName": "sw_block04",
+   "txdName": "sw_block04",
+   "drawDistance": 120,
+   "flags": 128
+  },
+  {
+   "id": 13015,
+   "modelName": "sw_genstore01",
+   "txdName": "sw_genstore",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 13016,
+   "modelName": "sw_block04COL27",
+   "txdName": "sw_block04",
+   "drawDistance": 120,
+   "flags": 2097284
+  },
+  {
+   "id": 13017,
+   "modelName": "CEhollyhil16",
+   "txdName": "CE_ground08",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13018,
+   "modelName": "CEmulwire03",
+   "txdName": "cunteroads6",
+   "drawDistance": 200,
+   "flags": 2097284
+  },
+  {
+   "id": 13019,
+   "modelName": "CEhollyhil17",
+   "txdName": "CE_ground08",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13020,
+   "modelName": "CEroadTEMP2",
+   "txdName": "cunteroads2",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 13021,
+   "modelName": "CEhllyhil01a",
+   "txdName": "CE_ground08",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13022,
+   "modelName": "sw_block11a",
+   "txdName": "sw_block11a",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 13023,
+   "modelName": "sw_rocks1",
+   "txdName": "cunte_rocks",
+   "drawDistance": 125,
+   "flags": 2097284
+  },
+  {
+   "id": 13024,
+   "modelName": "sw_breweryFence02",
+   "txdName": "sw_brewery",
+   "drawDistance": 150,
+   "flags": 2097284
+  },
+  {
+   "id": 13025,
+   "modelName": "sw_fueldrum01",
+   "txdName": "sw_farm1",
+   "drawDistance": 60,
+   "flags": 128
+  },
+  {
+   "id": 13026,
+   "modelName": "LODsw_library",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 13027,
+   "modelName": "ce_spray",
+   "txdName": "CE_payspray",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 13028,
+   "modelName": "CE_spraydoor1",
+   "txdName": "CE_payspray",
+   "drawDistance": 100,
+   "flags": 2176
+  },
+  {
+   "id": 13029,
+   "modelName": "LODsw_pipepile01",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 350,
+   "flags": 128
+  },
+  {
+   "id": 13030,
+   "modelName": "cuntEground34a",
+   "txdName": "CE_ground11",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13031,
+   "modelName": "LODcuntEground34",
+   "txdName": "CE_LOD_01",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13032,
+   "modelName": "LODcuntEground09b",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13033,
+   "modelName": "cunte_roads30bar",
+   "txdName": "cunteroads1",
+   "drawDistance": 200,
+   "flags": 2097284
+  },
+  {
+   "id": 13034,
+   "modelName": "cunte_roads30bar01",
+   "txdName": "cunteroads1",
+   "drawDistance": 100,
+   "flags": 132
+  },
+  {
+   "id": 13035,
+   "modelName": "cuntEground12a",
+   "txdName": "CE_ground14",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13036,
+   "modelName": "cuntEgund11a",
+   "txdName": "CE_ground08",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13037,
+   "modelName": "LODcuntEground11a",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13038,
+   "modelName": "cunte_roads35a",
+   "txdName": "cunteroads1",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 13039,
+   "modelName": "CE_ground02",
+   "txdName": "CE_ground01",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13040,
+   "modelName": "CE_ground03",
+   "txdName": "CE_ground01",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13041,
+   "modelName": "CE_ground04",
+   "txdName": "CE_ground01",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13042,
+   "modelName": "CE_ground05",
+   "txdName": "CE_ground01",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13043,
+   "modelName": "CE_ground06",
+   "txdName": "CE_ground01",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13044,
+   "modelName": "CE_ground07",
+   "txdName": "CE_ground01",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13045,
+   "modelName": "cunte_roads30bar02",
+   "txdName": "cunteroads1",
+   "drawDistance": 200,
+   "flags": 2097284
+  },
+  {
+   "id": 13046,
+   "modelName": "LODCE_ground06",
+   "txdName": "CE_LOD_01",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13047,
+   "modelName": "LODCE_ground04",
+   "txdName": "CE_LOD_01",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13048,
+   "modelName": "LODCE_brewery",
+   "txdName": "CE_LOD_01",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13049,
+   "modelName": "CE_farmland01",
+   "txdName": "CE_ground11",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13050,
+   "modelName": "CE_farmland02",
+   "txdName": "CE_ground11",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13051,
+   "modelName": "CE_farmland03",
+   "txdName": "CE_ground11",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13052,
+   "modelName": "LODCE_bigbarn07",
+   "txdName": "CE_LOD_01",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 13053,
+   "modelName": "LODsw_Silo04",
+   "txdName": "CE_LOD_01",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 13054,
+   "modelName": "LODsw_Silo02",
+   "txdName": "CE_LOD_01",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 13055,
+   "modelName": "LODsw_tempbarn02",
+   "txdName": "CE_LOD_01",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 13056,
+   "modelName": "LODsw_tempbarn06",
+   "txdName": "CE_LOD_01",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 13057,
+   "modelName": "LODswwatertower02",
+   "txdName": "CE_LOD_01",
+   "drawDistance": 450,
+   "flags": 2097152
+  },
+  {
+   "id": 13058,
+   "modelName": "cunte_roads11a",
+   "txdName": "cunteroads1",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 13059,
+   "modelName": "CEfact03",
+   "txdName": "CE_fact03",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 13060,
+   "modelName": "CE_factcomp1",
+   "txdName": "CE_fact01",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 13061,
+   "modelName": "CE_factcomp2",
+   "txdName": "sw_sheds2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 13062,
+   "modelName": "LODCEfact03",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 13063,
+   "modelName": "LODCE_factcomp2",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 13064,
+   "modelName": "LODCE_factcomp1",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 13065,
+   "modelName": "sw_fact03",
+   "txdName": "sw_fact02alt",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 13066,
+   "modelName": "sw_fact04",
+   "txdName": "sw_fact01a",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 13067,
+   "modelName": "LODsw_fact04",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 13068,
+   "modelName": "LODsw_fact03",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 13069,
+   "modelName": "LODsw_LastDrop",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13070,
+   "modelName": "CEgroundTP101",
+   "txdName": "CE_ground12",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13071,
+   "modelName": "CEgroundTP102",
+   "txdName": "CE_ground12",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13072,
+   "modelName": "CEgroundTP103",
+   "txdName": "CE_ground12",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13073,
+   "modelName": "LODcuntEground43",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13074,
+   "modelName": "LODcuntEground13",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13075,
+   "modelName": "LODCEgroundTP101",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13076,
+   "modelName": "LODCEgroundTP102",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13077,
+   "modelName": "CE_townware",
+   "txdName": "cunte_bar1",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 13078,
+   "modelName": "CEwrehse07",
+   "txdName": "CEwrehse",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 13079,
+   "modelName": "LODCE_townware",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13080,
+   "modelName": "LODCEwrehse07",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 13081,
+   "modelName": "CEgroundT206",
+   "txdName": "CE_ground13",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13082,
+   "modelName": "CEgroundT203",
+   "txdName": "CE_ground13",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13083,
+   "modelName": "CEgroundT204",
+   "txdName": "CE_ground13",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13084,
+   "modelName": "CEgroundT205",
+   "txdName": "CE_ground07",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13085,
+   "modelName": "LODCEgroundT203",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13086,
+   "modelName": "LODCEgroundT206",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13087,
+   "modelName": "LODCEgroundT204",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13088,
+   "modelName": "cuntetownrd4a",
+   "txdName": "cunteroads5",
+   "drawDistance": 200,
+   "flags": 0
+  },
+  {
+   "id": 13089,
+   "modelName": "LODcuntetownrd4",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13090,
+   "modelName": "LODcuntetownrd4a",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13091,
+   "modelName": "LODcuntetownrd2",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13092,
+   "modelName": "cuntetownrd05",
+   "txdName": "cunteroads5",
+   "drawDistance": 200,
+   "flags": 0
+  },
+  {
+   "id": 13093,
+   "modelName": "LODcuntetownrd3",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13094,
+   "modelName": "LODcuntetownrd05",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13095,
+   "modelName": "cunte_roads02",
+   "txdName": "cunteroads5",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 13096,
+   "modelName": "cunte_roadsbar01",
+   "txdName": "cunte_wires",
+   "drawDistance": 225,
+   "flags": 2097284
+  },
+  {
+   "id": 13097,
+   "modelName": "cunte_roads30bar06",
+   "txdName": "cunte_wires",
+   "drawDistance": 200,
+   "flags": 2097284
+  },
+  {
+   "id": 13098,
+   "modelName": "cunte_roadsbar05",
+   "txdName": "cunte_wires",
+   "drawDistance": 250,
+   "flags": 2097284
+  },
+  {
+   "id": 13099,
+   "modelName": "CE_groundPALO06",
+   "txdName": "CE_ground07",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13100,
+   "modelName": "CE_groundPALO02",
+   "txdName": "CE_ground07",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13101,
+   "modelName": "CE_groundPALO03",
+   "txdName": "CE_ground07",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13102,
+   "modelName": "CE_groundPALO04",
+   "txdName": "CE_ground07",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13103,
+   "modelName": "CE_groundPALO05",
+   "txdName": "CE_ground07",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13104,
+   "modelName": "CE_groundPALO01",
+   "txdName": "CE_ground07",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13105,
+   "modelName": "CE_groundPALO07",
+   "txdName": "CE_ground03",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13106,
+   "modelName": "CE_groundPALO08",
+   "txdName": "CE_ground03",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13107,
+   "modelName": "CE_groundPALO10",
+   "txdName": "CE_ground03",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13108,
+   "modelName": "LODswwatertower03",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 450,
+   "flags": 2097152
+  },
+  {
+   "id": 13109,
+   "modelName": "sw_watertower04",
+   "txdName": "counte_b2",
+   "drawDistance": 100,
+   "flags": 2097284
+  },
+  {
+   "id": 13110,
+   "modelName": "LODCE_groundPALO06",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13111,
+   "modelName": "LODCE_groundPALO02",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13112,
+   "modelName": "LODCEgroundPALO03",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13113,
+   "modelName": "LODCE_groundPALO05",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13114,
+   "modelName": "LODCEgroundPALO01",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13115,
+   "modelName": "LODCE_groundPALO10",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13116,
+   "modelName": "LODcunte_roads45",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13117,
+   "modelName": "LODcunte_roads44",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13118,
+   "modelName": "cunte_roadsbar02",
+   "txdName": "cunte_wires",
+   "drawDistance": 250,
+   "flags": 2097284
+  },
+  {
+   "id": 13119,
+   "modelName": "cunte_roads37",
+   "txdName": "cunteroads4",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 13120,
+   "modelName": "CE_grndPALCST03",
+   "txdName": "CE_ground02",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13121,
+   "modelName": "CE_grndPALCST04",
+   "txdName": "CE_ground02",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13122,
+   "modelName": "CE_grndPALCST01",
+   "txdName": "CE_ground02",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13123,
+   "modelName": "CE_grndPALCST07",
+   "txdName": "CE_ground02",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13124,
+   "modelName": "CE_grndPALCST08",
+   "txdName": "CE_ground03",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13125,
+   "modelName": "CE_grndPALCST09",
+   "txdName": "CE_ground03",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13126,
+   "modelName": "CE_grndPALCST10",
+   "txdName": "CE_ground03",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13127,
+   "modelName": "cunte_roads81",
+   "txdName": "cunteroads2",
+   "drawDistance": 250,
+   "flags": 1
+  },
+  {
+   "id": 13128,
+   "modelName": "cunte_roads79",
+   "txdName": "cunteroads2",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 13129,
+   "modelName": "cunte_roads85",
+   "txdName": "cunteroads2",
+   "drawDistance": 250,
+   "flags": 1
+  },
+  {
+   "id": 13130,
+   "modelName": "LODCEPALCST10",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13131,
+   "modelName": "sw_block05",
+   "txdName": "cunte_blockammo",
+   "drawDistance": 120,
+   "flags": 128
+  },
+  {
+   "id": 13132,
+   "modelName": "CE_bar01",
+   "txdName": "cunte_bar1",
+   "drawDistance": 80,
+   "flags": 128
+  },
+  {
+   "id": 13133,
+   "modelName": "LODCE_bar01",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13134,
+   "modelName": "cuntEground03",
+   "txdName": "CE_ground02",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13135,
+   "modelName": "cyecuntEground01",
+   "txdName": "CE_ground04",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13136,
+   "modelName": "cyecuntEground02",
+   "txdName": "CE_ground04",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13137,
+   "modelName": "CEwirestown",
+   "txdName": "cunte_wires",
+   "drawDistance": 250,
+   "flags": 2097348
+  },
+  {
+   "id": 13138,
+   "modelName": "CE_archbridge2",
+   "txdName": "CE_oldbridge",
+   "drawDistance": 200,
+   "flags": 128
+  },
+  {
+   "id": 13139,
+   "modelName": "cuntetunnel1",
+   "txdName": "CEcuntetunnel",
+   "drawDistance": 200,
+   "flags": 0
+  },
+  {
+   "id": 13140,
+   "modelName": "cuntetunnel1A",
+   "txdName": "CEcuntetunnel",
+   "drawDistance": 150,
+   "flags": 5
+  },
+  {
+   "id": 13141,
+   "modelName": "cunte_roads58B",
+   "txdName": "cunteroads4",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 13142,
+   "modelName": "CE_Bbridge",
+   "txdName": "cunteroads5",
+   "drawDistance": 299,
+   "flags": 129
+  },
+  {
+   "id": 13143,
+   "modelName": "CEmulwire02",
+   "txdName": "cunteroads6",
+   "drawDistance": 200,
+   "flags": 2097156
+  },
+  {
+   "id": 13144,
+   "modelName": "cuntEground04",
+   "txdName": "CE_ground04",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13145,
+   "modelName": "cuntEground05",
+   "txdName": "CE_ground04",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13146,
+   "modelName": "cuntEground07",
+   "txdName": "CE_ground02",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13147,
+   "modelName": "cuntEground09",
+   "txdName": "CE_ground05",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13148,
+   "modelName": "cuntEground10",
+   "txdName": "CE_ground05",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13149,
+   "modelName": "cuntEground17",
+   "txdName": "CE_ground05",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13150,
+   "modelName": "cuntEground19",
+   "txdName": "CE_ground05",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13151,
+   "modelName": "LODcuntEground19",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13152,
+   "modelName": "LODcuntEground26",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13153,
+   "modelName": "cunte_roads30bar03",
+   "txdName": "cunteroads1",
+   "drawDistance": 200,
+   "flags": 2097284
+  },
+  {
+   "id": 13154,
+   "modelName": "LODcuntetunnel1",
+   "txdName": "CE_LOD_05",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13155,
+   "modelName": "LODcunte_roads63",
+   "txdName": "CE_LOD_05",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13156,
+   "modelName": "cuntEground21",
+   "txdName": "CE_ground02",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13157,
+   "modelName": "cuntEground22",
+   "txdName": "CE_ground02",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13158,
+   "modelName": "cuntEground27",
+   "txdName": "CE_ground02",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13159,
+   "modelName": "LODcuntEground21",
+   "txdName": "CE_LOD_05",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13160,
+   "modelName": "LODcunte_roads69",
+   "txdName": "CE_LOD_05",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13161,
+   "modelName": "LODcunte_roads02",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13162,
+   "modelName": "LODcunte_roads43",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13163,
+   "modelName": "CE_groundPALO11",
+   "txdName": "CE_ground07",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13164,
+   "modelName": "LODCEroundPALO11",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13165,
+   "modelName": "CE_groundPALO12",
+   "txdName": "CE_ground03",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13166,
+   "modelName": "LODCEndPALO12",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13167,
+   "modelName": "cyecuntEground03",
+   "txdName": "CE_ground04",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13168,
+   "modelName": "cunte_roads58",
+   "txdName": "cunteroads4",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 13169,
+   "modelName": "cunte_roads86",
+   "txdName": "cunteroads4",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 13170,
+   "modelName": "cunte_roads87",
+   "txdName": "cunteroads4",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 13171,
+   "modelName": "cuntEgd12a01",
+   "txdName": "CE_ground14",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13172,
+   "modelName": "cuntEgd12a02",
+   "txdName": "CE_ground14",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13173,
+   "modelName": "cunte_roads88",
+   "txdName": "cunteroads2",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13174,
+   "modelName": "cunte_roots01",
+   "txdName": "sw_oldshack",
+   "drawDistance": 200,
+   "flags": 2097284
+  },
+  {
+   "id": 13175,
+   "modelName": "cuntEground18",
+   "txdName": "CE_ground14",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13176,
+   "modelName": "cuntEground29",
+   "txdName": "CE_ground14",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13177,
+   "modelName": "cuntEground30",
+   "txdName": "CE_ground14",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13178,
+   "modelName": "cuntEground31",
+   "txdName": "CE_ground14",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13179,
+   "modelName": "cuntEground32",
+   "txdName": "CE_ground14",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13180,
+   "modelName": "cuntEground33",
+   "txdName": "CE_ground14",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13181,
+   "modelName": "cuntEground35",
+   "txdName": "CE_ground14",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13182,
+   "modelName": "LODcuntEground29",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13183,
+   "modelName": "LODcuntEground30",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13184,
+   "modelName": "LODcuntEground32",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13185,
+   "modelName": "LODcuntEground35",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13186,
+   "modelName": "LODcuntEground33",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13187,
+   "modelName": "burbdoor",
+   "txdName": "counte_b2",
+   "drawDistance": 80,
+   "flags": 2048
+  },
+  {
+   "id": 13188,
+   "modelName": "burbdoor2",
+   "txdName": "CE_payspray",
+   "drawDistance": 80,
+   "flags": 2048
+  },
+  {
+   "id": 13189,
+   "modelName": "sw_SHED07_LOD",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13190,
+   "modelName": "CE_busdepot",
+   "txdName": "factorycunte",
+   "drawDistance": 120,
+   "flags": 128
+  },
+  {
+   "id": 13191,
+   "modelName": "LODCE_bigshed1",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13192,
+   "modelName": "sw_cont04_LOD",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13193,
+   "modelName": "sw_cont03_LOD",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13194,
+   "modelName": "dk_waretank_LOD",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13195,
+   "modelName": "sw_cont05_LOD",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13196,
+   "modelName": "LODsw_SHED01",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13197,
+   "modelName": "sw_SHED06_LOD",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13198,
+   "modelName": "CE_waretank",
+   "txdName": "CE_loadbay",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 13199,
+   "modelName": "sw_sheds_LOD",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13200,
+   "modelName": "sw_blockbit05_LOD",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13201,
+   "modelName": "LODsw_block06",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13202,
+   "modelName": "LODsw_block05",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13203,
+   "modelName": "busdepot_LOD",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13204,
+   "modelName": "cos_liquorshop_LOD",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13205,
+   "modelName": "CE_wires",
+   "txdName": "cunte_wires",
+   "drawDistance": 250,
+   "flags": 2097348
+  },
+  {
+   "id": 13206,
+   "modelName": "CEtruth_barn02",
+   "txdName": "CE_ground10",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 13207,
+   "modelName": "cuntEground12",
+   "txdName": "CE_ground14",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13208,
+   "modelName": "cuntEground15",
+   "txdName": "CE_ground10",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13209,
+   "modelName": "cuntEground36",
+   "txdName": "CE_ground10",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13210,
+   "modelName": "cuntEground37",
+   "txdName": "CE_ground10",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13211,
+   "modelName": "cuntEground38",
+   "txdName": "CE_ground10",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13212,
+   "modelName": "cuntEground39",
+   "txdName": "CE_ground10",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13213,
+   "modelName": "cuntEground40",
+   "txdName": "CE_ground10",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13214,
+   "modelName": "cuntEground41",
+   "txdName": "CE_ground10",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13215,
+   "modelName": "sw_office1_LOD",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13216,
+   "modelName": "sw_block02_LOD",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13217,
+   "modelName": "sw_fact02_LOD",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13218,
+   "modelName": "sw_shopflat05_LOD",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13219,
+   "modelName": "CornerStore_LOD",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13220,
+   "modelName": "sw_block12_LOD",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13221,
+   "modelName": "sw_med1_LOD",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13222,
+   "modelName": "sw_block11_LOD",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13223,
+   "modelName": "sw_block11a_LOD",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13224,
+   "modelName": "sprunk_fact_LOD",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13225,
+   "modelName": "sw_block04_LOD",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13226,
+   "modelName": "sw_genstore01_LOD",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13227,
+   "modelName": "sw_block01_LOD",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13228,
+   "modelName": "LODCuntEground15",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13229,
+   "modelName": "LODcuntEground36",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13230,
+   "modelName": "LODcuntEground12",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13231,
+   "modelName": "LODcuntEground41",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13232,
+   "modelName": "LODcunteroads_58",
+   "txdName": "CE_LOD_01",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13233,
+   "modelName": "LODcunte_roads30",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13234,
+   "modelName": "LODcunte_roads29",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13235,
+   "modelName": "cuntehil01",
+   "txdName": "CE_ground09",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13236,
+   "modelName": "cuntehil02",
+   "txdName": "CE_ground09",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13237,
+   "modelName": "cuntehil03",
+   "txdName": "CE_ground09",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13238,
+   "modelName": "LODcuntehil01",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13239,
+   "modelName": "LODcuntehil02",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13240,
+   "modelName": "LODcuntehil03",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13241,
+   "modelName": "LOD05sw_diner1",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13242,
+   "modelName": "LOD08sw_genstore02",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13243,
+   "modelName": "LOD02sw_block09",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13244,
+   "modelName": "LOD01sw_block03",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13245,
+   "modelName": "LOD07sw_gas01",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13246,
+   "modelName": "LOD09sw_shopflat02",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13247,
+   "modelName": "LOD10sw_shopflat06",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13248,
+   "modelName": "LOD03sw_block10",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13249,
+   "modelName": "LOD06sw_fact01",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13250,
+   "modelName": "LOD04sw_copshop",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13251,
+   "modelName": "LOD04sw_block07",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13252,
+   "modelName": "LOD06sw_church01",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13253,
+   "modelName": "LOD14sw_shopflat04",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13254,
+   "modelName": "LOD02sw_bankalley",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13255,
+   "modelName": "LOD05sw_blockbit01",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13256,
+   "modelName": "LOD01smalltwnbld05",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13257,
+   "modelName": "LOD10sw_lasershop",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13258,
+   "modelName": "LOD07sw_dryclean01",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13259,
+   "modelName": "LOD08sw_store01",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13260,
+   "modelName": "LOD12sw_store01",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13261,
+   "modelName": "LOD03sw_block01a",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13262,
+   "modelName": "LOD09sw_jazzmags",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13263,
+   "modelName": "LOD13sw_shopflat01",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13264,
+   "modelName": "LODcunte_roads58",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13265,
+   "modelName": "LODcunte_roads21",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13266,
+   "modelName": "LODcunte_roads87",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13267,
+   "modelName": "LODcunte_roads22",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13268,
+   "modelName": "LODcunte_roads20",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13269,
+   "modelName": "LODcunte_roads03",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13270,
+   "modelName": "LODcunte_roads17",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13271,
+   "modelName": "LODcunte_roads19",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13272,
+   "modelName": "LODcunte_roads86",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13273,
+   "modelName": "LODcunte_roads25",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 8321
+  },
+  {
+   "id": 13274,
+   "modelName": "LODcunte_roads50",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13275,
+   "modelName": "LODcunte_roads83",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13276,
+   "modelName": "LODcunte_roads81",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13277,
+   "modelName": "LODcunte_roads84",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13278,
+   "modelName": "LODcunte_roads82",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13279,
+   "modelName": "LODcunte_roads79",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13280,
+   "modelName": "LODcunte_roads85",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13281,
+   "modelName": "LODcunte_roads80",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13282,
+   "modelName": "LODcunte_roads38",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13283,
+   "modelName": "LODcunte_roads14",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13284,
+   "modelName": "LODcunte_roads09",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13285,
+   "modelName": "LODcunte_roads65",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13286,
+   "modelName": "LODcunte_roads77",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13287,
+   "modelName": "LODcunte_roads06",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13288,
+   "modelName": "LODcunte_roads64",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13289,
+   "modelName": "LODcunte_roads88",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13290,
+   "modelName": "LODcunte_roads57",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13291,
+   "modelName": "LODcuntetownrd1",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13292,
+   "modelName": "LODsw_apartments07",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13293,
+   "modelName": "LODsw_apartments01",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13294,
+   "modelName": "LODsw_apartase1",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13295,
+   "modelName": "CE_terminal1",
+   "txdName": "CE_terminal",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 13296,
+   "modelName": "CE_roadsidegas",
+   "txdName": "sw_roadgas",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 13297,
+   "modelName": "CEgroundT201",
+   "txdName": "CE_ground13",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13298,
+   "modelName": "LODCE_terminal1",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13299,
+   "modelName": "LODCEroadsidegas",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13300,
+   "modelName": "LODCEroadTEMP2",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13301,
+   "modelName": "LODroadfromLAN2",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13302,
+   "modelName": "LODcunte_roads16",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13303,
+   "modelName": "LODcunte_roads13",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13304,
+   "modelName": "LODcunte_roads42",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13305,
+   "modelName": "LODcunte_roads41",
+   "txdName": "CE_LOD_05",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13306,
+   "modelName": "LODcunte_roads40a",
+   "txdName": "CE_LOD_05",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13307,
+   "modelName": "LODcunte_roads40",
+   "txdName": "CE_LOD_05",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13308,
+   "modelName": "LODcunte_roads39",
+   "txdName": "CE_LOD_05",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13309,
+   "modelName": "LODcunte_roads37",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13310,
+   "modelName": "LODcoe_traintrax_03",
+   "txdName": "CE_LOD_05",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13311,
+   "modelName": "LODcoe_traintrax_04",
+   "txdName": "CE_LOD_05",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13312,
+   "modelName": "coe_traintrax_05",
+   "txdName": "CE_traintrack2",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13313,
+   "modelName": "LODcoe_traintrax_06",
+   "txdName": "CE_LOD_05",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13314,
+   "modelName": "LODcoe_traintrax_07",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13315,
+   "modelName": "LODcoe_traintrax_08",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13316,
+   "modelName": "LODcoe_traintrax_09",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13317,
+   "modelName": "LODcoe_traintrax_10",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13318,
+   "modelName": "LODcu43ramp01",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13319,
+   "modelName": "LODcunte_roads04",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13320,
+   "modelName": "LODcunte_roads56",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13321,
+   "modelName": "cunte_roads07",
+   "txdName": "cunteroads2",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 13322,
+   "modelName": "LODcunte_roads07",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13323,
+   "modelName": "cunte_roads18",
+   "txdName": "roads_cunte",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 13324,
+   "modelName": "cunte_roads38",
+   "txdName": "roads_cunte",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 13325,
+   "modelName": "cunte_roads89",
+   "txdName": "cunteroads6",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 13326,
+   "modelName": "LODcunte_roads18",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13327,
+   "modelName": "LODcunte_roads89",
+   "txdName": "CE_LOD_05",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13328,
+   "modelName": "LODcunte_roads54",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13329,
+   "modelName": "LODcunte_roads66",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13330,
+   "modelName": "LODcunte_roads51",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13331,
+   "modelName": "LODcunte_roads48",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13332,
+   "modelName": "CE_multibridge1",
+   "txdName": "cunteroads4",
+   "drawDistance": 299,
+   "flags": 128
+  },
+  {
+   "id": 13333,
+   "modelName": "LODCE_multibridge1",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13334,
+   "modelName": "LODcunte_roads47",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13335,
+   "modelName": "LODcunte_roads24",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13336,
+   "modelName": "cunte_roads46walls",
+   "txdName": "cunteroads4",
+   "drawDistance": 200,
+   "flags": 0
+  },
+  {
+   "id": 13337,
+   "modelName": "LODcunte_roads46",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13338,
+   "modelName": "LODte_roads46walls",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13339,
+   "modelName": "LODsw_trainbridge1",
+   "txdName": "CE_LOD_05",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13340,
+   "modelName": "LODcunte_roads62",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13341,
+   "modelName": "LODcunte_roads58B",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13342,
+   "modelName": "cunte_roads31",
+   "txdName": "cunteroads1",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 13343,
+   "modelName": "LODcunte_roads31",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13344,
+   "modelName": "LODcunte_roads76",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13345,
+   "modelName": "cunte_roads36",
+   "txdName": "cunteroads5",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 13346,
+   "modelName": "LODcunte_roads52",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13347,
+   "modelName": "cunte_roads26W",
+   "txdName": "cunteroads5",
+   "drawDistance": 200,
+   "flags": 0
+  },
+  {
+   "id": 13348,
+   "modelName": "cunte_roads23W",
+   "txdName": "cunteroads5",
+   "drawDistance": 200,
+   "flags": 0
+  },
+  {
+   "id": 13349,
+   "modelName": "cunte_roads27W",
+   "txdName": "cunteroads5",
+   "drawDistance": 200,
+   "flags": 0
+  },
+  {
+   "id": 13350,
+   "modelName": "LODcunte_roads26",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13351,
+   "modelName": "LODcunte_roads49",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13352,
+   "modelName": "LODcunte_roads23",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13353,
+   "modelName": "LODcunte_roads27",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13354,
+   "modelName": "LODcunte_roads23W",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13355,
+   "modelName": "LODcunte_roads36",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13356,
+   "modelName": "LODcunte_roads26W",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13357,
+   "modelName": "LODcunte_roads27W",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13358,
+   "modelName": "LODCE_Bbridge",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13359,
+   "modelName": "LODcunte_roads32",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13360,
+   "modelName": "CE_CATshackdoor",
+   "txdName": "sw_oldshack",
+   "drawDistance": 299,
+   "flags": 2097280
+  },
+  {
+   "id": 13361,
+   "modelName": "CE_pizza1",
+   "txdName": "CE_pizza",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 13362,
+   "modelName": "LODCE_pizza1",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 400,
+   "flags": 0
+  },
+  {
+   "id": 13363,
+   "modelName": "CE_photoblock",
+   "txdName": "CEphotoblockcs_t",
+   "drawDistance": 100,
+   "flags": 2097152
+  },
+  {
+   "id": 13364,
+   "modelName": "CE_wtownblok1",
+   "txdName": "CEtown3cs_t",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 13365,
+   "modelName": "LODCE_wtownblok1",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13366,
+   "modelName": "LODCE_photoblock",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13367,
+   "modelName": "sw_watertower01",
+   "txdName": "sw_farm1",
+   "drawDistance": 100,
+   "flags": 2097284
+  },
+  {
+   "id": 13368,
+   "modelName": "CE_bridgebase1",
+   "txdName": "sw_railbridge",
+   "drawDistance": 250,
+   "flags": 128
+  },
+  {
+   "id": 13369,
+   "modelName": "sw_logs07",
+   "txdName": "sw_logcamp",
+   "drawDistance": 50,
+   "flags": 128
+  },
+  {
+   "id": 13370,
+   "modelName": "CEhllyhil03a",
+   "txdName": "CE_ground08",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13371,
+   "modelName": "CEhllyhil02a",
+   "txdName": "CE_ground08",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13372,
+   "modelName": "LODCEllyhil01a",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13373,
+   "modelName": "LODCEhllyhil02",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13374,
+   "modelName": "CEwirestown01",
+   "txdName": "cunte_wires",
+   "drawDistance": 299,
+   "flags": 2097348
+  },
+  {
+   "id": 13375,
+   "modelName": "CEwirestown02",
+   "txdName": "cunte_wires",
+   "drawDistance": 250,
+   "flags": 2097348
+  },
+  {
+   "id": 13376,
+   "modelName": "LODcunte_roads35",
+   "txdName": "CE_LOD_01",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13377,
+   "modelName": "LODcunte_roads35a",
+   "txdName": "CE_LOD_01",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13378,
+   "modelName": "LODcunte_roads34",
+   "txdName": "CE_LOD_01",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13379,
+   "modelName": "LODcunte_roads12",
+   "txdName": "CE_LOD_01",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13380,
+   "modelName": "LODcunte_roads33",
+   "txdName": "CE_LOD_01",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13381,
+   "modelName": "LODcunte_roads61",
+   "txdName": "CE_LOD_01",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13382,
+   "modelName": "LODcunte_roads68",
+   "txdName": "CE_LOD_01",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13383,
+   "modelName": "LODcunte_roads67",
+   "txdName": "CE_LOD_01",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13384,
+   "modelName": "LODcuntEgd12a01",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13385,
+   "modelName": "LODcuntEground12a",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13386,
+   "modelName": "LODcuntEgd12a02",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13387,
+   "modelName": "LODCE_bridge02",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13388,
+   "modelName": "LODcunte_roads78",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13389,
+   "modelName": "LODsw_SHED02",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13390,
+   "modelName": "LODcunte_roads11a",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13391,
+   "modelName": "LODcunte_roads15",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13392,
+   "modelName": "LODcunte_roads08",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13393,
+   "modelName": "LODcunte_roads74",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13394,
+   "modelName": "LODCE_archbridge2",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 450,
+   "flags": 129
+  },
+  {
+   "id": 13395,
+   "modelName": "LODCE_archbridge",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13396,
+   "modelName": "LODcunte_roads60",
+   "txdName": "CE_LOD_01",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13397,
+   "modelName": "LODcunte_roads59",
+   "txdName": "CE_LOD_01",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13398,
+   "modelName": "LODcuntyeland04",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13399,
+   "modelName": "LODcunte_roads72",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13400,
+   "modelName": "LODcunte_roads73",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13401,
+   "modelName": "LODcunte_roads10",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13402,
+   "modelName": "LODcunte_roads01",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13403,
+   "modelName": "LODcunte_roads71",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13404,
+   "modelName": "LODcyeEground01",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13405,
+   "modelName": "LODcyground02",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13406,
+   "modelName": "LODcyeground28",
+   "txdName": "CE_LOD_05",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13407,
+   "modelName": "LODcyecuground03",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13408,
+   "modelName": "LODCE_grndCST08",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13409,
+   "modelName": "LODCEPALCST06",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13410,
+   "modelName": "LODCEdPALCST01",
+   "txdName": "CE_LOD_05",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13411,
+   "modelName": "LODCE_grndPT09",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13412,
+   "modelName": "LODCEoundPALO04",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13413,
+   "modelName": "LODCE_farmland01",
+   "txdName": "CE_LOD_01",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13414,
+   "modelName": "LODCE_farmland02",
+   "txdName": "CE_LOD_01",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13415,
+   "modelName": "LODCE_farmland03",
+   "txdName": "CE_LOD_01",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13416,
+   "modelName": "LODCE_farmland04",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13417,
+   "modelName": "LODcunte_roads11",
+   "txdName": "CE_LOD_01",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13418,
+   "modelName": "LODCE_ground03",
+   "txdName": "CE_LOD_01",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13419,
+   "modelName": "LODCE_ground02",
+   "txdName": "CE_LOD_01",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13420,
+   "modelName": "LODCE_ground01",
+   "txdName": "CE_LOD_01",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13421,
+   "modelName": "LODcunte_roads75",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 1500,
+   "flags": 129
+  },
+  {
+   "id": 13422,
+   "modelName": "cunte_roads05a",
+   "txdName": "cunteroads2",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 13423,
+   "modelName": "LODcunte_roads05a",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13424,
+   "modelName": "LODcuntEground03",
+   "txdName": "CE_LOD_05",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13425,
+   "modelName": "LODCE_gALCST07",
+   "txdName": "CE_LOD_05",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13426,
+   "modelName": "LODCE_grLCST04",
+   "txdName": "CE_LOD_05",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13427,
+   "modelName": "LODCEndPALCST03",
+   "txdName": "CE_LOD_05",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13428,
+   "modelName": "LODCE_groundPALO08",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13429,
+   "modelName": "LODcuntEground22",
+   "txdName": "CE_LOD_05",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13430,
+   "modelName": "LODCEhollyhil17",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13431,
+   "modelName": "LODcuntEground05",
+   "txdName": "CE_LOD_05",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13432,
+   "modelName": "LODcuntEground04",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13433,
+   "modelName": "LODcuntEground02",
+   "txdName": "CE_LOD_05",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13434,
+   "modelName": "LODcuntEground07",
+   "txdName": "CE_LOD_05",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13435,
+   "modelName": "sw_logs08",
+   "txdName": "sw_logcamp",
+   "drawDistance": 100,
+   "flags": 132
+  },
+  {
+   "id": 13436,
+   "modelName": "CE_wires01",
+   "txdName": "cunte_wires",
+   "drawDistance": 250,
+   "flags": 2097348
+  },
+  {
+   "id": 13437,
+   "modelName": "CE_wires02",
+   "txdName": "cunte_wires",
+   "drawDistance": 250,
+   "flags": 2097348
+  },
+  {
+   "id": 13438,
+   "modelName": "sw_church01fnce",
+   "txdName": "sw_library",
+   "drawDistance": 80,
+   "flags": 2097284
+  },
+  {
+   "id": 13439,
+   "modelName": "CE_wires03",
+   "txdName": "cunte_wires",
+   "drawDistance": 250,
+   "flags": 2097348
+  },
+  {
+   "id": 13440,
+   "modelName": "CEwirestown04",
+   "txdName": "cunte_wires",
+   "drawDistance": 299,
+   "flags": 2097348
+  },
+  {
+   "id": 13441,
+   "modelName": "CEwirestown05",
+   "txdName": "cunte_wires",
+   "drawDistance": 299,
+   "flags": 2097348
+  },
+  {
+   "id": 13442,
+   "modelName": "CEwirestown06",
+   "txdName": "cunte_wires",
+   "drawDistance": 299,
+   "flags": 2097348
+  },
+  {
+   "id": 13443,
+   "modelName": "CEwirestown03",
+   "txdName": "cunte_wires",
+   "drawDistance": 299,
+   "flags": 2097348
+  },
+  {
+   "id": 13444,
+   "modelName": "CEwirestown07",
+   "txdName": "cunte_wires",
+   "drawDistance": 299,
+   "flags": 2097348
+  },
+  {
+   "id": 13445,
+   "modelName": "cunteroads05aFNCE",
+   "txdName": "cunte_wires",
+   "drawDistance": 100,
+   "flags": 2097284
+  },
+  {
+   "id": 13446,
+   "modelName": "LODCEhollyhil16",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13447,
+   "modelName": "CE_wires04",
+   "txdName": "cunte_wires",
+   "drawDistance": 250,
+   "flags": 2097348
+  },
+  {
+   "id": 13448,
+   "modelName": "CE_wires05",
+   "txdName": "cunte_wires",
+   "drawDistance": 250,
+   "flags": 2097348
+  },
+  {
+   "id": 13449,
+   "modelName": "CE_wires06",
+   "txdName": "cunte_wires",
+   "drawDistance": 250,
+   "flags": 2097348
+  },
+  {
+   "id": 13450,
+   "modelName": "CE_apartStairs",
+   "txdName": "sw_apartments",
+   "drawDistance": 50,
+   "flags": 2097284
+  },
+  {
+   "id": 13451,
+   "modelName": "CEwirestown08",
+   "txdName": "cunte_wires",
+   "drawDistance": 250,
+   "flags": 2097348
+  },
+  {
+   "id": 13452,
+   "modelName": "CEwirestown09",
+   "txdName": "cunte_wires",
+   "drawDistance": 250,
+   "flags": 2097348
+  },
+  {
+   "id": 13453,
+   "modelName": "LODsw_bridge",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13454,
+   "modelName": "LODsw_bridge01",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 450,
+   "flags": 128
+  },
+  {
+   "id": 13455,
+   "modelName": "LODcuntEground01",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13456,
+   "modelName": "LODcuntEground08",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13457,
+   "modelName": "LODCE_ground05",
+   "txdName": "CE_LOD_01",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13458,
+   "modelName": "LODCE_ground08",
+   "txdName": "CE_LOD_01",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13459,
+   "modelName": "LODcuntEground27",
+   "txdName": "CE_LOD_05",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13460,
+   "modelName": "LODCEgroundT201",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13462,
+   "modelName": "LODCEgroundTP103",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13463,
+   "modelName": "LODCEgroundTP104",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13464,
+   "modelName": "LODCE_ground07",
+   "txdName": "CE_LOD_01",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13465,
+   "modelName": "LODcuntEground34a",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13466,
+   "modelName": "LODcuntEground10",
+   "txdName": "CE_LOD_05",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13467,
+   "modelName": "LODcuntEground09",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13468,
+   "modelName": "LODcuntEground40",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13469,
+   "modelName": "LODcuntEground39",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13470,
+   "modelName": "cunte_roads303",
+   "txdName": "cunteroads4",
+   "drawDistance": 299,
+   "flags": 1
+  },
+  {
+   "id": 13471,
+   "modelName": "LODCEhllyhil03a",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13472,
+   "modelName": "LODcuntEground37",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13473,
+   "modelName": "LODcuntEground38",
+   "txdName": "CE_LOD_02",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13474,
+   "modelName": "LODCEgroundT202",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13475,
+   "modelName": "LODCEgroundT205",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13476,
+   "modelName": "LODcuntEgund11a",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13477,
+   "modelName": "LODsw_fueldrum03",
+   "txdName": "CE_LOD_01",
+   "drawDistance": 350,
+   "flags": 128
+  },
+  {
+   "id": 13478,
+   "modelName": "LODcuntEground06",
+   "txdName": "CE_LOD_07",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13479,
+   "modelName": "LODcuntEground31",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13480,
+   "modelName": "LODcuntEground18",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13481,
+   "modelName": "LODCE_grouALO07",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13482,
+   "modelName": "LODcuntEground17",
+   "txdName": "CE_LOD_03",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13483,
+   "modelName": "LODsw_jetty",
+   "txdName": "CE_LOD_04",
+   "drawDistance": 350,
+   "flags": 128
+  },
+  {
+   "id": 13486,
+   "modelName": "CE_ground09",
+   "txdName": "CE_ground01",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13487,
+   "modelName": "LODCE_ground09",
+   "txdName": "CE_LOD_01",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13488,
+   "modelName": "LODsw_fueldrum04",
+   "txdName": "CE_LOD_01",
+   "drawDistance": 350,
+   "flags": 128
+  },
+  {
+   "id": 13489,
+   "modelName": "sw_fueldrum04",
+   "txdName": "sw_farm1",
+   "drawDistance": 60,
+   "flags": 128
+  },
+  {
+   "id": 13490,
+   "modelName": "CE_ground01",
+   "txdName": "CE_ground01",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 13491,
+   "modelName": "coe_traintrax02",
+   "txdName": "CE_traintrack2",
+   "drawDistance": 200,
+   "flags": 0
+  },
+  {
+   "id": 13492,
+   "modelName": "LODcoe_traintrax02",
+   "txdName": "CE_LOD_05",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 13494,
+   "modelName": "CE_groundPALO12A",
+   "txdName": "CE_ground03",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13495,
+   "modelName": "CE_ground03A",
+   "txdName": "CE_ground01",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13496,
+   "modelName": "CE_groundPALO07A",
+   "txdName": "CE_ground03",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13497,
+   "modelName": "CE_grndPALCST04A",
+   "txdName": "CE_ground02",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13498,
+   "modelName": "CE_grndPALCST01A",
+   "txdName": "CE_ground02",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13499,
+   "modelName": "CE_grndPALCST03A",
+   "txdName": "CE_ground02",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13500,
+   "modelName": "cuntEground21A",
+   "txdName": "CE_ground02",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13501,
+   "modelName": "cuntEground22A",
+   "txdName": "CE_ground02",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13502,
+   "modelName": "cuntEground07A",
+   "txdName": "CE_ground02",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13503,
+   "modelName": "cuntEground02A",
+   "txdName": "CE_ground02",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13504,
+   "modelName": "CE_grndPALCST07A",
+   "txdName": "CE_ground02",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13505,
+   "modelName": "cuntEground03A",
+   "txdName": "CE_ground02",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13506,
+   "modelName": "cuntEground05A",
+   "txdName": "CE_ground04",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13507,
+   "modelName": "cuntEground04A",
+   "txdName": "CE_ground04",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13508,
+   "modelName": "cyecuntEground02A",
+   "txdName": "CE_ground04",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13509,
+   "modelName": "cyecuntEground28A",
+   "txdName": "CE_ground04",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13510,
+   "modelName": "CE_grndPALCST08A",
+   "txdName": "CE_ground03",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13511,
+   "modelName": "CE_grndPALCST09A",
+   "txdName": "CE_ground03",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13512,
+   "modelName": "CE_groundPALO03A",
+   "txdName": "CE_ground07",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13513,
+   "modelName": "CE_groundPALO04A",
+   "txdName": "CE_ground07",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13514,
+   "modelName": "cuntEground10A",
+   "txdName": "CE_ground05",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13515,
+   "modelName": "cuntEground09A",
+   "txdName": "CE_ground05",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13516,
+   "modelName": "cuntEground19A",
+   "txdName": "CE_ground05",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13517,
+   "modelName": "cuntEground26A",
+   "txdName": "CE_ground05",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13518,
+   "modelName": "CE_groundPALO06A",
+   "txdName": "CE_ground07",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13519,
+   "modelName": "CEgroundT205A",
+   "txdName": "CHANGEME",
+   "drawDistance": 100,
+   "flags": 68
+  },
+  {
+   "id": 13520,
+   "modelName": "CEgroundT201A",
+   "txdName": "CE_ground13",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13521,
+   "modelName": "CEgroundT206A",
+   "txdName": "CE_ground13",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13522,
+   "modelName": "CEgroundTP104A",
+   "txdName": "CE_ground12",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13523,
+   "modelName": "CEgroundTP103A",
+   "txdName": "CE_ground12",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13524,
+   "modelName": "cuntEground43A",
+   "txdName": "CE_ground12",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13525,
+   "modelName": "cuntEground17A",
+   "txdName": "CE_ground05",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13526,
+   "modelName": "cuntEground18A",
+   "txdName": "CE_ground14",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13527,
+   "modelName": "cuntEground29A",
+   "txdName": "CE_ground14",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13528,
+   "modelName": "cuntEground39A",
+   "txdName": "CE_ground10",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13529,
+   "modelName": "cuntehil03A",
+   "txdName": "CE_ground09",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13530,
+   "modelName": "cuntehil02A",
+   "txdName": "CE_ground09",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13531,
+   "modelName": "cuntehil01A",
+   "txdName": "CE_ground09",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13532,
+   "modelName": "CEhllyhil03aA",
+   "txdName": "CE_ground08",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13533,
+   "modelName": "CEhllyhil02aA",
+   "txdName": "CE_ground08",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13534,
+   "modelName": "CEhllyhil01aA",
+   "txdName": "CE_ground08",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13535,
+   "modelName": "cuntEground38A",
+   "txdName": "CE_ground10",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13536,
+   "modelName": "cuntEground40A",
+   "txdName": "CE_ground10",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13537,
+   "modelName": "cuntEground32A",
+   "txdName": "CE_ground14",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13538,
+   "modelName": "cuntEground01A",
+   "txdName": "CE_ground12",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13539,
+   "modelName": "CE_farmland04A",
+   "txdName": "CE_ground11",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13540,
+   "modelName": "CE_farmland03A",
+   "txdName": "CE_ground11",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13541,
+   "modelName": "cuntEground34A01",
+   "txdName": "CE_ground01",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13542,
+   "modelName": "cuntEground34aA",
+   "txdName": "CE_ground11",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13543,
+   "modelName": "cuntEground09bA",
+   "txdName": "CE_ground11",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13544,
+   "modelName": "cuntEground15A",
+   "txdName": "CE_ground10",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13545,
+   "modelName": "cuntEground37A",
+   "txdName": "CE_ground10",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13546,
+   "modelName": "cuntEground36A",
+   "txdName": "CE_ground10",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13547,
+   "modelName": "cuntEgund11aA",
+   "txdName": "CE_ground08",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13548,
+   "modelName": "cuntEground11A",
+   "txdName": "CE_ground08",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13549,
+   "modelName": "CEhollyhil17A",
+   "txdName": "CE_ground08",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13550,
+   "modelName": "CEhollyhil16A",
+   "txdName": "CE_ground08",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13551,
+   "modelName": "cuntEground08A",
+   "txdName": "CE_ground08",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13552,
+   "modelName": "CE_ground01A",
+   "txdName": "CE_ground01",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13553,
+   "modelName": "CE_ground09A",
+   "txdName": "CE_ground01",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13554,
+   "modelName": "CE_ground02A",
+   "txdName": "CE_ground01",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13555,
+   "modelName": "CE_ground05A",
+   "txdName": "CE_ground01",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13556,
+   "modelName": "CE_ground06A",
+   "txdName": "CE_ground01",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13557,
+   "modelName": "CE_ground08A",
+   "txdName": "CE_ground01",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13558,
+   "modelName": "CE_ground04A",
+   "txdName": "CE_ground01",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13559,
+   "modelName": "CE_ground07A",
+   "txdName": "CE_ground01",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13560,
+   "modelName": "cuntEground33A",
+   "txdName": "CE_ground14",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13561,
+   "modelName": "cuntEground31A",
+   "txdName": "CE_ground14",
+   "drawDistance": 299,
+   "flags": 68
+  },
+  {
+   "id": 13563,
+   "modelName": "cuntEground30A",
+   "txdName": "CE_ground14",
+   "drawDistance": 299,
+   "flags": 68
+  }
+ ],
+ "tobj": [
+  {
+   "id": 13461,
+   "modelName": "CE_nitewindows1",
+   "txdName": "CE_nitelite",
+   "drawDistance": 600,
+   "flags": 2097280,
+   "timeOn": 21,
+   "timeOff": 6
+  },
+  {
+   "id": 13484,
+   "modelName": "CE_nitewindows101",
+   "txdName": "CE_nitelite",
+   "drawDistance": 600,
+   "flags": 2097280,
+   "timeOn": 21,
+   "timeOff": 6
+  },
+  {
+   "id": 13485,
+   "modelName": "CE_nitewindows10",
+   "txdName": "CE_nitelite",
+   "drawDistance": 600,
+   "flags": 2097280,
+   "timeOn": 21,
+   "timeOff": 6
+  },
+  {
+   "id": 13493,
+   "modelName": "CE_nitewindows2",
+   "txdName": "CE_nitelite",
+   "drawDistance": 600,
+   "flags": 2097280,
+   "timeOn": 21,
+   "timeOff": 6
+  }
+ ],
+ "path": [],
+ "2dfx": [],
+ "anim": [
+  {
+   "id": 13562,
+   "modelName": "bigsprunkpole",
+   "txdName": "sprunkworks",
+   "animName": "countrye",
+   "drawDistance": 150,
+   "flags": 0
+  }
+ ],
+ "txdp": []
+}

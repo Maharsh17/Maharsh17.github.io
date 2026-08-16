@@ -1,0 +1,1206 @@
+{
+ "objs": [
+  {
+   "id": 615,
+   "modelName": "veg_tree3",
+   "txdName": "gta_tree_boak",
+   "drawDistance": 150,
+   "flags": 2130052
+  },
+  {
+   "id": 616,
+   "modelName": "veg_treea1",
+   "txdName": "gta_tree_boak",
+   "drawDistance": 150,
+   "flags": 2130052
+  },
+  {
+   "id": 617,
+   "modelName": "veg_treeb1",
+   "txdName": "gta_tree_boak",
+   "drawDistance": 150,
+   "flags": 2097284
+  },
+  {
+   "id": 618,
+   "modelName": "veg_treea3",
+   "txdName": "gta_tree_boak",
+   "drawDistance": 140,
+   "flags": 2097284
+  },
+  {
+   "id": 619,
+   "modelName": "veg_palwee03",
+   "txdName": "gta_tree_palm",
+   "drawDistance": 150,
+   "flags": 2097284
+  },
+  {
+   "id": 620,
+   "modelName": "veg_palm04",
+   "txdName": "gta_tree_palm",
+   "drawDistance": 150,
+   "flags": 2146436
+  },
+  {
+   "id": 621,
+   "modelName": "veg_palm02",
+   "txdName": "gta_tree_palm",
+   "drawDistance": 150,
+   "flags": 2130052
+  },
+  {
+   "id": 622,
+   "modelName": "veg_palm03",
+   "txdName": "gta_tree_palm",
+   "drawDistance": 150,
+   "flags": 2130052
+  },
+  {
+   "id": 623,
+   "modelName": "veg_palwee01",
+   "txdName": "gta_tree_palm",
+   "drawDistance": 150,
+   "flags": 2097284
+  },
+  {
+   "id": 624,
+   "modelName": "veg_palwee02",
+   "txdName": "gta_tree_palm",
+   "drawDistance": 150,
+   "flags": 2113668
+  },
+  {
+   "id": 625,
+   "modelName": "veg_palmkb1",
+   "txdName": "gta_potplantsaa",
+   "drawDistance": 45,
+   "flags": 2097156
+  },
+  {
+   "id": 626,
+   "modelName": "veg_palmkb2",
+   "txdName": "gta_potplants2",
+   "drawDistance": 45,
+   "flags": 2097284
+  },
+  {
+   "id": 627,
+   "modelName": "veg_palmkb3",
+   "txdName": "kbplantssmz",
+   "drawDistance": 45,
+   "flags": 2097284
+  },
+  {
+   "id": 628,
+   "modelName": "veg_palmkb4",
+   "txdName": "kbplantssmz2",
+   "drawDistance": 45,
+   "flags": 2097284
+  },
+  {
+   "id": 629,
+   "modelName": "veg_palmkb5",
+   "txdName": "gta_potplantsaa",
+   "drawDistance": 45,
+   "flags": 2113540
+  },
+  {
+   "id": 630,
+   "modelName": "veg_palmkb8",
+   "txdName": "gta_potplants",
+   "drawDistance": 22,
+   "flags": 2097284
+  },
+  {
+   "id": 631,
+   "modelName": "veg_palmkb9",
+   "txdName": "kbplantssmz",
+   "drawDistance": 22,
+   "flags": 2097284
+  },
+  {
+   "id": 632,
+   "modelName": "veg_palmkb7",
+   "txdName": "gta_potplantsaa",
+   "drawDistance": 35,
+   "flags": 2097284
+  },
+  {
+   "id": 633,
+   "modelName": "veg_palmkb10",
+   "txdName": "kbplantssmz2",
+   "drawDistance": 35,
+   "flags": 2097284
+  },
+  {
+   "id": 634,
+   "modelName": "veg_palmkbb11",
+   "txdName": "gta_potplantsaa",
+   "drawDistance": 45,
+   "flags": 2113668
+  },
+  {
+   "id": 635,
+   "modelName": "veg_fern_balcny_kb1",
+   "txdName": "veg_leaves",
+   "drawDistance": 45,
+   "flags": 2097284
+  },
+  {
+   "id": 636,
+   "modelName": "veg_fern_balcny_kb2",
+   "txdName": "veg_leaves",
+   "drawDistance": 45,
+   "flags": 2097284
+  },
+  {
+   "id": 637,
+   "modelName": "kb_planterbox",
+   "txdName": "veg_leaves",
+   "drawDistance": 40,
+   "flags": 2097284
+  },
+  {
+   "id": 638,
+   "modelName": "kb_planter+bush",
+   "txdName": "veg_leavesplnt",
+   "drawDistance": 40,
+   "flags": 2097284
+  },
+  {
+   "id": 639,
+   "modelName": "veg_ivy_balcny_kb3",
+   "txdName": "veg_leaves",
+   "drawDistance": 45,
+   "flags": 2097284
+  },
+  {
+   "id": 640,
+   "modelName": "kb_planter+bush2",
+   "txdName": "veg_leavesplnt",
+   "drawDistance": 45,
+   "flags": 2097284
+  },
+  {
+   "id": 641,
+   "modelName": "veg_palmkb13",
+   "txdName": "gta_tree_palm",
+   "drawDistance": 45,
+   "flags": 2113668
+  },
+  {
+   "id": 642,
+   "modelName": "kb_canopy_test",
+   "txdName": "canopy",
+   "drawDistance": 30,
+   "flags": 2097280
+  },
+  {
+   "id": 643,
+   "modelName": "kb_chr_tbl_test",
+   "txdName": "canopy",
+   "drawDistance": 30,
+   "flags": 2097280
+  },
+  {
+   "id": 644,
+   "modelName": "pot_02",
+   "txdName": "gta_potplants",
+   "drawDistance": 45,
+   "flags": 2097284
+  },
+  {
+   "id": 645,
+   "modelName": "veg_palmbig14",
+   "txdName": "gta_tree_palm",
+   "drawDistance": 150,
+   "flags": 2113668
+  },
+  {
+   "id": 646,
+   "modelName": "veg_palmkb14",
+   "txdName": "gta_potplants",
+   "drawDistance": 35,
+   "flags": 2097284
+  },
+  {
+   "id": 647,
+   "modelName": "new_bushsm",
+   "txdName": "gta_proc_bush",
+   "drawDistance": 100,
+   "flags": 2097284
+  },
+  {
+   "id": 648,
+   "modelName": "veg_palm01",
+   "txdName": "gta_tree_palm",
+   "drawDistance": 150,
+   "flags": 2130052
+  },
+  {
+   "id": 649,
+   "modelName": "sjmpalm",
+   "txdName": "gta_tree_palm",
+   "drawDistance": 100,
+   "flags": 2113536
+  },
+  {
+   "id": 650,
+   "modelName": "sjmcacti2",
+   "txdName": "gta_cactus",
+   "drawDistance": 59,
+   "flags": 2097152
+  },
+  {
+   "id": 651,
+   "modelName": "sjmcacti1",
+   "txdName": "gta_cactus",
+   "drawDistance": 99,
+   "flags": 2097152
+  },
+  {
+   "id": 652,
+   "modelName": "sjmpalmbig",
+   "txdName": "gta_tree_palm",
+   "drawDistance": 150,
+   "flags": 2113540
+  },
+  {
+   "id": 653,
+   "modelName": "sjmcacti03",
+   "txdName": "gta_cactus",
+   "drawDistance": 99,
+   "flags": 2097152
+  },
+  {
+   "id": 654,
+   "modelName": "pinetree08",
+   "txdName": "gta_tree_oldpine",
+   "drawDistance": 150,
+   "flags": 2097156
+  },
+  {
+   "id": 655,
+   "modelName": "pinetree06",
+   "txdName": "gta_tree_oldpine",
+   "drawDistance": 120,
+   "flags": 2097156
+  },
+  {
+   "id": 656,
+   "modelName": "pinetree05",
+   "txdName": "gta_tree_oldpine",
+   "drawDistance": 150,
+   "flags": 2097156
+  },
+  {
+   "id": 657,
+   "modelName": "pinetree02",
+   "txdName": "gta_tree_oldpine",
+   "drawDistance": 120,
+   "flags": 2097156
+  },
+  {
+   "id": 658,
+   "modelName": "pinetree04",
+   "txdName": "gta_tree_oldpine",
+   "drawDistance": 150,
+   "flags": 2129924
+  },
+  {
+   "id": 659,
+   "modelName": "pinetree01",
+   "txdName": "gta_tree_oldpine",
+   "drawDistance": 120,
+   "flags": 2097156
+  },
+  {
+   "id": 660,
+   "modelName": "pinetree03",
+   "txdName": "gta_tree_oldpine",
+   "drawDistance": 120,
+   "flags": 2097156
+  },
+  {
+   "id": 661,
+   "modelName": "pinetree07",
+   "txdName": "gta_tree_oldpine",
+   "drawDistance": 150,
+   "flags": 2097156
+  },
+  {
+   "id": 664,
+   "modelName": "firtree2",
+   "txdName": "gta_tree_oldpine",
+   "drawDistance": 299,
+   "flags": 2129924
+  },
+  {
+   "id": 669,
+   "modelName": "sm_veg_tree4",
+   "txdName": "gta_tree_boak",
+   "drawDistance": 150,
+   "flags": 2105476
+  },
+  {
+   "id": 670,
+   "modelName": "sm_firtallded",
+   "txdName": "gta_tree_pine",
+   "drawDistance": 299,
+   "flags": 2138244
+  },
+  {
+   "id": 671,
+   "modelName": "sm_bushytree",
+   "txdName": "gta_tree_boak",
+   "drawDistance": 120,
+   "flags": 2105476
+  },
+  {
+   "id": 672,
+   "modelName": "sm_veg_tree5",
+   "txdName": "gta_tree_boak",
+   "drawDistance": 150,
+   "flags": 2105476
+  },
+  {
+   "id": 673,
+   "modelName": "sm_bevhiltree",
+   "txdName": "gta_tree_boak",
+   "drawDistance": 120,
+   "flags": 2105476
+  },
+  {
+   "id": 674,
+   "modelName": "sm_des_josh_lrg1",
+   "txdName": "gta_deserttrees",
+   "drawDistance": 99,
+   "flags": 2105476
+  },
+  {
+   "id": 675,
+   "modelName": "josh_ball",
+   "txdName": "gta_deserttrees",
+   "drawDistance": 35,
+   "flags": 2097284
+  },
+  {
+   "id": 676,
+   "modelName": "sm_des_josh_sml1",
+   "txdName": "gta_deserttrees",
+   "drawDistance": 70,
+   "flags": 2105476
+  },
+  {
+   "id": 677,
+   "modelName": "sm_des_agave1",
+   "txdName": "gta_deserttrees",
+   "drawDistance": 80,
+   "flags": 2097284
+  },
+  {
+   "id": 678,
+   "modelName": "sm_des_agave2",
+   "txdName": "gta_deserttrees",
+   "drawDistance": 80,
+   "flags": 2097284
+  },
+  {
+   "id": 679,
+   "modelName": "sm_des_cact_bsh",
+   "txdName": "gta_deserttrees",
+   "drawDistance": 80,
+   "flags": 2097284
+  },
+  {
+   "id": 680,
+   "modelName": "sm_des_josh_lrg2",
+   "txdName": "gta_deserttrees",
+   "drawDistance": 99,
+   "flags": 2105476
+  },
+  {
+   "id": 681,
+   "modelName": "sm_des_josh_sm2",
+   "txdName": "gta_deserttrees",
+   "drawDistance": 70,
+   "flags": 2105476
+  },
+  {
+   "id": 682,
+   "modelName": "sm_des_cactflr",
+   "txdName": "gta_deserttrees",
+   "drawDistance": 80,
+   "flags": 2097284
+  },
+  {
+   "id": 683,
+   "modelName": "sm_fir_group",
+   "txdName": "gta_tree_pine",
+   "drawDistance": 299,
+   "flags": 2105476
+  },
+  {
+   "id": 684,
+   "modelName": "sm_fir_log02",
+   "txdName": "gta_tree_pine",
+   "drawDistance": 150,
+   "flags": 2105476
+  },
+  {
+   "id": 685,
+   "modelName": "sm_fir_scabby",
+   "txdName": "gta_tree_pine",
+   "drawDistance": 150,
+   "flags": 2105476
+  },
+  {
+   "id": 686,
+   "modelName": "sm_fir_dead",
+   "txdName": "gta_tree_pine",
+   "drawDistance": 150,
+   "flags": 2105476
+  },
+  {
+   "id": 687,
+   "modelName": "sm_fir_",
+   "txdName": "gta_tree_pine",
+   "drawDistance": 150,
+   "flags": 2105476
+  },
+  {
+   "id": 688,
+   "modelName": "sm_fir_scabg",
+   "txdName": "gta_tree_pine",
+   "drawDistance": 299,
+   "flags": 2105476
+  },
+  {
+   "id": 689,
+   "modelName": "sm_fir_copse1",
+   "txdName": "gta_tree_pine",
+   "drawDistance": 299,
+   "flags": 2138244
+  },
+  {
+   "id": 690,
+   "modelName": "sm_fir_copse2",
+   "txdName": "gta_tree_pine",
+   "drawDistance": 299,
+   "flags": 2138244
+  },
+  {
+   "id": 691,
+   "modelName": "sm_veg_tree4_big",
+   "txdName": "gta_tree_boak",
+   "drawDistance": 150,
+   "flags": 2105476
+  },
+  {
+   "id": 692,
+   "modelName": "sm_des_bush1",
+   "txdName": "gta_deserttrees",
+   "drawDistance": 25,
+   "flags": 2097284
+  },
+  {
+   "id": 693,
+   "modelName": "sm_redwood_",
+   "txdName": "gta_tree_pine",
+   "drawDistance": 299,
+   "flags": 2138116
+  },
+  {
+   "id": 694,
+   "modelName": "sm_redwoodgrp",
+   "txdName": "gta_tree_pine",
+   "drawDistance": 299,
+   "flags": 2138116
+  },
+  {
+   "id": 695,
+   "modelName": "sm_fir_scabtg",
+   "txdName": "gta_tree_pine",
+   "drawDistance": 299,
+   "flags": 2138116
+  },
+  {
+   "id": 696,
+   "modelName": "sm_fir_scabt",
+   "txdName": "gta_tree_pine",
+   "drawDistance": 299,
+   "flags": 2138116
+  },
+  {
+   "id": 697,
+   "modelName": "sm_fir_tall",
+   "txdName": "gta_tree_pine",
+   "drawDistance": 299,
+   "flags": 2138116
+  },
+  {
+   "id": 698,
+   "modelName": "sm_firtbshg",
+   "txdName": "gta_tree_pine",
+   "drawDistance": 299,
+   "flags": 2138116
+  },
+  {
+   "id": 700,
+   "modelName": "sm_veg_tree6",
+   "txdName": "gta_tree_boak",
+   "drawDistance": 150,
+   "flags": 2105476
+  },
+  {
+   "id": 701,
+   "modelName": "sm_tumblewd48p",
+   "txdName": "badlands",
+   "drawDistance": 50,
+   "flags": 2097156
+  },
+  {
+   "id": 702,
+   "modelName": "sm_tumbleweed",
+   "txdName": "badlands",
+   "drawDistance": 50,
+   "flags": 2097156
+  },
+  {
+   "id": 703,
+   "modelName": "sm_veg_tree7_big",
+   "txdName": "gta_tree_boak",
+   "drawDistance": 150,
+   "flags": 2105476
+  },
+  {
+   "id": 704,
+   "modelName": "bg_fir_dead",
+   "txdName": "gta_tree_pine",
+   "drawDistance": 299,
+   "flags": 2138244
+  },
+  {
+   "id": 705,
+   "modelName": "sm_veg_tree7vbig",
+   "txdName": "gta_tree_boak",
+   "drawDistance": 299,
+   "flags": 2138244
+  },
+  {
+   "id": 706,
+   "modelName": "sm_vegvbbig",
+   "txdName": "gta_tree_boak",
+   "drawDistance": 299,
+   "flags": 2138244
+  },
+  {
+   "id": 707,
+   "modelName": "sm_bushvbig",
+   "txdName": "gta_tree_boak",
+   "drawDistance": 299,
+   "flags": 2138244
+  },
+  {
+   "id": 708,
+   "modelName": "sm_veg_tree4_vbig",
+   "txdName": "gta_tree_boak",
+   "drawDistance": 299,
+   "flags": 2138244
+  },
+  {
+   "id": 709,
+   "modelName": "sm_vegvbbigbrn",
+   "txdName": "gta_tree_boak",
+   "drawDistance": 299,
+   "flags": 2138244
+  },
+  {
+   "id": 710,
+   "modelName": "vgs_palm01",
+   "txdName": "gta_tree_palm",
+   "drawDistance": 299,
+   "flags": 2129924
+  },
+  {
+   "id": 711,
+   "modelName": "vgs_palm02",
+   "txdName": "gta_tree_palm",
+   "drawDistance": 150,
+   "flags": 2097156
+  },
+  {
+   "id": 712,
+   "modelName": "vgs_palm03",
+   "txdName": "gta_tree_palm",
+   "drawDistance": 150,
+   "flags": 2097156
+  },
+  {
+   "id": 713,
+   "modelName": "veg_bevtree1",
+   "txdName": "gta_tree_boak",
+   "drawDistance": 299,
+   "flags": 2138244
+  },
+  {
+   "id": 714,
+   "modelName": "veg_bevtree2",
+   "txdName": "gta_tree_boak",
+   "drawDistance": 299,
+   "flags": 2138244
+  },
+  {
+   "id": 715,
+   "modelName": "veg_bevtree3",
+   "txdName": "gta_tree_boak",
+   "drawDistance": 150,
+   "flags": 2097284
+  },
+  {
+   "id": 716,
+   "modelName": "sjmpalmbigpv",
+   "txdName": "gta_tree_bevhills",
+   "drawDistance": 150,
+   "flags": 2105348
+  },
+  {
+   "id": 717,
+   "modelName": "sm_bevhiltreepv",
+   "txdName": "gta_tree_bevhills",
+   "drawDistance": 150,
+   "flags": 2105476
+  },
+  {
+   "id": 718,
+   "modelName": "vgs_palm04",
+   "txdName": "gta_tree_bevhills",
+   "drawDistance": 150,
+   "flags": 2105348
+  },
+  {
+   "id": 719,
+   "modelName": "veg_largefurs07",
+   "txdName": "gta_tree_pine",
+   "drawDistance": 299,
+   "flags": 2130052
+  },
+  {
+   "id": 720,
+   "modelName": "veg_largefurs01",
+   "txdName": "gta_tree_pine",
+   "drawDistance": 299,
+   "flags": 2130052
+  },
+  {
+   "id": 721,
+   "modelName": "veg_largefurs02",
+   "txdName": "gta_tree_pine",
+   "drawDistance": 299,
+   "flags": 2130052
+  },
+  {
+   "id": 722,
+   "modelName": "veg_largefurs03",
+   "txdName": "gta_tree_pine",
+   "drawDistance": 299,
+   "flags": 2130052
+  },
+  {
+   "id": 723,
+   "modelName": "veg_largefurs04",
+   "txdName": "gta_tree_pine",
+   "drawDistance": 299,
+   "flags": 2130052
+  },
+  {
+   "id": 724,
+   "modelName": "veg_largefurs05",
+   "txdName": "gta_tree_pine",
+   "drawDistance": 299,
+   "flags": 2130052
+  },
+  {
+   "id": 725,
+   "modelName": "veg_largefurs06",
+   "txdName": "gta_tree_pine",
+   "drawDistance": 299,
+   "flags": 2130052
+  },
+  {
+   "id": 726,
+   "modelName": "tree_hipoly19",
+   "txdName": "gtatreesh",
+   "drawDistance": 299,
+   "flags": 2138116
+  },
+  {
+   "id": 727,
+   "modelName": "tree_hipoly04",
+   "txdName": "gtatreesh04",
+   "drawDistance": 299,
+   "flags": 2105348
+  },
+  {
+   "id": 728,
+   "modelName": "tree_hipoly06",
+   "txdName": "gtatreeshi",
+   "drawDistance": 299,
+   "flags": 2105348
+  },
+  {
+   "id": 729,
+   "modelName": "tree_hipoly07",
+   "txdName": "gtatreeshi7",
+   "drawDistance": 299,
+   "flags": 2105348
+  },
+  {
+   "id": 730,
+   "modelName": "tree_hipoly08",
+   "txdName": "gtatreeshifir",
+   "drawDistance": 299,
+   "flags": 2105348
+  },
+  {
+   "id": 731,
+   "modelName": "tree_hipoly09",
+   "txdName": "gtatreeshi9",
+   "drawDistance": 299,
+   "flags": 2138116
+  },
+  {
+   "id": 732,
+   "modelName": "tree_hipoly10",
+   "txdName": "gtatreeshifir",
+   "drawDistance": 299,
+   "flags": 2105348
+  },
+  {
+   "id": 733,
+   "modelName": "tree_hipoly11",
+   "txdName": "gtatreesh",
+   "drawDistance": 299,
+   "flags": 2105348
+  },
+  {
+   "id": 734,
+   "modelName": "tree_hipoly14",
+   "txdName": "vegtresshi9b",
+   "drawDistance": 299,
+   "flags": 2138116
+  },
+  {
+   "id": 735,
+   "modelName": "tree_hipoly09b",
+   "txdName": "vegtresshi9b",
+   "drawDistance": 299,
+   "flags": 2138116
+  },
+  {
+   "id": 736,
+   "modelName": "ceasertree01_lvs",
+   "txdName": "gta_tree_boak",
+   "drawDistance": 150,
+   "flags": 2097156
+  },
+  {
+   "id": 737,
+   "modelName": "aw_streettree3",
+   "txdName": "gta_tree_bevhills",
+   "drawDistance": 150,
+   "flags": 2105476
+  },
+  {
+   "id": 738,
+   "modelName": "aw_streettree2",
+   "txdName": "gta_tree_bevhills",
+   "drawDistance": 150,
+   "flags": 2109572
+  },
+  {
+   "id": 739,
+   "modelName": "sjmpalmtall",
+   "txdName": "gta_tree_palm",
+   "drawDistance": 299,
+   "flags": 2146308
+  },
+  {
+   "id": 740,
+   "modelName": "vgs_palmvtall",
+   "txdName": "gta_tree_palm",
+   "drawDistance": 299,
+   "flags": 2146308
+  },
+  {
+   "id": 741,
+   "modelName": "pot_01",
+   "txdName": "gta_potplantsx",
+   "drawDistance": 35,
+   "flags": 2097284
+  },
+  {
+   "id": 742,
+   "modelName": "pot_03",
+   "txdName": "gta_potplantsx",
+   "drawDistance": 35,
+   "flags": 2097284
+  },
+  {
+   "id": 743,
+   "modelName": "kb_pot_1",
+   "txdName": "gta_potplantsx",
+   "drawDistance": 35,
+   "flags": 2097284
+  },
+  {
+   "id": 744,
+   "modelName": "sm_scrub_rock4",
+   "txdName": "gtarock_deserts",
+   "drawDistance": 99,
+   "flags": 4
+  },
+  {
+   "id": 745,
+   "modelName": "sm_scrub_rock5",
+   "txdName": "gtarock_deserts",
+   "drawDistance": 99,
+   "flags": 4
+  },
+  {
+   "id": 746,
+   "modelName": "sm_scrub_rock2",
+   "txdName": "gtarock_deserts",
+   "drawDistance": 99,
+   "flags": 4
+  },
+  {
+   "id": 747,
+   "modelName": "sm_scrub_rock3",
+   "txdName": "gtarock_deserts",
+   "drawDistance": 99,
+   "flags": 4
+  },
+  {
+   "id": 748,
+   "modelName": "sm_scrb_grp1",
+   "txdName": "gtarock_deserts",
+   "drawDistance": 99,
+   "flags": 4
+  },
+  {
+   "id": 749,
+   "modelName": "sm_scrb_column3",
+   "txdName": "gtarock_deserts",
+   "drawDistance": 99,
+   "flags": 4
+  },
+  {
+   "id": 750,
+   "modelName": "sm_scrb_column2",
+   "txdName": "gtarock_deserts",
+   "drawDistance": 99,
+   "flags": 4
+  },
+  {
+   "id": 751,
+   "modelName": "sm_scrb_column1",
+   "txdName": "gtarock_deserts",
+   "drawDistance": 99,
+   "flags": 4
+  },
+  {
+   "id": 752,
+   "modelName": "sm_cunt_rock1",
+   "txdName": "gta_rockcuntry",
+   "drawDistance": 99,
+   "flags": 4
+  },
+  {
+   "id": 753,
+   "modelName": "sm_descactiigrpb",
+   "txdName": "gta_deserttrees",
+   "drawDistance": 75,
+   "flags": 2097284
+  },
+  {
+   "id": 754,
+   "modelName": "sm_des_cactiigrp",
+   "txdName": "gta_deserttrees",
+   "drawDistance": 75,
+   "flags": 2097284
+  },
+  {
+   "id": 755,
+   "modelName": "sm_des_pcklypr3",
+   "txdName": "gta_deserttrees",
+   "drawDistance": 75,
+   "flags": 2097284
+  },
+  {
+   "id": 756,
+   "modelName": "sm_des_pcklypr2",
+   "txdName": "gta_deserttrees",
+   "drawDistance": 75,
+   "flags": 2097284
+  },
+  {
+   "id": 757,
+   "modelName": "sm_des_pcklypr1",
+   "txdName": "gta_deserttrees",
+   "drawDistance": 59,
+   "flags": 2097284
+  },
+  {
+   "id": 758,
+   "modelName": "sm_scrub_rock6",
+   "txdName": "gtarock_deserts",
+   "drawDistance": 99,
+   "flags": 4
+  },
+  {
+   "id": 759,
+   "modelName": "sm_bush_large_1",
+   "txdName": "badlands",
+   "drawDistance": 50,
+   "flags": 2097156
+  },
+  {
+   "id": 760,
+   "modelName": "sm_bush_small_1",
+   "txdName": "badlands",
+   "drawDistance": 50,
+   "flags": 2097156
+  },
+  {
+   "id": 761,
+   "modelName": "sm_drybrush_sm1",
+   "txdName": "badlands",
+   "drawDistance": 50,
+   "flags": 2097156
+  },
+  {
+   "id": 762,
+   "modelName": "new_bushtest",
+   "txdName": "gta_proc_bush",
+   "drawDistance": 150,
+   "flags": 2097284
+  },
+  {
+   "id": 763,
+   "modelName": "Ash1_hi",
+   "txdName": "tree3",
+   "drawDistance": 150,
+   "flags": 2097156
+  },
+  {
+   "id": 764,
+   "modelName": "Cedar3_hi",
+   "txdName": "tree2",
+   "drawDistance": 150,
+   "flags": 2097156
+  },
+  {
+   "id": 765,
+   "modelName": "Cedar2_hi",
+   "txdName": "tree2",
+   "drawDistance": 120,
+   "flags": 2097156
+  },
+  {
+   "id": 766,
+   "modelName": "Cedar1_hi",
+   "txdName": "tree2",
+   "drawDistance": 150,
+   "flags": 2097156
+  },
+  {
+   "id": 767,
+   "modelName": "Elmtreegrn_hi",
+   "txdName": "tree1",
+   "drawDistance": 150,
+   "flags": 2097156
+  },
+  {
+   "id": 768,
+   "modelName": "Elmtreegrn2_hi",
+   "txdName": "tree1",
+   "drawDistance": 150,
+   "flags": 2097156
+  },
+  {
+   "id": 769,
+   "modelName": "Locust_hi",
+   "txdName": "tree2",
+   "drawDistance": 150,
+   "flags": 2097156
+  },
+  {
+   "id": 770,
+   "modelName": "Pinebg_hi",
+   "txdName": "tree3",
+   "drawDistance": 150,
+   "flags": 2097156
+  },
+  {
+   "id": 771,
+   "modelName": "sprucetree_hi",
+   "txdName": "tree2",
+   "drawDistance": 150,
+   "flags": 2129924
+  },
+  {
+   "id": 772,
+   "modelName": "Elmred_hi",
+   "txdName": "tree1",
+   "drawDistance": 150,
+   "flags": 2097156
+  },
+  {
+   "id": 773,
+   "modelName": "Elmdead_hi",
+   "txdName": "tree2",
+   "drawDistance": 150,
+   "flags": 2097156
+  },
+  {
+   "id": 774,
+   "modelName": "Elmsparse_hi",
+   "txdName": "tree1",
+   "drawDistance": 150,
+   "flags": 2097156
+  },
+  {
+   "id": 775,
+   "modelName": "Elmwee_hi",
+   "txdName": "tree2",
+   "drawDistance": 150,
+   "flags": 2097156
+  },
+  {
+   "id": 776,
+   "modelName": "Hazelweetree_hi",
+   "txdName": "tree3",
+   "drawDistance": 150,
+   "flags": 2097156
+  },
+  {
+   "id": 777,
+   "modelName": "Hazeltall_hi",
+   "txdName": "tree3",
+   "drawDistance": 150,
+   "flags": 2129924
+  },
+  {
+   "id": 778,
+   "modelName": "Elmred_hism",
+   "txdName": "tree1",
+   "drawDistance": 150,
+   "flags": 2097156
+  },
+  {
+   "id": 779,
+   "modelName": "Pinebg_hism",
+   "txdName": "tree3",
+   "drawDistance": 150,
+   "flags": 2097156
+  },
+  {
+   "id": 780,
+   "modelName": "Elmsparse_hism",
+   "txdName": "tree1",
+   "drawDistance": 150,
+   "flags": 2097156
+  },
+  {
+   "id": 781,
+   "modelName": "Elmwee_hism",
+   "txdName": "tree2",
+   "drawDistance": 150,
+   "flags": 2097156
+  },
+  {
+   "id": 782,
+   "modelName": "Elmtreegrn_hism",
+   "txdName": "tree1",
+   "drawDistance": 150,
+   "flags": 2097156
+  },
+  {
+   "id": 783,
+   "modelName": "lod_vegvbbigbrn",
+   "txdName": "lod_veg",
+   "drawDistance": 600,
+   "flags": 2097284
+  },
+  {
+   "id": 784,
+   "modelName": "lod_redwoodgrp",
+   "txdName": "lod_veg",
+   "drawDistance": 600,
+   "flags": 2097284
+  },
+  {
+   "id": 785,
+   "modelName": "lod_vbg_fir_co",
+   "txdName": "lod_veg",
+   "drawDistance": 600,
+   "flags": 2130048
+  },
+  {
+   "id": 786,
+   "modelName": "lod_largefurs06",
+   "txdName": "lod_veg",
+   "drawDistance": 600,
+   "flags": 2097280
+  },
+  {
+   "id": 787,
+   "modelName": "lod_largefurs07",
+   "txdName": "lod_veg",
+   "drawDistance": 600,
+   "flags": 2097280
+  },
+  {
+   "id": 788,
+   "modelName": "lod_largefurs05",
+   "txdName": "lod_veg",
+   "drawDistance": 600,
+   "flags": 2130048
+  },
+  {
+   "id": 789,
+   "modelName": "hashburytree4sfs",
+   "txdName": "gta_tree_boak",
+   "drawDistance": 150,
+   "flags": 132
+  },
+  {
+   "id": 790,
+   "modelName": "sm_fir_tallgroup",
+   "txdName": "gta_tree_pine",
+   "drawDistance": 299,
+   "flags": 2138116
+  },
+  {
+   "id": 791,
+   "modelName": "vbg_fir_copse",
+   "txdName": "gta_tree_pine",
+   "drawDistance": 299,
+   "flags": 2130052
+  },
+  {
+   "id": 792,
+   "modelName": "aw_streettree1",
+   "txdName": "gta_tree_bevhills",
+   "drawDistance": 150,
+   "flags": 2109572
+  }
+ ],
+ "tobj": [],
+ "path": [],
+ "2dfx": [],
+ "anim": [],
+ "txdp": []
+}

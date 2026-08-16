@@ -1,0 +1,208 @@
+{
+ "objs": [
+  {
+   "id": 14530,
+   "modelName": "driveschl_main",
+   "txdName": "estate2",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 14531,
+   "modelName": "int_zerosrc01",
+   "txdName": "int_zerosrcA",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 14532,
+   "modelName": "tv_stand_driv",
+   "txdName": "drivingbit",
+   "drawDistance": 20,
+   "flags": 0
+  },
+  {
+   "id": 14533,
+   "modelName": "pleasure-TOP",
+   "txdName": "pleas_dome",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14534,
+   "modelName": "ab_woozies01",
+   "txdName": "ab_woozieA",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14535,
+   "modelName": "ab_woozies03",
+   "txdName": "ab_woozieC",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14536,
+   "modelName": "pleasure-BOT",
+   "txdName": "pleas_dome",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14537,
+   "modelName": "pdomesBar",
+   "txdName": "pdomebar",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14538,
+   "modelName": "Pdomes_Xitbox",
+   "txdName": "ab_Xit_box",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14539,
+   "modelName": "pdomes_logo",
+   "txdName": "pdomes_logo",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14540,
+   "modelName": "pdomes_extras",
+   "txdName": "pdome_extras",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14542,
+   "modelName": "woozies_Xitbox",
+   "txdName": "ab_Xit_box",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14543,
+   "modelName": "ab_woozies04",
+   "txdName": "ab_wooziec",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14544,
+   "modelName": "ab_woozies02",
+   "txdName": "ab_woozieB",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14545,
+   "modelName": "ab_wooziesGlass",
+   "txdName": "ab_woozieB",
+   "drawDistance": 100,
+   "flags": 4
+  },
+  {
+   "id": 14546,
+   "modelName": "pleasure-MID",
+   "txdName": "pleas_dome",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14547,
+   "modelName": "pleasure-DL",
+   "txdName": "pleas_dome",
+   "drawDistance": 100,
+   "flags": 262148
+  },
+  {
+   "id": 14548,
+   "modelName": "cargo_test",
+   "txdName": "ab_cargo_int",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 14549,
+   "modelName": "carge_barrels",
+   "txdName": "ab_cargo_int",
+   "drawDistance": 40,
+   "flags": 128
+  },
+  {
+   "id": 14550,
+   "modelName": "cargo_netting",
+   "txdName": "ab_cargo_int",
+   "drawDistance": 100,
+   "flags": 2097156
+  },
+  {
+   "id": 14551,
+   "modelName": "cargo_store",
+   "txdName": "ab_cargo_int",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14552,
+   "modelName": "cargo_stuff",
+   "txdName": "ab_cargo_int",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14553,
+   "modelName": "androm_des_obj",
+   "txdName": "ab_cargo_int",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14554,
+   "modelName": "ab_wooziesSHAD",
+   "txdName": "ab_wooziesSHAD",
+   "drawDistance": 100,
+   "flags": 4
+  },
+  {
+   "id": 14556,
+   "modelName": "ZEROWARDROBE",
+   "txdName": "int_zerosrcA",
+   "drawDistance": 60,
+   "flags": 0
+  },
+  {
+   "id": 14558,
+   "modelName": "MODEL_BOX15",
+   "txdName": "int_zerosrcA",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14559,
+   "modelName": "PDomeCones",
+   "txdName": "pleas_dome",
+   "drawDistance": 100,
+   "flags": 4
+  }
+ ],
+ "tobj": [
+  {
+   "id": 14541,
+   "modelName": "driveschl_daylite",
+   "txdName": "blindingLite",
+   "drawDistance": 100,
+   "flags": 4,
+   "timeOn": 6,
+   "timeOff": 21
+  }
+ ],
+ "path": [],
+ "2dfx": [],
+ "anim": [],
+ "txdp": []
+}

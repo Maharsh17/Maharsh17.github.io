@@ -1,0 +1,5695 @@
+{
+ "objs": [
+  {
+   "id": 8390,
+   "modelName": "multicarpark01_lvS",
+   "txdName": "vegasemulticar",
+   "drawDistance": 180,
+   "flags": 128
+  },
+  {
+   "id": 8391,
+   "modelName": "ballys03_lvs",
+   "txdName": "ballys01",
+   "drawDistance": 225,
+   "flags": 128
+  },
+  {
+   "id": 8392,
+   "modelName": "ballys02_lvs",
+   "txdName": "ballys01",
+   "drawDistance": 225,
+   "flags": 128
+  },
+  {
+   "id": 8393,
+   "modelName": "ballys01_lvs",
+   "txdName": "ballys01",
+   "drawDistance": 160,
+   "flags": 128
+  },
+  {
+   "id": 8394,
+   "modelName": "vgsbox10sgn_lvS",
+   "txdName": "ballysign01",
+   "drawDistance": 180,
+   "flags": 128
+  },
+  {
+   "id": 8396,
+   "modelName": "sphinx02_lvs",
+   "txdName": "sphinx01",
+   "drawDistance": 190,
+   "flags": 128
+  },
+  {
+   "id": 8397,
+   "modelName": "luxorpillar01_lvs",
+   "txdName": "luxorpillar1",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 8398,
+   "modelName": "luxorland01_lvS",
+   "txdName": "luxorland",
+   "drawDistance": 220,
+   "flags": 0
+  },
+  {
+   "id": 8399,
+   "modelName": "nightclub01_lvs",
+   "txdName": "vgs_shops",
+   "drawDistance": 140,
+   "flags": 128
+  },
+  {
+   "id": 8400,
+   "modelName": "nightclub02_lvs",
+   "txdName": "vgs_shops",
+   "drawDistance": 140,
+   "flags": 128
+  },
+  {
+   "id": 8401,
+   "modelName": "shop05_lvs",
+   "txdName": "vgshpground",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 8402,
+   "modelName": "vgshpgrnd01_lvS",
+   "txdName": "vgshpground",
+   "drawDistance": 140,
+   "flags": 0
+  },
+  {
+   "id": 8403,
+   "modelName": "shop03_lvs",
+   "txdName": "vgs_shops",
+   "drawDistance": 140,
+   "flags": 128
+  },
+  {
+   "id": 8404,
+   "modelName": "vgshpgrnd03_lvS",
+   "txdName": "vgshpground",
+   "drawDistance": 140,
+   "flags": 0
+  },
+  {
+   "id": 8405,
+   "modelName": "vgshpgrnd02_lvS",
+   "txdName": "vgshpground",
+   "drawDistance": 140,
+   "flags": 0
+  },
+  {
+   "id": 8406,
+   "modelName": "carparksign01_lvs",
+   "txdName": "vgshpground",
+   "drawDistance": 120,
+   "flags": 128
+  },
+  {
+   "id": 8407,
+   "modelName": "carparkhut01_lvs",
+   "txdName": "vgshpground",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 8408,
+   "modelName": "carparksign02_lvs",
+   "txdName": "vgshpground",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 8409,
+   "modelName": "gnhotel01_lvs",
+   "txdName": "gnhotel1",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 8410,
+   "modelName": "carparkhut02_lvs",
+   "txdName": "gnhotel1",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 8411,
+   "modelName": "gnhotel02_lvs",
+   "txdName": "gnhotel1",
+   "drawDistance": 160,
+   "flags": 128
+  },
+  {
+   "id": 8412,
+   "modelName": "wddngchplsign_lvs",
+   "txdName": "wddngchpl",
+   "drawDistance": 120,
+   "flags": 128
+  },
+  {
+   "id": 8413,
+   "modelName": "LODotel02_lvs",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8414,
+   "modelName": "lodorpillar01_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8415,
+   "modelName": "LODotel01_lvs",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8416,
+   "modelName": "bballcourt02_lvs",
+   "txdName": "vgsbballcrt",
+   "drawDistance": 100,
+   "flags": 132
+  },
+  {
+   "id": 8417,
+   "modelName": "bballcourt01_lvs",
+   "txdName": "vgsbballcrt",
+   "drawDistance": 140,
+   "flags": 0
+  },
+  {
+   "id": 8418,
+   "modelName": "vgshpgrnd04_lvS",
+   "txdName": "vgshpground",
+   "drawDistance": 140,
+   "flags": 0
+  },
+  {
+   "id": 8419,
+   "modelName": "vgsbldng01_lvs",
+   "txdName": "vgsbldng1",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 8420,
+   "modelName": "arprtcrprk04_lvS",
+   "txdName": "carpark3_lvs",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8421,
+   "modelName": "pirtehtl02_lvS",
+   "txdName": "pirateland",
+   "drawDistance": 225,
+   "flags": 128
+  },
+  {
+   "id": 8422,
+   "modelName": "pirtehtl01_lvS",
+   "txdName": "pirateland",
+   "drawDistance": 225,
+   "flags": 128
+  },
+  {
+   "id": 8423,
+   "modelName": "prtskllsgn02_lvs",
+   "txdName": "pirateship01",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 8424,
+   "modelName": "vagbond01_lvs",
+   "txdName": "vagabond",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 8425,
+   "modelName": "villa_inn01_lvs",
+   "txdName": "vgs_shops",
+   "drawDistance": 140,
+   "flags": 128
+  },
+  {
+   "id": 8426,
+   "modelName": "vlla_innfnc1_lvs",
+   "txdName": "vgs_shops",
+   "drawDistance": 100,
+   "flags": 2097284
+  },
+  {
+   "id": 8427,
+   "modelName": "villa_inn03_lvs",
+   "txdName": "vgs_shops",
+   "drawDistance": 140,
+   "flags": 128
+  },
+  {
+   "id": 8428,
+   "modelName": "villa_inn02_lvs",
+   "txdName": "vgs_shops",
+   "drawDistance": 140,
+   "flags": 128
+  },
+  {
+   "id": 8429,
+   "modelName": "vlla_innfnc2_lvs",
+   "txdName": "vgs_shops",
+   "drawDistance": 50,
+   "flags": 2097284
+  },
+  {
+   "id": 8430,
+   "modelName": "vlla_innfnc3_lvs",
+   "txdName": "vgs_shops",
+   "drawDistance": 50,
+   "flags": 2097284
+  },
+  {
+   "id": 8431,
+   "modelName": "nucarpark01_lvs",
+   "txdName": "nucarpark",
+   "drawDistance": 140,
+   "flags": 128
+  },
+  {
+   "id": 8432,
+   "modelName": "shop06_lvs",
+   "txdName": "shop06_lvs",
+   "drawDistance": 140,
+   "flags": 128
+  },
+  {
+   "id": 8433,
+   "modelName": "residnce01_lvs",
+   "txdName": "residnce01",
+   "drawDistance": 180,
+   "flags": 128
+  },
+  {
+   "id": 8434,
+   "modelName": "vgsoffice01_lvs",
+   "txdName": "vgsoffice1",
+   "drawDistance": 140,
+   "flags": 128
+  },
+  {
+   "id": 8435,
+   "modelName": "shop11_lvs",
+   "txdName": "shop06_lvs",
+   "drawDistance": 140,
+   "flags": 128
+  },
+  {
+   "id": 8436,
+   "modelName": "shop12_lvs",
+   "txdName": "shop06_lvs",
+   "drawDistance": 140,
+   "flags": 128
+  },
+  {
+   "id": 8437,
+   "modelName": "residntial01_lvs",
+   "txdName": "residential01",
+   "drawDistance": 140,
+   "flags": 128
+  },
+  {
+   "id": 8438,
+   "modelName": "VegasEroad003",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8439,
+   "modelName": "vgsEedge12",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8440,
+   "modelName": "vgsEedge15",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8441,
+   "modelName": "vgsEedge16",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8442,
+   "modelName": "VegasEroad009",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8443,
+   "modelName": "VegasEroad010",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8444,
+   "modelName": "VegasEroad011",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8445,
+   "modelName": "vgsEedge13",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8446,
+   "modelName": "VegasEroad013",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8447,
+   "modelName": "VegasEroad019",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8448,
+   "modelName": "VegasEroad020",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8449,
+   "modelName": "VegasEroad021",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8450,
+   "modelName": "VegasEroad022",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8451,
+   "modelName": "VegasEroad031",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8452,
+   "modelName": "VegasEroad032",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8453,
+   "modelName": "VegasEroad033",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8454,
+   "modelName": "VegasEroad034",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8455,
+   "modelName": "VegasEroad041",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8456,
+   "modelName": "VegasEroad058",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8457,
+   "modelName": "vgsEedge19",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8458,
+   "modelName": "VegasEroad075",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8459,
+   "modelName": "vgsEland02_lvs",
+   "txdName": "vgsland2",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8460,
+   "modelName": "vgsEland03_lvs",
+   "txdName": "vgseland03_lvs",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8461,
+   "modelName": "vgsEland04_lvs",
+   "txdName": "vgsland2",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8462,
+   "modelName": "vgsEland06_lvs",
+   "txdName": "vgsecoast",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8463,
+   "modelName": "vgsEland07_lvs",
+   "txdName": "vgseland",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8464,
+   "modelName": "vgsEland08_lvs",
+   "txdName": "vgseland",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8465,
+   "modelName": "vgsEcoast07",
+   "txdName": "vgsecoast",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8466,
+   "modelName": "vgsEcoast08",
+   "txdName": "vgsecoast",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8467,
+   "modelName": "vgsEland11_lvs",
+   "txdName": "vgseland",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8468,
+   "modelName": "vgsEland12_lvs",
+   "txdName": "luxorland",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8469,
+   "modelName": "vgsEedge25",
+   "txdName": "vgseland",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8470,
+   "modelName": "vgsEedge27",
+   "txdName": "vgsecoast",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8471,
+   "modelName": "VegasEroad092",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8472,
+   "modelName": "VegasEroad094",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8473,
+   "modelName": "VegasEroad095",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8474,
+   "modelName": "VegasEroad096",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8475,
+   "modelName": "VegasEroad097",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8476,
+   "modelName": "VegasEroad098",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8477,
+   "modelName": "VegasEroad099",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8478,
+   "modelName": "lodEedge13",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8479,
+   "modelName": "lodasEroad022",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8480,
+   "modelName": "csrspalace01_lvs",
+   "txdName": "csrspalace01",
+   "drawDistance": 225,
+   "flags": 132
+  },
+  {
+   "id": 8481,
+   "modelName": "csrsfence01_lvs",
+   "txdName": "csrsfence01",
+   "drawDistance": 210,
+   "flags": 128
+  },
+  {
+   "id": 8482,
+   "modelName": "csrspalace02_lvs",
+   "txdName": "csrspalace02",
+   "drawDistance": 250,
+   "flags": 128
+  },
+  {
+   "id": 8483,
+   "modelName": "pirateland02_lvS",
+   "txdName": "pirateland",
+   "drawDistance": 120,
+   "flags": 128
+  },
+  {
+   "id": 8484,
+   "modelName": "pirateland03_lvS",
+   "txdName": "pirateship01",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 8485,
+   "modelName": "ballysbase_lvs",
+   "txdName": "ballys01",
+   "drawDistance": 160,
+   "flags": 128
+  },
+  {
+   "id": 8486,
+   "modelName": "vgsEedge21",
+   "txdName": "ballys02",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8487,
+   "modelName": "ballyswtr01_lvs",
+   "txdName": "ballyswater",
+   "drawDistance": 100,
+   "flags": 132
+  },
+  {
+   "id": 8488,
+   "modelName": "flamingo02_lvs",
+   "txdName": "flamingo1",
+   "drawDistance": 150,
+   "flags": 2097284
+  },
+  {
+   "id": 8489,
+   "modelName": "flamingo01_lvs",
+   "txdName": "flamingo1",
+   "drawDistance": 200,
+   "flags": 128
+  },
+  {
+   "id": 8490,
+   "modelName": "flamingo03_lvs",
+   "txdName": "flamingo1",
+   "drawDistance": 200,
+   "flags": 2097284
+  },
+  {
+   "id": 8491,
+   "modelName": "flamingo04_lvs",
+   "txdName": "vgseflmngonion",
+   "drawDistance": 150,
+   "flags": 2097284
+  },
+  {
+   "id": 8492,
+   "modelName": "flamingo05_lvs",
+   "txdName": "vgseflmngonion",
+   "drawDistance": 150,
+   "flags": 2097284
+  },
+  {
+   "id": 8493,
+   "modelName": "pirtshp01_lvs",
+   "txdName": "pirateship01",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 8494,
+   "modelName": "lowbuild01_lvs",
+   "txdName": "vgslowbuild1",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 8495,
+   "modelName": "mall01_lvs",
+   "txdName": "vgsmall",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 8496,
+   "modelName": "lowbuild03_lvs",
+   "txdName": "lowbuild03_lvs",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 8497,
+   "modelName": "vgsEland16_lvs",
+   "txdName": "vgseland",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8498,
+   "modelName": "exclbr_hotl01_lvS",
+   "txdName": "excalibur",
+   "drawDistance": 200,
+   "flags": 128
+  },
+  {
+   "id": 8499,
+   "modelName": "exclbr_hotl02_lvS",
+   "txdName": "excalibur",
+   "drawDistance": 200,
+   "flags": 128
+  },
+  {
+   "id": 8500,
+   "modelName": "excalibur01_lvS",
+   "txdName": "excalibur",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 8501,
+   "modelName": "casroyale01_lvs",
+   "txdName": "casroyale",
+   "drawDistance": 160,
+   "flags": 128
+  },
+  {
+   "id": 8502,
+   "modelName": "casroyldge01_lvs",
+   "txdName": "casroyale",
+   "drawDistance": 100,
+   "flags": 132
+  },
+  {
+   "id": 8503,
+   "modelName": "shop08_lvs",
+   "txdName": "vgs_shop5",
+   "drawDistance": 140,
+   "flags": 128
+  },
+  {
+   "id": 8504,
+   "modelName": "shop10_lvs",
+   "txdName": "vgs_shop5",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 8505,
+   "modelName": "shop14_lvs",
+   "txdName": "vgs_shop5",
+   "drawDistance": 140,
+   "flags": 128
+  },
+  {
+   "id": 8506,
+   "modelName": "shop16_lvs",
+   "txdName": "vgs_shop5",
+   "drawDistance": 140,
+   "flags": 128
+  },
+  {
+   "id": 8507,
+   "modelName": "shop15_lvs",
+   "txdName": "shop09",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 8508,
+   "modelName": "genshop01_lvs",
+   "txdName": "genshop",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 8509,
+   "modelName": "shop09_lvs",
+   "txdName": "vgs_shop5",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 8510,
+   "modelName": "VegasEroad112",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8511,
+   "modelName": "VegasEroad111",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8512,
+   "modelName": "VegasEroad113",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8513,
+   "modelName": "residnce01_lvs01",
+   "txdName": "residnce01",
+   "drawDistance": 160,
+   "flags": 128
+  },
+  {
+   "id": 8514,
+   "modelName": "VegasEroad110",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8515,
+   "modelName": "vgsEland01_lvs",
+   "txdName": "exclibrland",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8516,
+   "modelName": "shop07_lvs",
+   "txdName": "shop06_lvs",
+   "drawDistance": 140,
+   "flags": 128
+  },
+  {
+   "id": 8517,
+   "modelName": "VegasEroad114",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8518,
+   "modelName": "vgsEedge26",
+   "txdName": "vgsehighways",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8519,
+   "modelName": "VegasEroad015",
+   "txdName": "vgsehighways",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8520,
+   "modelName": "VegasEroad045",
+   "txdName": "vgsehighways",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8521,
+   "modelName": "VegasEroad071",
+   "txdName": "vgsehighways",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8522,
+   "modelName": "VegasEroad093",
+   "txdName": "vgsehighways",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8523,
+   "modelName": "VegasEroad072",
+   "txdName": "vgsehighways",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8524,
+   "modelName": "VegasEroad042",
+   "txdName": "vgsehighways",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8525,
+   "modelName": "VegasEroad043",
+   "txdName": "vgsehighways",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8526,
+   "modelName": "vgbndsign01_lvs",
+   "txdName": "vgbndsign",
+   "drawDistance": 120,
+   "flags": 128
+  },
+  {
+   "id": 8527,
+   "modelName": "vagbond02_lvs",
+   "txdName": "vagabond",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 8528,
+   "modelName": "vagbond03_lvs",
+   "txdName": "vagabond",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 8529,
+   "modelName": "vgsEland17_lvs",
+   "txdName": "vgsmotelgrnd",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8530,
+   "modelName": "vgbndsign02_lvs",
+   "txdName": "vgbndsign",
+   "drawDistance": 120,
+   "flags": 128
+  },
+  {
+   "id": 8531,
+   "modelName": "vgsEland18_lvs",
+   "txdName": "officeground",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8532,
+   "modelName": "vgsEland19_lvs",
+   "txdName": "tikigrass",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8533,
+   "modelName": "vgsEedge10",
+   "txdName": "vgsland2",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8534,
+   "modelName": "tikimotel01_lvs",
+   "txdName": "tikimotel",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 8535,
+   "modelName": "tikimotel02_lvs",
+   "txdName": "tikimotel",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 8536,
+   "modelName": "tikisign01_lvs",
+   "txdName": "tikisign",
+   "drawDistance": 120,
+   "flags": 128
+  },
+  {
+   "id": 8537,
+   "modelName": "tikisign02_lvs",
+   "txdName": "tikisign",
+   "drawDistance": 120,
+   "flags": 128
+  },
+  {
+   "id": 8538,
+   "modelName": "vgsrailroad03",
+   "txdName": "vgsrailroad",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8539,
+   "modelName": "vgsrailroad04",
+   "txdName": "vgsrailroad",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8540,
+   "modelName": "vgsrailroad05",
+   "txdName": "vgsrailroad",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8541,
+   "modelName": "vgsrailroad06",
+   "txdName": "vgsrailroad",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8542,
+   "modelName": "vgsrailroad07",
+   "txdName": "vgsrailroad",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8543,
+   "modelName": "vgsEedge11",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8544,
+   "modelName": "vgsEhseing06",
+   "txdName": "vgsewrehse",
+   "drawDistance": 160,
+   "flags": 128
+  },
+  {
+   "id": 8545,
+   "modelName": "vgsEwrehse01",
+   "txdName": "vgsewrehse",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 8546,
+   "modelName": "vgsEwrehse02",
+   "txdName": "vgsewrehse",
+   "drawDistance": 140,
+   "flags": 128
+  },
+  {
+   "id": 8547,
+   "modelName": "fctrygrnd01_lvs",
+   "txdName": "fctrygrnd01",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8548,
+   "modelName": "trainsign01_lvs",
+   "txdName": "traintrafficsign",
+   "drawDistance": 299,
+   "flags": 128
+  },
+  {
+   "id": 8549,
+   "modelName": "fctryfnce01_lvs",
+   "txdName": "factryfence",
+   "drawDistance": 200,
+   "flags": 132
+  },
+  {
+   "id": 8550,
+   "modelName": "laconcha_lvs",
+   "txdName": "laconcha",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 8551,
+   "modelName": "lacnchasgn_lvs",
+   "txdName": "laconchasign",
+   "drawDistance": 120,
+   "flags": 128
+  },
+  {
+   "id": 8552,
+   "modelName": "VegasEroad123",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8553,
+   "modelName": "vgsEland21_lvs",
+   "txdName": "vgseland",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8554,
+   "modelName": "vgsEland22_lvs",
+   "txdName": "vgsland2",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8555,
+   "modelName": "vgsEcrthse",
+   "txdName": "vgsdwntwn2",
+   "drawDistance": 160,
+   "flags": 128
+  },
+  {
+   "id": 8556,
+   "modelName": "vgshsegate04",
+   "txdName": "vgsehseing1",
+   "drawDistance": 140,
+   "flags": 128
+  },
+  {
+   "id": 8557,
+   "modelName": "vgshseing27",
+   "txdName": "vgsehseing1",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 8558,
+   "modelName": "vgshseing28",
+   "txdName": "vgsehseing1",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 8559,
+   "modelName": "vgshsewall06",
+   "txdName": "vgsehseing1",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 8560,
+   "modelName": "vgEhseland05",
+   "txdName": "vgsehseing1",
+   "drawDistance": 210,
+   "flags": 128
+  },
+  {
+   "id": 8561,
+   "modelName": "VegasEroad124",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8562,
+   "modelName": "VegasEroad127",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8563,
+   "modelName": "lacnchasgn2_lvs",
+   "txdName": "laconchasign",
+   "drawDistance": 120,
+   "flags": 128
+  },
+  {
+   "id": 8564,
+   "modelName": "vgsEland29_lvs",
+   "txdName": "vgsland2",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8565,
+   "modelName": "vgsEbuild03_lvs",
+   "txdName": "vgsebuild01",
+   "drawDistance": 140,
+   "flags": 128
+  },
+  {
+   "id": 8566,
+   "modelName": "vgsEbuild02_lvs",
+   "txdName": "vgsebuild01",
+   "drawDistance": 140,
+   "flags": 128
+  },
+  {
+   "id": 8567,
+   "modelName": "vgsEbuild04_lvs",
+   "txdName": "vgsebuild02",
+   "drawDistance": 140,
+   "flags": 128
+  },
+  {
+   "id": 8568,
+   "modelName": "vgsEbuild05_lvs",
+   "txdName": "vgsebuild02",
+   "drawDistance": 140,
+   "flags": 128
+  },
+  {
+   "id": 8569,
+   "modelName": "vgsEbuild12_lvs",
+   "txdName": "vgsebuild02",
+   "drawDistance": 140,
+   "flags": 128
+  },
+  {
+   "id": 8570,
+   "modelName": "vgsEbuild09_lvs",
+   "txdName": "vgsebuild01",
+   "drawDistance": 140,
+   "flags": 128
+  },
+  {
+   "id": 8571,
+   "modelName": "vgsEbuild11_lvs",
+   "txdName": "vgsebuild01",
+   "drawDistance": 140,
+   "flags": 128
+  },
+  {
+   "id": 8572,
+   "modelName": "vgsSstairs02_lvs",
+   "txdName": "vgssstairs1",
+   "drawDistance": 50,
+   "flags": 2097284
+  },
+  {
+   "id": 8573,
+   "modelName": "balcony01_lvs",
+   "txdName": "vgssstairs1",
+   "drawDistance": 150,
+   "flags": 132
+  },
+  {
+   "id": 8574,
+   "modelName": "shpfrnt01_lvs",
+   "txdName": "vgssshpfrnt01",
+   "drawDistance": 110,
+   "flags": 132
+  },
+  {
+   "id": 8575,
+   "modelName": "vgstrainstation",
+   "txdName": "vgsetrainstn",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 8576,
+   "modelName": "balcony02_lvs",
+   "txdName": "vgssstairs1",
+   "drawDistance": 150,
+   "flags": 132
+  },
+  {
+   "id": 8577,
+   "modelName": "trnstngrnd01_lvs",
+   "txdName": "trnstnground",
+   "drawDistance": 220,
+   "flags": 0
+  },
+  {
+   "id": 8578,
+   "modelName": "vgstrainstation3",
+   "txdName": "vgsetrainstn",
+   "drawDistance": 140,
+   "flags": 0
+  },
+  {
+   "id": 8579,
+   "modelName": "balcony03_lvs",
+   "txdName": "vgssstairs1",
+   "drawDistance": 120,
+   "flags": 132
+  },
+  {
+   "id": 8580,
+   "modelName": "vgsSstairs05_lvs",
+   "txdName": "vgssstairs1",
+   "drawDistance": 80,
+   "flags": 2097284
+  },
+  {
+   "id": 8581,
+   "modelName": "vgsEbuild06_lvs",
+   "txdName": "vgsebuild02",
+   "drawDistance": 140,
+   "flags": 128
+  },
+  {
+   "id": 8582,
+   "modelName": "vgsEedge01",
+   "txdName": "vgsecoast",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8583,
+   "modelName": "vgsEcoast02",
+   "txdName": "vgsecoast",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8584,
+   "modelName": "vgsEcoast03",
+   "txdName": "vgsecoast",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8585,
+   "modelName": "vgsEcoast04",
+   "txdName": "vgsecoast",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8586,
+   "modelName": "vgsrailroad11",
+   "txdName": "vgsrailroad",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8587,
+   "modelName": "vgsrailroad13",
+   "txdName": "vgsrailroad",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8588,
+   "modelName": "vgsrailroad15",
+   "txdName": "vgsrailroad",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8589,
+   "modelName": "lwbldstuff03_lvs",
+   "txdName": "lwbldstuff03",
+   "drawDistance": 120,
+   "flags": 128
+  },
+  {
+   "id": 8590,
+   "modelName": "filmrllprop01_lvs",
+   "txdName": "lwbldstuff03",
+   "drawDistance": 120,
+   "flags": 2097280
+  },
+  {
+   "id": 8591,
+   "modelName": "olympic01_lvs",
+   "txdName": "olympic01",
+   "drawDistance": 140,
+   "flags": 128
+  },
+  {
+   "id": 8592,
+   "modelName": "olympcrail01_lvs",
+   "txdName": "olympic01",
+   "drawDistance": 200,
+   "flags": 132
+  },
+  {
+   "id": 8593,
+   "modelName": "vgsEwires01_lvs",
+   "txdName": "vgseneonwires",
+   "drawDistance": 200,
+   "flags": 2097284
+  },
+  {
+   "id": 8594,
+   "modelName": "vgsEwires02_lvs",
+   "txdName": "vgseneonwires",
+   "drawDistance": 160,
+   "flags": 2097284
+  },
+  {
+   "id": 8595,
+   "modelName": "vgsEwires19_lvs",
+   "txdName": "vgseneonwires",
+   "drawDistance": 140,
+   "flags": 2097284
+  },
+  {
+   "id": 8596,
+   "modelName": "vgsEwires03_lvs",
+   "txdName": "vgseneonwires",
+   "drawDistance": 140,
+   "flags": 2097284
+  },
+  {
+   "id": 8597,
+   "modelName": "tikimtl02rail_lvs",
+   "txdName": "tikimotel",
+   "drawDistance": 150,
+   "flags": 132
+  },
+  {
+   "id": 8598,
+   "modelName": "lodasEroad075",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8599,
+   "modelName": "lodasEroad034",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8600,
+   "modelName": "lodasEroad092",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8601,
+   "modelName": "lodasEroad019",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8602,
+   "modelName": "lodasEroad099",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8603,
+   "modelName": "lodasEroad033",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8604,
+   "modelName": "lodEedge11",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8605,
+   "modelName": "lodasEroad013",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8606,
+   "modelName": "lodasEroad032",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8607,
+   "modelName": "vgsEwires05_lvs",
+   "txdName": "vgseneonwires",
+   "drawDistance": 80,
+   "flags": 2097284
+  },
+  {
+   "id": 8608,
+   "modelName": "vgsEwires04_lvs",
+   "txdName": "vgseneonwires",
+   "drawDistance": 140,
+   "flags": 2097284
+  },
+  {
+   "id": 8609,
+   "modelName": "VegasEroad008",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8610,
+   "modelName": "VegasEroad023",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8611,
+   "modelName": "VegasEroad036",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8612,
+   "modelName": "VegasEroad037",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8613,
+   "modelName": "vgsSstairs03_lvs",
+   "txdName": "vgssstairs1",
+   "drawDistance": 80,
+   "flags": 2097284
+  },
+  {
+   "id": 8614,
+   "modelName": "vgsSstairs01_lvs",
+   "txdName": "vgssstairs1",
+   "drawDistance": 80,
+   "flags": 2097284
+  },
+  {
+   "id": 8615,
+   "modelName": "vgsSstairs04_lvs",
+   "txdName": "vgssstairs1",
+   "drawDistance": 50,
+   "flags": 2097284
+  },
+  {
+   "id": 8616,
+   "modelName": "VegasEroad130",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8617,
+   "modelName": "bush01_lvs",
+   "txdName": "vgseflowers",
+   "drawDistance": 70,
+   "flags": 132
+  },
+  {
+   "id": 8618,
+   "modelName": "ceasersign_lvs",
+   "txdName": "ceasersign",
+   "drawDistance": 120,
+   "flags": 128
+  },
+  {
+   "id": 8619,
+   "modelName": "bush02_lvs",
+   "txdName": "vgseflowers",
+   "drawDistance": 70,
+   "flags": 132
+  },
+  {
+   "id": 8620,
+   "modelName": "exclbrsign01_lvS",
+   "txdName": "excalibursign",
+   "drawDistance": 120,
+   "flags": 128
+  },
+  {
+   "id": 8622,
+   "modelName": "VegasEroad131",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8623,
+   "modelName": "bush03_lvs",
+   "txdName": "vgseflowers",
+   "drawDistance": 50,
+   "flags": 132
+  },
+  {
+   "id": 8624,
+   "modelName": "vgsrailroad16",
+   "txdName": "vgsrailroad",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8625,
+   "modelName": "vgsEedge04",
+   "txdName": "vgsrailroad",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8626,
+   "modelName": "vgsEedge03",
+   "txdName": "vgsrailroad",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8627,
+   "modelName": "vgsrailroad23",
+   "txdName": "vgsrailroad",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8628,
+   "modelName": "vgsrailroad22",
+   "txdName": "vgsrailroad",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8629,
+   "modelName": "vgsrailroad19",
+   "txdName": "vgsrailroad",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8630,
+   "modelName": "vgsrailroad20",
+   "txdName": "vgsrailroad",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8631,
+   "modelName": "vgsrailroad21",
+   "txdName": "vgsrailroad",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8632,
+   "modelName": "vgsrailroad24",
+   "txdName": "vgsrailroad",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8633,
+   "modelName": "vgsrailroad26",
+   "txdName": "vgsrailroad",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8634,
+   "modelName": "vgsrailroad25",
+   "txdName": "vgsrailroad",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8635,
+   "modelName": "vgsrailbuild01",
+   "txdName": "vgsrailbuild",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 8636,
+   "modelName": "tikimtlwall01_lvs",
+   "txdName": "tikimotel",
+   "drawDistance": 180,
+   "flags": 128
+  },
+  {
+   "id": 8637,
+   "modelName": "VegasEroad134",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8638,
+   "modelName": "vgsEedge09",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8639,
+   "modelName": "chnatwnmll01_lvs",
+   "txdName": "chinatownmall",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 8640,
+   "modelName": "chnatwnmll02_lvs",
+   "txdName": "chinatownmall",
+   "drawDistance": 110,
+   "flags": 128
+  },
+  {
+   "id": 8641,
+   "modelName": "chnatwnmll03_lvs",
+   "txdName": "chinatownmall",
+   "drawDistance": 80,
+   "flags": 132
+  },
+  {
+   "id": 8642,
+   "modelName": "chnatwnmll04_lvs",
+   "txdName": "chinatownmall",
+   "drawDistance": 80,
+   "flags": 132
+  },
+  {
+   "id": 8643,
+   "modelName": "vgsEbuild01_lvs",
+   "txdName": "vgsebuild01",
+   "drawDistance": 140,
+   "flags": 128
+  },
+  {
+   "id": 8644,
+   "modelName": "exclbrsign03_lvS",
+   "txdName": "excalibursign",
+   "drawDistance": 80,
+   "flags": 132
+  },
+  {
+   "id": 8645,
+   "modelName": "shbbyhswall01_lvs",
+   "txdName": "vegashsetx",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 8646,
+   "modelName": "shbbyhswall02_lvs",
+   "txdName": "vegashsetx",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 8647,
+   "modelName": "shbbyhswall03_lvs",
+   "txdName": "vegashsetx",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 8648,
+   "modelName": "shbbyhswall04_lvs",
+   "txdName": "vegashsetx",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 8649,
+   "modelName": "shbbyhswall05_lvs",
+   "txdName": "vegashsetx",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 8650,
+   "modelName": "shbbyhswall06_lvs",
+   "txdName": "vegashsetx",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 8651,
+   "modelName": "shbbyhswall07_lvs",
+   "txdName": "vegashsetx",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 8652,
+   "modelName": "shbbyhswall12_lvs",
+   "txdName": "vegashsetx",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 8653,
+   "modelName": "shbbyhswall08_lvs",
+   "txdName": "vegashsetx",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 8654,
+   "modelName": "vgsEland23_lvs",
+   "txdName": "vgsecoast",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8655,
+   "modelName": "vgsEland24_lvs",
+   "txdName": "vgsecoast",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8656,
+   "modelName": "shbbyhswall09_lvs",
+   "txdName": "vegashsetx",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 8657,
+   "modelName": "shbbyhswall10_lvs",
+   "txdName": "vegashsetx",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 8658,
+   "modelName": "shabbyhouse11_lvs",
+   "txdName": "vegashsetx",
+   "drawDistance": 140,
+   "flags": 128
+  },
+  {
+   "id": 8659,
+   "modelName": "shbbyhswall11_lvs",
+   "txdName": "vegashsetx",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 8660,
+   "modelName": "bush04_lvs",
+   "txdName": "vgseflowers",
+   "drawDistance": 40,
+   "flags": 132
+  },
+  {
+   "id": 8661,
+   "modelName": "gnhtelgrnd_lvs",
+   "txdName": "gnhotel1",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 8662,
+   "modelName": "nucrprkwall_lvs",
+   "txdName": "nucarparkwall",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 8663,
+   "modelName": "triadcasno01_lvs",
+   "txdName": "triadcasino",
+   "drawDistance": 200,
+   "flags": 128
+  },
+  {
+   "id": 8664,
+   "modelName": "casrylegrnd_lvs",
+   "txdName": "casnorylgrnd",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8665,
+   "modelName": "chnatwnmll06_lvs",
+   "txdName": "chinatownmall",
+   "drawDistance": 80,
+   "flags": 132
+  },
+  {
+   "id": 8666,
+   "modelName": "chnatwnmll07_lvs",
+   "txdName": "chinatownmall",
+   "drawDistance": 80,
+   "flags": 132
+  },
+  {
+   "id": 8667,
+   "modelName": "chnatwnmll08_lvs",
+   "txdName": "chinatownmall",
+   "drawDistance": 80,
+   "flags": 132
+  },
+  {
+   "id": 8668,
+   "modelName": "chnatwnmll11_lvs",
+   "txdName": "chinatownmall",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 8669,
+   "modelName": "chnatwnmll13_lvs",
+   "txdName": "chinatownmall",
+   "drawDistance": 80,
+   "flags": 132
+  },
+  {
+   "id": 8670,
+   "modelName": "chnatwnmll12_lvs",
+   "txdName": "chinatownmall",
+   "drawDistance": 110,
+   "flags": 128
+  },
+  {
+   "id": 8671,
+   "modelName": "vgsEland26_lvs",
+   "txdName": "vegassland62",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8672,
+   "modelName": "vgsEedge06",
+   "txdName": "vegassland62",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8673,
+   "modelName": "csrsfence03_lvs",
+   "txdName": "factryfence",
+   "drawDistance": 200,
+   "flags": 132
+  },
+  {
+   "id": 8674,
+   "modelName": "csrsfence02_lvs",
+   "txdName": "factryfence",
+   "drawDistance": 200,
+   "flags": 132
+  },
+  {
+   "id": 8675,
+   "modelName": "wddngchpl02_lvs",
+   "txdName": "wddngchpl02",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 8676,
+   "modelName": "wdngchplsgn2_lvs",
+   "txdName": "wddngchplsign2",
+   "drawDistance": 80,
+   "flags": 128
+  },
+  {
+   "id": 8677,
+   "modelName": "vgsEland09_lvs",
+   "txdName": "vgseland",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8678,
+   "modelName": "wdngchplgrnd01_lvs",
+   "txdName": "wddngchplgrnd01",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8679,
+   "modelName": "bush05_lvs",
+   "txdName": "vgseflowers",
+   "drawDistance": 50,
+   "flags": 2097284
+  },
+  {
+   "id": 8680,
+   "modelName": "chnatwnfnc02_lvs",
+   "txdName": "chnatwnfnce",
+   "drawDistance": 200,
+   "flags": 132
+  },
+  {
+   "id": 8681,
+   "modelName": "chnatwnfnc03_lvs",
+   "txdName": "chnatwnfnce",
+   "drawDistance": 200,
+   "flags": 132
+  },
+  {
+   "id": 8682,
+   "modelName": "chnatwnfnc04_lvs",
+   "txdName": "chnatwnfnce",
+   "drawDistance": 200,
+   "flags": 132
+  },
+  {
+   "id": 8683,
+   "modelName": "chnatwnfnc05_lvs",
+   "txdName": "chnatwnfnce",
+   "drawDistance": 200,
+   "flags": 132
+  },
+  {
+   "id": 8684,
+   "modelName": "chnatwnfnc06_lvs",
+   "txdName": "chnatwnfnce",
+   "drawDistance": 200,
+   "flags": 132
+  },
+  {
+   "id": 8685,
+   "modelName": "chnatwnfnc07_lvs",
+   "txdName": "chnatwnfnce",
+   "drawDistance": 200,
+   "flags": 132
+  },
+  {
+   "id": 8686,
+   "modelName": "chnatwnfnc01_lvs",
+   "txdName": "chnatwnfnce",
+   "drawDistance": 200,
+   "flags": 132
+  },
+  {
+   "id": 8687,
+   "modelName": "vgelwbld15_lvs",
+   "txdName": "vgsebuild02",
+   "drawDistance": 140,
+   "flags": 128
+  },
+  {
+   "id": 8688,
+   "modelName": "vgelwbld16_lvs",
+   "txdName": "vgsebuild02",
+   "drawDistance": 140,
+   "flags": 128
+  },
+  {
+   "id": 8689,
+   "modelName": "vgelwbld17_lvs",
+   "txdName": "vgsebuild01",
+   "drawDistance": 140,
+   "flags": 128
+  },
+  {
+   "id": 8690,
+   "modelName": "lodspalace01_lvs",
+   "txdName": "vegaselod1",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8691,
+   "modelName": "lodspalace02_lvs",
+   "txdName": "vegaselod1",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8692,
+   "modelName": "lodtehtl02_lvS",
+   "txdName": "vegaselod1",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8693,
+   "modelName": "lodtehtl01_lvS",
+   "txdName": "vegaselod1",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8694,
+   "modelName": "lodroyale04_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8695,
+   "modelName": "lodticarpark01_lvS",
+   "txdName": "vegaselod1",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8696,
+   "modelName": "lodlys03_lvs",
+   "txdName": "vegaselod1",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8697,
+   "modelName": "lodlys01_lvs",
+   "txdName": "vegaselod1",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8698,
+   "modelName": "lodlys02_lvs",
+   "txdName": "vegaselod1",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8699,
+   "modelName": "lodlysbase_lvs",
+   "txdName": "vegaselod1",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8700,
+   "modelName": "lodmingo01_lvs",
+   "txdName": "vegaselod1",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8702,
+   "modelName": "lodmingo02_lvs",
+   "txdName": "vegaselod1",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8703,
+   "modelName": "lodmingo03_lvs",
+   "txdName": "vegaselod1",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8704,
+   "modelName": "lodadcasno01_lvs",
+   "txdName": "vegaselod1",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8705,
+   "modelName": "lodlbr_hotl01_lvS",
+   "txdName": "vegaselod1",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8706,
+   "modelName": "lodalibur02_lvS",
+   "txdName": "vegaselod1",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8707,
+   "modelName": "lodlbrsign01_lvS",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8708,
+   "modelName": "lodinx02_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8709,
+   "modelName": "lodEcrthse",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8710,
+   "modelName": "bnuhotel01_lvs",
+   "txdName": "nuhotel01",
+   "drawDistance": 160,
+   "flags": 128
+  },
+  {
+   "id": 8711,
+   "modelName": "lodhotel01_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8712,
+   "modelName": "lodbldng01_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8713,
+   "modelName": "lodarpark01_lvs",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8714,
+   "modelName": "lodEbuild06_lvs",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8715,
+   "modelName": "lodEbuild05_lvs",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8716,
+   "modelName": "lodEbuild04_lvs",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8717,
+   "modelName": "lodEbuild12_lvs",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8718,
+   "modelName": "lodlwbld15_lvs",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8719,
+   "modelName": "lodlwbld16_lvs",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8720,
+   "modelName": "lodidntial01_lvs",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8721,
+   "modelName": "lodmpic01_lvs",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8722,
+   "modelName": "lodEbuild09_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8723,
+   "modelName": "lodEbuild03_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8724,
+   "modelName": "lodEbuild02_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8725,
+   "modelName": "lodEbuild11_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8726,
+   "modelName": "lodEbuild01_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8727,
+   "modelName": "lodp11_lvs",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8728,
+   "modelName": "lodngchpl02_lvs",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8729,
+   "modelName": "lodp06_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8730,
+   "modelName": "lodEedge01",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8731,
+   "modelName": "lodEcoast02",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8732,
+   "modelName": "lodEcoast03",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8733,
+   "modelName": "lodEcoast04",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8734,
+   "modelName": "lodatwnmll01_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8735,
+   "modelName": "lodatwnmll11_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8736,
+   "modelName": "lodidnce01_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8737,
+   "modelName": "lodEwrehse02",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8738,
+   "modelName": "lodEwrehse01",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8739,
+   "modelName": "lodEhseing06",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8740,
+   "modelName": "lodtrainstation3",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8741,
+   "modelName": "lodtrainstation",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8742,
+   "modelName": "lodrygrnd01_lvs",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8743,
+   "modelName": "lodstngrnd01_lvs",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8744,
+   "modelName": "lodEcoast07",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8745,
+   "modelName": "lodEcoast08",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8746,
+   "modelName": "lodEedge27",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8747,
+   "modelName": "lodEedge25",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8748,
+   "modelName": "lodEland16_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8749,
+   "modelName": "lodEedge21",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8750,
+   "modelName": "lodEedge18",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8751,
+   "modelName": "lodEland23_lvs",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8752,
+   "modelName": "lodEland09_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8753,
+   "modelName": "lodEland11_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8754,
+   "modelName": "lodEland01_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8755,
+   "modelName": "lodEland25_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8756,
+   "modelName": "lodEland03_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8757,
+   "modelName": "lodEland06_lvs",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8758,
+   "modelName": "lodasEroad058",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8759,
+   "modelName": "lodasEroad113",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8760,
+   "modelName": "lodasEroad112",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8761,
+   "modelName": "lodasEroad111",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8762,
+   "modelName": "lodEland24_lvs",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8763,
+   "modelName": "lodasEroad123",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8764,
+   "modelName": "lodEland21_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8765,
+   "modelName": "lodEland07_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8766,
+   "modelName": "lodEland04_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8767,
+   "modelName": "lodEland02_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8768,
+   "modelName": "lodEedge06",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8769,
+   "modelName": "lodEland26_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8770,
+   "modelName": "lodasEroad003",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8771,
+   "modelName": "lodEland19_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8772,
+   "modelName": "lodasEroad134",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8773,
+   "modelName": "lodrtcrprk05_lvS",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8774,
+   "modelName": "lodEland17_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8775,
+   "modelName": "lodEland18_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8776,
+   "modelName": "lodasEroad110",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8777,
+   "modelName": "lodgchplgrnd01_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8778,
+   "modelName": "lodorland01_lvS",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8779,
+   "modelName": "lodasEroad037",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8780,
+   "modelName": "lodasEroad131",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8781,
+   "modelName": "lodateland03_lvS",
+   "txdName": "vegaselod1",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8782,
+   "modelName": "lodateland02_lvS",
+   "txdName": "vegaselod1",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8783,
+   "modelName": "lodasEroad124",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8784,
+   "modelName": "lodasEroad127",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8785,
+   "modelName": "lodrailroad07",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8786,
+   "modelName": "lodrailroad15",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8787,
+   "modelName": "lodrailroad06",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8788,
+   "modelName": "lodrailroad13",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8789,
+   "modelName": "lodrailroad11",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8790,
+   "modelName": "lodrailroad04",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8791,
+   "modelName": "lodrailroad05",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8792,
+   "modelName": "lodrailroad03",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8793,
+   "modelName": "lodrailroad16",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8794,
+   "modelName": "lodEedge04",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8795,
+   "modelName": "lodrailbuild01",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8796,
+   "modelName": "lodrailroad19",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8797,
+   "modelName": "lodEedge03",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8798,
+   "modelName": "lodrailroad20",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8799,
+   "modelName": "lodrailroad22",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8800,
+   "modelName": "lodrailroad21",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8801,
+   "modelName": "lodrailroad24",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8802,
+   "modelName": "lodrailroad26",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8803,
+   "modelName": "lodEland29_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8804,
+   "modelName": "lodEland22_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8805,
+   "modelName": "lodhpgrnd03_lvS",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8806,
+   "modelName": "lodhpgrnd01_lvS",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8807,
+   "modelName": "lodp01_lvs",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8808,
+   "modelName": "lodla_inn02_lvs",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8809,
+   "modelName": "lodhtclub01_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8810,
+   "modelName": "lodhtclub02_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8811,
+   "modelName": "lodhpgrnd04_lvS",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8812,
+   "modelName": "lodllcourt01_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8813,
+   "modelName": "lodhpgrnd02_lvS",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8814,
+   "modelName": "lodl01_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8815,
+   "modelName": "lodbuild03_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8816,
+   "modelName": "lodbuild01_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8817,
+   "modelName": "lodEedge10",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8818,
+   "modelName": "lodoffice01_lvs",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8819,
+   "modelName": "lodp08_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8820,
+   "modelName": "lodidnce01_lvs01",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8821,
+   "modelName": "lodshop01_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8822,
+   "modelName": "lodp15_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8823,
+   "modelName": "lodbox10sgn_lvS",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8824,
+   "modelName": "vgsEedge05",
+   "txdName": "vgsehighways",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8825,
+   "modelName": "vgsEstrphdge01",
+   "txdName": "vgsestriphedge",
+   "drawDistance": 299,
+   "flags": 132
+  },
+  {
+   "id": 8826,
+   "modelName": "vgsEstrphdge02",
+   "txdName": "vgsestriphedge",
+   "drawDistance": 117,
+   "flags": 132
+  },
+  {
+   "id": 8827,
+   "modelName": "vgsEstrphdge03",
+   "txdName": "vgsestriphedge",
+   "drawDistance": 117,
+   "flags": 132
+  },
+  {
+   "id": 8828,
+   "modelName": "vgsEstrphdge04",
+   "txdName": "vgsestriphedge",
+   "drawDistance": 117,
+   "flags": 132
+  },
+  {
+   "id": 8829,
+   "modelName": "lodasEroad045",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8830,
+   "modelName": "lodasEroad071",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8831,
+   "modelName": "lodlandbrdge01_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8832,
+   "modelName": "pirtebrdg01_lvS",
+   "txdName": "pirateland",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 8833,
+   "modelName": "prtbrdgrope_lvS",
+   "txdName": "pirateland",
+   "drawDistance": 110,
+   "flags": 132
+  },
+  {
+   "id": 8834,
+   "modelName": "prtbrdgrope2_lvS",
+   "txdName": "pirateland",
+   "drawDistance": 110,
+   "flags": 132
+  },
+  {
+   "id": 8835,
+   "modelName": "pirtetrees01_lvS",
+   "txdName": "vgsebushes",
+   "drawDistance": 80,
+   "flags": 132
+  },
+  {
+   "id": 8836,
+   "modelName": "pirtetrees02_lvS",
+   "txdName": "vgsebushes",
+   "drawDistance": 50,
+   "flags": 132
+  },
+  {
+   "id": 8837,
+   "modelName": "pirtetrees03_lvS",
+   "txdName": "vgsebushes",
+   "drawDistance": 50,
+   "flags": 132
+  },
+  {
+   "id": 8838,
+   "modelName": "vgEhshade01_lvs",
+   "txdName": "vgehshade",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 8839,
+   "modelName": "vgsEcarshow1",
+   "txdName": "vgsecarshow",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 8840,
+   "modelName": "vgsEflgs1_lvs",
+   "txdName": "vgsecarshow",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 8841,
+   "modelName": "rsdncarprk01_lvs",
+   "txdName": "resicarpark",
+   "drawDistance": 140,
+   "flags": 128
+  },
+  {
+   "id": 8842,
+   "modelName": "vgsE24hr_lvs",
+   "txdName": "vgse24hr",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 8843,
+   "modelName": "arrows01_lvs",
+   "txdName": "vegasarrows",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 8844,
+   "modelName": "vgsEedge23",
+   "txdName": "flmngoland",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8845,
+   "modelName": "flamingrnd_lvs",
+   "txdName": "flmngoland",
+   "drawDistance": 220,
+   "flags": 0
+  },
+  {
+   "id": 8846,
+   "modelName": "bush06_lvs",
+   "txdName": "vgseflowers",
+   "drawDistance": 100,
+   "flags": 132
+  },
+  {
+   "id": 8847,
+   "modelName": "lodEedge23",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8848,
+   "modelName": "lodmingrnd_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8849,
+   "modelName": "vgelwbld18_lvs",
+   "txdName": "vgeretail1",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 8850,
+   "modelName": "vgelwbldgrd_lvs",
+   "txdName": "vgeretl1grnd",
+   "drawDistance": 180,
+   "flags": 0
+  },
+  {
+   "id": 8851,
+   "modelName": "vgEplntr01_lvs",
+   "txdName": "casnorylgrnd",
+   "drawDistance": 200,
+   "flags": 128
+  },
+  {
+   "id": 8852,
+   "modelName": "bush07_lvs",
+   "txdName": "vgseflowers",
+   "drawDistance": 100,
+   "flags": 132
+  },
+  {
+   "id": 8853,
+   "modelName": "vgEplntr02_lvs",
+   "txdName": "casnorylgrnd",
+   "drawDistance": 200,
+   "flags": 128
+  },
+  {
+   "id": 8854,
+   "modelName": "vgEplntr03_lvs",
+   "txdName": "casnorylgrnd",
+   "drawDistance": 200,
+   "flags": 128
+  },
+  {
+   "id": 8855,
+   "modelName": "vgEplntr04_lvs",
+   "txdName": "casnorylgrnd",
+   "drawDistance": 200,
+   "flags": 128
+  },
+  {
+   "id": 8856,
+   "modelName": "vgEplntr06_lvs",
+   "txdName": "casnorylgrnd",
+   "drawDistance": 200,
+   "flags": 128
+  },
+  {
+   "id": 8857,
+   "modelName": "vgsEcoast06",
+   "txdName": "vgsecoast",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8858,
+   "modelName": "vgsrailroad09",
+   "txdName": "vgsrailroad",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8859,
+   "modelName": "vgsEcoast05",
+   "txdName": "vgsecoast",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8860,
+   "modelName": "vgsrailroad14",
+   "txdName": "vgsrailroad",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8861,
+   "modelName": "lodEcoast05",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8862,
+   "modelName": "lodEcoast06",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8863,
+   "modelName": "lodrailroad14",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8864,
+   "modelName": "lodrailroad09",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8865,
+   "modelName": "vgEplntr07_lvs",
+   "txdName": "casnorylgrnd",
+   "drawDistance": 200,
+   "flags": 128
+  },
+  {
+   "id": 8866,
+   "modelName": "vgEplntr08_lvs",
+   "txdName": "casnorylgrnd",
+   "drawDistance": 200,
+   "flags": 128
+  },
+  {
+   "id": 8867,
+   "modelName": "vgsEcnstrct01",
+   "txdName": "vgsecnstrct01",
+   "drawDistance": 160,
+   "flags": 0
+  },
+  {
+   "id": 8868,
+   "modelName": "vgsEcnstrct02",
+   "txdName": "vgsecnstrct02",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8869,
+   "modelName": "vgsEcnstrct05",
+   "txdName": "buildingsitevge",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 8870,
+   "modelName": "vgsEcnstrct03",
+   "txdName": "vgsecnstrct03",
+   "drawDistance": 150,
+   "flags": 2097156
+  },
+  {
+   "id": 8871,
+   "modelName": "vgsEcnstrct04",
+   "txdName": "vgsecnstrctfence",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 8872,
+   "modelName": "vgEscfldples01",
+   "txdName": "buildingsitevge",
+   "drawDistance": 140,
+   "flags": 128
+  },
+  {
+   "id": 8873,
+   "modelName": "vgsEcnstrct12",
+   "txdName": "buildingsitevge",
+   "drawDistance": 120,
+   "flags": 128
+  },
+  {
+   "id": 8875,
+   "modelName": "vgsEcnstrct14",
+   "txdName": "buildingsitevge",
+   "drawDistance": 120,
+   "flags": 128
+  },
+  {
+   "id": 8877,
+   "modelName": "vgsEcnstrct10",
+   "txdName": "buildingsitevge",
+   "drawDistance": 120,
+   "flags": 128
+  },
+  {
+   "id": 8879,
+   "modelName": "vgsEcnstrct08",
+   "txdName": "buildingsitevge",
+   "drawDistance": 120,
+   "flags": 128
+  },
+  {
+   "id": 8881,
+   "modelName": "excalibur02_lvS",
+   "txdName": "excalibur",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 8882,
+   "modelName": "excalibur03_lvS",
+   "txdName": "excalibur",
+   "drawDistance": 170,
+   "flags": 128
+  },
+  {
+   "id": 8883,
+   "modelName": "vgsEfrght01",
+   "txdName": "vgsefreight",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 8884,
+   "modelName": "vgsEfrght02",
+   "txdName": "vgsefreight",
+   "drawDistance": 120,
+   "flags": 128
+  },
+  {
+   "id": 8885,
+   "modelName": "vgsEfrght03",
+   "txdName": "vgsefreight",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 8886,
+   "modelName": "vgsEfrght04",
+   "txdName": "vgsefreight",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 8887,
+   "modelName": "bush08_lvs",
+   "txdName": "vgseflowers",
+   "drawDistance": 40,
+   "flags": 2097280
+  },
+  {
+   "id": 8888,
+   "modelName": "bush09_lvs",
+   "txdName": "vgseflowers",
+   "drawDistance": 40,
+   "flags": 2097284
+  },
+  {
+   "id": 8889,
+   "modelName": "vgsEstrphdge33",
+   "txdName": "vgsestriphedge",
+   "drawDistance": 117,
+   "flags": 132
+  },
+  {
+   "id": 8890,
+   "modelName": "lodbond01_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8891,
+   "modelName": "lodbond02_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8892,
+   "modelName": "lodbond03_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8893,
+   "modelName": "lodhsegate04",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8894,
+   "modelName": "lodasEroad041",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8895,
+   "modelName": "lodEedge16",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8896,
+   "modelName": "lodEedge26",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8897,
+   "modelName": "lodasEroad015",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8898,
+   "modelName": "lodasEroad114",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8899,
+   "modelName": "lodasEroad093",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8900,
+   "modelName": "lodasEroad072",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8901,
+   "modelName": "lodasEroad042",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8902,
+   "modelName": "lodasEroad043",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8903,
+   "modelName": "lodEedge05",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8904,
+   "modelName": "lodEedge19",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8905,
+   "modelName": "lodasEroad098",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8906,
+   "modelName": "lodasEroad020",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8907,
+   "modelName": "lodasEroad021",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8908,
+   "modelName": "lodasEroad011",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8909,
+   "modelName": "lodasEroad009",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8910,
+   "modelName": "lodEedge12",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8911,
+   "modelName": "lodEedge09",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8912,
+   "modelName": "lodasEroad094",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8913,
+   "modelName": "lodasEroad095",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8914,
+   "modelName": "lodasEroad010",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8915,
+   "modelName": "lodasEroad097",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8916,
+   "modelName": "lodasEroad096",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8917,
+   "modelName": "lodasEroad036",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8918,
+   "modelName": "lodasEroad023",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8919,
+   "modelName": "lodasEroad008",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8920,
+   "modelName": "lodEedge15",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8921,
+   "modelName": "lodp07_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8922,
+   "modelName": "lodp12_lvs",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8923,
+   "modelName": "lodalibur01_lvS",
+   "txdName": "vegaselod1",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8924,
+   "modelName": "lodalibur03_lvS",
+   "txdName": "vegaselod1",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8925,
+   "modelName": "lodp09_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8926,
+   "modelName": "lodp10_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8927,
+   "modelName": "lodp14_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8928,
+   "modelName": "lodp16_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8929,
+   "modelName": "lodlbr_hotl02_lvS",
+   "txdName": "vegaselod1",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8930,
+   "modelName": "lodE24hr_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8931,
+   "modelName": "lodEcarshow1",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8932,
+   "modelName": "VegasEroad136",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8933,
+   "modelName": "lodasEroad136",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8934,
+   "modelName": "lodlwbld17_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8935,
+   "modelName": "lodp03_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8936,
+   "modelName": "lodp04_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8937,
+   "modelName": "lodla_inn03_lvs",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8938,
+   "modelName": "lodla_inn01_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8939,
+   "modelName": "lodp05_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8940,
+   "modelName": "lodrailbuild02",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8941,
+   "modelName": "lodrailbuild03",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8942,
+   "modelName": "lodrailbuild04",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8943,
+   "modelName": "lodrailbuild05",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8944,
+   "modelName": "lodrailbuild06",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8945,
+   "modelName": "lodatwnmll02_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8946,
+   "modelName": "lodatwnmll12_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8947,
+   "modelName": "vgElkup",
+   "txdName": "vgslockup",
+   "drawDistance": 110,
+   "flags": 128
+  },
+  {
+   "id": 8948,
+   "modelName": "lckupgrgdoor_lvs",
+   "txdName": "vgselckupgrgdr",
+   "drawDistance": 50,
+   "flags": 2176
+  },
+  {
+   "id": 8949,
+   "modelName": "lodEcnstrct17",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8950,
+   "modelName": "lodEcnstrct01",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8951,
+   "modelName": "lodEcnstrct03",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8952,
+   "modelName": "lodEcnstrct05",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8953,
+   "modelName": "lodEcnstrct04",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8954,
+   "modelName": "vgsEspras01",
+   "txdName": "vgsespras",
+   "drawDistance": 140,
+   "flags": 128
+  },
+  {
+   "id": 8955,
+   "modelName": "vgsEspray01",
+   "txdName": "lvse_spray1",
+   "drawDistance": 50,
+   "flags": 128
+  },
+  {
+   "id": 8956,
+   "modelName": "lodEspras01",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8957,
+   "modelName": "vgsEspdr01",
+   "txdName": "vgsegarage",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 8958,
+   "modelName": "lodElockup_01",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8959,
+   "modelName": "lodEsvhse01",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8960,
+   "modelName": "lodEfrght02",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8961,
+   "modelName": "lodEfrght03",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8962,
+   "modelName": "lodEfrght04",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8963,
+   "modelName": "lodEfrght01",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8964,
+   "modelName": "lodlwbld18_lvs",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8965,
+   "modelName": "lodlwbldgrd_lvs",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8966,
+   "modelName": "lodoncha_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8967,
+   "modelName": "lodrailroad25",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8968,
+   "modelName": "lodrailroad23",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8969,
+   "modelName": "vgsEwires06_lvs",
+   "txdName": "vgseneonwires",
+   "drawDistance": 200,
+   "flags": 2097284
+  },
+  {
+   "id": 8970,
+   "modelName": "lodimotel02_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8971,
+   "modelName": "lodsersign_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8972,
+   "modelName": "lodEland12_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8973,
+   "modelName": "lodasEroad031",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8974,
+   "modelName": "lodasEroad130",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8975,
+   "modelName": "lodimotel01_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8976,
+   "modelName": "lodngchpl01_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8977,
+   "modelName": "lodtshp01_lvs",
+   "txdName": "vegaselod1",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8978,
+   "modelName": "lodskllsgn02_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 8979,
+   "modelName": "vgsEesc02",
+   "txdName": "ballys01",
+   "drawDistance": 110,
+   "flags": 128
+  },
+  {
+   "id": 8980,
+   "modelName": "vgsEesc01",
+   "txdName": "ballysesc01",
+   "drawDistance": 110,
+   "flags": 128
+  },
+  {
+   "id": 8981,
+   "modelName": "prtwires_lvs",
+   "txdName": "vgseneonwires",
+   "drawDistance": 150,
+   "flags": 132
+  },
+  {
+   "id": 8982,
+   "modelName": "vgsEstrphdge34",
+   "txdName": "vgsestriphedge",
+   "drawDistance": 150,
+   "flags": 132
+  },
+  {
+   "id": 8983,
+   "modelName": "vgsEedge02",
+   "txdName": "vgsecoast",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 8984,
+   "modelName": "lodbyhswall01_lvs",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8985,
+   "modelName": "lodbyhswall04_lvs",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8986,
+   "modelName": "lodbyhswall05_lvs",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8987,
+   "modelName": "lodbyhswall02_lvs",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8988,
+   "modelName": "lodbyhswall03_lvs",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8989,
+   "modelName": "bush10_lvs",
+   "txdName": "vgseflowers",
+   "drawDistance": 40,
+   "flags": 2097280
+  },
+  {
+   "id": 8990,
+   "modelName": "bush11_lvs",
+   "txdName": "vgseflowers",
+   "drawDistance": 40,
+   "flags": 2097280
+  },
+  {
+   "id": 8991,
+   "modelName": "bush12_lvs",
+   "txdName": "vgseflowers",
+   "drawDistance": 40,
+   "flags": 2097280
+  },
+  {
+   "id": 8992,
+   "modelName": "lodbyhswall12_lvs",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8993,
+   "modelName": "lodbyhswall06_lvs",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8994,
+   "modelName": "lodbyhswall08_lvs",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8995,
+   "modelName": "lodbyhswall07_lvs",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8996,
+   "modelName": "lodbyhswall09_lvs",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8997,
+   "modelName": "lodbyhswall10_lvs",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8998,
+   "modelName": "lodbyhswall11_lvs",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 8999,
+   "modelName": "lodbbyhouse11_lvs",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 9000,
+   "modelName": "vgsEedge17",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 9001,
+   "modelName": "vgsEedge20",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 9002,
+   "modelName": "vgsEedge22",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 9003,
+   "modelName": "vgsEedge24",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 9004,
+   "modelName": "VegasEroad051",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 9005,
+   "modelName": "VegasEroad050",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 9006,
+   "modelName": "VegasEroad086",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 9007,
+   "modelName": "VegasEroad049",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 9008,
+   "modelName": "VegasEroad048",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 9009,
+   "modelName": "lodEedge17",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9010,
+   "modelName": "lodEedge20",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9011,
+   "modelName": "lodEedge22",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9012,
+   "modelName": "lodEedge24",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9013,
+   "modelName": "lodasEroad051",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9014,
+   "modelName": "lodasEroad050",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9015,
+   "modelName": "lodasEroad086",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9016,
+   "modelName": "lodasEroad049",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9017,
+   "modelName": "lodasEroad048",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9018,
+   "modelName": "lodEedge02",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9019,
+   "modelName": "luxortrees01_lvS",
+   "txdName": "vgsebushes",
+   "drawDistance": 50,
+   "flags": 132
+  },
+  {
+   "id": 9020,
+   "modelName": "vgsEcnstfnc01",
+   "txdName": "vgsecnstrct01",
+   "drawDistance": 150,
+   "flags": 2097156
+  },
+  {
+   "id": 9021,
+   "modelName": "vegasEroad068",
+   "txdName": "vgsehighways",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 9022,
+   "modelName": "vegasEroad067",
+   "txdName": "vgsehighways",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 9023,
+   "modelName": "VegasEroad069",
+   "txdName": "vgsehighways",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 9024,
+   "modelName": "vegasEroad070",
+   "txdName": "vgsehighways",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 9025,
+   "modelName": "vegasEroad065",
+   "txdName": "vgsehighways",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 9026,
+   "modelName": "VegasEroad066",
+   "txdName": "vgsehighways",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 9027,
+   "modelName": "vegasEroad064",
+   "txdName": "vgsehighways",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 9028,
+   "modelName": "VegasEroad063",
+   "txdName": "vgsehighways",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 9029,
+   "modelName": "vgsEtrainfence01",
+   "txdName": "vgetrainfnce",
+   "drawDistance": 150,
+   "flags": 2097284
+  },
+  {
+   "id": 9030,
+   "modelName": "vgsEtrainfence02",
+   "txdName": "vgetrainfnce",
+   "drawDistance": 150,
+   "flags": 2097284
+  },
+  {
+   "id": 9031,
+   "modelName": "vgsEtrainfence03",
+   "txdName": "vgetrainfnce",
+   "drawDistance": 150,
+   "flags": 2097284
+  },
+  {
+   "id": 9032,
+   "modelName": "vgsEtrainfence04",
+   "txdName": "vgetrainfnce",
+   "drawDistance": 150,
+   "flags": 2097284
+  },
+  {
+   "id": 9033,
+   "modelName": "vgsEtrainfence05",
+   "txdName": "vgetrainfnce",
+   "drawDistance": 150,
+   "flags": 2097284
+  },
+  {
+   "id": 9034,
+   "modelName": "tikitrees01_lvS",
+   "txdName": "vgsebushes",
+   "drawDistance": 150,
+   "flags": 132
+  },
+  {
+   "id": 9035,
+   "modelName": "tikitrees02_lvS",
+   "txdName": "vgsebushes",
+   "drawDistance": 40,
+   "flags": 132
+  },
+  {
+   "id": 9036,
+   "modelName": "tikibrdg01_lvs",
+   "txdName": "tikibridge",
+   "drawDistance": 200,
+   "flags": 128
+  },
+  {
+   "id": 9037,
+   "modelName": "csrspalace03_lvs",
+   "txdName": "csrspalace02",
+   "drawDistance": 250,
+   "flags": 128
+  },
+  {
+   "id": 9038,
+   "modelName": "lodspalace03_lvs",
+   "txdName": "vegaselod1",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9039,
+   "modelName": "csrspalace04_lvs",
+   "txdName": "csrspalace02",
+   "drawDistance": 250,
+   "flags": 128
+  },
+  {
+   "id": 9040,
+   "modelName": "lodspalace04_lvs",
+   "txdName": "vegaselod1",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9041,
+   "modelName": "prthotelfnc01",
+   "txdName": "pirateland",
+   "drawDistance": 150,
+   "flags": 2097156
+  },
+  {
+   "id": 9042,
+   "modelName": "VegasEroad137",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 9043,
+   "modelName": "luxorpillar03_lvs",
+   "txdName": "luxorpillar1",
+   "drawDistance": 180,
+   "flags": 0
+  },
+  {
+   "id": 9044,
+   "modelName": "pirateland05_lvS",
+   "txdName": "pirateland",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 9045,
+   "modelName": "pirateland04_lvS",
+   "txdName": "pirateland",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 9046,
+   "modelName": "vgsEland31_lvs",
+   "txdName": "vgseland03_lvs",
+   "drawDistance": 140,
+   "flags": 0
+  },
+  {
+   "id": 9047,
+   "modelName": "vgsEland32_lvs",
+   "txdName": "vgseland03_lvs",
+   "drawDistance": 117,
+   "flags": 0
+  },
+  {
+   "id": 9048,
+   "modelName": "lodateland05_lvS",
+   "txdName": "vegaselod1",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9049,
+   "modelName": "lodateland04_lvS",
+   "txdName": "vegaselod1",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9050,
+   "modelName": "lodEland31_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9051,
+   "modelName": "lodEland32_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9052,
+   "modelName": "pirateland06_lvS",
+   "txdName": "pirateship01",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 9053,
+   "modelName": "lodateland06_lvS",
+   "txdName": "vegaselod1",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9054,
+   "modelName": "chnatwnmll14_lvs",
+   "txdName": "chinatownmall",
+   "drawDistance": 120,
+   "flags": 128
+  },
+  {
+   "id": 9055,
+   "modelName": "chnatwnmll15_lvs",
+   "txdName": "chinatownmall",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 9056,
+   "modelName": "vgsEedge07",
+   "txdName": "vegassland62",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 9057,
+   "modelName": "vgsEedge08",
+   "txdName": "vegassland62",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 9058,
+   "modelName": "lodatwnmll14_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 9059,
+   "modelName": "lodatwnmll15_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 9060,
+   "modelName": "lodEedge07",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9061,
+   "modelName": "lodEedge08",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9062,
+   "modelName": "arprtcrprk05_lvS",
+   "txdName": "carpark3_lvs",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 9063,
+   "modelName": "lodrtcrprk04_lvS",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9064,
+   "modelName": "vgsEland36_lvs",
+   "txdName": "vegassland62",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 9065,
+   "modelName": "vgsEland35_lvs",
+   "txdName": "vegassland62",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 9066,
+   "modelName": "vgsEland37_lvs",
+   "txdName": "vegassland62",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 9067,
+   "modelName": "lodEland37_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9068,
+   "modelName": "lodEland35_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9069,
+   "modelName": "lodEland36_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9070,
+   "modelName": "casroyale02_lvs",
+   "txdName": "casroyale",
+   "drawDistance": 160,
+   "flags": 128
+  },
+  {
+   "id": 9071,
+   "modelName": "casroyale03_lvs",
+   "txdName": "casroyale",
+   "drawDistance": 160,
+   "flags": 128
+  },
+  {
+   "id": 9072,
+   "modelName": "casroyale04_lvs",
+   "txdName": "casroyale",
+   "drawDistance": 160,
+   "flags": 128
+  },
+  {
+   "id": 9073,
+   "modelName": "lodroyale03_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 9074,
+   "modelName": "lodroyale02_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 9075,
+   "modelName": "lodroyale01_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 9076,
+   "modelName": "sphinx01_lvs",
+   "txdName": "sphinx01",
+   "drawDistance": 190,
+   "flags": 128
+  },
+  {
+   "id": 9077,
+   "modelName": "lodinx01_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 9078,
+   "modelName": "excalibur04_lvS",
+   "txdName": "excalibur",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 9079,
+   "modelName": "lodalibur04_lvS",
+   "txdName": "vegaselod1",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9080,
+   "modelName": "excalibur05_lvS",
+   "txdName": "excalibur",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 9081,
+   "modelName": "lodalibur05_lvS",
+   "txdName": "vegaselod1",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9082,
+   "modelName": "vgsEcnstrct17",
+   "txdName": "vgsecnstrct02",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 9083,
+   "modelName": "vgsEcnstrct18",
+   "txdName": "vgsecnstrct02",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 9084,
+   "modelName": "lodEcnstrct18",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9085,
+   "modelName": "lodEcnstrct02",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9086,
+   "modelName": "vgEhseland06",
+   "txdName": "vgsehseing1",
+   "drawDistance": 210,
+   "flags": 128
+  },
+  {
+   "id": 9087,
+   "modelName": "vgEhseland07",
+   "txdName": "vgsehseing1",
+   "drawDistance": 210,
+   "flags": 128
+  },
+  {
+   "id": 9090,
+   "modelName": "vgEferryland",
+   "txdName": "vgsecoast",
+   "drawDistance": 170,
+   "flags": 0
+  },
+  {
+   "id": 9091,
+   "modelName": "Lodferryland",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9092,
+   "modelName": "lodrprkwall_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9093,
+   "modelName": "cmdgrgdoor_lvs",
+   "txdName": "vgselckupgrgdr",
+   "drawDistance": 50,
+   "flags": 2176
+  },
+  {
+   "id": 9098,
+   "modelName": "vgsEsvhse01",
+   "txdName": "vgesvhouse01",
+   "drawDistance": 130,
+   "flags": 0
+  },
+  {
+   "id": 9099,
+   "modelName": "vgsEsvehse1",
+   "txdName": "vgesvhouse01",
+   "drawDistance": 126,
+   "flags": 2099328
+  },
+  {
+   "id": 9102,
+   "modelName": "lodorlight_dy",
+   "txdName": "vegaselod1",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9103,
+   "modelName": "lodorlight_nt",
+   "txdName": "vegaselod1",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9106,
+   "modelName": "vgsEamuntn",
+   "txdName": "vgeamun",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 9107,
+   "modelName": "lodtebrdg01_lvS",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9108,
+   "modelName": "vgsEtrainfence06",
+   "txdName": "vgetrainfnce",
+   "drawDistance": 150,
+   "flags": 2097284
+  },
+  {
+   "id": 9109,
+   "modelName": "vgsEtrainfence07",
+   "txdName": "vgetrainfnce",
+   "drawDistance": 150,
+   "flags": 2097284
+  },
+  {
+   "id": 9110,
+   "modelName": "vgsEtrainfence08",
+   "txdName": "vgetrainfnce",
+   "drawDistance": 150,
+   "flags": 2097284
+  },
+  {
+   "id": 9111,
+   "modelName": "vgsEtrainfence09",
+   "txdName": "vgetrainfnce",
+   "drawDistance": 150,
+   "flags": 2097284
+  },
+  {
+   "id": 9112,
+   "modelName": "vgsEtrainfence10",
+   "txdName": "vgetrainfnce",
+   "drawDistance": 150,
+   "flags": 2097284
+  },
+  {
+   "id": 9113,
+   "modelName": "vgbndfnce",
+   "txdName": "vagabond",
+   "drawDistance": 150,
+   "flags": 132
+  },
+  {
+   "id": 9114,
+   "modelName": "wddngchpl01_lvs",
+   "txdName": "wddngchpl",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 9115,
+   "modelName": "VegasEroad138",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 9116,
+   "modelName": "VegasEroad139",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 9117,
+   "modelName": "VegasEroad140",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 9118,
+   "modelName": "VegasEroad141",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 9119,
+   "modelName": "vgsEedge14",
+   "txdName": "vgseroads",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 9120,
+   "modelName": "VegasEroad143",
+   "txdName": "vgsehighways",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 9130,
+   "modelName": "lodEamuntn",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 9131,
+   "modelName": "shbbyhswall13_lvs",
+   "txdName": "vegashsetx",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 9132,
+   "modelName": "triadcasign_lvs",
+   "txdName": "triadcasino",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 9133,
+   "modelName": "lodadcasign_lvs",
+   "txdName": "vegaselod1",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9134,
+   "modelName": "lodorpillar03_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9135,
+   "modelName": "sbvgsEseafloor01",
+   "txdName": "vgseseabed",
+   "drawDistance": 250,
+   "flags": 128
+  },
+  {
+   "id": 9136,
+   "modelName": "sbvgsEseafloor02",
+   "txdName": "vgseseabed",
+   "drawDistance": 250,
+   "flags": 128
+  },
+  {
+   "id": 9137,
+   "modelName": "sbvgsEseafloor04",
+   "txdName": "vgseseabed",
+   "drawDistance": 250,
+   "flags": 128
+  },
+  {
+   "id": 9138,
+   "modelName": "sbvgsEseafloor05",
+   "txdName": "vgseseabed",
+   "drawDistance": 250,
+   "flags": 128
+  },
+  {
+   "id": 9139,
+   "modelName": "sbvgsEseafloor06",
+   "txdName": "vgseseabed",
+   "drawDistance": 250,
+   "flags": 128
+  },
+  {
+   "id": 9140,
+   "modelName": "sbvgsEseafloor07",
+   "txdName": "vgseseabed",
+   "drawDistance": 250,
+   "flags": 128
+  },
+  {
+   "id": 9141,
+   "modelName": "lodseabed100",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9142,
+   "modelName": "lodseabed101",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9143,
+   "modelName": "lodseabed103",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9144,
+   "modelName": "lodseabed104",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9145,
+   "modelName": "lodseabed105",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9146,
+   "modelName": "lodseabed106",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9147,
+   "modelName": "lodibrdg01_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9148,
+   "modelName": "lodasEroad140",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9149,
+   "modelName": "lodasEroad141",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9150,
+   "modelName": "VegasEroad144",
+   "txdName": "vgsehighways",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 9151,
+   "modelName": "lodasEroad144",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9152,
+   "modelName": "bush13_lvs",
+   "txdName": "vgseflowers",
+   "drawDistance": 100,
+   "flags": 2097156
+  },
+  {
+   "id": 9153,
+   "modelName": "bush14_lvs",
+   "txdName": "vgseflowers",
+   "drawDistance": 150,
+   "flags": 4
+  },
+  {
+   "id": 9154,
+   "modelName": "triadwires",
+   "txdName": "vgseneonwires",
+   "drawDistance": 100,
+   "flags": 132
+  },
+  {
+   "id": 9155,
+   "modelName": "lodEedge14",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9156,
+   "modelName": "lodasEroad139",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9157,
+   "modelName": "lodEland08_lvs",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9158,
+   "modelName": "lodasEroad137",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9159,
+   "modelName": "pirtshp02_lvs",
+   "txdName": "pirateship01",
+   "drawDistance": 130,
+   "flags": 132
+  },
+  {
+   "id": 9160,
+   "modelName": "lodasEroad143",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9161,
+   "modelName": "lodasEroad138",
+   "txdName": "vegaselod2",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9162,
+   "modelName": "shop01_lvs",
+   "txdName": "vgs_shops",
+   "drawDistance": 140,
+   "flags": 128
+  },
+  {
+   "id": 9163,
+   "modelName": "shop04_lvs",
+   "txdName": "vgs_shops",
+   "drawDistance": 140,
+   "flags": 128
+  },
+  {
+   "id": 9164,
+   "modelName": "vgsrailbuild02",
+   "txdName": "vgsrailbuild",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 9165,
+   "modelName": "vgsrailbuild03",
+   "txdName": "vgsrailbuild",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 9166,
+   "modelName": "vgsrailbuild04",
+   "txdName": "vgsrailbuild",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 9167,
+   "modelName": "vgsrailbuild05",
+   "txdName": "vgsrailbuild",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 9168,
+   "modelName": "vgsrailbuild06",
+   "txdName": "vgsrailbuild",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 9169,
+   "modelName": "vgsEprtlstation1",
+   "txdName": "vgslowbuild",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 9170,
+   "modelName": "lodEprtlstation1",
+   "txdName": "vegaselod2",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 9171,
+   "modelName": "vgsEprtlstation2",
+   "txdName": "vgslowbuild",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 9172,
+   "modelName": "lodEprtlstation2",
+   "txdName": "vegaselod3",
+   "drawDistance": 800,
+   "flags": 128
+  },
+  {
+   "id": 9173,
+   "modelName": "vgsEedge18",
+   "txdName": "pirateland",
+   "drawDistance": 230,
+   "flags": 0
+  },
+  {
+   "id": 9174,
+   "modelName": "tislandbrdge01_lvs",
+   "txdName": "pirateland",
+   "drawDistance": 230,
+   "flags": 2097152
+  },
+  {
+   "id": 9176,
+   "modelName": "lodasEroad064",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9177,
+   "modelName": "lodasEroad065",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9178,
+   "modelName": "lodasEroad066",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9179,
+   "modelName": "lodasEroad063",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9180,
+   "modelName": "lodasEroad069",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9181,
+   "modelName": "lodasEroad068",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9182,
+   "modelName": "lodasEroad067",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9183,
+   "modelName": "lodasEroad070",
+   "txdName": "vegaselod3",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 9184,
+   "modelName": "vgEastbillbrd08",
+   "txdName": "vgebillboards",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 9185,
+   "modelName": "vgEastbillbrd07",
+   "txdName": "vgebillboards",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 9186,
+   "modelName": "vgEastbillbrd05",
+   "txdName": "vgebillboards",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 9187,
+   "modelName": "vgEastbillbrd04",
+   "txdName": "vgebillboards",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 9188,
+   "modelName": "vgEastbillbrd02",
+   "txdName": "vgebillboards",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 9189,
+   "modelName": "vgEastbillbrd06",
+   "txdName": "vgebillboards",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 9190,
+   "modelName": "vgEastbillbrd01",
+   "txdName": "vgebillboards",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 9191,
+   "modelName": "vgEastbillbrd03",
+   "txdName": "vgebillboards",
+   "drawDistance": 120,
+   "flags": 0
+  }
+ ],
+ "tobj": [
+  {
+   "id": 8395,
+   "modelName": "vgEpyrmd_dy",
+   "txdName": "pyramid",
+   "drawDistance": 150,
+   "flags": 128,
+   "timeOn": 5,
+   "timeOff": 22
+  },
+  {
+   "id": 8621,
+   "modelName": "exclbrsign02_dy",
+   "txdName": "excalibursign",
+   "drawDistance": 80,
+   "flags": 132,
+   "timeOn": 5,
+   "timeOff": 22
+  },
+  {
+   "id": 8701,
+   "modelName": "lodpyrmd_dy",
+   "txdName": "vegaselod1",
+   "drawDistance": 1500,
+   "flags": 128,
+   "timeOn": 5,
+   "timeOff": 22
+  },
+  {
+   "id": 8874,
+   "modelName": "vgsEcnstrct13",
+   "txdName": "buildingsitevge",
+   "drawDistance": 110,
+   "flags": 196,
+   "timeOn": 20,
+   "timeOff": 6
+  },
+  {
+   "id": 8876,
+   "modelName": "vgsEcnstrct15",
+   "txdName": "buildingsitevge",
+   "drawDistance": 110,
+   "flags": 196,
+   "timeOn": 20,
+   "timeOff": 6
+  },
+  {
+   "id": 8878,
+   "modelName": "vgsEcnstrct11",
+   "txdName": "buildingsitevge",
+   "drawDistance": 110,
+   "flags": 196,
+   "timeOn": 20,
+   "timeOff": 6
+  },
+  {
+   "id": 8880,
+   "modelName": "vgsEcnstrct09",
+   "txdName": "buildingsitevge",
+   "drawDistance": 110,
+   "flags": 196,
+   "timeOn": 20,
+   "timeOff": 6
+  },
+  {
+   "id": 9088,
+   "modelName": "VgsEnitlit01",
+   "txdName": "vgsenitwin",
+   "drawDistance": 400,
+   "flags": 140,
+   "timeOn": 20,
+   "timeOff": 6
+  },
+  {
+   "id": 9089,
+   "modelName": "VgsEnitlit02",
+   "txdName": "vgsenitwin",
+   "drawDistance": 700,
+   "flags": 140,
+   "timeOn": 20,
+   "timeOff": 6
+  },
+  {
+   "id": 9094,
+   "modelName": "csrElights_dy",
+   "txdName": "csrspalace01",
+   "drawDistance": 225,
+   "flags": 132,
+   "timeOn": 5,
+   "timeOff": 22
+  },
+  {
+   "id": 9095,
+   "modelName": "csrElights_nt",
+   "txdName": "csrspalace01",
+   "drawDistance": 400,
+   "flags": 132,
+   "timeOn": 22,
+   "timeOff": 5
+  },
+  {
+   "id": 9096,
+   "modelName": "lodElights_dy",
+   "txdName": "vegaselod1",
+   "drawDistance": 1500,
+   "flags": 128,
+   "timeOn": 5,
+   "timeOff": 22
+  },
+  {
+   "id": 9097,
+   "modelName": "lodElights_nt",
+   "txdName": "vegaselod1",
+   "drawDistance": 1500,
+   "flags": 128,
+   "timeOn": 22,
+   "timeOff": 5
+  },
+  {
+   "id": 9100,
+   "modelName": "luxorlight_dy",
+   "txdName": "pyramid",
+   "drawDistance": 150,
+   "flags": 128,
+   "timeOn": 5,
+   "timeOff": 22
+  },
+  {
+   "id": 9101,
+   "modelName": "luxorlight_nt",
+   "txdName": "pyramid",
+   "drawDistance": 150,
+   "flags": 128,
+   "timeOn": 22,
+   "timeOff": 5
+  },
+  {
+   "id": 9104,
+   "modelName": "vgEpyrmd_nt",
+   "txdName": "pyramid",
+   "drawDistance": 150,
+   "flags": 128,
+   "timeOn": 22,
+   "timeOff": 5
+  },
+  {
+   "id": 9105,
+   "modelName": "lodpyrmd_nt",
+   "txdName": "vegaselod1",
+   "drawDistance": 1500,
+   "flags": 128,
+   "timeOn": 22,
+   "timeOff": 5
+  },
+  {
+   "id": 9121,
+   "modelName": "flmngoneon01",
+   "txdName": "vgseneonwires",
+   "drawDistance": 225,
+   "flags": 4,
+   "timeOn": 20,
+   "timeOff": 5
+  },
+  {
+   "id": 9122,
+   "modelName": "triadneon01",
+   "txdName": "vgseneonwires",
+   "drawDistance": 225,
+   "flags": 4,
+   "timeOn": 20,
+   "timeOff": 5
+  },
+  {
+   "id": 9123,
+   "modelName": "ballyneon01",
+   "txdName": "vgseneonwires",
+   "drawDistance": 225,
+   "flags": 4,
+   "timeOn": 20,
+   "timeOff": 5
+  },
+  {
+   "id": 9124,
+   "modelName": "crsplcneon",
+   "txdName": "vgseneonwires",
+   "drawDistance": 225,
+   "flags": 4,
+   "timeOn": 20,
+   "timeOff": 5
+  },
+  {
+   "id": 9125,
+   "modelName": "lxorneon",
+   "txdName": "vgseneonwires",
+   "drawDistance": 150,
+   "flags": 4,
+   "timeOn": 20,
+   "timeOff": 5
+  },
+  {
+   "id": 9126,
+   "modelName": "cmtneon01",
+   "txdName": "vgseneonwires",
+   "drawDistance": 225,
+   "flags": 4,
+   "timeOn": 20,
+   "timeOff": 5
+  },
+  {
+   "id": 9127,
+   "modelName": "cmtneon02",
+   "txdName": "vgseneonwires",
+   "drawDistance": 225,
+   "flags": 4,
+   "timeOn": 20,
+   "timeOff": 5
+  },
+  {
+   "id": 9128,
+   "modelName": "lxorneon2",
+   "txdName": "vgseneonwires",
+   "drawDistance": 200,
+   "flags": 4,
+   "timeOn": 20,
+   "timeOff": 5
+  },
+  {
+   "id": 9129,
+   "modelName": "pirtneon",
+   "txdName": "vgseneonwires",
+   "drawDistance": 225,
+   "flags": 4,
+   "timeOn": 20,
+   "timeOff": 5
+  },
+  {
+   "id": 9175,
+   "modelName": "VgsEnitlit03",
+   "txdName": "vgsenitwin",
+   "drawDistance": 700,
+   "flags": 140,
+   "timeOn": 20,
+   "timeOff": 6
+  }
+ ],
+ "path": [],
+ "2dfx": [],
+ "anim": [
+  {
+   "id": 9192,
+   "modelName": "vgegassgn01_lvs",
+   "txdName": "vgegassign",
+   "animName": "vegasE",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 9193,
+   "modelName": "vgegassgn03_lvs",
+   "txdName": "vgegassign",
+   "animName": "vegasE",
+   "drawDistance": 150,
+   "flags": 128
+  }
+ ],
+ "txdp": []
+}

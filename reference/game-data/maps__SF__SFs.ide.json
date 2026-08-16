@@ -1,0 +1,3021 @@
+{
+ "objs": [
+  {
+   "id": 10315,
+   "modelName": "LOD_sfs065",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10316,
+   "modelName": "LOD_sfs066",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10317,
+   "modelName": "LOD_sfs068",
+   "txdName": "lod_sfs6",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10318,
+   "modelName": "LOD_sfs069",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10319,
+   "modelName": "LODlthclub_SFS",
+   "txdName": "lod_sfs6",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10320,
+   "modelName": "LOD_sfs152",
+   "txdName": "lod_sfs5",
+   "drawDistance": 1200,
+   "flags": 128
+  },
+  {
+   "id": 10321,
+   "modelName": "LOD_sfs153",
+   "txdName": "lod_sfs5",
+   "drawDistance": 1200,
+   "flags": 128
+  },
+  {
+   "id": 10322,
+   "modelName": "LOD_sfs154",
+   "txdName": "lod_sfs5",
+   "drawDistance": 1200,
+   "flags": 128
+  },
+  {
+   "id": 10323,
+   "modelName": "LOD_sfs155",
+   "txdName": "lod_sfs5",
+   "drawDistance": 1200,
+   "flags": 128
+  },
+  {
+   "id": 10324,
+   "modelName": "LOD_sfs156",
+   "txdName": "lod_sfs5",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 10325,
+   "modelName": "LOD_sfs157",
+   "txdName": "lod_sfs5",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10326,
+   "modelName": "LOD_sfs158",
+   "txdName": "lod_sfs5",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 10327,
+   "modelName": "LOD_sfs159",
+   "txdName": "lod_sfs6",
+   "drawDistance": 1200,
+   "flags": 128
+  },
+  {
+   "id": 10328,
+   "modelName": "LOD_sfs162",
+   "txdName": "lod_sfs6",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10329,
+   "modelName": "LODcuntwland22SFS",
+   "txdName": "lod_sfs1",
+   "drawDistance": 1200,
+   "flags": 128
+  },
+  {
+   "id": 10330,
+   "modelName": "LODundbit_09_SFS",
+   "txdName": "lod_sfs1",
+   "drawDistance": 1200,
+   "flags": 128
+  },
+  {
+   "id": 10331,
+   "modelName": "LODgroundbit_12SFS",
+   "txdName": "lod_sfs1",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10332,
+   "modelName": "LODgroundbit_13SFS",
+   "txdName": "lod_sfs1",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10333,
+   "modelName": "LODROADSsfs32",
+   "txdName": "lod_sfs6",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10334,
+   "modelName": "LODROADSsfs08",
+   "txdName": "lod_sfs6",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10335,
+   "modelName": "LODROADSsfs19",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10336,
+   "modelName": "LODROADSsfs33",
+   "txdName": "lod_sfs6",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10337,
+   "modelName": "LODROADSsfs01",
+   "txdName": "lod_sfs6",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10338,
+   "modelName": "LODROADSsfs10",
+   "txdName": "lod_sfs6",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10339,
+   "modelName": "LODROADSsfs31",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10340,
+   "modelName": "LODROADSsfs12",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10341,
+   "modelName": "LODROADSsfs04",
+   "txdName": "lod_sfs6",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10342,
+   "modelName": "LODROADSsfs13",
+   "txdName": "lod_sfs6",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10343,
+   "modelName": "LODROADSsfs14",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10344,
+   "modelName": "LODROADSsfs29",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10345,
+   "modelName": "LODROADSsfs05",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10346,
+   "modelName": "LODROADSsfs36",
+   "txdName": "lod_sfs6",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10347,
+   "modelName": "LODROADSsfs24",
+   "txdName": "lod_sfs6",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10348,
+   "modelName": "LODROADSsfs25",
+   "txdName": "lod_sfs6",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10349,
+   "modelName": "LODshop2_SFS",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10350,
+   "modelName": "OC_FLATS_GND01_SFS",
+   "txdName": "oc_flats_gnd_sfs",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 10351,
+   "modelName": "groundbit_10_SFS",
+   "txdName": "beach_sfs",
+   "drawDistance": 180,
+   "flags": 0
+  },
+  {
+   "id": 10352,
+   "modelName": "groundbit_11_SFS",
+   "txdName": "beach_sfs",
+   "drawDistance": 220,
+   "flags": 0
+  },
+  {
+   "id": 10353,
+   "modelName": "groundbit_12_SFS",
+   "txdName": "beach_sfs",
+   "drawDistance": 190,
+   "flags": 0
+  },
+  {
+   "id": 10354,
+   "modelName": "groundbit_13_SFS",
+   "txdName": "beach_sfs",
+   "drawDistance": 160,
+   "flags": 0
+  },
+  {
+   "id": 10355,
+   "modelName": "groundbit_48_SFS",
+   "txdName": "haight1_sfs",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 10356,
+   "modelName": "hashbury_01_SFS",
+   "txdName": "groundbit_sfs",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 10357,
+   "modelName": "transmitter_sfs",
+   "txdName": "tvtower_sfs",
+   "drawDistance": 150,
+   "flags": 132
+  },
+  {
+   "id": 10358,
+   "modelName": "OC_FLATS_GND02_SFS",
+   "txdName": "oc_flats_gnd_sfs",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 10359,
+   "modelName": "sfshill02",
+   "txdName": "roads_sfs",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 10360,
+   "modelName": "sfshill03",
+   "txdName": "roads_sfs",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 10361,
+   "modelName": "sfshill04",
+   "txdName": "roads_sfs",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 10362,
+   "modelName": "sfshill05",
+   "txdName": "roads_sfs",
+   "drawDistance": 200,
+   "flags": 1
+  },
+  {
+   "id": 10363,
+   "modelName": "sfshill06",
+   "txdName": "roads_sfs",
+   "drawDistance": 200,
+   "flags": 1
+  },
+  {
+   "id": 10364,
+   "modelName": "sfshill07",
+   "txdName": "freeway_sfs",
+   "drawDistance": 220,
+   "flags": 1
+  },
+  {
+   "id": 10365,
+   "modelName": "roadbit21_SFS",
+   "txdName": "freeway_sfs",
+   "drawDistance": 220,
+   "flags": 1
+  },
+  {
+   "id": 10366,
+   "modelName": "golftunnel1_SFS",
+   "txdName": "golftunnel_sfs",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 10367,
+   "modelName": "roadbit38_SFS",
+   "txdName": "sfsroads",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 10368,
+   "modelName": "cathedral_SFS",
+   "txdName": "cathedral_sfs",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 10369,
+   "modelName": "smallshop_10_SFS08",
+   "txdName": "haight1_sfs",
+   "drawDistance": 90,
+   "flags": 128
+  },
+  {
+   "id": 10370,
+   "modelName": "alley1_SFS",
+   "txdName": "alleys_sfs",
+   "drawDistance": 100,
+   "flags": 1
+  },
+  {
+   "id": 10371,
+   "modelName": "alley1_SFS01",
+   "txdName": "alleys_sfs",
+   "drawDistance": 100,
+   "flags": 1
+  },
+  {
+   "id": 10372,
+   "modelName": "alley2_SFS01",
+   "txdName": "alleys_sfs",
+   "drawDistance": 100,
+   "flags": 1
+  },
+  {
+   "id": 10373,
+   "modelName": "alley2_SFS02",
+   "txdName": "alleys_sfs",
+   "drawDistance": 100,
+   "flags": 1
+  },
+  {
+   "id": 10374,
+   "modelName": "alley2_SFS04",
+   "txdName": "alleys_sfs",
+   "drawDistance": 100,
+   "flags": 1
+  },
+  {
+   "id": 10375,
+   "modelName": "subshop_SFS",
+   "txdName": "subshops_sfs",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 10376,
+   "modelName": "subshop2_SFS",
+   "txdName": "subshops_sfs",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 10377,
+   "modelName": "cityhall_SFS",
+   "txdName": "cityhall_sfs",
+   "drawDistance": 140,
+   "flags": 128
+  },
+  {
+   "id": 10378,
+   "modelName": "ctiyhallsquare_SFS",
+   "txdName": "cityhall_sfs",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 10379,
+   "modelName": "cityhall2_SFS",
+   "txdName": "cityhall_sfs",
+   "drawDistance": 110,
+   "flags": 128
+  },
+  {
+   "id": 10380,
+   "modelName": "cityhall2_SFS01",
+   "txdName": "cityhall_sfs",
+   "drawDistance": 110,
+   "flags": 128
+  },
+  {
+   "id": 10381,
+   "modelName": "artgallery_SFS",
+   "txdName": "cityhall_sfs",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 10382,
+   "modelName": "alleyfuckingway_SFS",
+   "txdName": "alleys_sfs",
+   "drawDistance": 100,
+   "flags": 1
+  },
+  {
+   "id": 10383,
+   "modelName": "subshops3_SFS",
+   "txdName": "subshops_sfs",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 10384,
+   "modelName": "cityhallsq_SFS",
+   "txdName": "groundbit_sfs",
+   "drawDistance": 200,
+   "flags": 0
+  },
+  {
+   "id": 10385,
+   "modelName": "bbgroundbit_SFS",
+   "txdName": "baseballground_sfs",
+   "drawDistance": 170,
+   "flags": 0
+  },
+  {
+   "id": 10386,
+   "modelName": "sfshill09",
+   "txdName": "mountainsfs",
+   "drawDistance": 200,
+   "flags": 0
+  },
+  {
+   "id": 10387,
+   "modelName": "cuntwland22_SFS",
+   "txdName": "beach_sfs",
+   "drawDistance": 160,
+   "flags": 0
+  },
+  {
+   "id": 10388,
+   "modelName": "tempobj_SFS02",
+   "txdName": "scum2_sfs",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 10389,
+   "modelName": "mission_07_SFS",
+   "txdName": "haight1_sfs",
+   "drawDistance": 110,
+   "flags": 0
+  },
+  {
+   "id": 10390,
+   "modelName": "mission_12_SFS",
+   "txdName": "haight1_sfs",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 10391,
+   "modelName": "mission_14_SFS",
+   "txdName": "haight1_sfs",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 10392,
+   "modelName": "smallshop_10_SFS07",
+   "txdName": "haight1_sfs",
+   "drawDistance": 90,
+   "flags": 128
+  },
+  {
+   "id": 10393,
+   "modelName": "scum_SFS01",
+   "txdName": "scum2_sfs",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 10394,
+   "modelName": "plot1_SFS",
+   "txdName": "scum2_sfs",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 10395,
+   "modelName": "mission_13_SFS",
+   "txdName": "scum2_sfs",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 10396,
+   "modelName": "hc_tenfence_SFS",
+   "txdName": "countryclbtnis_sfs",
+   "drawDistance": 120,
+   "flags": 128
+  },
+  {
+   "id": 10397,
+   "modelName": "hc_stadlight1_SFS",
+   "txdName": "countryclbtnis_sfs",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 10398,
+   "modelName": "healthclub_SFS",
+   "txdName": "countryclub_sfs",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 10399,
+   "modelName": "healthcl69_SFS",
+   "txdName": "countryclbgnd_sfs",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 10400,
+   "modelName": "hc_grounds02_SFS",
+   "txdName": "countryclbgnd_sfs",
+   "drawDistance": 90,
+   "flags": 0
+  },
+  {
+   "id": 10401,
+   "modelName": "hc_shed02_SFS",
+   "txdName": "countryclub_sfs",
+   "drawDistance": 90,
+   "flags": 128
+  },
+  {
+   "id": 10402,
+   "modelName": "hc_secfence_SFS",
+   "txdName": "countryclbgnd_sfs",
+   "drawDistance": 60,
+   "flags": 132
+  },
+  {
+   "id": 10403,
+   "modelName": "hc_track02_SFS",
+   "txdName": "golf_sfs",
+   "drawDistance": 160,
+   "flags": 0
+  },
+  {
+   "id": 10404,
+   "modelName": "hc_laybyland_SFS",
+   "txdName": "golf_sfs",
+   "drawDistance": 200,
+   "flags": 0
+  },
+  {
+   "id": 10405,
+   "modelName": "hc_golfcrse02_SFS",
+   "txdName": "golf_sfs",
+   "drawDistance": 160,
+   "flags": 0
+  },
+  {
+   "id": 10406,
+   "modelName": "hc_grounds04_SFS",
+   "txdName": "countryclbtnis_sfs",
+   "drawDistance": 130,
+   "flags": 0
+  },
+  {
+   "id": 10407,
+   "modelName": "hc_golfcrse03_SFS",
+   "txdName": "golf_sfs",
+   "drawDistance": 180,
+   "flags": 0
+  },
+  {
+   "id": 10408,
+   "modelName": "hc_golfcrse05_SFS",
+   "txdName": "golf_sfs",
+   "drawDistance": 160,
+   "flags": 0
+  },
+  {
+   "id": 10409,
+   "modelName": "hc_golfcrse09_SFS",
+   "txdName": "golf_sfs",
+   "drawDistance": 180,
+   "flags": 0
+  },
+  {
+   "id": 10410,
+   "modelName": "hc_golfcrse10_SFS",
+   "txdName": "golf_sfs",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 10411,
+   "modelName": "shiteybit_SFS",
+   "txdName": "golf_sfs",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 10412,
+   "modelName": "poshotel1_SFS",
+   "txdName": "hotel1",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 10413,
+   "modelName": "groundbit_09_SFS",
+   "txdName": "beach_sfs",
+   "drawDistance": 160,
+   "flags": 0
+  },
+  {
+   "id": 10414,
+   "modelName": "OC_FLATS_GND03_SFS",
+   "txdName": "oc_flats_gnd_sfs",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 10415,
+   "modelName": "OC_FLATS_GND17_SFS",
+   "txdName": "oc_flats_gnd_sfs",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 10416,
+   "modelName": "OC_FLATS_GND16_SFS",
+   "txdName": "oc_flats_gnd_sfs",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 10417,
+   "modelName": "OC_FLATS_GND06_SFS",
+   "txdName": "oc_flats_gnd_sfs",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 10418,
+   "modelName": "sfshill13",
+   "txdName": "mountainsfs",
+   "drawDistance": 250,
+   "flags": 0
+  },
+  {
+   "id": 10419,
+   "modelName": "OC_FLATS_GND07_SFS",
+   "txdName": "oc_flats_gnd_sfs",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 10420,
+   "modelName": "OC_FLATS_GND08_SFS",
+   "txdName": "oc_flats_gnd_sfs",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 10421,
+   "modelName": "OC_FLATS_GND09_SFS",
+   "txdName": "oc_flats_gnd_sfs",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 10422,
+   "modelName": "OC_FLATS_GND19_SFS",
+   "txdName": "oc_flats_gnd_sfs",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 10423,
+   "modelName": "mission_15_SFS",
+   "txdName": "haight1_sfs",
+   "drawDistance": 90,
+   "flags": 128
+  },
+  {
+   "id": 10424,
+   "modelName": "ROADSsfs01",
+   "txdName": "sfsroads",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 10425,
+   "modelName": "temphotel1_sfs",
+   "txdName": "hotel2_sfs",
+   "drawDistance": 150,
+   "flags": 132
+  },
+  {
+   "id": 10426,
+   "modelName": "backroad_SFS",
+   "txdName": "backroad_sfs",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 10427,
+   "modelName": "haight_52_SFS",
+   "txdName": "hashhouses1_sfs",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 10428,
+   "modelName": "hashblock1_02_SFS",
+   "txdName": "hashblock1b_sfs",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 10429,
+   "modelName": "hashblock1_10_SFS",
+   "txdName": "hashblock1_sfs",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 10430,
+   "modelName": "hashblock1_08_SFS",
+   "txdName": "hashblock1z_sfs",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 10431,
+   "modelName": "hashbury_03_SFS",
+   "txdName": "hashblock2_sfs",
+   "drawDistance": 120,
+   "flags": 128
+  },
+  {
+   "id": 10432,
+   "modelName": "haight_17_SFS",
+   "txdName": "hashhouses1_sfs",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 10433,
+   "modelName": "hashbury_04_SFS",
+   "txdName": "hashmarket1_sfs",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 10434,
+   "modelName": "hashbury_05_SFS",
+   "txdName": "hashblock2b_sfs",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 10435,
+   "modelName": "shoppie6_SFS04",
+   "txdName": "hashblock4_sfs",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 10436,
+   "modelName": "hashblock1_09_SFS",
+   "txdName": "hashblock1_sfs",
+   "drawDistance": 80,
+   "flags": 0
+  },
+  {
+   "id": 10437,
+   "modelName": "hashfence_09_SFS",
+   "txdName": "hashblock1_sfs",
+   "drawDistance": 70,
+   "flags": 132
+  },
+  {
+   "id": 10438,
+   "modelName": "hashbury_07_SFS",
+   "txdName": "hashblock2_sfs",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 10439,
+   "modelName": "hashbury_08_SFS",
+   "txdName": "hashblock3_sfs",
+   "drawDistance": 80,
+   "flags": 128
+  },
+  {
+   "id": 10440,
+   "modelName": "ROADSsfs09",
+   "txdName": "sfsroads",
+   "drawDistance": 100,
+   "flags": 1
+  },
+  {
+   "id": 10441,
+   "modelName": "hashbury_10_SFS",
+   "txdName": "hashblock3_sfs",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 10442,
+   "modelName": "graveyardwall_SFS",
+   "txdName": "graveyard_sfs",
+   "drawDistance": 110,
+   "flags": 132
+  },
+  {
+   "id": 10443,
+   "modelName": "graveyard_SFS",
+   "txdName": "graveyard_sfs",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 10444,
+   "modelName": "poolwater_SFS",
+   "txdName": "hotelbackpool_sfs",
+   "drawDistance": 50,
+   "flags": 132
+  },
+  {
+   "id": 10445,
+   "modelName": "hotelback2",
+   "txdName": "hotelbackpool_sfs",
+   "drawDistance": 70,
+   "flags": 132
+  },
+  {
+   "id": 10446,
+   "modelName": "hotelback1",
+   "txdName": "hotelbackpool_sfs",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 10447,
+   "modelName": "hashupass_SFS",
+   "txdName": "hashupass_sfs",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 10448,
+   "modelName": "lastbit_08_SFS",
+   "txdName": "sfsroads",
+   "drawDistance": 100,
+   "flags": 1
+  },
+  {
+   "id": 10449,
+   "modelName": "ROADSsfs17",
+   "txdName": "sfsroads",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 10450,
+   "modelName": "ROADSsfs16",
+   "txdName": "sfsroads",
+   "drawDistance": 100,
+   "flags": 1
+  },
+  {
+   "id": 10451,
+   "modelName": "sfshill12",
+   "txdName": "mountainsfs",
+   "drawDistance": 250,
+   "flags": 0
+  },
+  {
+   "id": 10452,
+   "modelName": "ROADSsfs39",
+   "txdName": "sfsroadshotel",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 10453,
+   "modelName": "sfshill14",
+   "txdName": "mountainsfs",
+   "drawDistance": 250,
+   "flags": 0
+  },
+  {
+   "id": 10454,
+   "modelName": "sfshill15",
+   "txdName": "mountainsfs",
+   "drawDistance": 250,
+   "flags": 0
+  },
+  {
+   "id": 10455,
+   "modelName": "ROADSsfs19",
+   "txdName": "sfsroads",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 10456,
+   "modelName": "ROADSsfs02",
+   "txdName": "sfsroads",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 10457,
+   "modelName": "ROADSsfs03",
+   "txdName": "sfsroads",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 10458,
+   "modelName": "ROADSsfs04",
+   "txdName": "sfsroads",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 10459,
+   "modelName": "ROADSsfs05",
+   "txdName": "sfsroads",
+   "drawDistance": 120,
+   "flags": 1
+  },
+  {
+   "id": 10460,
+   "modelName": "ROADSsfs06",
+   "txdName": "sfsroads",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 10461,
+   "modelName": "ROADSsfs07",
+   "txdName": "sfsroads",
+   "drawDistance": 100,
+   "flags": 1
+  },
+  {
+   "id": 10462,
+   "modelName": "ROADSsfs08",
+   "txdName": "sfsroads",
+   "drawDistance": 100,
+   "flags": 1
+  },
+  {
+   "id": 10463,
+   "modelName": "ROADSsfs23",
+   "txdName": "sfsroads",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 10464,
+   "modelName": "ROADSsfs10",
+   "txdName": "sfsroads",
+   "drawDistance": 100,
+   "flags": 1
+  },
+  {
+   "id": 10465,
+   "modelName": "ROADSsfs11",
+   "txdName": "sfsroads",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 10466,
+   "modelName": "ROADSsfs12",
+   "txdName": "sfsroads",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 10467,
+   "modelName": "ROADSsfs13",
+   "txdName": "sfsroads",
+   "drawDistance": 100,
+   "flags": 1
+  },
+  {
+   "id": 10468,
+   "modelName": "ROADSsfs14",
+   "txdName": "sfsroads",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 10469,
+   "modelName": "ROADSsfs15",
+   "txdName": "sfsroads",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 10470,
+   "modelName": "ROADSsfs38",
+   "txdName": "sfsroads",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 10471,
+   "modelName": "ROADSsfs27",
+   "txdName": "sfsroads",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 10472,
+   "modelName": "ROADSsfs18",
+   "txdName": "sfsroads",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 10473,
+   "modelName": "ROADSsfs28",
+   "txdName": "sfsroads",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 10474,
+   "modelName": "ROADSsfs20",
+   "txdName": "sfsroads",
+   "drawDistance": 100,
+   "flags": 1
+  },
+  {
+   "id": 10475,
+   "modelName": "ROADSsfs21",
+   "txdName": "sfsroads",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 10476,
+   "modelName": "ROADSsfs22",
+   "txdName": "sfsroads",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 10477,
+   "modelName": "ROADSsfs30",
+   "txdName": "sfsroads",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 10478,
+   "modelName": "ROADSsfs24",
+   "txdName": "sfsroads",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 10479,
+   "modelName": "ROADSsfs25",
+   "txdName": "sfsroads",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 10480,
+   "modelName": "ROADSsfs26",
+   "txdName": "sfsroads",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 10481,
+   "modelName": "ROADSsfs33",
+   "txdName": "sfsroads",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 10482,
+   "modelName": "ROADSsfs29",
+   "txdName": "sfsroads",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 10483,
+   "modelName": "ROADSsfs36",
+   "txdName": "sfsroads",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 10484,
+   "modelName": "ROADSsfs32",
+   "txdName": "sfsroads",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 10485,
+   "modelName": "ROADSsfs35",
+   "txdName": "sfsroads",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 10486,
+   "modelName": "ROADSsfs34",
+   "txdName": "sfsroads",
+   "drawDistance": 100,
+   "flags": 1
+  },
+  {
+   "id": 10487,
+   "modelName": "parktunnel_SFS",
+   "txdName": "parktunnel_sfs",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 10488,
+   "modelName": "sfshill08",
+   "txdName": "sv_ground_sfs",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 10489,
+   "modelName": "cuntwland18_SFS",
+   "txdName": "freeway2_sfs",
+   "drawDistance": 220,
+   "flags": 1
+  },
+  {
+   "id": 10490,
+   "modelName": "sfshill01",
+   "txdName": "roads_sfs",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 10491,
+   "modelName": "sfshill11_SFS",
+   "txdName": "mountainsfs",
+   "drawDistance": 250,
+   "flags": 0
+  },
+  {
+   "id": 10492,
+   "modelName": "sfshill10",
+   "txdName": "mountainsfs",
+   "drawDistance": 250,
+   "flags": 0
+  },
+  {
+   "id": 10493,
+   "modelName": "SV_ground_04_SFS",
+   "txdName": "sv_ground_sfs",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 10494,
+   "modelName": "LODlthcl69_SFS",
+   "txdName": "lod_sfs6",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10495,
+   "modelName": "LODgolfcrse09_SFS",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10496,
+   "modelName": "LODnsmitter_sfs01",
+   "txdName": "lod_sfs5",
+   "drawDistance": 1200,
+   "flags": 128
+  },
+  {
+   "id": 10497,
+   "modelName": "LODgrounds04_SFS",
+   "txdName": "lod_sfs6",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10498,
+   "modelName": "LODey1_SFS",
+   "txdName": "lod_sfs6",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10499,
+   "modelName": "LODey1_SFS01",
+   "txdName": "lod_sfs6",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10500,
+   "modelName": "LODey2_SFS01",
+   "txdName": "lod_sfs6",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10501,
+   "modelName": "LODey2_SFS02",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10502,
+   "modelName": "LODgrounds02_SFS",
+   "txdName": "lod_sfs6",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10503,
+   "modelName": "LODey2_SFS04",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10504,
+   "modelName": "LODeyfuckingway_SFS",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10505,
+   "modelName": "LOD_sfs038",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10506,
+   "modelName": "LOD_sfs039",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10507,
+   "modelName": "LOD_sfs041",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10508,
+   "modelName": "LOD_sfs042",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10509,
+   "modelName": "LOD_sfs043",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10510,
+   "modelName": "LOD_sfs044",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10511,
+   "modelName": "LOD_sfs045",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10512,
+   "modelName": "LOD_sfs046",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10513,
+   "modelName": "LOD_sfs050",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10514,
+   "modelName": "LOD_sfs051",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10515,
+   "modelName": "LOD_sfs052",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10516,
+   "modelName": "LOD_sfs053",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10517,
+   "modelName": "LOD_sfs054",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10518,
+   "modelName": "LOD_sfs055",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10519,
+   "modelName": "LOD_sfs056",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10520,
+   "modelName": "LOD_sfs059",
+   "txdName": "lod_sfs2",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10521,
+   "modelName": "LOD_sfs060",
+   "txdName": "lod_sfs2",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10522,
+   "modelName": "LOD_sfs061",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10523,
+   "modelName": "LOD_sfs062",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10524,
+   "modelName": "LOD_sfs063",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10525,
+   "modelName": "LOD_sfs064",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10526,
+   "modelName": "LOD_sfs57b",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10527,
+   "modelName": "LODROADSsfs07",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10528,
+   "modelName": "LODROADSsfs17",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10529,
+   "modelName": "LODROADSsfs18",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10530,
+   "modelName": "LODROADSsfs30",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10531,
+   "modelName": "LODROADSsfs09",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10532,
+   "modelName": "LODROADSsfs28",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10533,
+   "modelName": "LODROADSsfs35",
+   "txdName": "lod_sfs2",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10534,
+   "modelName": "LODROADSsfs02",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10535,
+   "modelName": "LODROADSsfs03",
+   "txdName": "lod_sfs6",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10536,
+   "modelName": "LODROADSsfs11",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10537,
+   "modelName": "LODROADSsfs20",
+   "txdName": "lod_sfs2",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10538,
+   "modelName": "LODROADSsfs23",
+   "txdName": "lod_sfs2",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10539,
+   "modelName": "LODROADSsfs15",
+   "txdName": "lod_sfs1",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10540,
+   "modelName": "LODROADSsfs37",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10541,
+   "modelName": "LODROADSsfs16",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10542,
+   "modelName": "LODROADSsfs38",
+   "txdName": "lod_sfs2",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10543,
+   "modelName": "LODROADSsfs34",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10544,
+   "modelName": "LODROADSsfs26",
+   "txdName": "lod_sfs2",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10545,
+   "modelName": "LODROADSsfs22",
+   "txdName": "lod_sfs2",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10546,
+   "modelName": "LODROADSsfs06",
+   "txdName": "lod_sfs2",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10547,
+   "modelName": "LODcityhallsquare",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10548,
+   "modelName": "LODPlane01",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10549,
+   "modelName": "LODROADSsfs40",
+   "txdName": "lod_sfs2",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10550,
+   "modelName": "LODhotelback03_SFS",
+   "txdName": "lod_sfs2",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10551,
+   "modelName": "LODROADSsfs40b",
+   "txdName": "lod_sfs2",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10552,
+   "modelName": "LODmission_13_SFS01",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10553,
+   "modelName": "LODplot1_SFS01",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10554,
+   "modelName": "LODshiteybit_SFS01",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10555,
+   "modelName": "LODha_07_SFS01",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10556,
+   "modelName": "LODlane03acmSFS",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10557,
+   "modelName": "LODmemorial",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10558,
+   "modelName": "tbnSFS",
+   "txdName": "subshops_sfs",
+   "drawDistance": 100,
+   "flags": 2176
+  },
+  {
+   "id": 10559,
+   "modelName": "sfshill11beach",
+   "txdName": "beach_sfs",
+   "drawDistance": 160,
+   "flags": 0
+  },
+  {
+   "id": 10560,
+   "modelName": "bbgroundbitb_SFS",
+   "txdName": "baseballground_sfs",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 10561,
+   "modelName": "bbgroundbitc_SFS",
+   "txdName": "baseballground_sfs",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 10562,
+   "modelName": "bbgroundbitd_SFS",
+   "txdName": "baseballground_sfs",
+   "drawDistance": 180,
+   "flags": 0
+  },
+  {
+   "id": 10563,
+   "modelName": "OC_FLATS_GND18_SFS",
+   "txdName": "oc_flats_gnd_sfs",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 10564,
+   "modelName": "OC_FLATS_GND11_SFS",
+   "txdName": "oc_flats_gnd_sfs",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 10565,
+   "modelName": "OC_FLATS_GND12_SFS",
+   "txdName": "oc_flats_gnd_sfs",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 10566,
+   "modelName": "OC_FLATS_GND13_SFS",
+   "txdName": "oc_flats_gnd_sfs",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 10567,
+   "modelName": "OC_FLATS_GND14_SFS",
+   "txdName": "oc_flats_gnd_sfs",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 10568,
+   "modelName": "OC_FLATS_GND15_SFS",
+   "txdName": "oc_flats_gnd_sfs",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 10569,
+   "modelName": "OC_FLATS_GND10_SFS",
+   "txdName": "oc_flats_gnd_sfs",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 10570,
+   "modelName": "OC_FLATS_GND05_SFS",
+   "txdName": "oc_flats_gnd_sfs",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 10571,
+   "modelName": "OC_FLATS_GND04_SFS",
+   "txdName": "oc_flats_gnd_sfs",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 10572,
+   "modelName": "golftunnel3_SFS",
+   "txdName": "golftunnel_sfs",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 10573,
+   "modelName": "golftunnel2_SFS",
+   "txdName": "golftunnel_sfs",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 10574,
+   "modelName": "golftunnel4_SFS",
+   "txdName": "golftunnel_sfs",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 10575,
+   "modelName": "modshopdoor1_SFS",
+   "txdName": "subshops_sfs",
+   "drawDistance": 100,
+   "flags": 2176
+  },
+  {
+   "id": 10576,
+   "modelName": "modshopint1_SFS",
+   "txdName": "modshopintbits_sfs",
+   "drawDistance": 20,
+   "flags": 128
+  },
+  {
+   "id": 10577,
+   "modelName": "LODlaybyland_SFS",
+   "txdName": "lod_sfs5",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 10578,
+   "modelName": "LODFLATSGND16_SFS",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10579,
+   "modelName": "LODFLATSGND02_SFS",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10580,
+   "modelName": "LODFLATSGND14_SFS",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10581,
+   "modelName": "LODFLATSGND04_SFS",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10582,
+   "modelName": "LODFLATSGND05_SFS",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10583,
+   "modelName": "LODFLATSGND06_SFS",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10584,
+   "modelName": "LODFLATSGND07_SFS",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10585,
+   "modelName": "LODFLATSGND08_SFS",
+   "txdName": "lod_sfs6",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10586,
+   "modelName": "LODFLATSGND09_SFS",
+   "txdName": "lod_sfs6",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10587,
+   "modelName": "LODFLATSGND01_SFS",
+   "txdName": "lod_sfs6",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10588,
+   "modelName": "LODFLATSGND03_SFS",
+   "txdName": "lod_sfs6",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10589,
+   "modelName": "LODFLATSGND11_SFS",
+   "txdName": "lod_sfs6",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10590,
+   "modelName": "LODFLATSGND15_SFS",
+   "txdName": "lod_sfs6",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10591,
+   "modelName": "LODFLATSGND13_SFS",
+   "txdName": "lod_sfs6",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10592,
+   "modelName": "LODFLATSGND10_SFS",
+   "txdName": "lod_sfs6",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10593,
+   "modelName": "LODFLATSGND12_SFS",
+   "txdName": "lod_sfs6",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10594,
+   "modelName": "LODFLATSGND17_SFS",
+   "txdName": "lod_sfs6",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10595,
+   "modelName": "LODFLATSGND18_SFS",
+   "txdName": "lod_sfs6",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10596,
+   "modelName": "LODFLATSGND19_SFS",
+   "txdName": "lod_sfs6",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10597,
+   "modelName": "LODROADSsfs31b",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10598,
+   "modelName": "LODbbgndbitd_SFS",
+   "txdName": "lod_sfs2",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10599,
+   "modelName": "LODgroundbit_48_SFS",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10600,
+   "modelName": "LODmission_07_SFS",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10601,
+   "modelName": "sfshill10b",
+   "txdName": "mountainsfs",
+   "drawDistance": 250,
+   "flags": 0
+  },
+  {
+   "id": 10602,
+   "modelName": "lodtwland18x_SFS",
+   "txdName": "lod_sfs6",
+   "drawDistance": 1200,
+   "flags": 128
+  },
+  {
+   "id": 10603,
+   "modelName": "LODgolftunnel4_SFS",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10604,
+   "modelName": "LODRd38b2",
+   "txdName": "lod_sfs2",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10605,
+   "modelName": "LODbuildsfs38b",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10606,
+   "modelName": "cluckbell_SFS",
+   "txdName": "cluckbell_sfs",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 10607,
+   "modelName": "lodckbell_SFS",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10608,
+   "modelName": "lastbit_GND01_SFS",
+   "txdName": "oc_flats_gnd_sfs",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 10609,
+   "modelName": "lastbit_GND02_SFS",
+   "txdName": "oc_flats_gnd_sfs",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 10610,
+   "modelName": "fedmint_SFS",
+   "txdName": "fedmint_sfs",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 10611,
+   "modelName": "fedmintfence_SFS",
+   "txdName": "fedmint_sfs",
+   "drawDistance": 100,
+   "flags": 132
+  },
+  {
+   "id": 10612,
+   "modelName": "fedmintland_SFS",
+   "txdName": "fedmint_sfs",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 10613,
+   "modelName": "lastbit_07_SFS",
+   "txdName": "queensparks_sfs",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 10614,
+   "modelName": "lastbit_06_SFS",
+   "txdName": "sfsroads",
+   "drawDistance": 100,
+   "flags": 1
+  },
+  {
+   "id": 10615,
+   "modelName": "lastbit_04_SFS",
+   "txdName": "hotelback_sfs",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 10616,
+   "modelName": "lastbit_03_SFS",
+   "txdName": "hotelback_sfs",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 10617,
+   "modelName": "lastbit_01_SFS",
+   "txdName": "sfsroads",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 10618,
+   "modelName": "lastbit_02_SFS",
+   "txdName": "queensparks_sfs",
+   "drawDistance": 90,
+   "flags": 0
+  },
+  {
+   "id": 10619,
+   "modelName": "officymirrord_SFS",
+   "txdName": "officy_sfs",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 10620,
+   "modelName": "LODicymirrord_SFS",
+   "txdName": "lod_sfs2",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10621,
+   "modelName": "pinkcarpark_SFS",
+   "txdName": "pinkcarpark_sfs",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 10622,
+   "modelName": "pinkcarparkrd1_SFS",
+   "txdName": "pinkcarpark_sfs",
+   "drawDistance": 100,
+   "flags": 1
+  },
+  {
+   "id": 10623,
+   "modelName": "pinkcarparkrd2_SFS",
+   "txdName": "sfsroads",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 10624,
+   "modelName": "lowqueens1_SFS",
+   "txdName": "queens3_sfs",
+   "drawDistance": 80,
+   "flags": 128
+  },
+  {
+   "id": 10625,
+   "modelName": "lowqueens2_SFS",
+   "txdName": "queens3_sfs",
+   "drawDistance": 80,
+   "flags": 128
+  },
+  {
+   "id": 10626,
+   "modelName": "queens_09_SFS",
+   "txdName": "queens2_sfs",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 10627,
+   "modelName": "queens_02_SFS",
+   "txdName": "queens2_sfs",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 10628,
+   "modelName": "queens_03_SFS",
+   "txdName": "queens1_sfs",
+   "drawDistance": 80,
+   "flags": 128
+  },
+  {
+   "id": 10629,
+   "modelName": "queens_04_SFS",
+   "txdName": "gardencentre_sfs",
+   "drawDistance": 90,
+   "flags": 0
+  },
+  {
+   "id": 10630,
+   "modelName": "queens_10_SFS",
+   "txdName": "queens1_sfs",
+   "drawDistance": 80,
+   "flags": 128
+  },
+  {
+   "id": 10631,
+   "modelName": "ammunation_SFS",
+   "txdName": "queensammo_sfs",
+   "drawDistance": 90,
+   "flags": 128
+  },
+  {
+   "id": 10632,
+   "modelName": "ammuwindows_SFS",
+   "txdName": "queensammo_sfs",
+   "drawDistance": 50,
+   "flags": 132
+  },
+  {
+   "id": 10633,
+   "modelName": "queens_01_SFS",
+   "txdName": "queens2_sfs",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 10634,
+   "modelName": "queens_06_SFS",
+   "txdName": "queens2_sfs",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 10635,
+   "modelName": "queens_07_SFS",
+   "txdName": "queensparks_sfs",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 10636,
+   "modelName": "queens_05_SFS",
+   "txdName": "sfsroads",
+   "drawDistance": 100,
+   "flags": 1
+  },
+  {
+   "id": 10637,
+   "modelName": "queens_08_SFS",
+   "txdName": "queensparks_sfs",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 10638,
+   "modelName": "cityhallsq2_SFS",
+   "txdName": "groundbit_sfs",
+   "drawDistance": 200,
+   "flags": 0
+  },
+  {
+   "id": 10639,
+   "modelName": "lastbit_06b_SFS",
+   "txdName": "sfsroads",
+   "drawDistance": 100,
+   "flags": 1
+  },
+  {
+   "id": 10640,
+   "modelName": "lodPlane01b",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10641,
+   "modelName": "LODtbit_06_SFS",
+   "txdName": "lod_sfs2",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10642,
+   "modelName": "LODtbit_06b_SFS",
+   "txdName": "lod_sfs2",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10643,
+   "modelName": "LODkcarparkrd1_SFS",
+   "txdName": "lod_sfs2",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10644,
+   "modelName": "LODkcarparkrd2_SFS",
+   "txdName": "lod_sfs2",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10645,
+   "modelName": "LODtbit_08_SFS",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10646,
+   "modelName": "LODens_05_SFS",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10647,
+   "modelName": "LODtbit_01_SFS",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10648,
+   "modelName": "LODtbit_01b_SFS",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10649,
+   "modelName": "lastbit_01b_SFS",
+   "txdName": "sfsroads",
+   "drawDistance": 90,
+   "flags": 1
+  },
+  {
+   "id": 10650,
+   "modelName": "LODkcarparkrd1b_SFS",
+   "txdName": "lod_sfs2",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10651,
+   "modelName": "pinkcarparkrd1b_SFS",
+   "txdName": "hotelback_sfs",
+   "drawDistance": 100,
+   "flags": 1
+  },
+  {
+   "id": 10652,
+   "modelName": "LODtbit_07_SFS",
+   "txdName": "lod_sfs2",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10653,
+   "modelName": "LODens_08_SFS",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10654,
+   "modelName": "LODens_07_SFS",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10655,
+   "modelName": "LODtbit_GND02_SFS",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10656,
+   "modelName": "LODtbit_02_SFS",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10657,
+   "modelName": "LODtbit_GND01_SFS",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10658,
+   "modelName": "LODens_03_SFS",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10659,
+   "modelName": "LODunation_SFS",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10660,
+   "modelName": "LODqueens2_SFS",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10661,
+   "modelName": "LODqueens1_SFS",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10662,
+   "modelName": "LODmintfence_SFS",
+   "txdName": "lod_sfs2",
+   "drawDistance": 600,
+   "flags": 132
+  },
+  {
+   "id": 10663,
+   "modelName": "LODmintland_SFS",
+   "txdName": "lod_sfs2",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10664,
+   "modelName": "LODkcarpark_SFS",
+   "txdName": "lod_sfs2",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10665,
+   "modelName": "LODmint_SFS",
+   "txdName": "lod_sfs2",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10666,
+   "modelName": "LODens_09_SFS",
+   "txdName": "lod_sfs2",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10667,
+   "modelName": "LODens_02_SFS",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10668,
+   "modelName": "LODens_01_SFS",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10669,
+   "modelName": "LODens_06_SFS",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10670,
+   "modelName": "LODens_10_SFS",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10671,
+   "modelName": "savehousegdoor_SFS",
+   "txdName": "hashblock2_sfs",
+   "drawDistance": 70,
+   "flags": 2048
+  },
+  {
+   "id": 10672,
+   "modelName": "fescape_sfs01",
+   "txdName": "fescap_sfs",
+   "drawDistance": 100,
+   "flags": 4
+  },
+  {
+   "id": 10673,
+   "modelName": "LODens_04_SFS",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10674,
+   "modelName": "lodtbit_04_SFS",
+   "txdName": "lod_sfs2",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10675,
+   "modelName": "elecstionv_SFS",
+   "txdName": "transformer_sfs",
+   "drawDistance": 200,
+   "flags": 132
+  },
+  {
+   "id": 10676,
+   "modelName": "transmitbldg_SFS",
+   "txdName": "tvtower_sfs",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 10677,
+   "modelName": "LODparktunnel_SFS",
+   "txdName": "lod_sfs2",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10678,
+   "modelName": "LODtbit_03_SFS",
+   "txdName": "lod_sfs2",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10679,
+   "modelName": "LODhbury_01_SFS",
+   "txdName": "lod_sfs2",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10680,
+   "modelName": "LODroundbitb_SFS",
+   "txdName": "lod_sfs2",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10681,
+   "modelName": "LODroundbitc_SFS",
+   "txdName": "lod_sfs2",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10682,
+   "modelName": "shitfence1_SFS",
+   "txdName": "oc_flats_gnd_sfs",
+   "drawDistance": 70,
+   "flags": 4
+  },
+  {
+   "id": 10683,
+   "modelName": "shitfence2_SFS",
+   "txdName": "oc_flats_gnd_sfs",
+   "drawDistance": 60,
+   "flags": 4
+  },
+  {
+   "id": 10684,
+   "modelName": "LODgolftunnel3_SFS",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10685,
+   "modelName": "LODgolftunnel2_SFS",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10686,
+   "modelName": "LODgolftunnel1_SFS",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10687,
+   "modelName": "LODgolfcrse02_SFS",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10688,
+   "modelName": "LODgolfcrse03_SFS",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10689,
+   "modelName": "LODgolfcrse05_SFS",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10690,
+   "modelName": "LODtrack02_SFS",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10691,
+   "modelName": "LODgolfcrse10_SFS",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10692,
+   "modelName": "LOD_sfshill02",
+   "txdName": "lod_sfs5",
+   "drawDistance": 1200,
+   "flags": 128
+  },
+  {
+   "id": 10693,
+   "modelName": "LODnsmitbldg_SFS",
+   "txdName": "lod_sfs5",
+   "drawDistance": 1200,
+   "flags": 128
+  },
+  {
+   "id": 10694,
+   "modelName": "sfshill11z_SFS",
+   "txdName": "mountainsfs",
+   "drawDistance": 250,
+   "flags": 0
+  },
+  {
+   "id": 10695,
+   "modelName": "wires_02_SFS",
+   "txdName": "wires_sfs",
+   "drawDistance": 170,
+   "flags": 132
+  },
+  {
+   "id": 10696,
+   "modelName": "wires_18_SFS",
+   "txdName": "wires_sfs",
+   "drawDistance": 170,
+   "flags": 132
+  },
+  {
+   "id": 10697,
+   "modelName": "wires_03_SFS",
+   "txdName": "wires_sfs",
+   "drawDistance": 170,
+   "flags": 132
+  },
+  {
+   "id": 10698,
+   "modelName": "wires_04_SFS",
+   "txdName": "wires_sfs",
+   "drawDistance": 170,
+   "flags": 132
+  },
+  {
+   "id": 10699,
+   "modelName": "wires_05_SFS",
+   "txdName": "wires_sfs",
+   "drawDistance": 170,
+   "flags": 132
+  },
+  {
+   "id": 10700,
+   "modelName": "wires_06_SFS",
+   "txdName": "wires_sfs",
+   "drawDistance": 120,
+   "flags": 132
+  },
+  {
+   "id": 10701,
+   "modelName": "wires_07_SFS",
+   "txdName": "wires_sfs",
+   "drawDistance": 120,
+   "flags": 132
+  },
+  {
+   "id": 10702,
+   "modelName": "wires_08_SFS",
+   "txdName": "wires_sfs",
+   "drawDistance": 170,
+   "flags": 132
+  },
+  {
+   "id": 10703,
+   "modelName": "wires_09_SFS",
+   "txdName": "wires_sfs",
+   "drawDistance": 170,
+   "flags": 132
+  },
+  {
+   "id": 10704,
+   "modelName": "wires_01_SFS",
+   "txdName": "wires_sfs",
+   "drawDistance": 170,
+   "flags": 132
+  },
+  {
+   "id": 10705,
+   "modelName": "wires_11_SFS",
+   "txdName": "wires_sfs",
+   "drawDistance": 170,
+   "flags": 132
+  },
+  {
+   "id": 10706,
+   "modelName": "wires_12_SFS",
+   "txdName": "wires_sfs",
+   "drawDistance": 170,
+   "flags": 132
+  },
+  {
+   "id": 10707,
+   "modelName": "wires_13_SFS",
+   "txdName": "wires_sfs",
+   "drawDistance": 170,
+   "flags": 132
+  },
+  {
+   "id": 10708,
+   "modelName": "wires_10_SFS",
+   "txdName": "wires_sfs",
+   "drawDistance": 170,
+   "flags": 132
+  },
+  {
+   "id": 10709,
+   "modelName": "wires_14_SFS",
+   "txdName": "wires_sfs",
+   "drawDistance": 170,
+   "flags": 132
+  },
+  {
+   "id": 10710,
+   "modelName": "wires_15_SFS",
+   "txdName": "wires_sfs",
+   "drawDistance": 170,
+   "flags": 132
+  },
+  {
+   "id": 10711,
+   "modelName": "wires_16_SFS",
+   "txdName": "wires_sfs",
+   "drawDistance": 170,
+   "flags": 132
+  },
+  {
+   "id": 10712,
+   "modelName": "wires_17_SFS",
+   "txdName": "wires_sfs",
+   "drawDistance": 170,
+   "flags": 132
+  },
+  {
+   "id": 10713,
+   "modelName": "gayclub_SFS",
+   "txdName": "gayclub_sfs",
+   "drawDistance": 90,
+   "flags": 0
+  },
+  {
+   "id": 10714,
+   "modelName": "LODgayclub_SFS",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10715,
+   "modelName": "LODgroundbit_11SFS",
+   "txdName": "lod_sfs1",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10716,
+   "modelName": "cath_hedge_SFS",
+   "txdName": "cathedral_sfs",
+   "drawDistance": 150,
+   "flags": 4
+  },
+  {
+   "id": 10717,
+   "modelName": "LOD_sfs060b",
+   "txdName": "lod_sfs2",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10718,
+   "modelName": "poshotel1b_SFS",
+   "txdName": "hotel1",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 10719,
+   "modelName": "LODundbit_10_SFS",
+   "txdName": "lod_sfs1",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10720,
+   "modelName": "LOD_sfs071",
+   "txdName": "lod_sfs3",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10721,
+   "modelName": "LODbbgndbit_SFS01",
+   "txdName": "lod_sfs2",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10722,
+   "modelName": "shoppie6_SFS03",
+   "txdName": "haight1_sfs",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 10723,
+   "modelName": "LODBS_building_SFS",
+   "txdName": "lod_sfs4",
+   "drawDistance": 600,
+   "flags": 128
+  },
+  {
+   "id": 10724,
+   "modelName": "LODsfshill11beach",
+   "txdName": "lod_sfs1",
+   "drawDistance": 1200,
+   "flags": 128
+  },
+  {
+   "id": 10725,
+   "modelName": "lod_sfshill11_SFS",
+   "txdName": "lod_mount_sfs",
+   "drawDistance": 1200,
+   "flags": 128
+  },
+  {
+   "id": 10726,
+   "modelName": "lod_sfshill12",
+   "txdName": "lod_mount_sfs",
+   "drawDistance": 1200,
+   "flags": 128
+  },
+  {
+   "id": 10727,
+   "modelName": "lod_sfshill13",
+   "txdName": "lod_mount_sfs",
+   "drawDistance": 1200,
+   "flags": 128
+  },
+  {
+   "id": 10728,
+   "modelName": "lod_sfshill11z_SFS",
+   "txdName": "lod_mount_sfs",
+   "drawDistance": 1200,
+   "flags": 128
+  },
+  {
+   "id": 10729,
+   "modelName": "lod_sfshill10",
+   "txdName": "lod_mount_sfs",
+   "drawDistance": 1200,
+   "flags": 128
+  },
+  {
+   "id": 10730,
+   "modelName": "lod_sfshill10b",
+   "txdName": "lod_mount_sfs",
+   "drawDistance": 1200,
+   "flags": 128
+  },
+  {
+   "id": 10731,
+   "modelName": "lod_sfshill09",
+   "txdName": "lod_mount_sfs",
+   "drawDistance": 1200,
+   "flags": 0
+  },
+  {
+   "id": 10732,
+   "modelName": "lod_sfshill15",
+   "txdName": "lod_mount_sfs",
+   "drawDistance": 1200,
+   "flags": 128
+  },
+  {
+   "id": 10733,
+   "modelName": "lod_sfshill14",
+   "txdName": "lod_mount_sfs",
+   "drawDistance": 1200,
+   "flags": 128
+  },
+  {
+   "id": 10734,
+   "modelName": "wires_07b_SFS",
+   "txdName": "wires_sfs",
+   "drawDistance": 120,
+   "flags": 132
+  },
+  {
+   "id": 10735,
+   "modelName": "wires_07c_SFS",
+   "txdName": "wires_sfs",
+   "drawDistance": 120,
+   "flags": 132
+  },
+  {
+   "id": 10736,
+   "modelName": "wires_07d_SFS",
+   "txdName": "wires_sfs",
+   "drawDistance": 120,
+   "flags": 132
+  },
+  {
+   "id": 10737,
+   "modelName": "wires_04b_SFS",
+   "txdName": "wires_sfs",
+   "drawDistance": 170,
+   "flags": 132
+  },
+  {
+   "id": 10738,
+   "modelName": "wires_04c_SFS",
+   "txdName": "wires_sfs",
+   "drawDistance": 170,
+   "flags": 132
+  },
+  {
+   "id": 10739,
+   "modelName": "wires_04d_SFS",
+   "txdName": "wires_sfs",
+   "drawDistance": 170,
+   "flags": 132
+  },
+  {
+   "id": 10740,
+   "modelName": "wires_03b_SFS",
+   "txdName": "wires_sfs",
+   "drawDistance": 170,
+   "flags": 132
+  },
+  {
+   "id": 10741,
+   "modelName": "wires_15b_SFS",
+   "txdName": "wires_sfs",
+   "drawDistance": 170,
+   "flags": 132
+  },
+  {
+   "id": 10742,
+   "modelName": "wires_01b_SFS",
+   "txdName": "wires_sfs",
+   "drawDistance": 170,
+   "flags": 132
+  },
+  {
+   "id": 10743,
+   "modelName": "wires_01c_SFS",
+   "txdName": "wires_sfs",
+   "drawDistance": 170,
+   "flags": 132
+  }
+ ],
+ "tobj": [],
+ "path": [],
+ "2dfx": [],
+ "anim": [
+  {
+   "id": 10744,
+   "modelName": "BS_building_SFS",
+   "txdName": "bs_sfs",
+   "animName": "SFs",
+   "drawDistance": 130,
+   "flags": 128
+  }
+ ],
+ "txdp": []
+}

@@ -1,0 +1,2069 @@
+{
+ "objs": [
+  {
+   "id": 5390,
+   "modelName": "laeskateparkLA",
+   "txdName": "glenpark7_lae",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 5391,
+   "modelName": "laeroad01",
+   "txdName": "laeroads2s",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 5392,
+   "modelName": "laestripmall1",
+   "txdName": "eastshops1_lae",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 5393,
+   "modelName": "laeshop1",
+   "txdName": "eastshops1_lae",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 5394,
+   "modelName": "xstpdnam_LAE",
+   "txdName": "railtracklae",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 5395,
+   "modelName": "laecomptonbrij3",
+   "txdName": "laeroads",
+   "drawDistance": 150,
+   "flags": 2097280
+  },
+  {
+   "id": 5396,
+   "modelName": "laeRailBrijBlok",
+   "txdName": "laeroads",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 5397,
+   "modelName": "laeclubBlock1",
+   "txdName": "barrio1_lae",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 5398,
+   "modelName": "laetraintunn02",
+   "txdName": "railtracklae",
+   "drawDistance": 80,
+   "flags": 0
+  },
+  {
+   "id": 5399,
+   "modelName": "laetraintunn01",
+   "txdName": "railtracklae",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 5400,
+   "modelName": "laeskatetube1",
+   "txdName": "glenpark7_lae",
+   "drawDistance": 140,
+   "flags": 128
+  },
+  {
+   "id": 5401,
+   "modelName": "laegarages1nw",
+   "txdName": "jeffers4_lae",
+   "drawDistance": 80,
+   "flags": 128
+  },
+  {
+   "id": 5402,
+   "modelName": "laehospground1",
+   "txdName": "hospital_lae",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 5403,
+   "modelName": "laehospital1",
+   "txdName": "hospital_lae",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 5404,
+   "modelName": "laestormdrain01",
+   "txdName": "stormdra1_lae",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 5405,
+   "modelName": "laeBlakWesTran2",
+   "txdName": "laealpha",
+   "drawDistance": 130,
+   "flags": 2097284
+  },
+  {
+   "id": 5406,
+   "modelName": "laecrackmotel4",
+   "txdName": "jeffers5a_lae",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 5407,
+   "modelName": "laelasruff201",
+   "txdName": "glenpark1x_lae",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 5408,
+   "modelName": "laeexaminerbuild1",
+   "txdName": "tempstuff_lae",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 5409,
+   "modelName": "laepetrol1a",
+   "txdName": "barrio1_lae",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 5410,
+   "modelName": "laecumpstreet",
+   "txdName": "glenpark1x_lae",
+   "drawDistance": 110,
+   "flags": 128
+  },
+  {
+   "id": 5411,
+   "modelName": "laeroadsblk",
+   "txdName": "idlewood6_detail",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 5412,
+   "modelName": "laelasjmscubit",
+   "txdName": "glenpark1x_lae",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 5413,
+   "modelName": "laecrackmotel1",
+   "txdName": "motel_lae",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 5414,
+   "modelName": "laeJeffers02",
+   "txdName": "jeffers5a_lae",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 5415,
+   "modelName": "laeskateparkTrans",
+   "txdName": "glenpark7_lae",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 5416,
+   "modelName": "laeganghous205",
+   "txdName": "gang2hous1_lae",
+   "drawDistance": 80,
+   "flags": 128
+  },
+  {
+   "id": 5417,
+   "modelName": "laenwblk2",
+   "txdName": "idlewood6_tr",
+   "drawDistance": 150,
+   "flags": 132
+  },
+  {
+   "id": 5418,
+   "modelName": "lae711block01",
+   "txdName": "idlewood3_lae",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 5419,
+   "modelName": "laestormdrain02",
+   "txdName": "stormdra1_lae",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 5420,
+   "modelName": "laestormdrain03",
+   "txdName": "stormdra1_lae",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 5421,
+   "modelName": "laesmokeshse",
+   "txdName": "laesmokecnthus",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 5422,
+   "modelName": "laespraydoor1",
+   "txdName": "idlewood6_lae",
+   "drawDistance": 80,
+   "flags": 2176
+  },
+  {
+   "id": 5423,
+   "modelName": "laeJeffers03",
+   "txdName": "jeffers4_lae",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 5424,
+   "modelName": "laeJeffers04",
+   "txdName": "jeffers4_lae",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 5425,
+   "modelName": "laeJeffers05",
+   "txdName": "jeffers4_lae",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 5426,
+   "modelName": "laeJeffers06",
+   "txdName": "jeffers4_lae",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 5427,
+   "modelName": "laeJeffers09",
+   "txdName": "jeffers4_lae",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 5428,
+   "modelName": "laeJeffers10",
+   "txdName": "jeffers4_lae",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 5429,
+   "modelName": "xwhattfk_LAE",
+   "txdName": "jeffers4_lae",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 5430,
+   "modelName": "laeIdlewood11",
+   "txdName": "idlewood3_lae",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 5431,
+   "modelName": "laeroad02",
+   "txdName": "laeroads2s",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 5432,
+   "modelName": "laeroad03",
+   "txdName": "laeroads2s",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 5433,
+   "modelName": "laeroad04",
+   "txdName": "laeroads2s",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 5434,
+   "modelName": "laeroad05",
+   "txdName": "laeroads2s",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 5435,
+   "modelName": "laeroad06",
+   "txdName": "laeroads2s",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 5436,
+   "modelName": "fukxroad07",
+   "txdName": "laeroads2s",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 5437,
+   "modelName": "laeroad08",
+   "txdName": "laeroads2s",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 5438,
+   "modelName": "laeroad09",
+   "txdName": "laeroads2s",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 5439,
+   "modelName": "laeroad10",
+   "txdName": "laeroads",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 5440,
+   "modelName": "laeroad11",
+   "txdName": "laeroads2s",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 5441,
+   "modelName": "laeroad12",
+   "txdName": "laeroads2s",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 5442,
+   "modelName": "laeroad13",
+   "txdName": "laeroads2s",
+   "drawDistance": 130,
+   "flags": 1
+  },
+  {
+   "id": 5443,
+   "modelName": "laeGlenPark02",
+   "txdName": "glenpark1_lae",
+   "drawDistance": 140,
+   "flags": 128
+  },
+  {
+   "id": 5444,
+   "modelName": "laeChicano02",
+   "txdName": "chicano10_lae",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 5445,
+   "modelName": "laeChicano01",
+   "txdName": "chicano10_lae",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 5446,
+   "modelName": "laeChicano03",
+   "txdName": "chicano10_lae",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 5447,
+   "modelName": "laeChicano04",
+   "txdName": "chicano10_lae",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 5448,
+   "modelName": "laeChicano05",
+   "txdName": "chicano10_lae",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 5449,
+   "modelName": "laeChicanoTr1",
+   "txdName": "chicanotr1_lae",
+   "drawDistance": 150,
+   "flags": 2097284
+  },
+  {
+   "id": 5450,
+   "modelName": "laeChicano06",
+   "txdName": "chicano10_lae",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 5451,
+   "modelName": "laeChicano07",
+   "txdName": "chicano10_lae",
+   "drawDistance": 90,
+   "flags": 128
+  },
+  {
+   "id": 5452,
+   "modelName": "laeChicano09",
+   "txdName": "chicano10_lae",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 5453,
+   "modelName": "laeChicano10",
+   "txdName": "chicano10_lae",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 5454,
+   "modelName": "laeLODds03",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5455,
+   "modelName": "laeLODds04",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5456,
+   "modelName": "laeroad14",
+   "txdName": "laeroads2s",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 5457,
+   "modelName": "laeGlenPark01",
+   "txdName": "glenpark1_lae",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 5458,
+   "modelName": "laeMacPark01",
+   "txdName": "macpark1tr_lae",
+   "drawDistance": 140,
+   "flags": 0
+  },
+  {
+   "id": 5459,
+   "modelName": "laeJeffers01",
+   "txdName": "glenpark1_lae",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 5460,
+   "modelName": "laeLODPark01",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5461,
+   "modelName": "laeGlenPark05",
+   "txdName": "glenpark6d_lae",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 5462,
+   "modelName": "laeGlenPark04",
+   "txdName": "glenpark6_lae",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 5463,
+   "modelName": "laebuildsit01",
+   "txdName": "glenpark6_lae",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 5464,
+   "modelName": "laeGlenPark04Tr",
+   "txdName": "laealpha",
+   "drawDistance": 150,
+   "flags": 2097284
+  },
+  {
+   "id": 5466,
+   "modelName": "laeLODldsit01",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5467,
+   "modelName": "laehospitalTr",
+   "txdName": "hospital_lae",
+   "drawDistance": 150,
+   "flags": 132
+  },
+  {
+   "id": 5468,
+   "modelName": "laeLODfers02",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5469,
+   "modelName": "laeRoads11Tr",
+   "txdName": "roadstr_lae",
+   "drawDistance": 150,
+   "flags": 2097284
+  },
+  {
+   "id": 5470,
+   "modelName": "laeRoads10Tr",
+   "txdName": "roadstr_lae",
+   "drawDistance": 150,
+   "flags": 2097284
+  },
+  {
+   "id": 5471,
+   "modelName": "laeIdlewood01",
+   "txdName": "glenpark1x_lae",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 5472,
+   "modelName": "frecrsbrid_LAE",
+   "txdName": "laeroads2s",
+   "drawDistance": 185,
+   "flags": 1
+  },
+  {
+   "id": 5473,
+   "modelName": "laeidlebrijTr",
+   "txdName": "jeffers4_lae",
+   "drawDistance": 170,
+   "flags": 2097284
+  },
+  {
+   "id": 5474,
+   "modelName": "laeIdlewood02",
+   "txdName": "idlewood46_lae",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 5475,
+   "modelName": "laeIdleProj02",
+   "txdName": "idlewood46_lae",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 5476,
+   "modelName": "laeIdleProj01",
+   "txdName": "idlewood46_lae",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 5477,
+   "modelName": "laerailtrack1",
+   "txdName": "railtracklae",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 5478,
+   "modelName": "laerailtrack2",
+   "txdName": "railtracklae",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 5479,
+   "modelName": "laerailtrack3",
+   "txdName": "railtracklae",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 5480,
+   "modelName": "laerailtrack4",
+   "txdName": "railtracklae",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 5481,
+   "modelName": "laebridge",
+   "txdName": "laeroads2s",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 5482,
+   "modelName": "laeroad16",
+   "txdName": "laeroads2s",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 5483,
+   "modelName": "laeroad17",
+   "txdName": "laeroads2s",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 5484,
+   "modelName": "laeroad18",
+   "txdName": "laeroads2s",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 5485,
+   "modelName": "laeroad20",
+   "txdName": "laeroads2s",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 5486,
+   "modelName": "laeroad21",
+   "txdName": "laeroads2s",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 5487,
+   "modelName": "laeroad22",
+   "txdName": "laeroads2s",
+   "drawDistance": 140,
+   "flags": 1
+  },
+  {
+   "id": 5488,
+   "modelName": "laeroad23",
+   "txdName": "laeroads2s",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 5489,
+   "modelName": "laeroad24",
+   "txdName": "barrio1_lae",
+   "drawDistance": 100,
+   "flags": 1
+  },
+  {
+   "id": 5490,
+   "modelName": "laeroad25",
+   "txdName": "laeroads2s",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 5491,
+   "modelName": "laeroad26",
+   "txdName": "laeroads2s",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 5492,
+   "modelName": "laeroad27",
+   "txdName": "laeroads2s",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 5493,
+   "modelName": "laeroad28",
+   "txdName": "laeroads2s",
+   "drawDistance": 130,
+   "flags": 1
+  },
+  {
+   "id": 5494,
+   "modelName": "laeroad29",
+   "txdName": "laeroads2s",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 5495,
+   "modelName": "laeroad30",
+   "txdName": "laeroads2s",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 5496,
+   "modelName": "laeroad31",
+   "txdName": "laeroads2s",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 5497,
+   "modelName": "laeroad32",
+   "txdName": "laeroads2s",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 5498,
+   "modelName": "laeroad33",
+   "txdName": "laeroads2s",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 5499,
+   "modelName": "laeroad34",
+   "txdName": "laeroads2s",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 5500,
+   "modelName": "laeroad35",
+   "txdName": "laeroads2s",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 5501,
+   "modelName": "laeroad36",
+   "txdName": "laeroads2s",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 5502,
+   "modelName": "laeroad37",
+   "txdName": "laeroads2s",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 5503,
+   "modelName": "laeroad38",
+   "txdName": "laeroads2s",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 5504,
+   "modelName": "laeroad39",
+   "txdName": "laeroads2s",
+   "drawDistance": 170,
+   "flags": 1
+  },
+  {
+   "id": 5505,
+   "modelName": "laeroad40",
+   "txdName": "laeroads2s",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 5506,
+   "modelName": "laeroad41",
+   "txdName": "laeroads2s",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 5507,
+   "modelName": "laeroad42",
+   "txdName": "laeroads2s",
+   "drawDistance": 130,
+   "flags": 1
+  },
+  {
+   "id": 5508,
+   "modelName": "laeroad43",
+   "txdName": "laeroads2s",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 5509,
+   "modelName": "laeroad44",
+   "txdName": "laeroads2s",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 5510,
+   "modelName": "laeroad45",
+   "txdName": "laeroads2s",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 5511,
+   "modelName": "laeroad46",
+   "txdName": "laeroads",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 5512,
+   "modelName": "laeroad47",
+   "txdName": "laeroads",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 5513,
+   "modelName": "laerail6",
+   "txdName": "railtracklae",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 5514,
+   "modelName": "LODlaeIdlewood01",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5515,
+   "modelName": "LODlaeIdlewood02",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5516,
+   "modelName": "LODIdleProj02",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5517,
+   "modelName": "LODIdleProj01",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5518,
+   "modelName": "Idlewood05_LAe",
+   "txdName": "glenpark1x_lae",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 5519,
+   "modelName": "Idlewood04_LAe",
+   "txdName": "glenpark1x_lae",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 5520,
+   "modelName": "BDupsHouse_LAe",
+   "txdName": "bdupshouse_lae",
+   "drawDistance": 80,
+   "flags": 128
+  },
+  {
+   "id": 5521,
+   "modelName": "Idlewofuk06_LAe",
+   "txdName": "idlewood6_lae",
+   "drawDistance": 140,
+   "flags": 128
+  },
+  {
+   "id": 5522,
+   "modelName": "Idlewood06Tr_LAe",
+   "txdName": "idlewood6_detail",
+   "drawDistance": 150,
+   "flags": 132
+  },
+  {
+   "id": 5523,
+   "modelName": "LODroadsblk01",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5524,
+   "modelName": "LODnwblkB02",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5525,
+   "modelName": "LODnwblk03",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5526,
+   "modelName": "LODewood06_LAe01",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5527,
+   "modelName": "LODsprayshop01",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5528,
+   "modelName": "laeroadct43",
+   "txdName": "laeroads2s",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 5529,
+   "modelName": "LODroadf48",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5530,
+   "modelName": "LOD711block02",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5531,
+   "modelName": "LODIdlewood12",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5532,
+   "modelName": "laesprayshop",
+   "txdName": "paynspray_lae",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 5533,
+   "modelName": "LODroadB48",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5534,
+   "modelName": "LODroadC48",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5535,
+   "modelName": "LODpetrol1a01",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5536,
+   "modelName": "LODclubBlock02",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5537,
+   "modelName": "lodroadml148",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5538,
+   "modelName": "LODroadbnj",
+   "txdName": "lod2lae1",
+   "drawDistance": 400,
+   "flags": 0
+  },
+  {
+   "id": 5539,
+   "modelName": "LODroadsjm2",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5540,
+   "modelName": "LODroadct44",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5541,
+   "modelName": "lodlaeroad37",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5542,
+   "modelName": "LODlaeroad36",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5543,
+   "modelName": "LODzroad12",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5544,
+   "modelName": "LODexaminerbuild02",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5545,
+   "modelName": "LODlasjmscubit",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5546,
+   "modelName": "LODroadt42",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5547,
+   "modelName": "LODlasruff201",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5548,
+   "modelName": "LODroad39t",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5549,
+   "modelName": "LODewood05_LAe",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5550,
+   "modelName": "LODroadfg44",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5551,
+   "modelName": "LODcumpstreet",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5552,
+   "modelName": "LODrofad45",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5553,
+   "modelName": "LODroghad01",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5554,
+   "modelName": "LODewood04_LAe01",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5555,
+   "modelName": "LODstormdrain02",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5556,
+   "modelName": "LODstormdrain01",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5557,
+   "modelName": "LODxroad46",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5558,
+   "modelName": "LODxrail6",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5559,
+   "modelName": "LODroad47",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5560,
+   "modelName": "LODxroad10",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5561,
+   "modelName": "LODxrailtrack4",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5562,
+   "modelName": "LODxrailtrack3",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5563,
+   "modelName": "LODxroad11",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5564,
+   "modelName": "LODxcrsbrid_LAE",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5565,
+   "modelName": "laectru_LAE",
+   "txdName": "laealpha",
+   "drawDistance": 130,
+   "flags": 2097284
+  },
+  {
+   "id": 5566,
+   "modelName": "LODxrailtrack2",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5567,
+   "modelName": "LODxrailbrij1",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5568,
+   "modelName": "LODxcomptonbrij3",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5569,
+   "modelName": "LODxroad09",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5570,
+   "modelName": "LODxJeffers11",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5571,
+   "modelName": "LODxoad33",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5572,
+   "modelName": "LODxroad35",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5573,
+   "modelName": "LODxroad32",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5574,
+   "modelName": "LODxroad31",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5575,
+   "modelName": "LODxskateparkLA",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5576,
+   "modelName": "LODxroad07",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5577,
+   "modelName": "LODxroad30",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5578,
+   "modelName": "LODxhospground1",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5579,
+   "modelName": "LODxhospital1",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5580,
+   "modelName": "LODxroad08",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5581,
+   "modelName": "LODxJeffers09",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5582,
+   "modelName": "LODxgarages1nw",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5583,
+   "modelName": "LODxroad29",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5584,
+   "modelName": "LODxJeffers06",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5585,
+   "modelName": "LODxJeffers05",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5586,
+   "modelName": "LODxroad27",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5587,
+   "modelName": "LODxroad25",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5588,
+   "modelName": "LODxrailtrack1",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5589,
+   "modelName": "LODfukxroad06",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5590,
+   "modelName": "LODxroad28",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5591,
+   "modelName": "LODxroad26",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5592,
+   "modelName": "LODxJeffers03",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5593,
+   "modelName": "LODxJeffers04",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5594,
+   "modelName": "LODxroad17",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5595,
+   "modelName": "LODxroad16",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5596,
+   "modelName": "LODxroad34",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5597,
+   "modelName": "LODxGlenPark06",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5598,
+   "modelName": "LODxGlenPark04",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5599,
+   "modelName": "LODxsroad05",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5600,
+   "modelName": "LODsxroad23",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5601,
+   "modelName": "LODsxroad20",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5602,
+   "modelName": "LODsxroad22",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5603,
+   "modelName": "LODsxroad02",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5604,
+   "modelName": "LODsxroad21",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5605,
+   "modelName": "LODxsGlenPark01",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5606,
+   "modelName": "LODxsGlenPark02",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5607,
+   "modelName": "LODxsstripmall1",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5608,
+   "modelName": "LODxsshop1",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5609,
+   "modelName": "LODxsroad03",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5610,
+   "modelName": "LODxsJeffers01",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5611,
+   "modelName": "LODxscrackmotel4",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5612,
+   "modelName": "LODxscrackmotel1",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5613,
+   "modelName": "LODxsChicano11",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5614,
+   "modelName": "LODxsChicano08",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5615,
+   "modelName": "LODxsChicano10",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5616,
+   "modelName": "LODxsChicano09",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5617,
+   "modelName": "LODxsChicano01",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5618,
+   "modelName": "LODxsChicano02",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5619,
+   "modelName": "LODxsChicano03",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5620,
+   "modelName": "LODxsChicano07",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5621,
+   "modelName": "LODxsChicano06",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5622,
+   "modelName": "LODxsChicano05",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5623,
+   "modelName": "LODxsChicano04",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5624,
+   "modelName": "laeHillsctst03",
+   "txdName": "chicano10_lae",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 5625,
+   "modelName": "LODxsHillsctst03",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5626,
+   "modelName": "laecompmedhos518",
+   "txdName": "jeffers4_lae",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 5627,
+   "modelName": "lasbrid1SJM_LAe",
+   "txdName": "railtracklae",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 5628,
+   "modelName": "laenwblkB1",
+   "txdName": "idlewood6_lae",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 5629,
+   "modelName": "LAEalpha6",
+   "txdName": "laealpha",
+   "drawDistance": 200,
+   "flags": 2097284
+  },
+  {
+   "id": 5630,
+   "modelName": "blockalphalae",
+   "txdName": "blockalpha",
+   "drawDistance": 100,
+   "flags": 2097284
+  },
+  {
+   "id": 5631,
+   "modelName": "apartmntalpha",
+   "txdName": "apartmentalpha",
+   "drawDistance": 150,
+   "flags": 2097284
+  },
+  {
+   "id": 5632,
+   "modelName": "motelalpha",
+   "txdName": "motelalpha",
+   "drawDistance": 180,
+   "flags": 2097284
+  },
+  {
+   "id": 5633,
+   "modelName": "LAEalpha1",
+   "txdName": "laealpha",
+   "drawDistance": 170,
+   "flags": 2097284
+  },
+  {
+   "id": 5634,
+   "modelName": "LAEalpha2",
+   "txdName": "laealpha",
+   "drawDistance": 200,
+   "flags": 2097284
+  },
+  {
+   "id": 5635,
+   "modelName": "LAEalpha3",
+   "txdName": "laealpha",
+   "drawDistance": 130,
+   "flags": 2097284
+  },
+  {
+   "id": 5636,
+   "modelName": "LAEalpha4",
+   "txdName": "laealpha",
+   "drawDistance": 200,
+   "flags": 2097284
+  },
+  {
+   "id": 5637,
+   "modelName": "LAEalpha5",
+   "txdName": "laealpha",
+   "drawDistance": 180,
+   "flags": 2097284
+  },
+  {
+   "id": 5638,
+   "modelName": "LAEalpha7",
+   "txdName": "laealpha",
+   "drawDistance": 200,
+   "flags": 2097284
+  },
+  {
+   "id": 5639,
+   "modelName": "LAEdirtapha",
+   "txdName": "laealpha",
+   "drawDistance": 200,
+   "flags": 0
+  },
+  {
+   "id": 5640,
+   "modelName": "laemacpark02",
+   "txdName": "macpark1tr_lae",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 5641,
+   "modelName": "LAEalpha5b",
+   "txdName": "laealpha",
+   "drawDistance": 180,
+   "flags": 2097284
+  },
+  {
+   "id": 5642,
+   "modelName": "laeChicano11",
+   "txdName": "chicano10_lae",
+   "drawDistance": 120,
+   "flags": 128
+  },
+  {
+   "id": 5643,
+   "modelName": "laeChicano08",
+   "txdName": "chicano10_lae",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 5644,
+   "modelName": "laebuildsit01a",
+   "txdName": "glenpark6_lae",
+   "drawDistance": 130,
+   "flags": 2097284
+  },
+  {
+   "id": 5645,
+   "modelName": "LODlaestormdrain03",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5646,
+   "modelName": "LODlaetraintunn01",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5647,
+   "modelName": "LODlaetraintunn02",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5648,
+   "modelName": "LODlaeroad48",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5649,
+   "modelName": "LODlaeJeffers10",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5650,
+   "modelName": "laeroad03b",
+   "txdName": "laeroads2s",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 5651,
+   "modelName": "LODxsroad03b",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5652,
+   "modelName": "stormdraindrt1_LAe",
+   "txdName": "stormdra1_lae",
+   "drawDistance": 130,
+   "flags": 132
+  },
+  {
+   "id": 5653,
+   "modelName": "LODlaeRailBrijBlok",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5654,
+   "modelName": "laeJeffers06alphas",
+   "txdName": "laealpha",
+   "drawDistance": 140,
+   "flags": 2097284
+  },
+  {
+   "id": 5655,
+   "modelName": "laeChicano01b",
+   "txdName": "chicano10_lae",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 5656,
+   "modelName": "laeChicano01c",
+   "txdName": "chicano10_lae",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 5657,
+   "modelName": "LODlaeChicano01b",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5658,
+   "modelName": "LODlaeChicano01c",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5659,
+   "modelName": "LODbrid1SJM_LAe",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5660,
+   "modelName": "laeskateP_alphas",
+   "txdName": "glenpark7_lae",
+   "drawDistance": 80,
+   "flags": 4
+  },
+  {
+   "id": 5663,
+   "modelName": "graffiti01_lae",
+   "txdName": "glenpark7_lae",
+   "drawDistance": 100,
+   "flags": 4
+  },
+  {
+   "id": 5664,
+   "modelName": "laeLODpmedhos519",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5666,
+   "modelName": "laeLODPark02",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5667,
+   "modelName": "LODlaeroad04",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5668,
+   "modelName": "laebridgeb",
+   "txdName": "laeroads2s",
+   "drawDistance": 140,
+   "flags": 1
+  },
+  {
+   "id": 5669,
+   "modelName": "LODlaebridgeb",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5670,
+   "modelName": "LODsmokeshse",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5671,
+   "modelName": "LODpsHouse_LAe",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5672,
+   "modelName": "LODganghous206",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5673,
+   "modelName": "LODxrailtrack2b",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5674,
+   "modelName": "laerailtrack2b",
+   "txdName": "railtracklae",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 5675,
+   "modelName": "LODlaeroad18",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 5676,
+   "modelName": "Motel2laealphas",
+   "txdName": "idlewood3_lae",
+   "drawDistance": 80,
+   "flags": 132
+  },
+  {
+   "id": 5677,
+   "modelName": "laeJeffersalpha",
+   "txdName": "macpark1tr_lae",
+   "drawDistance": 140,
+   "flags": 2097284
+  },
+  {
+   "id": 5678,
+   "modelName": "Lae_smokecutscene",
+   "txdName": "laesmokecuts",
+   "drawDistance": 70,
+   "flags": 2097152
+  },
+  {
+   "id": 5679,
+   "modelName": "laetraintunn03",
+   "txdName": "railtracklae",
+   "drawDistance": 200,
+   "flags": 0
+  },
+  {
+   "id": 5680,
+   "modelName": "LODlaetraintunn03",
+   "txdName": "lod2lae1",
+   "drawDistance": 1500,
+   "flags": 128
+  },
+  {
+   "id": 5681,
+   "modelName": "carwashalphas_lae",
+   "txdName": "barrio1_lae",
+   "drawDistance": 130,
+   "flags": 2097284
+  },
+  {
+   "id": 5682,
+   "modelName": "laeJeffers10alphas",
+   "txdName": "laealpha",
+   "drawDistance": 150,
+   "flags": 2097284
+  }
+ ],
+ "tobj": [
+  {
+   "id": 5465,
+   "modelName": "laeGlenPark05Nt",
+   "txdName": "glenpark6d_lae",
+   "drawDistance": 90,
+   "flags": 128,
+   "timeOn": 22,
+   "timeOff": 7
+  },
+  {
+   "id": 5661,
+   "modelName": "LTSlaehospital1",
+   "txdName": "nightlts_lae",
+   "drawDistance": 300,
+   "flags": 140,
+   "timeOn": 20,
+   "timeOff": 6
+  },
+  {
+   "id": 5662,
+   "modelName": "LTSlaeChicano02",
+   "txdName": "nightlts_lae",
+   "drawDistance": 350,
+   "flags": 140,
+   "timeOn": 20,
+   "timeOff": 6
+  },
+  {
+   "id": 5665,
+   "modelName": "LTSlaeGlenPark04",
+   "txdName": "nightlts_lae",
+   "drawDistance": 300,
+   "flags": 140,
+   "timeOn": 20,
+   "timeOff": 6
+  }
+ ],
+ "path": [],
+ "2dfx": [],
+ "anim": [],
+ "txdp": []
+}

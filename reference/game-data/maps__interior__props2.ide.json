@@ -1,0 +1,3678 @@
+{
+ "objs": [
+  {
+   "id": 2360,
+   "modelName": "CJ_ICE_FRIDGE_2",
+   "txdName": "Shopping_acc",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2361,
+   "modelName": "CJ_ICE_FRIDGE_1",
+   "txdName": "Shopping_FREEZERS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2362,
+   "modelName": "CJ_SWEETIE_TRAY_1",
+   "txdName": "RC_SHOP_figure",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2363,
+   "modelName": "CJ_SHOP_SIGN_1",
+   "txdName": "Shopping_acc",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2364,
+   "modelName": "CJ_SHOP_SIGN_2",
+   "txdName": "Shopping_acc",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2365,
+   "modelName": "SHOPPING_BASKET",
+   "txdName": "Shopping_acc",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2366,
+   "modelName": "CJ_DUDS_RAIL",
+   "txdName": "Shopping",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2367,
+   "modelName": "Shop_counter_2",
+   "txdName": "Shopping",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2368,
+   "modelName": "Shop_counter_1",
+   "txdName": "Shopping",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2369,
+   "modelName": "CJ_Till",
+   "txdName": "Shopping_acc",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2370,
+   "modelName": "Shop_set_1_Table",
+   "txdName": "Shopping",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2371,
+   "modelName": "CLOTHES_RAIL",
+   "txdName": "Shopping",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2372,
+   "modelName": "CLOTHES_RAIL2",
+   "txdName": "Shopping",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2373,
+   "modelName": "CLOTHES_RAIL3",
+   "txdName": "Shopping",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2374,
+   "modelName": "CJ_Tshirt",
+   "txdName": "CLOTH_TRACK_T",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2375,
+   "modelName": "Shop_set_2_Unit1",
+   "txdName": "Shopping",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2376,
+   "modelName": "Shop_set_2_Unit2",
+   "txdName": "Shopping",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 2377,
+   "modelName": "CJ_jean_dark",
+   "txdName": "ZIP_CLOTHES",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2378,
+   "modelName": "CJ_jean_light",
+   "txdName": "ZIP_CLOTHES",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2379,
+   "modelName": "Shop_set_2_Unit3",
+   "txdName": "Shopping",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2380,
+   "modelName": "CJ_Suits",
+   "txdName": "Shopping_CLOTHES",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2381,
+   "modelName": "CJ_8_SWEATER",
+   "txdName": "CLOTH_TRACKIES",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2382,
+   "modelName": "CJ_8_JEANS_Light",
+   "txdName": "ZIP_CLOTHES",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2383,
+   "modelName": "CJ_6_SWEATER",
+   "txdName": "CLOTH_TRACK_T",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2384,
+   "modelName": "CJ_8_JEANS_DARK",
+   "txdName": "ZIP_CLOTHES",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2385,
+   "modelName": "Shop_set_2_Unit4",
+   "txdName": "Shopping",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2386,
+   "modelName": "CJ_SWEATER_F_1",
+   "txdName": "ZIP_CLOTHES",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2387,
+   "modelName": "Shop_set_2_Unit5",
+   "txdName": "Shopping",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2388,
+   "modelName": "CJ_DUDS_RAIL_2",
+   "txdName": "Shopping",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2389,
+   "modelName": "CJ_4_SWEATERS",
+   "txdName": "CLOTH_TRACK_T",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2390,
+   "modelName": "CJ_4way_clothes",
+   "txdName": "CLOTH_TRACKIES",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2391,
+   "modelName": "CJ_jean_CREAM",
+   "txdName": "ZIP_CLOTHES",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2392,
+   "modelName": "CJ_8_JEANS_MED",
+   "txdName": "ZIP_CLOTHES",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2393,
+   "modelName": "CJ_DUDS_RAIL_3",
+   "txdName": "Shopping",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2394,
+   "modelName": "CJ_CLOTHES_STEP_1",
+   "txdName": "CLOTH_TRACK_T",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2395,
+   "modelName": "CJ_SPORTS_WALL",
+   "txdName": "Shopping",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2396,
+   "modelName": "CJ_4_S_SWEATER",
+   "txdName": "CLOTH_TRACK_T",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2397,
+   "modelName": "CJ_TRACKIES_dark",
+   "txdName": "CLOTH_TRACKIES",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2398,
+   "modelName": "CJ_TRACKIES_LIGHT",
+   "txdName": "CLOTH_TRACKIES",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2399,
+   "modelName": "CJ_4_S_SWEATER_2",
+   "txdName": "CLOTH_TRACK_T",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2400,
+   "modelName": "CJ_SPORTS_WALL01",
+   "txdName": "Shopping",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2401,
+   "modelName": "CJ_TRACKIES_WHITE",
+   "txdName": "CLOTH_TRACKIES",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2402,
+   "modelName": "CJ_SPORTS_BAGS",
+   "txdName": "Shopping_CLOTHES",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2403,
+   "modelName": "Shop_set_2_SHOE",
+   "txdName": "Shopping",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 2404,
+   "modelName": "CJ_SURF_BOARD",
+   "txdName": "Surf_boards",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2405,
+   "modelName": "CJ_SURF_BOARD2",
+   "txdName": "Surf_boards",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2406,
+   "modelName": "CJ_SURF_BOARD3",
+   "txdName": "Surf_boards",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2407,
+   "modelName": "CJ_F_TORSO",
+   "txdName": "Shopping_CLOTHES",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2408,
+   "modelName": "CJ_F_LEG_1",
+   "txdName": "Shopping_CLOTHES",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2409,
+   "modelName": "CJ_F_LEG_2",
+   "txdName": "Shopping_CLOTHES",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2410,
+   "modelName": "CJ_SURF_BOARD4",
+   "txdName": "Surf_boards",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2411,
+   "modelName": "CJ_F_TORSO_1",
+   "txdName": "skate_shop",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2412,
+   "modelName": "CJ_DETECTOR",
+   "txdName": "Shopping_acc",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2413,
+   "modelName": "Shop_counter_3a",
+   "txdName": "Shopping",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2414,
+   "modelName": "Shop_counter_3b",
+   "txdName": "Shopping",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2415,
+   "modelName": "CJ_FF_FRYER",
+   "txdName": "CJ_FF",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2416,
+   "modelName": "CJ_FF_DISP",
+   "txdName": "CJ_FF",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2417,
+   "modelName": "CJ_FF_COOKER",
+   "txdName": "CJ_FF",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2418,
+   "modelName": "CJ_FF_WORKTOP",
+   "txdName": "CJ_FF",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2419,
+   "modelName": "CJ_FF_WORKTOP_2",
+   "txdName": "CJ_FF",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2420,
+   "modelName": "CJ_FF_BUCKET",
+   "txdName": "CJ_FF_ACC1",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2421,
+   "modelName": "CJ_FF_MICROW",
+   "txdName": "CJ_FF_ACC1",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 2422,
+   "modelName": "CJ_FF_TILL",
+   "txdName": "CJ_FF_ACC1",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2423,
+   "modelName": "CJ_FF_CONTER_1b",
+   "txdName": "CJ_FF_COUNTERS",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2424,
+   "modelName": "CJ_FF_CONTER_1",
+   "txdName": "CJ_FF_COUNTERS",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2425,
+   "modelName": "CJ_FF_JUICE",
+   "txdName": "CJ_JUCIE",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2426,
+   "modelName": "CJ_FF_PIZZA_OVEN",
+   "txdName": "CJ_FF_ACC1",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2427,
+   "modelName": "CJ_FF_JUICE_L",
+   "txdName": "CJ_JUCIE",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2428,
+   "modelName": "CJ_FF_STAND1",
+   "txdName": "CJ_FF_ACC1",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2429,
+   "modelName": "CJ_FF_CUP_DISP",
+   "txdName": "CJ_FF_ACC1",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2430,
+   "modelName": "CJ_FF_LIST1",
+   "txdName": "CJ_BURG_SIGN",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2431,
+   "modelName": "CJ_FF_LIST2",
+   "txdName": "CJ_BURG_SIGN",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2432,
+   "modelName": "CJ_FF_LIST3",
+   "txdName": "CJ_DON_SIGN",
+   "drawDistance": 20,
+   "flags": 4
+  },
+  {
+   "id": 2433,
+   "modelName": "CJ_FF_DISP1",
+   "txdName": "CJ_FF",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2434,
+   "modelName": "CJ_FF_CONTER_2b",
+   "txdName": "CJ_FF_COUNTERS",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2435,
+   "modelName": "CJ_FF_CONTER_2",
+   "txdName": "CJ_FF_COUNTERS",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2436,
+   "modelName": "CJ_FF_DISP2",
+   "txdName": "CJ_FF",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2437,
+   "modelName": "CJ_CUP_PILE",
+   "txdName": "CJ_FF_ACC1",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2438,
+   "modelName": "CJ_SLUSH_MAC",
+   "txdName": "CJ_FF_ACC1",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2439,
+   "modelName": "CJ_FF_CONTER_3",
+   "txdName": "CJ_FF_COUNTERS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2440,
+   "modelName": "CJ_FF_CONTER_3b",
+   "txdName": "CJ_FF_COUNTERS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2441,
+   "modelName": "CJ_FF_CONTER_4",
+   "txdName": "CJ_FF_COUNTERS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2442,
+   "modelName": "CJ_FF_CONTER_4b",
+   "txdName": "CJ_FF_COUNTERS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2443,
+   "modelName": "CJ_FF_FRIGE",
+   "txdName": "CJ_JUCIE",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2444,
+   "modelName": "CJ_FF_CONTER_4c",
+   "txdName": "CJ_FF_COUNTERS",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2445,
+   "modelName": "CJ_FF_CONTER_4d",
+   "txdName": "CJ_FF_COUNTERS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2446,
+   "modelName": "CJ_FF_CONTER_5",
+   "txdName": "CJ_FF_COUNTERS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2447,
+   "modelName": "CJ_FF_CONTER_5c",
+   "txdName": "CJ_FF_COUNTERS",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2448,
+   "modelName": "CJ_FF_CONTER_5d",
+   "txdName": "CJ_FF_COUNTERS",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2449,
+   "modelName": "CJ_FF_CONTER_5e",
+   "txdName": "CJ_FF_COUNTERS",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2450,
+   "modelName": "CJ_FF_CONTER_5b",
+   "txdName": "CJ_FF_COUNTERS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2451,
+   "modelName": "CJ_FF_WORKTOP_3",
+   "txdName": "CJ_FF",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2452,
+   "modelName": "CJ_FF_FRIDGE2",
+   "txdName": "CJ_JUCIE",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2453,
+   "modelName": "CJ_PIZZA_DISPf",
+   "txdName": "CJ_FF_ACC1",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2454,
+   "modelName": "CJ_FF_CONTER_8b",
+   "txdName": "CJ_FF_COUNTERS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2455,
+   "modelName": "CJ_FF_CONTER_8",
+   "txdName": "CJ_FF_COUNTERS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2456,
+   "modelName": "CJ_FF_STAND02",
+   "txdName": "CJ_FF_ACC1",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2457,
+   "modelName": "CJ_FF_CONTER_8c",
+   "txdName": "CJ_FF_COUNTERS",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2458,
+   "modelName": "CJ_HOBBY_C_3",
+   "txdName": "RC_SHOP",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 2459,
+   "modelName": "CJ_HOBBY_C_4",
+   "txdName": "RC_SHOP",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 2460,
+   "modelName": "CJ_HOBBY_C_1",
+   "txdName": "RC_SHOP",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 2461,
+   "modelName": "CJ_HOBBY_C_2",
+   "txdName": "RC_SHOP",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 2462,
+   "modelName": "CJ_HOBBY_SHELF",
+   "txdName": "RC_SHOP",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2463,
+   "modelName": "CJ_HOBBY_SHELF_2",
+   "txdName": "RC_SHOP",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2464,
+   "modelName": "MODEL_BOX1",
+   "txdName": "RC_SHOP_ACC",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2465,
+   "modelName": "MODEL_BOX2",
+   "txdName": "RC_SHOP_ACC",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2466,
+   "modelName": "MODEL_BOX3",
+   "txdName": "RC_SHOP_ACC",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2467,
+   "modelName": "CJ_HOBBY_C_5",
+   "txdName": "RC_SHOP",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 2468,
+   "modelName": "MODEL_BOX4",
+   "txdName": "RC_SHOP_ACC",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2469,
+   "modelName": "MODEL_PLANES_3",
+   "txdName": "RC_SHOP_ACC",
+   "drawDistance": 30,
+   "flags": 2097152
+  },
+  {
+   "id": 2470,
+   "modelName": "MODEL_PLANES_4",
+   "txdName": "RC_SHOP_ACC",
+   "drawDistance": 30,
+   "flags": 2097152
+  },
+  {
+   "id": 2471,
+   "modelName": "MODEL_TRAINS2",
+   "txdName": "RC_SHOP_trains",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 2472,
+   "modelName": "MODEL_PLANES_1",
+   "txdName": "RC_SHOP_ACC",
+   "drawDistance": 30,
+   "flags": 2097152
+  },
+  {
+   "id": 2473,
+   "modelName": "MODEL_PLANES_2",
+   "txdName": "RC_SHOP_ACC",
+   "drawDistance": 30,
+   "flags": 2097152
+  },
+  {
+   "id": 2474,
+   "modelName": "MODEL_TRAINS1",
+   "txdName": "RC_SHOP_trains",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 2475,
+   "modelName": "CJ_HOBBY_SHELF_3",
+   "txdName": "RC_SHOP",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2476,
+   "modelName": "MODEL_BOX11",
+   "txdName": "RC_SHOP_ACC",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2477,
+   "modelName": "MODEL_BOX5",
+   "txdName": "RC_SHOP_ACC",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2478,
+   "modelName": "MODEL_BOX6",
+   "txdName": "RC_SHOP_ACC",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2479,
+   "modelName": "MODEL_BOX8",
+   "txdName": "RC_SHOP_ACC",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2480,
+   "modelName": "MODEL_BOX9",
+   "txdName": "RC_SHOP_ACC",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2481,
+   "modelName": "MODEL_BOX10",
+   "txdName": "RC_SHOP_ACC",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2482,
+   "modelName": "CJ_HOBBY_SHELF_4",
+   "txdName": "RC_SHOP",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 2483,
+   "modelName": "MODEL_BOX13",
+   "txdName": "RC_SHOP_ACC",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2484,
+   "modelName": "MODEL_YAUGHT",
+   "txdName": "RC_SHOP_toy",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2485,
+   "modelName": "MODEL_CAR_1",
+   "txdName": "RC_SHOP_ACC",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2486,
+   "modelName": "MODEL_CAR",
+   "txdName": "RC_SHOP_ACC",
+   "drawDistance": 30,
+   "flags": 2097152
+  },
+  {
+   "id": 2487,
+   "modelName": "HOBBY_KITE",
+   "txdName": "RC_SHOP_HANGER",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2488,
+   "modelName": "MANHUNT_TOY_1",
+   "txdName": "RC_SHOP_figure",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 2489,
+   "modelName": "MANHUNT_TOY_2",
+   "txdName": "RC_SHOP_figure",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 2490,
+   "modelName": "VICE_TOY_1",
+   "txdName": "RC_SHOP_figure",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 2491,
+   "modelName": "MODEL_STAND",
+   "txdName": "RC_SHOP",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2492,
+   "modelName": "MANHUNT_TOY2_1",
+   "txdName": "RC_SHOP_figure",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 2493,
+   "modelName": "VICE_TOY2_1",
+   "txdName": "RC_SHOP_figure",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 2494,
+   "modelName": "MANHUNT_TOY2_2",
+   "txdName": "RC_SHOP_figure",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 2495,
+   "modelName": "VICE_TOY_2",
+   "txdName": "RC_SHOP_figure",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 2496,
+   "modelName": "VICE_TOY2_2",
+   "txdName": "RC_SHOP_figure",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 2497,
+   "modelName": "HOBBY_KITE2",
+   "txdName": "RC_SHOP_HANGER",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2498,
+   "modelName": "HOBBY_KITE3",
+   "txdName": "RC_SHOP_HANGER",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2499,
+   "modelName": "HOBBY_KITE4",
+   "txdName": "RC_SHOP_HANGER",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2500,
+   "modelName": "CJ_FF_COFFEE",
+   "txdName": "CJ_JUCIE",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2501,
+   "modelName": "Train_toy_1",
+   "txdName": "RC_SHOP_trains",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 2502,
+   "modelName": "CJ_HOBBY_SHELF_5",
+   "txdName": "RC_SHOP",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 2503,
+   "modelName": "Train_toy_2",
+   "txdName": "RC_SHOP_trains",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 2504,
+   "modelName": "Train_toy_3",
+   "txdName": "RC_SHOP_trains",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 2505,
+   "modelName": "MODEL_toy_1",
+   "txdName": "RC_SHOP_trains",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 2506,
+   "modelName": "MODEL_toy_2",
+   "txdName": "RC_SHOP_trains",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 2507,
+   "modelName": "MODEL_toy_3",
+   "txdName": "RC_SHOP_trains",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 2508,
+   "modelName": "MODEL_toy_4",
+   "txdName": "RC_SHOP_trains",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 2509,
+   "modelName": "CJ_HOBBY_SHELF_6",
+   "txdName": "RC_SHOP",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2510,
+   "modelName": "MODEL_PLANE_BIG2",
+   "txdName": "RC_SHOP_HANGER",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2511,
+   "modelName": "MODEL_PLANE_BIG1",
+   "txdName": "RC_SHOP_HANGER",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2512,
+   "modelName": "MODEL_PLANE_BIG3",
+   "txdName": "RC_SHOP_HANGER",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2513,
+   "modelName": "MODEL_TRAINS3",
+   "txdName": "RC_SHOP_trains",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 2514,
+   "modelName": "CJ_TOILET1",
+   "txdName": "CJ_BATHROOM",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2515,
+   "modelName": "CJ_BS_SINK",
+   "txdName": "CJ_Bs_bathroom",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2516,
+   "modelName": "CJ_BATH1",
+   "txdName": "CJ_BATHROOM",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2517,
+   "modelName": "CJ_SHOWER1",
+   "txdName": "CJ_BATHROOM",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 2518,
+   "modelName": "CJ_B_SINK2",
+   "txdName": "CJ_BATHROOM",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2519,
+   "modelName": "CJ_BATH2",
+   "txdName": "CJ_BATHROOM",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2520,
+   "modelName": "CJ_SHOWER2",
+   "txdName": "CJ_BATHROOM",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 2521,
+   "modelName": "CJ_TOILET2",
+   "txdName": "CJ_BATHROOM",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2522,
+   "modelName": "CJ_BATH3",
+   "txdName": "CJ_BATHROOM",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 2523,
+   "modelName": "CJ_B_SINK3",
+   "txdName": "CJ_BATHROOM",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2524,
+   "modelName": "CJ_B_SINK4",
+   "txdName": "CJ_BATHROOM",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2525,
+   "modelName": "CJ_TOILET4",
+   "txdName": "CJ_BATHROOM",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2526,
+   "modelName": "CJ_BATH4",
+   "txdName": "CJ_BATHROOM",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2527,
+   "modelName": "CJ_SHOWER4",
+   "txdName": "CJ_BATHROOM",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 2528,
+   "modelName": "CJ_TOILET3",
+   "txdName": "CJ_BATHROOM",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2529,
+   "modelName": "CJ_OFF2_LIC_2_L",
+   "txdName": "CJ_OFF_LIC",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2530,
+   "modelName": "CJ_OFF2_LIC_2_R",
+   "txdName": "CJ_OFF_LIC",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2531,
+   "modelName": "CJ_OFF2_LIC_1_M",
+   "txdName": "CJ_OFF_LIC",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2532,
+   "modelName": "CJ_OFF2_LIC_1_R",
+   "txdName": "CJ_OFF_LIC",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2533,
+   "modelName": "CJ_OFF2_LIC_1_L",
+   "txdName": "CJ_OFF_LIC",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2534,
+   "modelName": "CJ_OFF2_LIC_2_M",
+   "txdName": "CJ_OFF_LIC",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2535,
+   "modelName": "CJ_SS_1_M",
+   "txdName": "CJ_SS_4",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2536,
+   "modelName": "CJ_SS_1_L",
+   "txdName": "CJ_SS_4",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2537,
+   "modelName": "CJ_SS_1_R",
+   "txdName": "CJ_SS_4",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2538,
+   "modelName": "CJ_SS_2_R",
+   "txdName": "CJ_SS_2",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2539,
+   "modelName": "CJ_SS_2_M",
+   "txdName": "CJ_SS_2",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2540,
+   "modelName": "CJ_SS_2_L",
+   "txdName": "CJ_SS_2",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2541,
+   "modelName": "CJ_SS_3_M",
+   "txdName": "CJ_SS_1",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2542,
+   "modelName": "CJ_SS_3_L",
+   "txdName": "CJ_SS_1",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2543,
+   "modelName": "CJ_SS_4_M",
+   "txdName": "CJ_SS_3",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2544,
+   "modelName": "CJ_SS_4_L",
+   "txdName": "CJ_SS_3",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2545,
+   "modelName": "CJ_SS_4_R",
+   "txdName": "CJ_SS_3",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2546,
+   "modelName": "CJ_SS_7_M",
+   "txdName": "CJ_SS_1",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2547,
+   "modelName": "CJ_SS_6_R",
+   "txdName": "CJ_SS_1",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2548,
+   "modelName": "CJ_SS_6_M",
+   "txdName": "CJ_SS_1",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2549,
+   "modelName": "CJ_SS_6_L",
+   "txdName": "CJ_SS_1",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2550,
+   "modelName": "CJ_SS_7_R",
+   "txdName": "CJ_SS_1",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2551,
+   "modelName": "CJ_SS_7_L",
+   "txdName": "CJ_SS_1",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2552,
+   "modelName": "CJ_SS_8_R",
+   "txdName": "CJ_SS_1",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2553,
+   "modelName": "CJ_SS_8_L",
+   "txdName": "CJ_SS_1",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2554,
+   "modelName": "CJ_SS_8_M",
+   "txdName": "CJ_SS_1",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2555,
+   "modelName": "CJ_SS_5_M",
+   "txdName": "CJ_SS_1",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2556,
+   "modelName": "CJ_SS_5_L",
+   "txdName": "CJ_SS_1",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2557,
+   "modelName": "CJ_SS_5_R",
+   "txdName": "CJ_SS_1",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2558,
+   "modelName": "CURTAIN_1_CLOSED",
+   "txdName": "hospital",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2559,
+   "modelName": "CURTAIN_1_OPEN",
+   "txdName": "hospital",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2560,
+   "modelName": "CURTAIN_2_OPEN",
+   "txdName": "hospital",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2561,
+   "modelName": "CURTAIN_2_CLOSED",
+   "txdName": "hospital",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2562,
+   "modelName": "Hotel_dresser_2",
+   "txdName": "CJ_HOTEL_SW",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2563,
+   "modelName": "HOTEL_S_BEDSET_1",
+   "txdName": "CJ_HOTEL_SW",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2564,
+   "modelName": "HOTEL_D_BEDSET_1",
+   "txdName": "CJ_HOTEL_SW",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2565,
+   "modelName": "HOTEL_D_BEDSET_3",
+   "txdName": "CJ_HOTEL_SW",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2566,
+   "modelName": "HOTEL_S_BEDSET_3",
+   "txdName": "CJ_HOTEL_SW",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2567,
+   "modelName": "ab_warehouseShelf",
+   "txdName": "AB",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2568,
+   "modelName": "Hotel_dresser_3",
+   "txdName": "CJ_HOTEL_SW",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2569,
+   "modelName": "Hotel_dresser_1",
+   "txdName": "CJ_HOTEL_SW",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2570,
+   "modelName": "Hotel_dresser_4",
+   "txdName": "CJ_HOTEL",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2571,
+   "modelName": "Hotel_SINGLE_1",
+   "txdName": "CJ_HOTEL_SW",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2572,
+   "modelName": "Hotel_SINGLE_2",
+   "txdName": "CJ_HOTEL_SW",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2573,
+   "modelName": "Hotel_dresser_6",
+   "txdName": "CJ_HOTEL",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2574,
+   "modelName": "Hotel_dresser_5",
+   "txdName": "CJ_HOTEL",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2575,
+   "modelName": "HOTEL_S_BEDSET_8",
+   "txdName": "CJ_HOTEL_poor",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2576,
+   "modelName": "Hotel_dresser_8",
+   "txdName": "CJ_HOTEL_poor",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2577,
+   "modelName": "CJ_SEX_COUNTER",
+   "txdName": "CJ_SEX",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 2578,
+   "modelName": "CJ_SEX_SHELF_1",
+   "txdName": "CJ_SEX",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2579,
+   "modelName": "CJ_SEX_SHELF_2",
+   "txdName": "CJ_SEX",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2580,
+   "modelName": "SEX_1",
+   "txdName": "CJ_SEX",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 2581,
+   "modelName": "CJ_SEX_V_RACK",
+   "txdName": "CJ_SEX",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2582,
+   "modelName": "CJ_SEX_VIDEO_1",
+   "txdName": "CJ_SEX",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2583,
+   "modelName": "CJ_SEX_VIDEO_2",
+   "txdName": "CJ_SEX",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2584,
+   "modelName": "CJ_sex_dildo",
+   "txdName": "CJ_SEX",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 2585,
+   "modelName": "CJ_SEX_SHELF_3",
+   "txdName": "CJ_SEX",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2586,
+   "modelName": "CJ_SEX_COUNTER2",
+   "txdName": "CJ_SEX",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 2587,
+   "modelName": "SEX_2",
+   "txdName": "CJ_SEX",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 2588,
+   "modelName": "SEX_3",
+   "txdName": "CJ_SEX",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 2589,
+   "modelName": "ab_carcass",
+   "txdName": "AB_AB",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2590,
+   "modelName": "ab_hook",
+   "txdName": "AB_AB",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2591,
+   "modelName": "ab_partition1",
+   "txdName": "ab_partition1",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2592,
+   "modelName": "ab_slotTable",
+   "txdName": "AB_VEG",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2593,
+   "modelName": "roleplay_rack",
+   "txdName": "CJ_SEX",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2594,
+   "modelName": "roleplay_outfits",
+   "txdName": "CJ_SEX",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2595,
+   "modelName": "CJ_SHOP_TV_VIDEO",
+   "txdName": "CJ_SEX",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2596,
+   "modelName": "CJ_SEX_TV",
+   "txdName": "CJ_SEX",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2597,
+   "modelName": "DILDO_rack1",
+   "txdName": "CJ_SEX",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2598,
+   "modelName": "DILDO_rack2",
+   "txdName": "CJ_SEX",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2599,
+   "modelName": "CJ_SEX_SHOP_SIGN",
+   "txdName": "CJ_SEX",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2600,
+   "modelName": "CJ_VIEW_TELE",
+   "txdName": "External",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2601,
+   "modelName": "CJ_JUICE_CAN",
+   "txdName": "JUICE",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2602,
+   "modelName": "Police_cell_Toilet",
+   "txdName": "POLICE_PROPS_un",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2603,
+   "modelName": "Police_Cell_Bed",
+   "txdName": "POLICE_PROPS_un",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2604,
+   "modelName": "CJ_POLICE_COUNTER",
+   "txdName": "POLICE_PROPS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2605,
+   "modelName": "POLCE_DESK1",
+   "txdName": "POLICE_PROPS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2606,
+   "modelName": "CJ_POLICE_COUNTER2",
+   "txdName": "POLICE_PROPS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2607,
+   "modelName": "POLCE_DESK2",
+   "txdName": "POLICE_PROPS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2608,
+   "modelName": "POLCE_SHELF",
+   "txdName": "POLICE_PROPS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2609,
+   "modelName": "CJ_P_FILEING1",
+   "txdName": "POLICE_PROPS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2610,
+   "modelName": "CJ_P_FILEING2",
+   "txdName": "POLICE_PROPS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2611,
+   "modelName": "POLICE_NB1",
+   "txdName": "POLICE_PROPS_un",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2612,
+   "modelName": "POLICE_NB2",
+   "txdName": "POLICE_PROPS_un",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2613,
+   "modelName": "POLICE_WASTEBIN",
+   "txdName": "POLICE_PROPS_un",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2614,
+   "modelName": "CJ_US_FLAG",
+   "txdName": "POLICE_PROPS_un",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2615,
+   "modelName": "POLICE_NB3",
+   "txdName": "POLICE_PROPS_un",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2616,
+   "modelName": "POLICE_NB04",
+   "txdName": "POLICE_PROPS_un",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2617,
+   "modelName": "Hotel_SINGLE_3",
+   "txdName": "CJ_HOTEL_SW",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2618,
+   "modelName": "CJ_SLOT_PROPg",
+   "txdName": "CJ_CASINO_prop",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2619,
+   "modelName": "mp_ammoambient",
+   "txdName": "ammounique",
+   "drawDistance": 60,
+   "flags": 0
+  },
+  {
+   "id": 2620,
+   "modelName": "CJ_TRAINER_ERIS",
+   "txdName": "skate_shop",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2621,
+   "modelName": "CJ_TRAINER_HEAT",
+   "txdName": "skate_shop",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2622,
+   "modelName": "CJ_TRAINER_PRO",
+   "txdName": "skate_shop",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2623,
+   "modelName": "CJ_PRO_COUNTER",
+   "txdName": "skate_shop",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2624,
+   "modelName": "CJ_SHOE_CORNER01",
+   "txdName": "cj_urb",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2625,
+   "modelName": "CJ_SHOE_URBAN2",
+   "txdName": "cj_urb",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2626,
+   "modelName": "CJ_URB_COUNTER",
+   "txdName": "cj_urb",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2627,
+   "modelName": "gym_treadmill",
+   "txdName": "genintint_gym",
+   "drawDistance": 20,
+   "flags": 0
+  },
+  {
+   "id": 2628,
+   "modelName": "gym_bench2",
+   "txdName": "genintint_gym",
+   "drawDistance": 20,
+   "flags": 0
+  },
+  {
+   "id": 2629,
+   "modelName": "gym_bench1",
+   "txdName": "genintint_gym",
+   "drawDistance": 20,
+   "flags": 0
+  },
+  {
+   "id": 2630,
+   "modelName": "gym_bike",
+   "txdName": "genintint_gym",
+   "drawDistance": 20,
+   "flags": 0
+  },
+  {
+   "id": 2631,
+   "modelName": "gym_mat1",
+   "txdName": "genintint_gym",
+   "drawDistance": 20,
+   "flags": 0
+  },
+  {
+   "id": 2632,
+   "modelName": "gym_mat02",
+   "txdName": "genintint_gym",
+   "drawDistance": 20,
+   "flags": 0
+  },
+  {
+   "id": 2633,
+   "modelName": "crack_walkway1",
+   "txdName": "CRACK",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2634,
+   "modelName": "ab_vaultDoor",
+   "txdName": "all_vault",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2635,
+   "modelName": "CJ_PIZZA_TABLE",
+   "txdName": "PIZZA_FURN",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2636,
+   "modelName": "CJ_PIZZA_CHAIR",
+   "txdName": "PIZZA_FURN",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2637,
+   "modelName": "CJ_PIZZA_TABLE2",
+   "txdName": "PIZZA_FURN",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2638,
+   "modelName": "CJ_PIZZA_CHAIR2",
+   "txdName": "PIZZA_FURN",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2639,
+   "modelName": "CJ_PIZZA_CHAIR3",
+   "txdName": "PIZZA_FURN",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2640,
+   "modelName": "NEIL_SLOT",
+   "txdName": "CJ_COIN_OP_2",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2641,
+   "modelName": "CJ_BURGER_POSTER",
+   "txdName": "CJ_BURG_SIGN2",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2642,
+   "modelName": "CJ_BURGER_POSTER2",
+   "txdName": "CJ_BURG_SIGN",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2643,
+   "modelName": "CJ_BURGER_POSTER3",
+   "txdName": "CJ_BURG_SIGN2",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2644,
+   "modelName": "CJ_BURG_TABLE",
+   "txdName": "BURG_FURN",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2645,
+   "modelName": "CJ_PIZZA_POSTER",
+   "txdName": "CJ_piz_SIGN",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2646,
+   "modelName": "CJ_PIZZA_POSTER2",
+   "txdName": "CJ_piz_SIGN",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2647,
+   "modelName": "CJ_BS_CUP",
+   "txdName": "CJ_BURG_SIGN",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2648,
+   "modelName": "CJ_STEAL_TV",
+   "txdName": "CJ_STEAL_TV",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2649,
+   "modelName": "CJ_aircon2",
+   "txdName": "skate_shop",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2650,
+   "modelName": "CJ_Skate_wall2",
+   "txdName": "skate_shop",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2651,
+   "modelName": "CJ_Skate_wall1",
+   "txdName": "skate_shop",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2652,
+   "modelName": "CJ_SKATE_CUBES",
+   "txdName": "skate_shop",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2653,
+   "modelName": "CJ_aircon3",
+   "txdName": "skate_shop",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2654,
+   "modelName": "CJ_shoe_box",
+   "txdName": "skate_shop",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2655,
+   "modelName": "CJ_BANNER1",
+   "txdName": "cj_banner",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 2656,
+   "modelName": "CJ_BANNER02",
+   "txdName": "cj_banner",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 2657,
+   "modelName": "CJ_BANNER03",
+   "txdName": "cj_banner",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 2658,
+   "modelName": "CJ_BANNER04",
+   "txdName": "cj_banner",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 2659,
+   "modelName": "CJ_BANNER05",
+   "txdName": "cj_bobo",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 2660,
+   "modelName": "CJ_BANNER06",
+   "txdName": "cj_banner",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 2661,
+   "modelName": "CJ_BANNER07",
+   "txdName": "cj_banner",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 2662,
+   "modelName": "CJ_BANNER08",
+   "txdName": "cj_bobo",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 2663,
+   "modelName": "CJ_BS_BAG",
+   "txdName": "CJ_BURG_SIGN",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2664,
+   "modelName": "CJ_SUBURB_DOOR",
+   "txdName": "cj_urb",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2665,
+   "modelName": "CJ_FF_LIST04",
+   "txdName": "CJ_piz_SIGN",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2666,
+   "modelName": "CJ_PIZ_POSTER2",
+   "txdName": "CJ_piz_SIGN",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2667,
+   "modelName": "CJ_PIZ_POSTER1",
+   "txdName": "CJ_piz_SIGN",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2668,
+   "modelName": "CJ_PIZ_POSTER3",
+   "txdName": "CJ_piz_SIGN",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2669,
+   "modelName": "CJ_CHRIS_CRATE",
+   "txdName": "CJ_CHRIS",
+   "drawDistance": 60,
+   "flags": 0
+  },
+  {
+   "id": 2670,
+   "modelName": "PROC_RUBBISH_1",
+   "txdName": "PROC_RUB",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 2671,
+   "modelName": "PROC_RUBBISH_3",
+   "txdName": "PROC_RUB",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 2672,
+   "modelName": "PROC_RUBBISH_4",
+   "txdName": "PROC_RUB",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 2673,
+   "modelName": "PROC_RUBBISH_5",
+   "txdName": "PROC_RUB",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 2674,
+   "modelName": "PROC_RUBBISH_2",
+   "txdName": "PROC_RUB",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 2675,
+   "modelName": "PROC_RUBBISH_6",
+   "txdName": "PROC_RUB",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 2676,
+   "modelName": "PROC_RUBBISH_8",
+   "txdName": "PROC_RUB",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 2677,
+   "modelName": "PROC_RUBBISH_7",
+   "txdName": "PROC_RUB",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 2678,
+   "modelName": "CJ_CHRIS_CRATE_LD",
+   "txdName": "CJ_CHRIS",
+   "drawDistance": 60,
+   "flags": 0
+  },
+  {
+   "id": 2679,
+   "modelName": "CJ_CHRIS_CRATE_RD",
+   "txdName": "CJ_CHRIS",
+   "drawDistance": 60,
+   "flags": 0
+  },
+  {
+   "id": 2680,
+   "modelName": "CJ_Padlock",
+   "txdName": "CJ_CHRIS",
+   "drawDistance": 60,
+   "flags": 0
+  },
+  {
+   "id": 2681,
+   "modelName": "CJ_COIN_OP",
+   "txdName": "CJ_COIN_OP",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2682,
+   "modelName": "PIZZA_MENU",
+   "txdName": "PIZZA_FURN",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2683,
+   "modelName": "PIZZA_S_P",
+   "txdName": "PIZZA_FURN",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2684,
+   "modelName": "CJ_food_post",
+   "txdName": "PROC_RUB",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 2685,
+   "modelName": "CJ_food_post1",
+   "txdName": "PROC_RUB",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 2686,
+   "modelName": "CJ_food_post2",
+   "txdName": "PROC_RUB",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 2687,
+   "modelName": "CJ_food_post3",
+   "txdName": "PROC_RUB",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 2688,
+   "modelName": "CJ_food_post4",
+   "txdName": "PROC_RUB",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 2689,
+   "modelName": "CJ_HOODIE_2",
+   "txdName": "SPORT_CLOTH",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2690,
+   "modelName": "CJ_FIRE_EXT",
+   "txdName": "PROC_RUB",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2691,
+   "modelName": "CJ_BANNER09",
+   "txdName": "cj_base5",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 2692,
+   "modelName": "CJ_BANNER10",
+   "txdName": "cj_banner2",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2693,
+   "modelName": "CJ_BANNER11",
+   "txdName": "cj_banner2",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2694,
+   "modelName": "CJ_shoe_box2",
+   "txdName": "skate_shop",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2695,
+   "modelName": "CJ_BANNER12",
+   "txdName": "cj_base5",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 2696,
+   "modelName": "CJ_BANNER13",
+   "txdName": "cj_base5",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 2697,
+   "modelName": "CJ_BANNER14",
+   "txdName": "skate_shop",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 2698,
+   "modelName": "CJ_DUDS_RAIL01",
+   "txdName": "skate_shop",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2699,
+   "modelName": "CJ_DUDS_RAIL02",
+   "txdName": "skate_shop",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2700,
+   "modelName": "CJ_SEX_TV2",
+   "txdName": "CJ_SEX",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2701,
+   "modelName": "CJ_PRO_LIGHT",
+   "txdName": "skate_shop",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2702,
+   "modelName": "CJ_PIZZA_1",
+   "txdName": "pick_up",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2703,
+   "modelName": "CJ_BURG_1",
+   "txdName": "pick_up",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2704,
+   "modelName": "CJ_HOODIE_3",
+   "txdName": "SPORT_CLOTH",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2705,
+   "modelName": "CJ_HOODIE_04",
+   "txdName": "SPORT_CLOTH",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2706,
+   "modelName": "CJ_HOODIE_05",
+   "txdName": "SPORT_CLOTH",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2707,
+   "modelName": "CJ_LIGHT_FIT",
+   "txdName": "Shopping",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 2708,
+   "modelName": "ZIP_SHELF1",
+   "txdName": "Shopping",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2709,
+   "modelName": "Pain_Killer",
+   "txdName": "pick_up",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2710,
+   "modelName": "WATCH_PICKUP",
+   "txdName": "pick_up",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2711,
+   "modelName": "Tatoo_needle",
+   "txdName": "CJ_ANIM",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2712,
+   "modelName": "CJ_MOP",
+   "txdName": "CJ_ANIM",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2713,
+   "modelName": "cj_bucket",
+   "txdName": "CJ_ANIM",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2714,
+   "modelName": "CJ_OPEN_SIGN_2",
+   "txdName": "CJ_FF_ACC1",
+   "drawDistance": 50,
+   "flags": 2097156
+  },
+  {
+   "id": 2715,
+   "modelName": "CJ_DON_POSTER",
+   "txdName": "CJ_DON_SIGN",
+   "drawDistance": 20,
+   "flags": 4
+  },
+  {
+   "id": 2716,
+   "modelName": "CJ_DON_POSTER3",
+   "txdName": "CJ_DON_SIGN",
+   "drawDistance": 20,
+   "flags": 4
+  },
+  {
+   "id": 2717,
+   "modelName": "CJ_DON_POSTER2",
+   "txdName": "CJ_DON_SIGN",
+   "drawDistance": 20,
+   "flags": 4
+  },
+  {
+   "id": 2718,
+   "modelName": "CJ_FLY_KILLER",
+   "txdName": "CJ_FF_ACC2",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2719,
+   "modelName": "CJ_BANNER15",
+   "txdName": "cj_banner3",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 2720,
+   "modelName": "CJ_BANNER16",
+   "txdName": "cj_banner3",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 2721,
+   "modelName": "CJ_BANNER17",
+   "txdName": "cj_banner3",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 2722,
+   "modelName": "CJ_BANNER18",
+   "txdName": "cj_banner3",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 2723,
+   "modelName": "LM_stripStool",
+   "txdName": "LEE_TXD",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2724,
+   "modelName": "LM_stripChair",
+   "txdName": "LEE_TXD",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2725,
+   "modelName": "LM_stripTable",
+   "txdName": "LEE_TXD",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2726,
+   "modelName": "LM_stripLamp",
+   "txdName": "LEE_TXD",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2727,
+   "modelName": "DS_SIGN",
+   "txdName": "DS_SIGN",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2728,
+   "modelName": "DS_BACKLIGHT",
+   "txdName": "DS_SIGN",
+   "drawDistance": 100,
+   "flags": 68
+  },
+  {
+   "id": 2729,
+   "modelName": "CJ_BINC_POST3",
+   "txdName": "CJ_BINC_SIGN",
+   "drawDistance": 20,
+   "flags": 4
+  },
+  {
+   "id": 2730,
+   "modelName": "CJ_BINC_POST2",
+   "txdName": "CJ_BINC_SIGN",
+   "drawDistance": 20,
+   "flags": 4
+  },
+  {
+   "id": 2731,
+   "modelName": "CJ_BINC_POST",
+   "txdName": "CJ_BINC_SIGN",
+   "drawDistance": 20,
+   "flags": 4
+  },
+  {
+   "id": 2732,
+   "modelName": "CJ_ZIP_POST_2",
+   "txdName": "CJ_ZIP_SIGN",
+   "drawDistance": 20,
+   "flags": 4
+  },
+  {
+   "id": 2733,
+   "modelName": "CJ_ZIP_POST_1",
+   "txdName": "CJ_ZIP_SIGN",
+   "drawDistance": 20,
+   "flags": 4
+  },
+  {
+   "id": 2734,
+   "modelName": "CJ_ZIP_POST_3",
+   "txdName": "CJ_ZIP_SIGN",
+   "drawDistance": 20,
+   "flags": 4
+  },
+  {
+   "id": 2735,
+   "modelName": "CJ_ZIP_POST_4",
+   "txdName": "CJ_ZIP_SIGN",
+   "drawDistance": 20,
+   "flags": 4
+  },
+  {
+   "id": 2736,
+   "modelName": "CJ_ZIP_POST_05",
+   "txdName": "CJ_ZIP_SIGN",
+   "drawDistance": 20,
+   "flags": 4
+  },
+  {
+   "id": 2737,
+   "modelName": "POLICE_NB_car",
+   "txdName": "POLICE_PROPS",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2738,
+   "modelName": "CJ_TOILET_BS",
+   "txdName": "CJ_Bs_bathroom",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2739,
+   "modelName": "CJ_B_SINK1",
+   "txdName": "CJ_BATHROOM",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2740,
+   "modelName": "cj_bs_light",
+   "txdName": "CJ_Bs_bathroom",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2741,
+   "modelName": "CJ_SOAP_DISP",
+   "txdName": "CJ_Bs_bathroom",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2742,
+   "modelName": "CJ_HANDDRIER",
+   "txdName": "CJ_Bs_bathroom",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2743,
+   "modelName": "CJ_STAT_1",
+   "txdName": "cj_statue_1",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2744,
+   "modelName": "CJ_STAT_2",
+   "txdName": "cj_statue_1",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2745,
+   "modelName": "CJ_STAT_3",
+   "txdName": "cj_statue_1",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2746,
+   "modelName": "CJ_DONUT_CHAIR",
+   "txdName": "PIZZA_FURN",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2747,
+   "modelName": "CJ_donut_TABLE",
+   "txdName": "PIZZA_FURN",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2748,
+   "modelName": "CJ_DONUT_CHAIR2",
+   "txdName": "PIZZA_FURN",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2749,
+   "modelName": "CJ_hairspray",
+   "txdName": "cj_hair",
+   "drawDistance": 60,
+   "flags": 0
+  },
+  {
+   "id": 2750,
+   "modelName": "CJ_hair_dryer",
+   "txdName": "cj_hair",
+   "drawDistance": 60,
+   "flags": 0
+  },
+  {
+   "id": 2751,
+   "modelName": "CJ_hairsCREAM",
+   "txdName": "cj_hair",
+   "drawDistance": 60,
+   "flags": 0
+  },
+  {
+   "id": 2752,
+   "modelName": "CJ_hairspray2",
+   "txdName": "cj_hair",
+   "drawDistance": 60,
+   "flags": 0
+  },
+  {
+   "id": 2753,
+   "modelName": "CJ_FF_TILL_que",
+   "txdName": "CJ_FF_ACC1",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2754,
+   "modelName": "OTB_machine",
+   "txdName": "OTB_machine",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2755,
+   "modelName": "Dojo_Wall",
+   "txdName": "ab_dojowall",
+   "drawDistance": 100,
+   "flags": 2097152
+  },
+  {
+   "id": 2756,
+   "modelName": "CJ_S1_base",
+   "txdName": "cj_statue_2",
+   "drawDistance": 50,
+   "flags": 4194304
+  },
+  {
+   "id": 2757,
+   "modelName": "CJ_S1_Larm",
+   "txdName": "cj_statue_2",
+   "drawDistance": 50,
+   "flags": 4194304
+  },
+  {
+   "id": 2758,
+   "modelName": "CJ_S1_Rarm",
+   "txdName": "cj_statue_2",
+   "drawDistance": 50,
+   "flags": 4194304
+  },
+  {
+   "id": 2759,
+   "modelName": "CJ_S1_Head",
+   "txdName": "cj_statue_2",
+   "drawDistance": 50,
+   "flags": 4194304
+  },
+  {
+   "id": 2760,
+   "modelName": "CJ_S1_torso",
+   "txdName": "cj_statue_2",
+   "drawDistance": 50,
+   "flags": 4194304
+  },
+  {
+   "id": 2761,
+   "modelName": "CJ_S1_legs",
+   "txdName": "cj_statue_2",
+   "drawDistance": 50,
+   "flags": 4194304
+  },
+  {
+   "id": 2762,
+   "modelName": "CJ_CHICK_TABLE",
+   "txdName": "PIZZA_FURN",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2763,
+   "modelName": "CJ_CHICK_TABLE_2",
+   "txdName": "PIZZA_FURN",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2764,
+   "modelName": "CJ_PIZZA_TABLE03",
+   "txdName": "PIZZA_FURN",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2765,
+   "modelName": "CJ_CB_LIST1",
+   "txdName": "CJ_CB_SIGN",
+   "drawDistance": 20,
+   "flags": 4
+  },
+  {
+   "id": 2766,
+   "modelName": "CJ_CB_LIST2",
+   "txdName": "CJ_CB_SIGN",
+   "drawDistance": 20,
+   "flags": 4
+  },
+  {
+   "id": 2767,
+   "modelName": "CJ_CB_TRAY",
+   "txdName": "CB_DETAILS",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 2768,
+   "modelName": "CJ_CB_BURG",
+   "txdName": "CB_DETAILS",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 2769,
+   "modelName": "CJ_CJ_BURG2",
+   "txdName": "CB_DETAILS",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 2770,
+   "modelName": "CJ_CB_BIN",
+   "txdName": "CB_DETAILS",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 2771,
+   "modelName": "CJ_OTB_TILL_Q",
+   "txdName": "CJ_FF_ACC1",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2772,
+   "modelName": "CJ_esculator",
+   "txdName": "AIRP_PROP",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2773,
+   "modelName": "CJ_AIRPRT_BAR",
+   "txdName": "AIRP_PROP",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2774,
+   "modelName": "CJ_AIRP_PILLARS",
+   "txdName": "AIRP_PROP",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2775,
+   "modelName": "CJ_AIRPRT_MON",
+   "txdName": "AIRP_PROP",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2776,
+   "modelName": "LEE_stripCHAIR2",
+   "txdName": "LEE_chair1",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2777,
+   "modelName": "LEE_stripCHAIR1",
+   "txdName": "LEE_chair1",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2778,
+   "modelName": "CJ_COIN_OP_1",
+   "txdName": "CJ_COIN_OP",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2779,
+   "modelName": "CJ_COIN_OP_2",
+   "txdName": "CJ_COIN_OP",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2780,
+   "modelName": "CJ_SMOKE_MACH",
+   "txdName": "CJ_DISCO",
+   "drawDistance": 60,
+   "flags": 2097152
+  },
+  {
+   "id": 2781,
+   "modelName": "CJ_AIR_TICKET",
+   "txdName": "pick_up",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2782,
+   "modelName": "CJ_OYSTER_2",
+   "txdName": "pick_up",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2783,
+   "modelName": "cj_bandit_6",
+   "txdName": "cj_bandit",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2784,
+   "modelName": "ab_slotTable6",
+   "txdName": "cj_bandit",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2785,
+   "modelName": "CJ_SLOT_BANK",
+   "txdName": "SLOT_BANK",
+   "drawDistance": 10,
+   "flags": 0
+  },
+  {
+   "id": 2786,
+   "modelName": "LODCJ_SLOT_BANK",
+   "txdName": "SLOT_BANKLOD",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2787,
+   "modelName": "LODcj_bandit_6",
+   "txdName": "cj_banditLOD",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2788,
+   "modelName": "CJ_BURG_CHAIR",
+   "txdName": "PIZZA_FURN",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2789,
+   "modelName": "CJ_DEPART_BOARD",
+   "txdName": "AIRP_PROP",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2790,
+   "modelName": "CJ_ARRIVE_BOARD",
+   "txdName": "AIRP_PROP",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2791,
+   "modelName": "CJ_index_BOARD",
+   "txdName": "AIRP_PROP",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2792,
+   "modelName": "CJ_AIR_D_1",
+   "txdName": "AIRP_PROP",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2793,
+   "modelName": "CJ_AIR_D_2",
+   "txdName": "AIRP_PROP",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2794,
+   "modelName": "CJ_AIR_D_3",
+   "txdName": "AIRP_PROP",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2795,
+   "modelName": "CJ_AIR_D_4",
+   "txdName": "AIRP_PROP",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2796,
+   "modelName": "CJ_AIR_D_6",
+   "txdName": "AIRP_PROP",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2797,
+   "modelName": "CJ_AIR_D_5",
+   "txdName": "AIRP_PROP",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2798,
+   "modelName": "CJ_EX_PEDALS",
+   "txdName": "genintint_gym",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2799,
+   "modelName": "castable2",
+   "txdName": "castable",
+   "drawDistance": 60,
+   "flags": 2097152
+  },
+  {
+   "id": 2800,
+   "modelName": "castable2top",
+   "txdName": "castable",
+   "drawDistance": 60,
+   "flags": 4
+  },
+  {
+   "id": 2801,
+   "modelName": "castable1top",
+   "txdName": "castable",
+   "drawDistance": 60,
+   "flags": 4
+  },
+  {
+   "id": 2802,
+   "modelName": "castable1",
+   "txdName": "castable",
+   "drawDistance": 60,
+   "flags": 0
+  },
+  {
+   "id": 2803,
+   "modelName": "CJ_MEAT_BAG_1",
+   "txdName": "CJ_MEATY",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2804,
+   "modelName": "CJ_MEAT_1",
+   "txdName": "CJ_MEATY",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2805,
+   "modelName": "CJ_MEAT_BAG_2",
+   "txdName": "CJ_MEATY",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2806,
+   "modelName": "CJ_MEAT_2",
+   "txdName": "CJ_MEATY",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2807,
+   "modelName": "CJ_BURG_CHAIR_NA",
+   "txdName": "PIZZA_FURN",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2808,
+   "modelName": "CJ_PIZZA_CHAIR4",
+   "txdName": "PIZZA_FURN",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2809,
+   "modelName": "CJ_STAT_1_BIT",
+   "txdName": "cj_statue_1",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2810,
+   "modelName": "CJ_STAT_2_bit",
+   "txdName": "cj_statue_1",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 2811,
+   "modelName": "GB_romanpot01",
+   "txdName": "gb_ornaments01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2812,
+   "modelName": "GB_platedirty01",
+   "txdName": "gb_dirtycrock01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2813,
+   "modelName": "GB_novels01",
+   "txdName": "gb_books01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2814,
+   "modelName": "GB_takeaway01",
+   "txdName": "gb_takeaway01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2815,
+   "modelName": "gb_livingrug01",
+   "txdName": "gb_rugs01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2816,
+   "modelName": "gb_bedmags01",
+   "txdName": "gb_magazines01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2817,
+   "modelName": "gb_bedrug01",
+   "txdName": "gb_bedrmrugs01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2818,
+   "modelName": "gb_bedrug02",
+   "txdName": "gb_bedrmrugs01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2819,
+   "modelName": "gb_bedclothes01",
+   "txdName": "gb_bedroomclths01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2820,
+   "modelName": "GB_kitchdirt01",
+   "txdName": "gb_dirtycrock01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2821,
+   "modelName": "gb_foodwrap01",
+   "txdName": "gb_foodwrap01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2822,
+   "modelName": "GB_kitchplatecln01",
+   "txdName": "gb_cleancrock01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2823,
+   "modelName": "gb_kitchtakeway01",
+   "txdName": "gb_kitchtake",
+   "drawDistance": 30,
+   "flags": 2097152
+  },
+  {
+   "id": 2824,
+   "modelName": "GB_novels02",
+   "txdName": "gb_books01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2825,
+   "modelName": "GB_novels03",
+   "txdName": "gb_books01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2826,
+   "modelName": "GB_novels04",
+   "txdName": "gb_books01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2827,
+   "modelName": "GB_novels05",
+   "txdName": "gb_books01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2828,
+   "modelName": "gb_ornament02",
+   "txdName": "gb_ornaments01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2829,
+   "modelName": "GB_platedirty02",
+   "txdName": "gb_dirtycrock01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2830,
+   "modelName": "GB_platedirty04",
+   "txdName": "gb_dirtycrock01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2831,
+   "modelName": "GB_platedirty03",
+   "txdName": "gb_dirtycrock01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2832,
+   "modelName": "GB_platedirty05",
+   "txdName": "gb_dirtycrock01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2833,
+   "modelName": "gb_livingrug02",
+   "txdName": "gb_rugs01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2834,
+   "modelName": "gb_livingrug03",
+   "txdName": "gb_rugs01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2835,
+   "modelName": "gb_livingrug04",
+   "txdName": "gb_rugs01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2836,
+   "modelName": "gb_livingrug05",
+   "txdName": "gb_rugs01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2837,
+   "modelName": "GB_takeaway02",
+   "txdName": "gb_takeaway01",
+   "drawDistance": 30,
+   "flags": 2097152
+  },
+  {
+   "id": 2838,
+   "modelName": "GB_takeaway03",
+   "txdName": "gb_takeaway01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2839,
+   "modelName": "GB_takeaway04",
+   "txdName": "gb_takeaway01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2840,
+   "modelName": "GB_takeaway05",
+   "txdName": "gb_takeaway01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2841,
+   "modelName": "gb_bedrug03",
+   "txdName": "gb_bedrmrugs01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2842,
+   "modelName": "gb_bedrug04",
+   "txdName": "gb_bedrmrugs01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2843,
+   "modelName": "gb_bedclothes02",
+   "txdName": "gb_bedroomclths01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2844,
+   "modelName": "gb_bedclothes03",
+   "txdName": "gb_bedroomclths01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2845,
+   "modelName": "gb_bedclothes04",
+   "txdName": "gb_bedroomclths01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2846,
+   "modelName": "gb_bedclothes05",
+   "txdName": "gb_bedroomclths01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2847,
+   "modelName": "gb_bedrug05",
+   "txdName": "gb_bedrmrugs01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2848,
+   "modelName": "GB_kitchdirt02",
+   "txdName": "gb_dirtycrock01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2849,
+   "modelName": "GB_kitchdirt03",
+   "txdName": "gb_dirtycrock01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2850,
+   "modelName": "GB_kitchdirt04",
+   "txdName": "gb_dirtycrock01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2851,
+   "modelName": "GB_kitchdirt05",
+   "txdName": "gb_dirtycrock01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2852,
+   "modelName": "gb_bedmags02",
+   "txdName": "gb_books01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2853,
+   "modelName": "gb_bedmags03",
+   "txdName": "gb_books01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2854,
+   "modelName": "gb_bedmags04",
+   "txdName": "gb_books01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2855,
+   "modelName": "gb_bedmags05",
+   "txdName": "gb_books01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2856,
+   "modelName": "gb_foodwrap02",
+   "txdName": "gb_foodwrap01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2857,
+   "modelName": "gb_kitchtakeway02",
+   "txdName": "gb_kitchtake",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2858,
+   "modelName": "gb_kitchtakeway03",
+   "txdName": "gb_kitchtake",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2859,
+   "modelName": "gb_kitchtakeway04",
+   "txdName": "gb_kitchtake",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2860,
+   "modelName": "gb_kitchtakeway05",
+   "txdName": "gb_kitchtake",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2861,
+   "modelName": "gb_foodwrap03",
+   "txdName": "gb_foodwrap01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2862,
+   "modelName": "GB_kitchplatecln02",
+   "txdName": "gb_cleancrock01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2863,
+   "modelName": "GB_kitchplatecln03",
+   "txdName": "gb_cleancrock01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2864,
+   "modelName": "GB_kitchplatecln04",
+   "txdName": "gb_cleancrock01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2865,
+   "modelName": "GB_kitchplatecln05",
+   "txdName": "gb_cleancrock01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2866,
+   "modelName": "gb_foodwrap04",
+   "txdName": "gb_foodwrap01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2867,
+   "modelName": "gb_foodwrap05",
+   "txdName": "gb_foodwrap01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2868,
+   "modelName": "gb_ornament03",
+   "txdName": "gb_ornaments01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2869,
+   "modelName": "gb_ornament04",
+   "txdName": "gb_ornaments01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2870,
+   "modelName": "gb_ornament05",
+   "txdName": "gb_ornaments01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2871,
+   "modelName": "CJ_SS_3_R",
+   "txdName": "CJ_SS_1",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2872,
+   "modelName": "CJ_COIN_OP_3",
+   "txdName": "CJ_COIN_OP",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2880,
+   "modelName": "CJ_BURG_2",
+   "txdName": "pick_up",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2881,
+   "modelName": "CJ_PIZZA_2",
+   "txdName": "pick_up",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2882,
+   "modelName": "Object01",
+   "txdName": "CHANGEME",
+   "drawDistance": 100,
+   "flags": 0
+  }
+ ],
+ "tobj": [],
+ "path": [],
+ "2dfx": [],
+ "anim": [
+  {
+   "id": 2873,
+   "modelName": "CJ_SUBURB_DOOR_2",
+   "txdName": "cj_urb",
+   "animName": "props2",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2874,
+   "modelName": "CJ_SLUSH_CUPDUM",
+   "txdName": "CHANGEME",
+   "animName": "props2",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2875,
+   "modelName": "CJ_GAP_DOOR_",
+   "txdName": "cj_gash",
+   "animName": "props2",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2876,
+   "modelName": "CJ_PRO_DOOR_01",
+   "txdName": "cj_pro",
+   "animName": "props2",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2877,
+   "modelName": "CJ_BINCO_DOOR",
+   "txdName": "cj_binc",
+   "animName": "props2",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2878,
+   "modelName": "CJ_Victim_DOOR",
+   "txdName": "cj_vic",
+   "animName": "props2",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2879,
+   "modelName": "CJ_DS_DOOR",
+   "txdName": "cj_ds_door",
+   "animName": "props2",
+   "drawDistance": 100,
+   "flags": 0
+  }
+ ],
+ "txdp": []
+}

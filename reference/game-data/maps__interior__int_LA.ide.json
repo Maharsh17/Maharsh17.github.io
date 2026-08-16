@@ -1,0 +1,1034 @@
+{
+ "objs": [
+  {
+   "id": 14383,
+   "modelName": "burg_kit1",
+   "txdName": "burg_1",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 14384,
+   "modelName": "kitchen_bits",
+   "txdName": "kit3hghg",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14385,
+   "modelName": "kb_tr_main",
+   "txdName": "trailerkb",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 14386,
+   "modelName": "kb_tr_bits",
+   "txdName": "tr_kb_bits",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 14387,
+   "modelName": "Dr_GsNEW02",
+   "txdName": "DR_GSnew",
+   "drawDistance": 75,
+   "flags": 0
+  },
+  {
+   "id": 14388,
+   "modelName": "MaddDoggs02",
+   "txdName": "DR_GSnew",
+   "drawDistance": 75,
+   "flags": 0
+  },
+  {
+   "id": 14389,
+   "modelName": "MaddDoggs03",
+   "txdName": "madpoolbit",
+   "drawDistance": 75,
+   "flags": 0
+  },
+  {
+   "id": 14390,
+   "modelName": "MaddDoggs04",
+   "txdName": "DR_GSnew",
+   "drawDistance": 75,
+   "flags": 0
+  },
+  {
+   "id": 14391,
+   "modelName": "Dr_GsNEW07",
+   "txdName": "DR_GSmix",
+   "drawDistance": 25,
+   "flags": 2
+  },
+  {
+   "id": 14392,
+   "modelName": "Dr_GsNEW08",
+   "txdName": "DR_GSstudio",
+   "drawDistance": 25,
+   "flags": 2
+  },
+  {
+   "id": 14393,
+   "modelName": "Dr_GsNEW09",
+   "txdName": "DR_GSstudio",
+   "drawDistance": 75,
+   "flags": 2
+  },
+  {
+   "id": 14394,
+   "modelName": "Dr_GsNEW10",
+   "txdName": "DR_GSnew",
+   "drawDistance": 75,
+   "flags": 0
+  },
+  {
+   "id": 14395,
+   "modelName": "Dr_GsNEW11",
+   "txdName": "DR_GSnew",
+   "drawDistance": 75,
+   "flags": 0
+  },
+  {
+   "id": 14396,
+   "modelName": "girders01",
+   "txdName": "DR_GSnew",
+   "drawDistance": 75,
+   "flags": 0
+  },
+  {
+   "id": 14397,
+   "modelName": "girders07",
+   "txdName": "DR_GSnew",
+   "drawDistance": 75,
+   "flags": 0
+  },
+  {
+   "id": 14398,
+   "modelName": "girders11",
+   "txdName": "DR_GSnew",
+   "drawDistance": 75,
+   "flags": 0
+  },
+  {
+   "id": 14399,
+   "modelName": "bar2",
+   "txdName": "DR_GSnew",
+   "drawDistance": 75,
+   "flags": 0
+  },
+  {
+   "id": 14400,
+   "modelName": "flower-bush08",
+   "txdName": "DR_GSnew",
+   "drawDistance": 25,
+   "flags": 4
+  },
+  {
+   "id": 14401,
+   "modelName": "bench1",
+   "txdName": "DR_GSnew",
+   "drawDistance": 75,
+   "flags": 0
+  },
+  {
+   "id": 14402,
+   "modelName": "flower-bush09",
+   "txdName": "DR_GSnew",
+   "drawDistance": 75,
+   "flags": 4
+  },
+  {
+   "id": 14403,
+   "modelName": "cds",
+   "txdName": "DR_GSnew",
+   "drawDistance": 75,
+   "flags": 0
+  },
+  {
+   "id": 14404,
+   "modelName": "jet_interior",
+   "txdName": "jet_interior",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14405,
+   "modelName": "chairs",
+   "txdName": "jet_interior",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14406,
+   "modelName": "mansion-light05",
+   "txdName": "gs_mansion_lights",
+   "drawDistance": 75,
+   "flags": 4
+  },
+  {
+   "id": 14407,
+   "modelName": "carter-stairs01",
+   "txdName": "Carter_block",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14408,
+   "modelName": "Carter-floors04",
+   "txdName": "Carter_block",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14409,
+   "modelName": "carter-stairs02",
+   "txdName": "Carter_block",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14410,
+   "modelName": "carter-stairs03",
+   "txdName": "Carter_block",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14411,
+   "modelName": "carter-stairs04",
+   "txdName": "Carter_block",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14412,
+   "modelName": "Carter_drugfloor",
+   "txdName": "Carter_block",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14413,
+   "modelName": "carter-column01",
+   "txdName": "Carter_block",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14414,
+   "modelName": "carter-stairs05",
+   "txdName": "Carter_block",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14415,
+   "modelName": "Carter-floors01",
+   "txdName": "Carter_block_2",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14416,
+   "modelName": "carter-stairs07",
+   "txdName": "Carter_block",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14417,
+   "modelName": "MaddDoggs05",
+   "txdName": "DR_GSnew",
+   "drawDistance": 75,
+   "flags": 0
+  },
+  {
+   "id": 14418,
+   "modelName": "MaddDoggs07",
+   "txdName": "DR_GSnew",
+   "drawDistance": 75,
+   "flags": 0
+  },
+  {
+   "id": 14419,
+   "modelName": "MaddDoggs08",
+   "txdName": "DR_GSnew",
+   "drawDistance": 75,
+   "flags": 0
+  },
+  {
+   "id": 14420,
+   "modelName": "MaddDoggs09",
+   "txdName": "DR_GSbits",
+   "drawDistance": 75,
+   "flags": 0
+  },
+  {
+   "id": 14421,
+   "modelName": "MaddDoggs10",
+   "txdName": "DR_GSnew",
+   "drawDistance": 75,
+   "flags": 0
+  },
+  {
+   "id": 14422,
+   "modelName": "MaddDoggs01",
+   "txdName": "DR_GSnew",
+   "drawDistance": 75,
+   "flags": 0
+  },
+  {
+   "id": 14423,
+   "modelName": "MaddDoggs12",
+   "txdName": "DR_GSnew",
+   "drawDistance": 75,
+   "flags": 0
+  },
+  {
+   "id": 14424,
+   "modelName": "MaddDoggs13",
+   "txdName": "DR_GSnew",
+   "drawDistance": 75,
+   "flags": 0
+  },
+  {
+   "id": 14425,
+   "modelName": "MaddDoggs14",
+   "txdName": "madbedrooms",
+   "drawDistance": 75,
+   "flags": 0
+  },
+  {
+   "id": 14426,
+   "modelName": "MaddDoggs15",
+   "txdName": "DR_GSnew",
+   "drawDistance": 75,
+   "flags": 0
+  },
+  {
+   "id": 14427,
+   "modelName": "MaddDoggs16",
+   "txdName": "DR_GSnew",
+   "drawDistance": 75,
+   "flags": 0
+  },
+  {
+   "id": 14428,
+   "modelName": "MaddDoggs17",
+   "txdName": "DR_GSnew",
+   "drawDistance": 75,
+   "flags": 0
+  },
+  {
+   "id": 14429,
+   "modelName": "MaddDoggs18",
+   "txdName": "DR_GSnew",
+   "drawDistance": 75,
+   "flags": 0
+  },
+  {
+   "id": 14430,
+   "modelName": "MaddDoggs19",
+   "txdName": "DR_GSnew",
+   "drawDistance": 75,
+   "flags": 0
+  },
+  {
+   "id": 14431,
+   "modelName": "MaddDoggs20",
+   "txdName": "DR_GSnew",
+   "drawDistance": 75,
+   "flags": 0
+  },
+  {
+   "id": 14432,
+   "modelName": "carter_light01",
+   "txdName": "Carter_block",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14433,
+   "modelName": "carter_gubbins",
+   "txdName": "Carter_block",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14434,
+   "modelName": "carter-spotlight42",
+   "txdName": "Carter_block",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 14435,
+   "modelName": "carter_girders",
+   "txdName": "Carter_block",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14436,
+   "modelName": "carter_girders1",
+   "txdName": "Carter_block",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14437,
+   "modelName": "carter-bars",
+   "txdName": "Carter_block",
+   "drawDistance": 100,
+   "flags": 4
+  },
+  {
+   "id": 14438,
+   "modelName": "Carter-light04",
+   "txdName": "Carter_block",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14439,
+   "modelName": "Carter-light12",
+   "txdName": "Carter_block",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14440,
+   "modelName": "Carter_grill",
+   "txdName": "Carter_block",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14441,
+   "modelName": "Carter-light16",
+   "txdName": "Carter_block",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14442,
+   "modelName": "SHADOW-Carter",
+   "txdName": "Carter_block",
+   "drawDistance": 100,
+   "flags": 4
+  },
+  {
+   "id": 14443,
+   "modelName": "burning_blinds08",
+   "txdName": "ganghoos",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14444,
+   "modelName": "Carter-TopFloor",
+   "txdName": "Carter_block_2",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14445,
+   "modelName": "carter-column02",
+   "txdName": "Carter_block",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14446,
+   "modelName": "Smokes_bed",
+   "txdName": "Carter_block",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14447,
+   "modelName": "carter-balcony",
+   "txdName": "Carter_block_2",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 14448,
+   "modelName": "carter_girders02",
+   "txdName": "Carter_block",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14449,
+   "modelName": "Carter_trampoline",
+   "txdName": "Carter_block",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14450,
+   "modelName": "carter_girders03",
+   "txdName": "Carter_block",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14451,
+   "modelName": "carter_girders04",
+   "txdName": "Carter_block",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14452,
+   "modelName": "carter_girders05",
+   "txdName": "Carter_block",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14453,
+   "modelName": "GANG_EXIT",
+   "txdName": "burglry1",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 14454,
+   "modelName": "carter-dancers",
+   "txdName": "Carter_block",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14455,
+   "modelName": "Gs_BOOKCASE",
+   "txdName": "DR_GSbits",
+   "drawDistance": 25,
+   "flags": 0
+  },
+  {
+   "id": 14456,
+   "modelName": "ceiling-roses02",
+   "txdName": "DR_GSbits",
+   "drawDistance": 75,
+   "flags": 4
+  },
+  {
+   "id": 14457,
+   "modelName": "gs_gold-disks",
+   "txdName": "DR_GSstudio",
+   "drawDistance": 75,
+   "flags": 2
+  },
+  {
+   "id": 14458,
+   "modelName": "gs_chairs",
+   "txdName": "DR_GSmix",
+   "drawDistance": 25,
+   "flags": 2
+  },
+  {
+   "id": 14459,
+   "modelName": "carter-cage",
+   "txdName": "Carter_block_2",
+   "drawDistance": 100,
+   "flags": 4
+  },
+  {
+   "id": 14460,
+   "modelName": "mansion-light05a",
+   "txdName": "gs_mansion_lights",
+   "drawDistance": 75,
+   "flags": 4
+  },
+  {
+   "id": 14461,
+   "modelName": "Gs_Piccies",
+   "txdName": "DR_GSbits",
+   "drawDistance": 25,
+   "flags": 0
+  },
+  {
+   "id": 14462,
+   "modelName": "Gs_piccies1",
+   "txdName": "DR_GSbits",
+   "drawDistance": 75,
+   "flags": 0
+  },
+  {
+   "id": 14463,
+   "modelName": "gs_barstuff",
+   "txdName": "Carter_block_2",
+   "drawDistance": 75,
+   "flags": 0
+  },
+  {
+   "id": 14464,
+   "modelName": "gs_cages",
+   "txdName": "Carter_block_2",
+   "drawDistance": 100,
+   "flags": 4
+  },
+  {
+   "id": 14465,
+   "modelName": "carter-alpha",
+   "txdName": "Carter_block_2",
+   "drawDistance": 75,
+   "flags": 4
+  },
+  {
+   "id": 14466,
+   "modelName": "carter-outside",
+   "txdName": "carter_outside",
+   "drawDistance": 60,
+   "flags": 0
+  },
+  {
+   "id": 14467,
+   "modelName": "carter_statue",
+   "txdName": "Carter_block_2",
+   "drawDistance": 15,
+   "flags": 0
+  },
+  {
+   "id": 14468,
+   "modelName": "flower-bush09a",
+   "txdName": "DR_GSnew",
+   "drawDistance": 75,
+   "flags": 4
+  },
+  {
+   "id": 14469,
+   "modelName": "flower-bush08a",
+   "txdName": "DR_GSnew",
+   "drawDistance": 25,
+   "flags": 4
+  },
+  {
+   "id": 14470,
+   "modelName": "mansion-light05b",
+   "txdName": "gs_mansion_lights",
+   "drawDistance": 75,
+   "flags": 4
+  },
+  {
+   "id": 14471,
+   "modelName": "carls_moms_kit2",
+   "txdName": "carls_kit1",
+   "drawDistance": 40,
+   "flags": 128
+  },
+  {
+   "id": 14472,
+   "modelName": "carls_moms_kit1",
+   "txdName": "carls_kit2",
+   "drawDistance": 40,
+   "flags": 0
+  },
+  {
+   "id": 14473,
+   "modelName": "mansionlights2",
+   "txdName": "mansionlights",
+   "drawDistance": 75,
+   "flags": 4
+  },
+  {
+   "id": 14474,
+   "modelName": "ganghse_int1",
+   "txdName": "ganghoos",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14475,
+   "modelName": "ganghse_int2",
+   "txdName": "ganghoos",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14476,
+   "modelName": "carlscrap",
+   "txdName": "carlslounge",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 14477,
+   "modelName": "carlsbits",
+   "txdName": "crlsbits",
+   "drawDistance": 12,
+   "flags": 4
+  },
+  {
+   "id": 14478,
+   "modelName": "carlsshadfloor",
+   "txdName": "carlsflr",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 14479,
+   "modelName": "motel_skuzmain1",
+   "txdName": "skuzzy_motelmain",
+   "drawDistance": 40,
+   "flags": 0
+  },
+  {
+   "id": 14480,
+   "modelName": "motel_toilet",
+   "txdName": "sweets_bit1",
+   "drawDistance": 12,
+   "flags": 0
+  },
+  {
+   "id": 14481,
+   "modelName": "motel_bath1",
+   "txdName": "sweets_bit2",
+   "drawDistance": 12,
+   "flags": 0
+  },
+  {
+   "id": 14482,
+   "modelName": "motel_skuz_win",
+   "txdName": "motel_skuzwin",
+   "drawDistance": 20,
+   "flags": 0
+  },
+  {
+   "id": 14483,
+   "modelName": "maddogsfakedoors",
+   "txdName": "maddogsdoors",
+   "drawDistance": 100,
+   "flags": 4
+  },
+  {
+   "id": 14484,
+   "modelName": "MaddDoggs06",
+   "txdName": "DR_GSnew",
+   "drawDistance": 75,
+   "flags": 0
+  },
+  {
+   "id": 14485,
+   "modelName": "MaddDoggs11",
+   "txdName": "DR_GSnew",
+   "drawDistance": 75,
+   "flags": 0
+  },
+  {
+   "id": 14486,
+   "modelName": "madgym1",
+   "txdName": "ab_vegasGymBits01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14487,
+   "modelName": "madlites",
+   "txdName": "ab_vegasGymLites",
+   "drawDistance": 40,
+   "flags": 0
+  },
+  {
+   "id": 14488,
+   "modelName": "madgymroofs",
+   "txdName": "dogsgym",
+   "drawDistance": 100,
+   "flags": 4
+  },
+  {
+   "id": 14489,
+   "modelName": "carlspics",
+   "txdName": "carlspics",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 14490,
+   "modelName": "cuntchair",
+   "txdName": "crlsbits",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14491,
+   "modelName": "iwanfucker",
+   "txdName": "crlsbits",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14492,
+   "modelName": "sweets_room",
+   "txdName": "sweets_roon",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14493,
+   "modelName": "arsehole",
+   "txdName": "sweetsbits",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14494,
+   "modelName": "sweets_bath",
+   "txdName": "sweets_bit2",
+   "drawDistance": 40,
+   "flags": 0
+  },
+  {
+   "id": 14495,
+   "modelName": "sweetshall",
+   "txdName": "sweetshall",
+   "drawDistance": 40,
+   "flags": 1
+  },
+  {
+   "id": 14497,
+   "modelName": "im_couchs",
+   "txdName": "imy_mtlcouch",
+   "drawDistance": 60,
+   "flags": 0
+  },
+  {
+   "id": 14498,
+   "modelName": "imys_bigvent",
+   "txdName": "imm_rooms",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14499,
+   "modelName": "imy_motel_wins",
+   "txdName": "imm_rooms",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14500,
+   "modelName": "immy_rooms",
+   "txdName": "imm_roomss",
+   "drawDistance": 40,
+   "flags": 0
+  },
+  {
+   "id": 14501,
+   "modelName": "motel_grill",
+   "txdName": "imy_motelxtra",
+   "drawDistance": 60,
+   "flags": 4
+  },
+  {
+   "id": 14502,
+   "modelName": "imy_roomfurn",
+   "txdName": "immy_furn",
+   "drawDistance": 10,
+   "flags": 0
+  },
+  {
+   "id": 14503,
+   "modelName": "imy_roomfurn01",
+   "txdName": "immy_furn",
+   "drawDistance": 10,
+   "flags": 0
+  },
+  {
+   "id": 14504,
+   "modelName": "imy_roomfurn03",
+   "txdName": "immy_furn",
+   "drawDistance": 10,
+   "flags": 0
+  },
+  {
+   "id": 14505,
+   "modelName": "imy_roomfurn06",
+   "txdName": "immy_furn",
+   "drawDistance": 10,
+   "flags": 0
+  },
+  {
+   "id": 14506,
+   "modelName": "imy_motel_int",
+   "txdName": "imy_motel",
+   "drawDistance": 60,
+   "flags": 0
+  },
+  {
+   "id": 14507,
+   "modelName": "imy_roomfurn07",
+   "txdName": "immy_furn",
+   "drawDistance": 10,
+   "flags": 0
+  },
+  {
+   "id": 14508,
+   "modelName": "imy_roomfurn10",
+   "txdName": "immy_furn",
+   "drawDistance": 15,
+   "flags": 0
+  },
+  {
+   "id": 14509,
+   "modelName": "imy_roomfurn11",
+   "txdName": "immy_furn",
+   "drawDistance": 18,
+   "flags": 0
+  },
+  {
+   "id": 14510,
+   "modelName": "imy_roomfurn12",
+   "txdName": "immy_furn",
+   "drawDistance": 18,
+   "flags": 0
+  },
+  {
+   "id": 14511,
+   "modelName": "im_cover_tbl",
+   "txdName": "immy_furn",
+   "drawDistance": 60,
+   "flags": 0
+  },
+  {
+   "id": 14512,
+   "modelName": "immy_rooms2",
+   "txdName": "imm_roomss",
+   "drawDistance": 40,
+   "flags": 0
+  },
+  {
+   "id": 14513,
+   "modelName": "im_mtl_rail",
+   "txdName": "imy_motel",
+   "drawDistance": 70,
+   "flags": 2097156
+  },
+  {
+   "id": 14514,
+   "modelName": "hexi_lite",
+   "txdName": "hexi_lite",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14515,
+   "modelName": "im_mtel_sckts",
+   "txdName": "im_motelxtras",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14516,
+   "modelName": "im_xtra3",
+   "txdName": "im_xtra",
+   "drawDistance": 12,
+   "flags": 4
+  },
+  {
+   "id": 14517,
+   "modelName": "im_xtra1",
+   "txdName": "im_xtra",
+   "drawDistance": 12,
+   "flags": 4
+  },
+  {
+   "id": 14518,
+   "modelName": "im_xtra2",
+   "txdName": "im_xtra",
+   "drawDistance": 12,
+   "flags": 4
+  },
+  {
+   "id": 14519,
+   "modelName": "im_xtra4",
+   "txdName": "im_xtra",
+   "drawDistance": 12,
+   "flags": 4
+  },
+  {
+   "id": 14520,
+   "modelName": "immy_clothes",
+   "txdName": "immy_furn",
+   "drawDistance": 10,
+   "flags": 4
+  },
+  {
+   "id": 14521,
+   "modelName": "immy_shoes",
+   "txdName": "immy_furn",
+   "drawDistance": 10,
+   "flags": 0
+  },
+  {
+   "id": 14522,
+   "modelName": "immy_curtains02",
+   "txdName": "immy_furn",
+   "drawDistance": 40,
+   "flags": 0
+  },
+  {
+   "id": 14523,
+   "modelName": "immy_curtains05",
+   "txdName": "immy_furn",
+   "drawDistance": 40,
+   "flags": 0
+  },
+  {
+   "id": 14524,
+   "modelName": "im_couchsa",
+   "txdName": "imy_mtlcouch",
+   "drawDistance": 60,
+   "flags": 0
+  },
+  {
+   "id": 14525,
+   "modelName": "imy_otherbit",
+   "txdName": "imy_motel2",
+   "drawDistance": 60,
+   "flags": 0
+  },
+  {
+   "id": 14526,
+   "modelName": "sweetsmain",
+   "txdName": "sweetsmain",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 14527,
+   "modelName": "fannyfan",
+   "txdName": "sweetslites",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 14528,
+   "modelName": "sweetshadows",
+   "txdName": "sweetshads",
+   "drawDistance": 30,
+   "flags": 4
+  }
+ ],
+ "tobj": [
+  {
+   "id": 14496,
+   "modelName": "sweetsdaylight",
+   "txdName": "sweetslites",
+   "drawDistance": 100,
+   "flags": 4,
+   "timeOn": 6,
+   "timeOff": 21
+  }
+ ],
+ "path": [],
+ "2dfx": [],
+ "anim": [],
+ "txdp": []
+}

@@ -1,0 +1,19 @@
+[
+ [
+  "IDE",
+  "DATA\\DEFAULT.IDE"
+ ],
+ [
+  "IDE",
+  "DATA\\VEHICLES.IDE"
+ ],
+ [
+  "IDE",
+  "DATA\\PEDS.IDE"
+ ],
+ [
+  "COLFILE",
+  0,
+  "MODELS\\COLL\\WEAPONS.COL"
+ ]
+]

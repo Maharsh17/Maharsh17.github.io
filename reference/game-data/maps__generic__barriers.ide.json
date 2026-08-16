@@ -1,0 +1,240 @@
+{
+ "objs": [
+  {
+   "id": 966,
+   "modelName": "bar_gatebar01",
+   "txdName": "CJ_BARR_SET_1",
+   "drawDistance": 60,
+   "flags": 0
+  },
+  {
+   "id": 967,
+   "modelName": "bar_gatebox01",
+   "txdName": "CJ_BARR_SET_1",
+   "drawDistance": 60,
+   "flags": 4
+  },
+  {
+   "id": 968,
+   "modelName": "barrierturn",
+   "txdName": "CJ_BARR_SET_1",
+   "drawDistance": 60,
+   "flags": 0
+  },
+  {
+   "id": 969,
+   "modelName": "Electricgate",
+   "txdName": "electricgate",
+   "drawDistance": 101,
+   "flags": 4
+  },
+  {
+   "id": 970,
+   "modelName": "fencesmallb",
+   "txdName": "fences",
+   "drawDistance": 52,
+   "flags": 4
+  },
+  {
+   "id": 971,
+   "modelName": "subwaygate",
+   "txdName": "electricgate",
+   "drawDistance": 60,
+   "flags": 4
+  },
+  {
+   "id": 972,
+   "modelName": "tunnelentrance",
+   "txdName": "tunnel",
+   "drawDistance": 250,
+   "flags": 0
+  },
+  {
+   "id": 973,
+   "modelName": "sub_roadbarrier",
+   "txdName": "metalbarrier",
+   "drawDistance": 100,
+   "flags": 2097152
+  },
+  {
+   "id": 974,
+   "modelName": "tall_fence",
+   "txdName": "fences",
+   "drawDistance": 100,
+   "flags": 4
+  },
+  {
+   "id": 975,
+   "modelName": "Columbiangate",
+   "txdName": "electricgate",
+   "drawDistance": 100,
+   "flags": 4
+  },
+  {
+   "id": 976,
+   "modelName": "phils_compnd_gate",
+   "txdName": "electricgate",
+   "drawDistance": 100,
+   "flags": 4
+  },
+  {
+   "id": 977,
+   "modelName": "newtowerdoor1",
+   "txdName": "towerdoor",
+   "drawDistance": 290,
+   "flags": 0
+  },
+  {
+   "id": 978,
+   "modelName": "sub_roadright",
+   "txdName": "metalbarrier",
+   "drawDistance": 100,
+   "flags": 2097152
+  },
+  {
+   "id": 979,
+   "modelName": "sub_roadleft",
+   "txdName": "metalbarrier",
+   "drawDistance": 100,
+   "flags": 2097152
+  },
+  {
+   "id": 980,
+   "modelName": "airportgate",
+   "txdName": "electricgate",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 981,
+   "modelName": "helix_barrier",
+   "txdName": "helixbarrier",
+   "drawDistance": 200,
+   "flags": 0
+  },
+  {
+   "id": 982,
+   "modelName": "fenceshit",
+   "txdName": "bar_chainlink",
+   "drawDistance": 100,
+   "flags": 4
+  },
+  {
+   "id": 983,
+   "modelName": "fenceshit3",
+   "txdName": "bar_chainlink",
+   "drawDistance": 100,
+   "flags": 4
+  },
+  {
+   "id": 984,
+   "modelName": "fenceshit2",
+   "txdName": "bar_chainlink",
+   "drawDistance": 100,
+   "flags": 4
+  },
+  {
+   "id": 985,
+   "modelName": "gate_autoR",
+   "txdName": "gategen",
+   "drawDistance": 200,
+   "flags": 2097156
+  },
+  {
+   "id": 986,
+   "modelName": "gate_autoL",
+   "txdName": "gategen",
+   "drawDistance": 200,
+   "flags": 2097156
+  },
+  {
+   "id": 987,
+   "modelName": "elecfence_BAR",
+   "txdName": "elecfence_BAR",
+   "drawDistance": 200,
+   "flags": 0
+  },
+  {
+   "id": 988,
+   "modelName": "ws_apgate",
+   "txdName": "ws_apgatex",
+   "drawDistance": 100,
+   "flags": 4
+  },
+  {
+   "id": 989,
+   "modelName": "ac_apgate",
+   "txdName": "ws_apgatex",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 990,
+   "modelName": "bar_barrier12",
+   "txdName": "fences",
+   "drawDistance": 73,
+   "flags": 4100
+  },
+  {
+   "id": 991,
+   "modelName": "bar_barriergate1",
+   "txdName": "fences",
+   "drawDistance": 61,
+   "flags": 4100
+  },
+  {
+   "id": 992,
+   "modelName": "bar_barrier10b",
+   "txdName": "fences",
+   "drawDistance": 49,
+   "flags": 4100
+  },
+  {
+   "id": 993,
+   "modelName": "bar_barrier10",
+   "txdName": "fences",
+   "drawDistance": 73,
+   "flags": 4100
+  },
+  {
+   "id": 994,
+   "modelName": "lhouse_barrier2",
+   "txdName": "metalbarrier_CJ",
+   "drawDistance": 56,
+   "flags": 4096
+  },
+  {
+   "id": 995,
+   "modelName": "bar_barrier16",
+   "txdName": "metalbarrier_CJ",
+   "drawDistance": 56,
+   "flags": 4096
+  },
+  {
+   "id": 996,
+   "modelName": "lhouse_barrier1",
+   "txdName": "metalbarrier_CJ",
+   "drawDistance": 56,
+   "flags": 4096
+  },
+  {
+   "id": 997,
+   "modelName": "lhouse_barrier3",
+   "txdName": "metalbarrier_CJ",
+   "drawDistance": 56,
+   "flags": 4096
+  },
+  {
+   "id": 998,
+   "modelName": "Gdyn_barrier17",
+   "txdName": "metalbarrier_CJ",
+   "drawDistance": 56,
+   "flags": 4096
+  }
+ ],
+ "tobj": [],
+ "path": [],
+ "2dfx": [],
+ "anim": [],
+ "txdp": []
+}

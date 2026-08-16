@@ -1,0 +1,1781 @@
+{
+ "objs": [
+  {
+   "id": 2885,
+   "modelName": "xref_garagedoor",
+   "txdName": "factory_door",
+   "drawDistance": 60,
+   "flags": 0
+  },
+  {
+   "id": 2886,
+   "modelName": "sec_keypad",
+   "txdName": "keypad",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2887,
+   "modelName": "a51_spotbulb",
+   "txdName": "a51_spotlight",
+   "drawDistance": 140,
+   "flags": 0
+  },
+  {
+   "id": 2888,
+   "modelName": "a51_spothousing",
+   "txdName": "a51_spotlight",
+   "drawDistance": 140,
+   "flags": 0
+  },
+  {
+   "id": 2889,
+   "modelName": "a51_spotbase",
+   "txdName": "a51_spotlight",
+   "drawDistance": 140,
+   "flags": 0
+  },
+  {
+   "id": 2890,
+   "modelName": "kmb_skip",
+   "txdName": "kb_skip_TXD",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2891,
+   "modelName": "kmb_packet",
+   "txdName": "kmb_packet",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2892,
+   "modelName": "temp_stinger",
+   "txdName": "temp_stinger",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 2893,
+   "modelName": "kmb_ramp",
+   "txdName": "kmb_ramp_txd",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2894,
+   "modelName": "kmb_rhymesbook",
+   "txdName": "kmb_notebook",
+   "drawDistance": 60,
+   "flags": 0
+  },
+  {
+   "id": 2895,
+   "modelName": "fun_flower_law",
+   "txdName": "law_coffinFl",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2896,
+   "modelName": "casket_law",
+   "txdName": "law_coffinTXD",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2897,
+   "modelName": "funtarp_law",
+   "txdName": "law_coffinmu",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2898,
+   "modelName": "funturf_law",
+   "txdName": "law_coffintu",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2899,
+   "modelName": "temp_stinger2",
+   "txdName": "temp_stinger",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 2900,
+   "modelName": "temp_cardbox",
+   "txdName": "kmb_alleytxd",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2901,
+   "modelName": "kmb_marijuana",
+   "txdName": "kmb_marijtxd",
+   "drawDistance": 100,
+   "flags": 4
+  },
+  {
+   "id": 2902,
+   "modelName": "kmb_smokecan",
+   "txdName": "smokecanTXD",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2903,
+   "modelName": "kmb_parachute",
+   "txdName": "kmb_chute",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2904,
+   "modelName": "warehouse_door1",
+   "txdName": "kmb_metaldoorX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2905,
+   "modelName": "kmb_deadleg",
+   "txdName": "dead_mantxd",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2906,
+   "modelName": "kmb_deadarm",
+   "txdName": "dead_mantxd",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2907,
+   "modelName": "kmb_deadtorso",
+   "txdName": "dead_mantxd",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2908,
+   "modelName": "kmb_deadhead",
+   "txdName": "dead_mantxd",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2909,
+   "modelName": "kmb_frontgate",
+   "txdName": "maingateTXD",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2910,
+   "modelName": "temp_road",
+   "txdName": "temproadtxd",
+   "drawDistance": 250,
+   "flags": 0
+  },
+  {
+   "id": 2911,
+   "modelName": "kmb_petroldoor",
+   "txdName": "xre_petdoor",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2912,
+   "modelName": "temp_crate1",
+   "txdName": "kmb_crateX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2913,
+   "modelName": "kmb_bpress",
+   "txdName": "gym_weights",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2914,
+   "modelName": "kmb_rcflag",
+   "txdName": "rcflagx",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2915,
+   "modelName": "kmb_dumbbell2",
+   "txdName": "gym_weights",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2916,
+   "modelName": "kmb_dumbbell",
+   "txdName": "gym_weights",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2917,
+   "modelName": "a51_crane",
+   "txdName": "a51_crane",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2918,
+   "modelName": "kmb_mine",
+   "txdName": "mineX",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 2919,
+   "modelName": "kmb_holdall",
+   "txdName": "kmb_chute",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2920,
+   "modelName": "police_barrier",
+   "txdName": "pol_barrX",
+   "drawDistance": 59,
+   "flags": 0
+  },
+  {
+   "id": 2921,
+   "modelName": "kmb_cam",
+   "txdName": "kmb_camx",
+   "drawDistance": 34,
+   "flags": 132
+  },
+  {
+   "id": 2922,
+   "modelName": "kmb_keypad",
+   "txdName": "kmb_keypadX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2923,
+   "modelName": "bottle_bank",
+   "txdName": "bottle_bank",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2924,
+   "modelName": "kmb_crash3door",
+   "txdName": "crash3doorX",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 2925,
+   "modelName": "dyno_box_B",
+   "txdName": "dyno_box",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2926,
+   "modelName": "dyno_box_A",
+   "txdName": "dyno_box",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2927,
+   "modelName": "a51_blastdoorR",
+   "txdName": "a51_imy",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2928,
+   "modelName": "a51_intdoor",
+   "txdName": "a51_imy",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2929,
+   "modelName": "a51_blastdoorL",
+   "txdName": "a51_imy",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2930,
+   "modelName": "chinaTgate",
+   "txdName": "chGateX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2931,
+   "modelName": "kmb_jump1",
+   "txdName": "kmbjumpx",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2932,
+   "modelName": "kmb_container_blue",
+   "txdName": "continX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2933,
+   "modelName": "pol_comp_gate",
+   "txdName": "chGateX",
+   "drawDistance": 100,
+   "flags": 4
+  },
+  {
+   "id": 2934,
+   "modelName": "kmb_container_red",
+   "txdName": "continX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2935,
+   "modelName": "kmb_container_yel",
+   "txdName": "continX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2936,
+   "modelName": "kmb_rock",
+   "txdName": "kmb_rckX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2937,
+   "modelName": "kmb_plank",
+   "txdName": "kmb_plkX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2938,
+   "modelName": "shutter_vegas",
+   "txdName": "shutter_veg",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2939,
+   "modelName": "ramp_bot",
+   "txdName": "krampX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2940,
+   "modelName": "ramp_top",
+   "txdName": "krampX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2941,
+   "modelName": "temp_till",
+   "txdName": "CJ_COMMERCIAX",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2942,
+   "modelName": "kmb_atm1",
+   "txdName": "kmb_atmx",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2943,
+   "modelName": "kmb_atm2",
+   "txdName": "kmb_atmx",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2944,
+   "modelName": "freight_SFW_door",
+   "txdName": "bigSHAPX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2945,
+   "modelName": "kmb_netting",
+   "txdName": "kmb_netX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2946,
+   "modelName": "cr_door_03",
+   "txdName": "sw_doors",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2947,
+   "modelName": "cr_door_01",
+   "txdName": "sw_doors",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2948,
+   "modelName": "cr_door_02",
+   "txdName": "sw_doors",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2949,
+   "modelName": "kmb_lockeddoor",
+   "txdName": "kmb_lockdoortxd",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2950,
+   "modelName": "BREAK_WALL_2A",
+   "txdName": "col_wallX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2951,
+   "modelName": "a51_labdoor",
+   "txdName": "a51_labdoor",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2952,
+   "modelName": "kmb_gimpdoor",
+   "txdName": "gimp_drX",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 2953,
+   "modelName": "kmb_paper_code",
+   "txdName": "kmb_paperX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2954,
+   "modelName": "kmb_ot",
+   "txdName": "kmb_offdoorX",
+   "drawDistance": 20,
+   "flags": 0
+  },
+  {
+   "id": 2955,
+   "modelName": "imy_compin",
+   "txdName": "imrancomp_kmb",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 2956,
+   "modelName": "immmcran",
+   "txdName": "immcraX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2957,
+   "modelName": "chinaTgarageDoor",
+   "txdName": "kb_ctdoorX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2958,
+   "modelName": "cutscene_beer",
+   "txdName": "cut_beer",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 2959,
+   "modelName": "rider1_door",
+   "txdName": "rider1dr",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2960,
+   "modelName": "kmb_beam",
+   "txdName": "kmb_beamX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2961,
+   "modelName": "fire_break",
+   "txdName": "fire_brX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2962,
+   "modelName": "fire_break_glass",
+   "txdName": "fire_brX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2963,
+   "modelName": "freezer_door",
+   "txdName": "freezrX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2964,
+   "modelName": "k_pooltablesm",
+   "txdName": "k_pool",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 2965,
+   "modelName": "k_pooltriangle01",
+   "txdName": "pool_blsx",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 2966,
+   "modelName": "mobile1993b",
+   "txdName": "mobile93b",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2967,
+   "modelName": "mobile1993a",
+   "txdName": "mobile93a",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2968,
+   "modelName": "cm_box",
+   "txdName": "cm_bxX",
+   "drawDistance": 40,
+   "flags": 128
+  },
+  {
+   "id": 2969,
+   "modelName": "level_ammobox",
+   "txdName": "LV_AMMO",
+   "drawDistance": 30,
+   "flags": 131072
+  },
+  {
+   "id": 2970,
+   "modelName": "dts_bbdoor",
+   "txdName": "dts_bbX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2971,
+   "modelName": "k_smashboxes",
+   "txdName": "k_boxes",
+   "drawDistance": 40,
+   "flags": 128
+  },
+  {
+   "id": 2972,
+   "modelName": "k_cargo4",
+   "txdName": "k_cratesX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2973,
+   "modelName": "k_cargo2",
+   "txdName": "k_cratesX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2974,
+   "modelName": "k_cargo1",
+   "txdName": "k_cratesX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2975,
+   "modelName": "k_cargo3",
+   "txdName": "k_cratesX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2976,
+   "modelName": "green_gloop",
+   "txdName": "gloopX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2977,
+   "modelName": "kmilitary_crate",
+   "txdName": "k_militbX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2978,
+   "modelName": "kmilitary_base",
+   "txdName": "k_militX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2979,
+   "modelName": "reel02",
+   "txdName": "cr_slotsX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2980,
+   "modelName": "kb_bandit10",
+   "txdName": "cr_slotsX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2981,
+   "modelName": "reel03",
+   "txdName": "cr_slotsX",
+   "drawDistance": 100,
+   "flags": 64
+  },
+  {
+   "id": 2982,
+   "modelName": "reel01",
+   "txdName": "cr_slotsX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2983,
+   "modelName": "will_valve",
+   "txdName": "willVaX",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 2984,
+   "modelName": "portaloo",
+   "txdName": "PotaX",
+   "drawDistance": 180,
+   "flags": 0
+  },
+  {
+   "id": 2985,
+   "modelName": "minigun_base",
+   "txdName": "minigX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2986,
+   "modelName": "lxr_motelvent",
+   "txdName": "imm_roomX",
+   "drawDistance": 100,
+   "flags": 131072
+  },
+  {
+   "id": 2987,
+   "modelName": "lxr_motel_doorsim",
+   "txdName": "imy_moteX",
+   "drawDistance": 60,
+   "flags": 0
+  },
+  {
+   "id": 2988,
+   "modelName": "comp_wood_gate",
+   "txdName": "kcomp_gX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2989,
+   "modelName": "imy_skylight",
+   "txdName": "imy_skylX",
+   "drawDistance": 60,
+   "flags": 0
+  },
+  {
+   "id": 2990,
+   "modelName": "wongs_gate",
+   "txdName": "arseX",
+   "drawDistance": 100,
+   "flags": 2097156
+  },
+  {
+   "id": 2991,
+   "modelName": "imy_bbox",
+   "txdName": "imy_bbox",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2992,
+   "modelName": "roulette_marker",
+   "txdName": "roulX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2993,
+   "modelName": "kmb_goflag",
+   "txdName": "GOflagx",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2994,
+   "modelName": "kmb_trolley",
+   "txdName": "troleX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 2995,
+   "modelName": "k_poolballstp01",
+   "txdName": "pool_blsx",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 2996,
+   "modelName": "k_poolballstp02",
+   "txdName": "pool_blsx",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 2997,
+   "modelName": "k_poolballstp03",
+   "txdName": "pool_blsx",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 2998,
+   "modelName": "k_poolballstp04",
+   "txdName": "pool_blsx",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 2999,
+   "modelName": "k_poolballstp05",
+   "txdName": "pool_blsx",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 3000,
+   "modelName": "k_poolballstp06",
+   "txdName": "pool_blsx",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 3001,
+   "modelName": "k_poolballstp07",
+   "txdName": "pool_blsx",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 3002,
+   "modelName": "k_poolballspt01",
+   "txdName": "pool_blsx",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 3003,
+   "modelName": "k_poolballcue",
+   "txdName": "pool_blsx",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 3004,
+   "modelName": "k_poolq2",
+   "txdName": "k_pool",
+   "drawDistance": 100,
+   "flags": 131072
+  },
+  {
+   "id": 3005,
+   "modelName": "smash_box_stay",
+   "txdName": "smash_bxX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3006,
+   "modelName": "smash_box_brk",
+   "txdName": "smash_bxX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3007,
+   "modelName": "chopcop_torso",
+   "txdName": "chopcopX",
+   "drawDistance": 100,
+   "flags": 131072
+  },
+  {
+   "id": 3008,
+   "modelName": "chopcop_armR",
+   "txdName": "chopcopX",
+   "drawDistance": 100,
+   "flags": 131072
+  },
+  {
+   "id": 3009,
+   "modelName": "chopcop_armL",
+   "txdName": "chopcopX",
+   "drawDistance": 100,
+   "flags": 131072
+  },
+  {
+   "id": 3010,
+   "modelName": "chopcop_legR",
+   "txdName": "chopcopX",
+   "drawDistance": 100,
+   "flags": 131072
+  },
+  {
+   "id": 3011,
+   "modelName": "chopcop_legL",
+   "txdName": "chopcopX",
+   "drawDistance": 100,
+   "flags": 131072
+  },
+  {
+   "id": 3012,
+   "modelName": "chopcop_head",
+   "txdName": "chopcopX",
+   "drawDistance": 100,
+   "flags": 131072
+  },
+  {
+   "id": 3013,
+   "modelName": "cr_ammobox",
+   "txdName": "cr_boxes",
+   "drawDistance": 80,
+   "flags": 0
+  },
+  {
+   "id": 3014,
+   "modelName": "cr_guncrate",
+   "txdName": "cr_boxes",
+   "drawDistance": 80,
+   "flags": 0
+  },
+  {
+   "id": 3015,
+   "modelName": "cr_cratestack",
+   "txdName": "cr_boxes",
+   "drawDistance": 60,
+   "flags": 0
+  },
+  {
+   "id": 3016,
+   "modelName": "cr_ammobox_nonbrk",
+   "txdName": "cr_boxes",
+   "drawDistance": 80,
+   "flags": 0
+  },
+  {
+   "id": 3017,
+   "modelName": "arch_plans",
+   "txdName": "arch_plX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3018,
+   "modelName": "target_rleg",
+   "txdName": "targetmX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3019,
+   "modelName": "target_lleg",
+   "txdName": "targetmX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3020,
+   "modelName": "target_ltorso",
+   "txdName": "targetmX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3021,
+   "modelName": "target_rtorso",
+   "txdName": "targetmX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3022,
+   "modelName": "target_rarm",
+   "txdName": "targetmX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3023,
+   "modelName": "target_larm",
+   "txdName": "targetmX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3024,
+   "modelName": "target_head",
+   "txdName": "targetmX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3025,
+   "modelName": "target_frame",
+   "txdName": "targetmX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3026,
+   "modelName": "para_pack",
+   "txdName": "parapakX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3027,
+   "modelName": "ciggy",
+   "txdName": "ciggyX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3028,
+   "modelName": "Katana_LHand",
+   "txdName": "adswrdX",
+   "drawDistance": 100,
+   "flags": 2097152
+  },
+  {
+   "id": 3029,
+   "modelName": "cr1_door",
+   "txdName": "cr1_drX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3030,
+   "modelName": "wongs_erection",
+   "txdName": "wong_twX",
+   "drawDistance": 200,
+   "flags": 0
+  },
+  {
+   "id": 3031,
+   "modelName": "wong_dish",
+   "txdName": "wngdishx",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3032,
+   "modelName": "bd_window_shatter",
+   "txdName": "bdwinX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3033,
+   "modelName": "md_lockdoor",
+   "txdName": "mdlckdX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3034,
+   "modelName": "bd_window",
+   "txdName": "bdwinX",
+   "drawDistance": 100,
+   "flags": 1024
+  },
+  {
+   "id": 3035,
+   "modelName": "tmp_bin",
+   "txdName": "tmbinx",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3036,
+   "modelName": "ct_gatexr",
+   "txdName": "ctgtxx",
+   "drawDistance": 100,
+   "flags": 4
+  },
+  {
+   "id": 3037,
+   "modelName": "warehouse_door2b",
+   "txdName": "kmb_waredoorX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3038,
+   "modelName": "ct_lanterns",
+   "txdName": "ct_kanX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3039,
+   "modelName": "ct_stall1",
+   "txdName": "ct_salx",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3040,
+   "modelName": "ct_stall2",
+   "txdName": "ct_stabx",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3041,
+   "modelName": "ct_table",
+   "txdName": "ct_stabx",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3042,
+   "modelName": "ct_vent",
+   "txdName": "ct_ventx",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3043,
+   "modelName": "kmb_container_open",
+   "txdName": "continX",
+   "drawDistance": 100,
+   "flags": 2097152
+  },
+  {
+   "id": 3044,
+   "modelName": "CIGAR",
+   "txdName": "ciggarX",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 3045,
+   "modelName": "CIGAR_glow",
+   "txdName": "ciggarX",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 3046,
+   "modelName": "kb_barrel",
+   "txdName": "cgo_barX",
+   "drawDistance": 120,
+   "flags": 128
+  },
+  {
+   "id": 3047,
+   "modelName": "jet_baggage_Door",
+   "txdName": "jetDX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3048,
+   "modelName": "cement_in_hole",
+   "txdName": "cemenX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3049,
+   "modelName": "des_quarrygate",
+   "txdName": "qrydrx",
+   "drawDistance": 200,
+   "flags": 0
+  },
+  {
+   "id": 3050,
+   "modelName": "des_quarrygate2",
+   "txdName": "qrydrx",
+   "drawDistance": 200,
+   "flags": 0
+  },
+  {
+   "id": 3051,
+   "modelName": "lift_dr",
+   "txdName": "lift_drX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3052,
+   "modelName": "db_ammo",
+   "txdName": "DB_AMMO",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 3053,
+   "modelName": "INDUS_MAGNET",
+   "txdName": "MagnetX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3054,
+   "modelName": "DYN_WREKING_BALL",
+   "txdName": "BREAK_ballX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3055,
+   "modelName": "kmb_shutter",
+   "txdName": "kmb_shut",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 3056,
+   "modelName": "mini_magnet",
+   "txdName": "minimeX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3057,
+   "modelName": "kb_barrel_exp",
+   "txdName": "cgo_barX",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 3058,
+   "modelName": "storm_drain_cover",
+   "txdName": "stormdraiX",
+   "drawDistance": 70,
+   "flags": 0
+  },
+  {
+   "id": 3059,
+   "modelName": "imy_shash_wall",
+   "txdName": "imy_smsX",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 3060,
+   "modelName": "para_collision",
+   "txdName": "paracx",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3061,
+   "modelName": "ad_flatdoor",
+   "txdName": "addoorX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3062,
+   "modelName": "container_door",
+   "txdName": "continX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3063,
+   "modelName": "BREAK_WALL_3A",
+   "txdName": "col_wall1X",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3064,
+   "modelName": "BREAK_WALL_1A",
+   "txdName": "col_wall5X",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3065,
+   "modelName": "BBALL_col",
+   "txdName": "bballX",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 3066,
+   "modelName": "ammotrn_obj",
+   "txdName": "ammotrX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3067,
+   "modelName": "kmb_atm3",
+   "txdName": "kmb_atmx",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3068,
+   "modelName": "cargo_rear",
+   "txdName": "cargo_rear",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 3069,
+   "modelName": "d9_ramp",
+   "txdName": "cargo_rear",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3070,
+   "modelName": "kmb_goggles",
+   "txdName": "gogsX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3071,
+   "modelName": "kmb_dumbbell_R",
+   "txdName": "gym_weights",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3072,
+   "modelName": "kmb_dumbbell_L",
+   "txdName": "gym_weights",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3073,
+   "modelName": "kmb_container_broke",
+   "txdName": "continbX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3074,
+   "modelName": "d9_runway",
+   "txdName": "runwayX",
+   "drawDistance": 100,
+   "flags": 2097152
+  },
+  {
+   "id": 3075,
+   "modelName": "impexp_door",
+   "txdName": "impexpX",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 3076,
+   "modelName": "ad_roadmark1",
+   "txdName": "ad_rmx",
+   "drawDistance": 100,
+   "flags": 4
+  },
+  {
+   "id": 3077,
+   "modelName": "nf_blackboard",
+   "txdName": "blkbrdX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3078,
+   "modelName": "ad_finish",
+   "txdName": "ad_rmx",
+   "drawDistance": 100,
+   "flags": 4
+  },
+  {
+   "id": 3079,
+   "modelName": "ad_roadmark2",
+   "txdName": "ad_rmx",
+   "drawDistance": 100,
+   "flags": 4
+  },
+  {
+   "id": 3080,
+   "modelName": "ad_jump",
+   "txdName": "adjumpx",
+   "drawDistance": 240,
+   "flags": 128
+  },
+  {
+   "id": 3081,
+   "modelName": "fake_mule_col",
+   "txdName": "nonox",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3082,
+   "modelName": "ammo_capsule",
+   "txdName": "ammocapX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3083,
+   "modelName": "md_poster",
+   "txdName": "billboX",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 3084,
+   "modelName": "trdcsgrgdoor_lvs",
+   "txdName": "triaddrsx",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 3085,
+   "modelName": "nf_list_1",
+   "txdName": "blkbrdX",
+   "drawDistance": 100,
+   "flags": 4
+  },
+  {
+   "id": 3086,
+   "modelName": "wanted_cross_off",
+   "txdName": "blkbrdX",
+   "drawDistance": 100,
+   "flags": 4
+  },
+  {
+   "id": 3087,
+   "modelName": "nf_list_2",
+   "txdName": "blkbrdX",
+   "drawDistance": 100,
+   "flags": 4
+  },
+  {
+   "id": 3088,
+   "modelName": "nf_list_3",
+   "txdName": "blkbrdX",
+   "drawDistance": 100,
+   "flags": 4
+  },
+  {
+   "id": 3089,
+   "modelName": "ab_casdorLok",
+   "txdName": "mafcasX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3090,
+   "modelName": "nf_ped_coll",
+   "txdName": "nfpedcX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3091,
+   "modelName": "imy_track_barrier",
+   "txdName": "imy_trx",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3092,
+   "modelName": "dead_tied_cop",
+   "txdName": "deadcopX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3093,
+   "modelName": "cuntgirldoor",
+   "txdName": "cntdrrkx",
+   "drawDistance": 200,
+   "flags": 0
+  },
+  {
+   "id": 3094,
+   "modelName": "k_pooltableb",
+   "txdName": "k_pool",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3095,
+   "modelName": "a51_jetdoor",
+   "txdName": "a51jdrX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3096,
+   "modelName": "bb_pickup",
+   "txdName": "bbpcpx",
+   "drawDistance": 100,
+   "flags": 132
+  },
+  {
+   "id": 3097,
+   "modelName": "BREAK_WALL_2B",
+   "txdName": "col_wall3X",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3098,
+   "modelName": "BREAK_WALL_1B",
+   "txdName": "col_wall2X",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3099,
+   "modelName": "BREAK_WALL_3B",
+   "txdName": "col_wall1X",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3100,
+   "modelName": "k_poolballspt02",
+   "txdName": "pool_blsx",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 3101,
+   "modelName": "k_poolballspt03",
+   "txdName": "pool_blsx",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 3102,
+   "modelName": "k_poolballspt04",
+   "txdName": "pool_blsx",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 3103,
+   "modelName": "k_poolballspt05",
+   "txdName": "pool_blsx",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 3104,
+   "modelName": "k_poolballspt06",
+   "txdName": "pool_blsx",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 3105,
+   "modelName": "k_poolballspt07",
+   "txdName": "pool_blsx",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 3106,
+   "modelName": "k_poolball8",
+   "txdName": "pool_blsx",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 3107,
+   "modelName": "wongs_erection2",
+   "txdName": "wong_twX",
+   "drawDistance": 200,
+   "flags": 0
+  },
+  {
+   "id": 3108,
+   "modelName": "basejump_target",
+   "txdName": "bjmptX",
+   "drawDistance": 350,
+   "flags": 4
+  },
+  {
+   "id": 3109,
+   "modelName": "imy_la_door",
+   "txdName": "imyladrX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3110,
+   "modelName": "md_billbolaeb",
+   "txdName": "billboX",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 3111,
+   "modelName": "st_arch_plan",
+   "txdName": "arch_plX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3112,
+   "modelName": "TriMainLite",
+   "txdName": "maintLiteTriangle",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3113,
+   "modelName": "CARRIER_DOOR_SFSE",
+   "txdName": "carrierXr",
+   "drawDistance": 300,
+   "flags": 0
+  },
+  {
+   "id": 3114,
+   "modelName": "CARRIER_LIFT2_SFSE",
+   "txdName": "carrierXr",
+   "drawDistance": 140,
+   "flags": 0
+  },
+  {
+   "id": 3115,
+   "modelName": "CARRIER_LIFT1_SFSE",
+   "txdName": "carrierXr",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3116,
+   "modelName": "acwinch1",
+   "txdName": "kei_wnchX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3117,
+   "modelName": "a51_ventcoverb",
+   "txdName": "a51vntcvX",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3118,
+   "modelName": "imy_shash_LOD",
+   "txdName": "imy_smsX_lod",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 3119,
+   "modelName": "cs_ry_props",
+   "txdName": "cs_ry_props",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3134,
+   "modelName": "quarry_barrel",
+   "txdName": "cgo_barX",
+   "drawDistance": 120,
+   "flags": 128
+  },
+  {
+   "id": 3135,
+   "modelName": "cat2_safe_col",
+   "txdName": "kbmiscfrn1",
+   "drawDistance": 100,
+   "flags": 0
+  }
+ ],
+ "tobj": [],
+ "path": [],
+ "2dfx": [],
+ "anim": [
+  {
+   "id": 3120,
+   "modelName": "BBALL_ingame",
+   "txdName": "bballX",
+   "animName": "levelxre",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3121,
+   "modelName": "munch_donut",
+   "txdName": "munchyX",
+   "animName": "levelxre",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3122,
+   "modelName": "k_poolq",
+   "txdName": "k_pool",
+   "animName": "levelxre",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3123,
+   "modelName": "Katana_Anim",
+   "txdName": "adswrdX",
+   "animName": "levelxre",
+   "drawDistance": 100,
+   "flags": 2097152
+  },
+  {
+   "id": 3124,
+   "modelName": "Sniper_Anim",
+   "txdName": "ksnipx",
+   "animName": "levelxre",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3125,
+   "modelName": "Wd_Fence_Anim",
+   "txdName": "kfenceX",
+   "animName": "levelxre",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3126,
+   "modelName": "TATTOO_KIT",
+   "txdName": "totoie",
+   "animName": "levelxre",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3127,
+   "modelName": "BD_Fire1_o",
+   "txdName": "col_wall2X",
+   "animName": "levelxre",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3128,
+   "modelName": "BBALL_Net",
+   "txdName": "bball_hpx",
+   "animName": "levelxre",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3129,
+   "modelName": "Smlplane_door",
+   "txdName": "jt_doorbX",
+   "animName": "levelxre",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3130,
+   "modelName": "MTSafe",
+   "txdName": "kbmiscfrn1",
+   "animName": "levelxre",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3131,
+   "modelName": "PARACHUTE",
+   "txdName": "paracx",
+   "animName": "levelxre",
+   "drawDistance": 100,
+   "flags": 2097152
+  },
+  {
+   "id": 3132,
+   "modelName": "jet_door",
+   "txdName": "jt_doorX",
+   "animName": "levelxre",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3133,
+   "modelName": "pedals",
+   "txdName": "pedalsx",
+   "animName": "levelxre",
+   "drawDistance": 100,
+   "flags": 0
+  }
+ ],
+ "txdp": []
+}

@@ -7,7 +7,7 @@ PORT=8899
 FAIL=0
 fail() { echo "FAIL: $*"; FAIL=1; }
 
-PAGES="index.html loadgame.html stats.html missions.html map.html hud.html options.html quitgame.html"
+PAGES="index.html loadgame.html stats.html weapons.html missions.html map.html hud.html options.html quitgame.html"
 
 # 1. Required pages exist
 for p in $PAGES; do
@@ -25,7 +25,7 @@ for j in js/*.js; do
 done
 
 # 4. Data files are valid JSON
-for d in data/projects.json data/overrides.json data/timecyc.json; do
+for d in data/projects.json data/overrides.json data/timecyc.json data/weapons.json; do
   [ -f "$d" ] || { fail "missing $d"; continue; }
   jq empty "$d" >/dev/null 2>&1 || fail "invalid JSON in $d"
 done

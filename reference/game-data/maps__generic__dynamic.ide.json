@@ -1,0 +1,842 @@
+{
+ "objs": [
+  {
+   "id": 1207,
+   "modelName": "tiny_rock",
+   "txdName": "rock",
+   "drawDistance": 40,
+   "flags": 128
+  },
+  {
+   "id": 1208,
+   "modelName": "washer",
+   "txdName": "dynjunk",
+   "drawDistance": 40,
+   "flags": 128
+  },
+  {
+   "id": 1209,
+   "modelName": "vendmach",
+   "txdName": "vend",
+   "drawDistance": 44,
+   "flags": 128
+  },
+  {
+   "id": 1210,
+   "modelName": "briefcase",
+   "txdName": "breifcase",
+   "drawDistance": 40,
+   "flags": 128
+  },
+  {
+   "id": 1211,
+   "modelName": "fire_hydrant",
+   "txdName": "dynhydrent",
+   "drawDistance": 40,
+   "flags": 128
+  },
+  {
+   "id": 1212,
+   "modelName": "Money",
+   "txdName": "dyn_cash",
+   "drawDistance": 40,
+   "flags": 128
+  },
+  {
+   "id": 1213,
+   "modelName": "mine",
+   "txdName": "mine",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1214,
+   "modelName": "bollard",
+   "txdName": "metal",
+   "drawDistance": 40,
+   "flags": 128
+  },
+  {
+   "id": 1215,
+   "modelName": "bollardlight",
+   "txdName": "metal",
+   "drawDistance": 40,
+   "flags": 2097156
+  },
+  {
+   "id": 1216,
+   "modelName": "phonebooth1",
+   "txdName": "dynphn",
+   "drawDistance": 42,
+   "flags": 2097280
+  },
+  {
+   "id": 1217,
+   "modelName": "barrel2",
+   "txdName": "dynbarrels",
+   "drawDistance": 40,
+   "flags": 2097280
+  },
+  {
+   "id": 1218,
+   "modelName": "barrel1",
+   "txdName": "dynbarrels",
+   "drawDistance": 40,
+   "flags": 2097280
+  },
+  {
+   "id": 1219,
+   "modelName": "palette",
+   "txdName": "woodpanels",
+   "drawDistance": 50,
+   "flags": 128
+  },
+  {
+   "id": 1220,
+   "modelName": "cardboardbox2",
+   "txdName": "boxes",
+   "drawDistance": 40,
+   "flags": 128
+  },
+  {
+   "id": 1221,
+   "modelName": "cardboardbox4",
+   "txdName": "boxes",
+   "drawDistance": 40,
+   "flags": 128
+  },
+  {
+   "id": 1222,
+   "modelName": "barrel3",
+   "txdName": "dynbarrels",
+   "drawDistance": 40,
+   "flags": 2097280
+  },
+  {
+   "id": 1223,
+   "modelName": "lampost_coast",
+   "txdName": "dynsigns",
+   "drawDistance": 53,
+   "flags": 32896
+  },
+  {
+   "id": 1224,
+   "modelName": "woodenbox",
+   "txdName": "boxes",
+   "drawDistance": 41,
+   "flags": 128
+  },
+  {
+   "id": 1225,
+   "modelName": "barrel4",
+   "txdName": "dynbarrels",
+   "drawDistance": 40,
+   "flags": 2162816
+  },
+  {
+   "id": 1226,
+   "modelName": "lamppost3",
+   "txdName": "dynsigns",
+   "drawDistance": 62,
+   "flags": 32896
+  },
+  {
+   "id": 1227,
+   "modelName": "dump1",
+   "txdName": "dynbuket",
+   "drawDistance": 45,
+   "flags": 128
+  },
+  {
+   "id": 1228,
+   "modelName": "roadworkbarrier1",
+   "txdName": "barrier",
+   "drawDistance": 62,
+   "flags": 128
+  },
+  {
+   "id": 1229,
+   "modelName": "bussign1",
+   "txdName": "signs",
+   "drawDistance": 46,
+   "flags": 128
+  },
+  {
+   "id": 1230,
+   "modelName": "cardboardbox",
+   "txdName": "boxes",
+   "drawDistance": 40,
+   "flags": 2097280
+  },
+  {
+   "id": 1231,
+   "modelName": "Streetlamp2",
+   "txdName": "dynsigns",
+   "drawDistance": 55,
+   "flags": 128
+  },
+  {
+   "id": 1232,
+   "modelName": "Streetlamp1",
+   "txdName": "dynsigns",
+   "drawDistance": 55,
+   "flags": 128
+  },
+  {
+   "id": 1233,
+   "modelName": "noparkingsign1",
+   "txdName": "signs",
+   "drawDistance": 46,
+   "flags": 128
+  },
+  {
+   "id": 1234,
+   "modelName": "phonesign",
+   "txdName": "signs",
+   "drawDistance": 45,
+   "flags": 128
+  },
+  {
+   "id": 1235,
+   "modelName": "wastebin",
+   "txdName": "wastebin",
+   "drawDistance": 40,
+   "flags": 128
+  },
+  {
+   "id": 1236,
+   "modelName": "rcyclbank01",
+   "txdName": "dynrecycle",
+   "drawDistance": 45,
+   "flags": 128
+  },
+  {
+   "id": 1237,
+   "modelName": "strtbarrier01",
+   "txdName": "dyncones",
+   "drawDistance": 71,
+   "flags": 128
+  },
+  {
+   "id": 1238,
+   "modelName": "trafficcone",
+   "txdName": "dyncones",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1239,
+   "modelName": "info",
+   "txdName": "icons6",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1240,
+   "modelName": "health",
+   "txdName": "icons5",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1241,
+   "modelName": "adrenaline",
+   "txdName": "icons8",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1242,
+   "modelName": "bodyarmour",
+   "txdName": "icons7",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1243,
+   "modelName": "bouy",
+   "txdName": "buoy",
+   "drawDistance": 200,
+   "flags": 128
+  },
+  {
+   "id": 1244,
+   "modelName": "petrolpump",
+   "txdName": "petrol",
+   "drawDistance": 70,
+   "flags": 128
+  },
+  {
+   "id": 1245,
+   "modelName": "newramp",
+   "txdName": "newramp",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1246,
+   "modelName": "line",
+   "txdName": "icons",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1247,
+   "modelName": "bribe",
+   "txdName": "icons9",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1248,
+   "modelName": "bonus",
+   "txdName": "bonus",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1249,
+   "modelName": "faketarget",
+   "txdName": "fktarget",
+   "drawDistance": 10,
+   "flags": 128
+  },
+  {
+   "id": 1250,
+   "modelName": "smashbarpost",
+   "txdName": "smashbarr",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1251,
+   "modelName": "smashbar",
+   "txdName": "smashbarr",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1252,
+   "modelName": "barrelexpos",
+   "txdName": "barrelexpos",
+   "drawDistance": 50,
+   "flags": 128
+  },
+  {
+   "id": 1253,
+   "modelName": "camerapickup",
+   "txdName": "icons",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1254,
+   "modelName": "killfrenzy",
+   "txdName": "icons",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1255,
+   "modelName": "lounger",
+   "txdName": "lounger",
+   "drawDistance": 45,
+   "flags": 2097284
+  },
+  {
+   "id": 1256,
+   "modelName": "Stonebench1",
+   "txdName": "benchm",
+   "drawDistance": 50,
+   "flags": 128
+  },
+  {
+   "id": 1257,
+   "modelName": "bustopm",
+   "txdName": "bustopm",
+   "drawDistance": 60,
+   "flags": 2097284
+  },
+  {
+   "id": 1258,
+   "modelName": "Mpostbox1",
+   "txdName": "dynpostbx",
+   "drawDistance": 42,
+   "flags": 2097280
+  },
+  {
+   "id": 1259,
+   "modelName": "BillBd1",
+   "txdName": "BillBrd",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1260,
+   "modelName": "BillBd3",
+   "txdName": "BillBrd",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1261,
+   "modelName": "LODlBd2",
+   "txdName": "BillBrd",
+   "drawDistance": 400,
+   "flags": 2097280
+  },
+  {
+   "id": 1262,
+   "modelName": "MTraffic4",
+   "txdName": "mitraffic",
+   "drawDistance": 45,
+   "flags": 128
+  },
+  {
+   "id": 1263,
+   "modelName": "MTraffic3",
+   "txdName": "mitraffic",
+   "drawDistance": 45,
+   "flags": 128
+  },
+  {
+   "id": 1264,
+   "modelName": "BlackBag1",
+   "txdName": "drubish",
+   "drawDistance": 45,
+   "flags": 128
+  },
+  {
+   "id": 1265,
+   "modelName": "BlackBag2",
+   "txdName": "drubish",
+   "drawDistance": 45,
+   "flags": 128
+  },
+  {
+   "id": 1266,
+   "modelName": "LODlBd3",
+   "txdName": "BillBrd",
+   "drawDistance": 400,
+   "flags": 2097280
+  },
+  {
+   "id": 1267,
+   "modelName": "BillBd2",
+   "txdName": "BillBrd",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1268,
+   "modelName": "LODlBd1",
+   "txdName": "BillBrd",
+   "drawDistance": 400,
+   "flags": 2097280
+  },
+  {
+   "id": 1269,
+   "modelName": "parkingmeter",
+   "txdName": "signs",
+   "drawDistance": 42,
+   "flags": 128
+  },
+  {
+   "id": 1270,
+   "modelName": "parkingmeterg",
+   "txdName": "signs",
+   "drawDistance": 42,
+   "flags": 128
+  },
+  {
+   "id": 1271,
+   "modelName": "gunbox",
+   "txdName": "gunbox",
+   "drawDistance": 40,
+   "flags": 128
+  },
+  {
+   "id": 1272,
+   "modelName": "property_locked",
+   "txdName": "icons4",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1273,
+   "modelName": "property_fsale",
+   "txdName": "icons3",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1274,
+   "modelName": "bigdollar",
+   "txdName": "icons2",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1275,
+   "modelName": "clothesp",
+   "txdName": "icons1",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1276,
+   "modelName": "package1",
+   "txdName": "package1",
+   "drawDistance": 35,
+   "flags": 128
+  },
+  {
+   "id": 1277,
+   "modelName": "pickupsave",
+   "txdName": "icons4",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1278,
+   "modelName": "sub_floodlite",
+   "txdName": "docklight",
+   "drawDistance": 150,
+   "flags": 2130052
+  },
+  {
+   "id": 1279,
+   "modelName": "craigpackage",
+   "txdName": "craigpackage",
+   "drawDistance": 80,
+   "flags": 128
+  },
+  {
+   "id": 1280,
+   "modelName": "parkbench1",
+   "txdName": "benches_cj",
+   "drawDistance": 50,
+   "flags": 128
+  },
+  {
+   "id": 1281,
+   "modelName": "parktable1",
+   "txdName": "benches",
+   "drawDistance": 47,
+   "flags": 2097280
+  },
+  {
+   "id": 1282,
+   "modelName": "Barrierm",
+   "txdName": "barrierm",
+   "drawDistance": 44,
+   "flags": 2097280
+  },
+  {
+   "id": 1283,
+   "modelName": "MTraffic1",
+   "txdName": "mitraffic",
+   "drawDistance": 85,
+   "flags": 32896
+  },
+  {
+   "id": 1284,
+   "modelName": "MTraffic2",
+   "txdName": "mitraffic",
+   "drawDistance": 85,
+   "flags": 32896
+  },
+  {
+   "id": 1285,
+   "modelName": "newstandnew5",
+   "txdName": "newstand",
+   "drawDistance": 45,
+   "flags": 128
+  },
+  {
+   "id": 1286,
+   "modelName": "newstandnew4",
+   "txdName": "newstand",
+   "drawDistance": 45,
+   "flags": 128
+  },
+  {
+   "id": 1287,
+   "modelName": "newstandnew3",
+   "txdName": "newstand",
+   "drawDistance": 45,
+   "flags": 128
+  },
+  {
+   "id": 1288,
+   "modelName": "newstandnew2",
+   "txdName": "newstand",
+   "drawDistance": 45,
+   "flags": 128
+  },
+  {
+   "id": 1289,
+   "modelName": "newstandnew1",
+   "txdName": "newstand",
+   "drawDistance": 45,
+   "flags": 128
+  },
+  {
+   "id": 1290,
+   "modelName": "lamppost2",
+   "txdName": "dynsigns",
+   "drawDistance": 150,
+   "flags": 32896
+  },
+  {
+   "id": 1291,
+   "modelName": "postbox1",
+   "txdName": "dynpostbx",
+   "drawDistance": 42,
+   "flags": 128
+  },
+  {
+   "id": 1292,
+   "modelName": "postbox1_d",
+   "txdName": "dynpostbx",
+   "drawDistance": 42,
+   "flags": 128
+  },
+  {
+   "id": 1293,
+   "modelName": "papermachn01",
+   "txdName": "dynnewstnd2",
+   "drawDistance": 40,
+   "flags": 128
+  },
+  {
+   "id": 1294,
+   "modelName": "mlamppost",
+   "txdName": "streetlights",
+   "drawDistance": 55,
+   "flags": 32896
+  },
+  {
+   "id": 1295,
+   "modelName": "doublestreetlght1",
+   "txdName": "dynsigns",
+   "drawDistance": 71,
+   "flags": 32896
+  },
+  {
+   "id": 1296,
+   "modelName": "doublestreetlght1_d",
+   "txdName": "dynsigns",
+   "drawDistance": 70,
+   "flags": 32896
+  },
+  {
+   "id": 1297,
+   "modelName": "lamppost1",
+   "txdName": "dynsigns",
+   "drawDistance": 59,
+   "flags": 32896
+  },
+  {
+   "id": 1298,
+   "modelName": "lamppost1_d",
+   "txdName": "dynsigns",
+   "drawDistance": 58,
+   "flags": 32896
+  },
+  {
+   "id": 1299,
+   "modelName": "smashboxpile",
+   "txdName": "boxes",
+   "drawDistance": 40,
+   "flags": 128
+  },
+  {
+   "id": 1300,
+   "modelName": "bin1",
+   "txdName": "metal",
+   "drawDistance": 41,
+   "flags": 2097280
+  },
+  {
+   "id": 1301,
+   "modelName": "heli_magnet",
+   "txdName": "helimagnet",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1302,
+   "modelName": "vendmachfd",
+   "txdName": "vend",
+   "drawDistance": 44,
+   "flags": 128
+  },
+  {
+   "id": 1303,
+   "modelName": "dyn_quarryrock03",
+   "txdName": "dynquarryrock",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1304,
+   "modelName": "dyn_quarryrock02",
+   "txdName": "dynquarryrock",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1305,
+   "modelName": "dyn_quarryrock01",
+   "txdName": "dynquarryrock",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1306,
+   "modelName": "tlgraphpolegen",
+   "txdName": "telegraph",
+   "drawDistance": 100,
+   "flags": 32900
+  },
+  {
+   "id": 1307,
+   "modelName": "telgrphpoleall",
+   "txdName": "telegraph",
+   "drawDistance": 100,
+   "flags": 32896
+  },
+  {
+   "id": 1308,
+   "modelName": "telgrphpole02",
+   "txdName": "telegraph",
+   "drawDistance": 100,
+   "flags": 32896
+  },
+  {
+   "id": 1309,
+   "modelName": "BigBillBrd",
+   "txdName": "BillBrd",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1310,
+   "modelName": "pikupparachute",
+   "txdName": "icons7",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1311,
+   "modelName": "gen_roadsign1",
+   "txdName": "roadsign",
+   "drawDistance": 150,
+   "flags": 32896
+  },
+  {
+   "id": 1312,
+   "modelName": "gen_roadsign2",
+   "txdName": "roadsign",
+   "drawDistance": 150,
+   "flags": 32896
+  },
+  {
+   "id": 1313,
+   "modelName": "killfrenzy2plyr",
+   "txdName": "icons",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1314,
+   "modelName": "twoplayer",
+   "txdName": "icons4",
+   "drawDistance": 100,
+   "flags": 128
+  },
+  {
+   "id": 1315,
+   "modelName": "trafficlight1",
+   "txdName": "dyntraffic",
+   "drawDistance": 64,
+   "flags": 2130048
+  },
+  {
+   "id": 1316,
+   "modelName": "hoop",
+   "txdName": "ingame",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1317,
+   "modelName": "Cylinder",
+   "txdName": "ingame",
+   "drawDistance": 100,
+   "flags": 2097152
+  },
+  {
+   "id": 1318,
+   "modelName": "arrow",
+   "txdName": "ingame",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 1319,
+   "modelName": "ws_ref_bollard",
+   "txdName": "ws_roadside_DYN1",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 1320,
+   "modelName": "ws_roadwarning_05",
+   "txdName": "ws_roadside_DYN1",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 1321,
+   "modelName": "ws_roadwarning_01",
+   "txdName": "ws_roadside_DYN1",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 1322,
+   "modelName": "ws_roadwarning_02",
+   "txdName": "ws_roadside_DYN1",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 1323,
+   "modelName": "ws_roadwarning_03",
+   "txdName": "ws_roadside_DYN1",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 1324,
+   "modelName": "ws_roadwarning_04",
+   "txdName": "ws_roadside_DYN1",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 1325,
+   "modelName": "LODlBrd",
+   "txdName": "BillBrd",
+   "drawDistance": 400,
+   "flags": 2097280
+  }
+ ],
+ "tobj": [],
+ "path": [],
+ "2dfx": [],
+ "anim": [],
+ "txdp": []
+}

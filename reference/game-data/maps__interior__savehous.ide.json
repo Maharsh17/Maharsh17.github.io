@@ -1,0 +1,294 @@
+{
+ "objs": [
+  {
+   "id": 15025,
+   "modelName": "genmotelfurn_sv",
+   "txdName": "savegenmotel",
+   "drawDistance": 15,
+   "flags": 0
+  },
+  {
+   "id": 15026,
+   "modelName": "imy_roomfurn12_sv",
+   "txdName": "savegenmotel",
+   "drawDistance": 18,
+   "flags": 0
+  },
+  {
+   "id": 15027,
+   "modelName": "immy_clothes_sv",
+   "txdName": "savegenmotel",
+   "drawDistance": 10,
+   "flags": 4
+  },
+  {
+   "id": 15028,
+   "modelName": "genmotel2sh_sv",
+   "txdName": "savegenmotel",
+   "drawDistance": 10,
+   "flags": 0
+  },
+  {
+   "id": 15029,
+   "modelName": "genmotel2_sv",
+   "txdName": "savegenmotel",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 15030,
+   "modelName": "genmotel_sv",
+   "txdName": "savegenmotel",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 15031,
+   "modelName": "lasmall1_sv",
+   "txdName": "lasmallsave",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 15032,
+   "modelName": "lasmallfurn_sv",
+   "txdName": "labits",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 15033,
+   "modelName": "vegashotel_sv",
+   "txdName": "vegassavesmal",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 15034,
+   "modelName": "hotelgen_sv",
+   "txdName": "genhotelsave",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 15035,
+   "modelName": "kb_bed_test2_sv",
+   "txdName": "vegassavesmal",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 15036,
+   "modelName": "kit_cab_washin_sv",
+   "txdName": "lasmallkitch",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 15037,
+   "modelName": "MED_DINNING_2_sv",
+   "txdName": "lasmalldesk",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 15038,
+   "modelName": "Plant_Pot_3_sv",
+   "txdName": "genhotelsave",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 15039,
+   "modelName": "mrk_bed02_sv",
+   "txdName": "genhotelsave",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 15040,
+   "modelName": "cuntbits",
+   "txdName": "cuntcuts",
+   "drawDistance": 30,
+   "flags": 2
+  },
+  {
+   "id": 15041,
+   "modelName": "cunthouse",
+   "txdName": "bigsfsave",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 15042,
+   "modelName": "newhouse1",
+   "txdName": "svsfsm",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 15043,
+   "modelName": "svcuntflorday",
+   "txdName": "bigsfsave",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 15046,
+   "modelName": "countrysavehouse",
+   "txdName": "svcunthoose",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 15047,
+   "modelName": "svvgmdshadfloor",
+   "txdName": "svvgmd",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 15048,
+   "modelName": "LABIGSAVEHOUse",
+   "txdName": "labigsave",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 15049,
+   "modelName": "svlabigkitchshad",
+   "txdName": "svlabig",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 15050,
+   "modelName": "svlabigbits",
+   "txdName": "svlabigbits",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 15051,
+   "modelName": "svlasmshad",
+   "txdName": "lasmallsave",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 15052,
+   "modelName": "svsfsmshad",
+   "txdName": "svsfsmbits",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 15053,
+   "modelName": "bigniceveghotel",
+   "txdName": "vghotelnice",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 15054,
+   "modelName": "svvgmedhoose",
+   "txdName": "savesfmid",
+   "drawDistance": 40,
+   "flags": 0
+  },
+  {
+   "id": 15055,
+   "modelName": "savelamid",
+   "txdName": "svlamid",
+   "drawDistance": 40,
+   "flags": 0
+  },
+  {
+   "id": 15056,
+   "modelName": "svsfsmshadfloor2",
+   "txdName": "svsfsm",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 15057,
+   "modelName": "bihotelshad",
+   "txdName": "vghotelnice",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 15058,
+   "modelName": "midvegsavehouse",
+   "txdName": "svvgmid",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 15059,
+   "modelName": "labihalfhouse",
+   "txdName": "labigsave",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 15060,
+   "modelName": "svsfmdshadflr1",
+   "txdName": "vgsvmdshad",
+   "drawDistance": 100,
+   "flags": 4
+  },
+  {
+   "id": 15061,
+   "modelName": "svlamidshad",
+   "txdName": "lamidsaveshad",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 15062,
+   "modelName": "lamidshadflr",
+   "txdName": "lamidsaveshad",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 15063,
+   "modelName": "svmidsavebits",
+   "txdName": "svbits",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 15064,
+   "modelName": "svrails",
+   "txdName": "svrails",
+   "drawDistance": 100,
+   "flags": 4
+  }
+ ],
+ "tobj": [
+  {
+   "id": 15044,
+   "modelName": "lamidshadfloor",
+   "txdName": "savesfmid",
+   "drawDistance": 40,
+   "flags": 4,
+   "timeOn": 6,
+   "timeOff": 21
+  },
+  {
+   "id": 15045,
+   "modelName": "bigLAshadow",
+   "txdName": "labigshadow",
+   "drawDistance": 30,
+   "flags": 4,
+   "timeOn": 6,
+   "timeOff": 21
+  }
+ ],
+ "path": [],
+ "2dfx": [],
+ "anim": [],
+ "txdp": []
+}

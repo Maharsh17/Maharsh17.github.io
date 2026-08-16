@@ -1,0 +1,394 @@
+{
+ "objs": [
+  {
+   "id": 910,
+   "modelName": "BUST_CABINET_4",
+   "txdName": "Street_Rubishext",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 911,
+   "modelName": "BUST_CABINET_1",
+   "txdName": "Street_Rubishext",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 912,
+   "modelName": "BUST_CABINET_2",
+   "txdName": "Street_Rubishext",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 913,
+   "modelName": "BUST_CABINET_3",
+   "txdName": "Street_Rubishext",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 914,
+   "modelName": "GRILL",
+   "txdName": "industrialext",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 915,
+   "modelName": "AIRCON_FAN",
+   "txdName": "airconext",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 916,
+   "modelName": "FRUITCRATE2",
+   "txdName": "crates_n_stuffext",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 917,
+   "modelName": "FRUITCRATE1",
+   "txdName": "crates_n_stuffext",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 918,
+   "modelName": "CJ_FLAME_Drum",
+   "txdName": "Externalext",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 919,
+   "modelName": "AIRCON",
+   "txdName": "airconext",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 920,
+   "modelName": "Y_GENERATOR",
+   "txdName": "industrialext",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 921,
+   "modelName": "CJ_IND_LIGHT",
+   "txdName": "industrialext",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 922,
+   "modelName": "Packing_carates1",
+   "txdName": "crates_n_stuffext",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 923,
+   "modelName": "Packing_carates2",
+   "txdName": "crates_n_stuffext",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 924,
+   "modelName": "FRUITCRATE3",
+   "txdName": "crates_n_stuffext",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 925,
+   "modelName": "RACK2",
+   "txdName": "crates_n_stuffext",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 926,
+   "modelName": "RUBBISH_BOX2",
+   "txdName": "crates_n_stuffext",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 927,
+   "modelName": "Piping_Detail",
+   "txdName": "industrialext",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 928,
+   "modelName": "RUBBISH_BOX1",
+   "txdName": "crates_n_stuffext",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 929,
+   "modelName": "GENERATOR",
+   "txdName": "industrialext",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 930,
+   "modelName": "O2_Bottles",
+   "txdName": "Externalext",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 931,
+   "modelName": "RACK3",
+   "txdName": "crates_n_stuffext",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 932,
+   "modelName": "H_WHEELCHAIR",
+   "txdName": "Externalext",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 933,
+   "modelName": "CJ_CABLEROLL",
+   "txdName": "crates_n_stuffext",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 934,
+   "modelName": "GENERATOR_BIG",
+   "txdName": "industrialext",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 935,
+   "modelName": "CJ_Drum",
+   "txdName": "Externalext",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 936,
+   "modelName": "CJ_DF_WORKTOP_2",
+   "txdName": "CJ_DFext",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 937,
+   "modelName": "CJ_DF_WORKTOP",
+   "txdName": "CJ_DFext",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 938,
+   "modelName": "CJ_DF_LIGHT",
+   "txdName": "CJ_DFext",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 939,
+   "modelName": "CJ_DF_UNIT",
+   "txdName": "CJ_DFext",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 940,
+   "modelName": "CJ_DF_LIGHT_2",
+   "txdName": "CJ_DFext",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 941,
+   "modelName": "CJ_DF_WORKTOP_3",
+   "txdName": "CJ_DFext",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 942,
+   "modelName": "CJ_DF_UNIT_2",
+   "txdName": "CJ_DFext",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 943,
+   "modelName": "GENERATOR_LOW",
+   "txdName": "industrialext",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 944,
+   "modelName": "Packing_carates04",
+   "txdName": "crates_n_stuffext",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 945,
+   "modelName": "WS_CF_LAMPS",
+   "txdName": "CJ_DFext",
+   "drawDistance": 50,
+   "flags": 2097152
+  },
+  {
+   "id": 946,
+   "modelName": "bskball_lax",
+   "txdName": "bskball_standext",
+   "drawDistance": 80,
+   "flags": 4
+  },
+  {
+   "id": 947,
+   "modelName": "bskballhub_lax01",
+   "txdName": "bskball_standext",
+   "drawDistance": 80,
+   "flags": 4
+  },
+  {
+   "id": 948,
+   "modelName": "Plant_Pot_10",
+   "txdName": "plants_officeext",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 949,
+   "modelName": "Plant_Pot_4",
+   "txdName": "plants_officeext",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 950,
+   "modelName": "Plant_Pot_12",
+   "txdName": "plants_officeext",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 951,
+   "modelName": "CJ_VIEW_TELE2",
+   "txdName": "Externalext",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 952,
+   "modelName": "GENERATOR_BIG_d",
+   "txdName": "industrialext",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 953,
+   "modelName": "CJ_OYSTER",
+   "txdName": "shell_pick",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 954,
+   "modelName": "cj_horse_Shoe",
+   "txdName": "Horse_shoe_pick",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 955,
+   "modelName": "CJ_EXT_SPRUNK",
+   "txdName": "CJ_EXT_VEND",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 956,
+   "modelName": "CJ_EXT_CANDY",
+   "txdName": "CJ_EXT_VEND2",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 957,
+   "modelName": "CJ_LIGHT_FIT_EXT",
+   "txdName": "light_fit_ext",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 958,
+   "modelName": "CJ_CHIP_MAKER",
+   "txdName": "CJ_CHIP_MAKER",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 959,
+   "modelName": "CJ_CHIP_MAKER_BITS",
+   "txdName": "CJ_CHIP_MAKER",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 960,
+   "modelName": "CJ_ARM_CRATE",
+   "txdName": "CJ_CRATE_WILL",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 961,
+   "modelName": "CJ_ARM_CRATE_top",
+   "txdName": "CJ_CRATE_WILL",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 962,
+   "modelName": "CJ_T_TICKET_PED",
+   "txdName": "TICKET_SUB",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 963,
+   "modelName": "CJ_T_TICKET",
+   "txdName": "TICKET_SUB",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 964,
+   "modelName": "CJ_METAL_CRATE",
+   "txdName": "CJ_CRATE_WILL",
+   "drawDistance": 30,
+   "flags": 0
+  }
+ ],
+ "tobj": [],
+ "path": [],
+ "2dfx": [],
+ "anim": [],
+ "txdp": []
+}

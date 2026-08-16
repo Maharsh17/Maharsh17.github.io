@@ -1,0 +1,597 @@
+{
+ "objs": [
+  {
+   "id": 3890,
+   "modelName": "lib_street09",
+   "txdName": "libertygen",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3891,
+   "modelName": "lib_street08",
+   "txdName": "libertygen",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 3892,
+   "modelName": "lib_street10",
+   "txdName": "indsupasave",
+   "drawDistance": 200,
+   "flags": 0
+  },
+  {
+   "id": 3893,
+   "modelName": "lib_street05",
+   "txdName": "indhospital",
+   "drawDistance": 130,
+   "flags": 0
+  },
+  {
+   "id": 3894,
+   "modelName": "lib_street11",
+   "txdName": "libertygen",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3895,
+   "modelName": "lib_street14",
+   "txdName": "inditaly",
+   "drawDistance": 210,
+   "flags": 0
+  },
+  {
+   "id": 3896,
+   "modelName": "lod_liberty04",
+   "txdName": "indust1",
+   "drawDistance": 500,
+   "flags": 0
+  },
+  {
+   "id": 3897,
+   "modelName": "lib_street03",
+   "txdName": "libertyhi",
+   "drawDistance": 200,
+   "flags": 0
+  },
+  {
+   "id": 3898,
+   "modelName": "lib_street15",
+   "txdName": "trees2",
+   "drawDistance": 160,
+   "flags": 4
+  },
+  {
+   "id": 3899,
+   "modelName": "lib_street04",
+   "txdName": "hospital2",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 3900,
+   "modelName": "lib_street12",
+   "txdName": "station",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3901,
+   "modelName": "lod_liberty01",
+   "txdName": "indust2",
+   "drawDistance": 500,
+   "flags": 0
+  },
+  {
+   "id": 3902,
+   "modelName": "lib_street16",
+   "txdName": "libertyhi3",
+   "drawDistance": 200,
+   "flags": 4
+  },
+  {
+   "id": 3903,
+   "modelName": "lib_street07",
+   "txdName": "libertyhi",
+   "drawDistance": 200,
+   "flags": 0
+  },
+  {
+   "id": 3904,
+   "modelName": "lod_liberty02",
+   "txdName": "libertyfar",
+   "drawDistance": 500,
+   "flags": 0
+  },
+  {
+   "id": 3905,
+   "modelName": "lib_street02",
+   "txdName": "libertyhi2",
+   "drawDistance": 200,
+   "flags": 0
+  },
+  {
+   "id": 3906,
+   "modelName": "lib_street01",
+   "txdName": "libertyhi5",
+   "drawDistance": 200,
+   "flags": 0
+  },
+  {
+   "id": 3907,
+   "modelName": "lib_street06",
+   "txdName": "libertyhi",
+   "drawDistance": 200,
+   "flags": 0
+  },
+  {
+   "id": 3908,
+   "modelName": "lod_liberty03",
+   "txdName": "libertyfar",
+   "drawDistance": 500,
+   "flags": 0
+  },
+  {
+   "id": 3909,
+   "modelName": "lod_liberty06",
+   "txdName": "libertyfar",
+   "drawDistance": 500,
+   "flags": 0
+  },
+  {
+   "id": 3910,
+   "modelName": "trackshad05",
+   "txdName": "treeshad",
+   "drawDistance": 100,
+   "flags": 68
+  },
+  {
+   "id": 3911,
+   "modelName": "lib_street13",
+   "txdName": "libertyhi",
+   "drawDistance": 200,
+   "flags": 0
+  },
+  {
+   "id": 3912,
+   "modelName": "lod_liberty05",
+   "txdName": "libertyfar",
+   "drawDistance": 500,
+   "flags": 0
+  },
+  {
+   "id": 3913,
+   "modelName": "lod_liberty07",
+   "txdName": "libertyfar",
+   "drawDistance": 500,
+   "flags": 0
+  },
+  {
+   "id": 3914,
+   "modelName": "snowover02",
+   "txdName": "snow",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3915,
+   "modelName": "snowover03",
+   "txdName": "libertyhi3",
+   "drawDistance": 200,
+   "flags": 0
+  },
+  {
+   "id": 3916,
+   "modelName": "snowover04",
+   "txdName": "libertyhi4",
+   "drawDistance": 200,
+   "flags": 0
+  },
+  {
+   "id": 3917,
+   "modelName": "lib_street17",
+   "txdName": "libertyhi",
+   "drawDistance": 200,
+   "flags": 0
+  },
+  {
+   "id": 3918,
+   "modelName": "snowover01",
+   "txdName": "libertyhi",
+   "drawDistance": 200,
+   "flags": 0
+  },
+  {
+   "id": 3919,
+   "modelName": "lib_main_bistrotop",
+   "txdName": "librest",
+   "drawDistance": 100,
+   "flags": 4
+  },
+  {
+   "id": 3920,
+   "modelName": "lib_veg3",
+   "txdName": "librest",
+   "drawDistance": 45,
+   "flags": 132
+  },
+  {
+   "id": 3921,
+   "modelName": "lib_counchs",
+   "txdName": "librest",
+   "drawDistance": 30,
+   "flags": 128
+  },
+  {
+   "id": 3922,
+   "modelName": "rest_chair2",
+   "txdName": "bistro",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 3923,
+   "modelName": "libstreetfar",
+   "txdName": "libertyhi",
+   "drawDistance": 400,
+   "flags": 0
+  },
+  {
+   "id": 3924,
+   "modelName": "playroom",
+   "txdName": "rc_warhoose",
+   "drawDistance": 400,
+   "flags": 0
+  },
+  {
+   "id": 3925,
+   "modelName": "bridge_1",
+   "txdName": "weemap",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 3926,
+   "modelName": "d_sign",
+   "txdName": "weemap",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 3927,
+   "modelName": "d_sign01",
+   "txdName": "weemap",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 3928,
+   "modelName": "helipad",
+   "txdName": "weemap",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 3929,
+   "modelName": "d_rock",
+   "txdName": "weemap",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 3930,
+   "modelName": "d_rock01",
+   "txdName": "weemap",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 3931,
+   "modelName": "d_rock02",
+   "txdName": "weemap",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 3932,
+   "modelName": "hanger",
+   "txdName": "weemap",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 3933,
+   "modelName": "fake_sky",
+   "txdName": "weemap",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 3934,
+   "modelName": "helipad01",
+   "txdName": "weemap",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 3935,
+   "modelName": "statue",
+   "txdName": "weemap",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 3936,
+   "modelName": "bwire_fence",
+   "txdName": "weemap",
+   "drawDistance": 299,
+   "flags": 4
+  },
+  {
+   "id": 3937,
+   "modelName": "bwire_fence01",
+   "txdName": "rczero4",
+   "drawDistance": 299,
+   "flags": 4
+  },
+  {
+   "id": 3938,
+   "modelName": "rczero4_base01",
+   "txdName": "weemap",
+   "drawDistance": 299,
+   "flags": 4
+  },
+  {
+   "id": 3939,
+   "modelName": "hanger01",
+   "txdName": "weemap",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 3940,
+   "modelName": "comms01",
+   "txdName": "weemap",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 3941,
+   "modelName": "comms02",
+   "txdName": "weemap",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 3942,
+   "modelName": "bistrobar",
+   "txdName": "bistro",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3943,
+   "modelName": "mid_staircase",
+   "txdName": "bistro",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3944,
+   "modelName": "bistro_blok",
+   "txdName": "bistro",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3945,
+   "modelName": "alpha_fence",
+   "txdName": "bistro_alpha",
+   "drawDistance": 299,
+   "flags": 4
+  },
+  {
+   "id": 3946,
+   "modelName": "plants01",
+   "txdName": "bistro_plants",
+   "drawDistance": 299,
+   "flags": 4
+  },
+  {
+   "id": 3947,
+   "modelName": "rc_track_a",
+   "txdName": "rczero_track",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 3948,
+   "modelName": "bistrogarden",
+   "txdName": "libertyhi",
+   "drawDistance": 200,
+   "flags": 8196
+  },
+  {
+   "id": 3949,
+   "modelName": "rc_track_b",
+   "txdName": "rczero_track",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 3950,
+   "modelName": "rc_zero_c",
+   "txdName": "rczero_track",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 3951,
+   "modelName": "rc_water",
+   "txdName": "rczero_track",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 3952,
+   "modelName": "rc_track_d",
+   "txdName": "rczero_track",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 3953,
+   "modelName": "rc_track_e",
+   "txdName": "rczero_track",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 3954,
+   "modelName": "rc_track_f",
+   "txdName": "rczero_track",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 3955,
+   "modelName": "rc_track_g",
+   "txdName": "rczero_track",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 3956,
+   "modelName": "rc_track_h",
+   "txdName": "rczero_track",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 3957,
+   "modelName": "rc_track_i",
+   "txdName": "rczero_track",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 3958,
+   "modelName": "warehooseboxes",
+   "txdName": "rc_warhoose",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 3959,
+   "modelName": "rczero_alpha",
+   "txdName": "rc_warhoose",
+   "drawDistance": 299,
+   "flags": 4
+  },
+  {
+   "id": 3960,
+   "modelName": "rczero4_base02",
+   "txdName": "weemap",
+   "drawDistance": 299,
+   "flags": 4
+  },
+  {
+   "id": 3961,
+   "modelName": "Boxkitch",
+   "txdName": "lee_kitch",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3962,
+   "modelName": "lee_Plane07",
+   "txdName": "bistro",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3963,
+   "modelName": "lee_Plane08",
+   "txdName": "bistro",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3964,
+   "modelName": "lee_Plane09",
+   "txdName": "bistro",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3965,
+   "modelName": "lee_Object11",
+   "txdName": "bistro",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3966,
+   "modelName": "lee_object01",
+   "txdName": "bistro",
+   "drawDistance": 299,
+   "flags": 0
+  },
+  {
+   "id": 3967,
+   "modelName": "AIRPORT_int2",
+   "txdName": "CJ_AIRPRT",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3968,
+   "modelName": "AIRPORT_FRONT",
+   "txdName": "CJ_AIRPRT",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3969,
+   "modelName": "BAG_BELT2",
+   "txdName": "CJ_AIRPRT2",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3970,
+   "modelName": "CJ_CUSTOM_BAR",
+   "txdName": "CHANGEME",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3971,
+   "modelName": "CJ_BAG_RECLAIM",
+   "txdName": "CJ_AIRPRT",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3972,
+   "modelName": "mon1",
+   "txdName": "CJ_AIRPRT",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3973,
+   "modelName": "CJ_BAG_DET",
+   "txdName": "CJ_AIRPRT3",
+   "drawDistance": 100,
+   "flags": 0
+  }
+ ],
+ "tobj": [],
+ "path": [],
+ "2dfx": [],
+ "anim": [],
+ "txdp": []
+}

@@ -1,0 +1,1539 @@
+{
+ "objs": [
+  {
+   "id": 4550,
+   "modelName": "LibrTow1_LAn",
+   "txdName": "skyscr1_lan2",
+   "drawDistance": 220,
+   "flags": 128
+  },
+  {
+   "id": 4551,
+   "modelName": "LAriverSec2_LAn",
+   "txdName": "sunset1_lan2",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4552,
+   "modelName": "amubloksun1_LAn",
+   "txdName": "ammu_lan2",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4553,
+   "modelName": "road12_LAn2",
+   "txdName": "roadlan2",
+   "drawDistance": 135,
+   "flags": 1
+  },
+  {
+   "id": 4554,
+   "modelName": "LibBase1_LAn",
+   "txdName": "skyscr1_lan2",
+   "drawDistance": 150,
+   "flags": 64
+  },
+  {
+   "id": 4555,
+   "modelName": "figfree4_LAn",
+   "txdName": "sunset1_lan2",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4556,
+   "modelName": "sky4plaz1_LAn",
+   "txdName": "laland1_lan2",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4557,
+   "modelName": "road10_LAn2",
+   "txdName": "roadlan2",
+   "drawDistance": 120,
+   "flags": 1
+  },
+  {
+   "id": 4558,
+   "modelName": "LacmEntr1_LAn",
+   "txdName": "lanlacmab_lan2",
+   "drawDistance": 110,
+   "flags": 0
+  },
+  {
+   "id": 4559,
+   "modelName": "LacmaBase1_LAn",
+   "txdName": "lanlacma_lan2",
+   "drawDistance": 130,
+   "flags": 0
+  },
+  {
+   "id": 4560,
+   "modelName": "LacmCanop1_LAn",
+   "txdName": "lanlacma_lan2",
+   "drawDistance": 70,
+   "flags": 0
+  },
+  {
+   "id": 4561,
+   "modelName": "LODrTow1_LAn",
+   "txdName": "lodhuge_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4562,
+   "modelName": "LAplaza2_LAn",
+   "txdName": "plaza1_lan2",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4563,
+   "modelName": "LAskyscrap1_LAn",
+   "txdName": "skyscr1_lan2",
+   "drawDistance": 180,
+   "flags": 128
+  },
+  {
+   "id": 4564,
+   "modelName": "LAskyscrap2_LAn",
+   "txdName": "skyscr1_lan2",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 4565,
+   "modelName": "bunksteps1_LAn",
+   "txdName": "plaza1_lan2",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 4566,
+   "modelName": "LODkyscrap1_LAn",
+   "txdName": "lodhuge_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4567,
+   "modelName": "road07_LAn2",
+   "txdName": "roadlan2",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 4568,
+   "modelName": "ground01_LAn2",
+   "txdName": "skyscrap2_lan2",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4569,
+   "modelName": "stolenbuilds05",
+   "txdName": "civic1_lan2",
+   "drawDistance": 140,
+   "flags": 0
+  },
+  {
+   "id": 4570,
+   "modelName": "stolenbuilds08",
+   "txdName": "stolenbuild03",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 4571,
+   "modelName": "stolenbuilds09",
+   "txdName": "skyscrap2_lan2",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 4572,
+   "modelName": "stolenbuilds11",
+   "txdName": "stolenbuild02",
+   "drawDistance": 140,
+   "flags": 128
+  },
+  {
+   "id": 4573,
+   "modelName": "stolenbuilds12",
+   "txdName": "stolenbuild01",
+   "drawDistance": 130,
+   "flags": 0
+  },
+  {
+   "id": 4574,
+   "modelName": "stolenbuilds13",
+   "txdName": "stolenbuild01",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4575,
+   "modelName": "fireescapes1_lan2",
+   "txdName": "lan2_alphas",
+   "drawDistance": 100,
+   "flags": 4
+  },
+  {
+   "id": 4576,
+   "modelName": "lan2newbuild1",
+   "txdName": "stolenbuild01",
+   "drawDistance": 130,
+   "flags": 128
+  },
+  {
+   "id": 4577,
+   "modelName": "LODlenbuilds09",
+   "txdName": "lodhuge_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4578,
+   "modelName": "LODlenbuilds08",
+   "txdName": "lodhuge_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4579,
+   "modelName": "LODkyscrap2_LAn",
+   "txdName": "lodhuge_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4580,
+   "modelName": "LODkyscrap4_LAn",
+   "txdName": "lodhuge_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4581,
+   "modelName": "LOD4plaz2_LAn",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4582,
+   "modelName": "LODlan2newbuild1",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4583,
+   "modelName": "LODlenbuilds12",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4584,
+   "modelName": "halgroundlan2",
+   "txdName": "civic1_lan2",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4585,
+   "modelName": "towerlan2",
+   "txdName": "stolenbuild02",
+   "drawDistance": 180,
+   "flags": 128
+  },
+  {
+   "id": 4586,
+   "modelName": "skyscrapn201",
+   "txdName": "skyscrap3_lan2",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 4587,
+   "modelName": "skyscrapn203",
+   "txdName": "skyscrapelan2",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4588,
+   "modelName": "roofshitlan2",
+   "txdName": "sunset1_lan2",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 4589,
+   "modelName": "road15_LAn2",
+   "txdName": "roadlan2",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 4590,
+   "modelName": "grasspatchlan2",
+   "txdName": "lanlacmab_lan2",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4591,
+   "modelName": "lan2shit03",
+   "txdName": "stolenbuild01",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4592,
+   "modelName": "lan2shit04",
+   "txdName": "stolenbuild01",
+   "drawDistance": 140,
+   "flags": 0
+  },
+  {
+   "id": 4593,
+   "modelName": "lan2buildblk01",
+   "txdName": "buildblk55",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4594,
+   "modelName": "lan2buildblk02",
+   "txdName": "lanlacmab_lan2",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 4595,
+   "modelName": "cpark05_LAN2",
+   "txdName": "crparkgm_lan2",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 4596,
+   "modelName": "cspGM_LAN2",
+   "txdName": "crparkgm_lan2",
+   "drawDistance": 130,
+   "flags": 69
+  },
+  {
+   "id": 4597,
+   "modelName": "crprkblok4_LAN2",
+   "txdName": "crparkgm_lan2",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 4598,
+   "modelName": "crprkblok2_LAN2",
+   "txdName": "crparkgm_lan2",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 4599,
+   "modelName": "csp2GM_LAN2",
+   "txdName": "crparkgm_lan2",
+   "drawDistance": 130,
+   "flags": 69
+  },
+  {
+   "id": 4600,
+   "modelName": "LAdtbuild10_LAn",
+   "txdName": "theatrelan2",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4601,
+   "modelName": "LAn2_gm1",
+   "txdName": "lan2_gm1",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 4602,
+   "modelName": "LAskyscrap4_LAn",
+   "txdName": "skyscr1_lan2",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 4603,
+   "modelName": "sky4plaz2_LAn",
+   "txdName": "laland1_lan2",
+   "drawDistance": 140,
+   "flags": 0
+  },
+  {
+   "id": 4604,
+   "modelName": "build4plaz_LAn2",
+   "txdName": "buildblk555",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4605,
+   "modelName": "skyscrapn203_gls",
+   "txdName": "skyscrapelan2",
+   "drawDistance": 150,
+   "flags": 4
+  },
+  {
+   "id": 4606,
+   "modelName": "LODlan2buildblk2",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4607,
+   "modelName": "LODgraspchlan2",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4608,
+   "modelName": "LODLacmaBs1_LAn",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4609,
+   "modelName": "LODcmCanp_LAn",
+   "txdName": "lod_lan2",
+   "drawDistance": 800,
+   "flags": 0
+  },
+  {
+   "id": 4610,
+   "modelName": "LODcmEntr1_LAn",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4611,
+   "modelName": "LODroad15_LAn2",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4612,
+   "modelName": "LODlan2shit03",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4613,
+   "modelName": "LODroad09_LAn2",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4614,
+   "modelName": "LODroad10_LAn2",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4615,
+   "modelName": "LODsky4plaz_LAn",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4616,
+   "modelName": "LODlan2buildblk01",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4617,
+   "modelName": "LOD_build4plaz_LAn2",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4618,
+   "modelName": "LODdtbuild2_LAn",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4619,
+   "modelName": "LODroad14_LAn2",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4620,
+   "modelName": "LODLibBase1_LAn",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4621,
+   "modelName": "LODroad05_LAn2",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4622,
+   "modelName": "LODskyscrapn202",
+   "txdName": "lodhuge_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4623,
+   "modelName": "LODbunksteps1_LAn",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4624,
+   "modelName": "LODhalgroundlan2",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4625,
+   "modelName": "LODLAdtbuild10_LAn",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4626,
+   "modelName": "LODtowerlan",
+   "txdName": "lodhuge_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4627,
+   "modelName": "LODstolenbuilds05",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4628,
+   "modelName": "LODstolenbuilds11",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4629,
+   "modelName": "LODskyscrapn201",
+   "txdName": "lodhuge_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4630,
+   "modelName": "LODroad11_LAn2",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4631,
+   "modelName": "LODfigfree4_LAn",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4632,
+   "modelName": "LODamublkson1_LAn",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4633,
+   "modelName": "LODLAn2_gm1",
+   "txdName": "lodhuge_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4634,
+   "modelName": "LODLAriverSec2_LAn",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4635,
+   "modelName": "LODcpark05_LAN2",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4636,
+   "modelName": "cparkgmaumk_LAN",
+   "txdName": "crparkgm_lan2",
+   "drawDistance": 100,
+   "flags": 68
+  },
+  {
+   "id": 4637,
+   "modelName": "cpark_muck_lan2",
+   "txdName": "crparkgm_lan2",
+   "drawDistance": 130,
+   "flags": 68
+  },
+  {
+   "id": 4638,
+   "modelName": "paypark_lan01",
+   "txdName": "crparkgm_lan2",
+   "drawDistance": 80,
+   "flags": 0
+  },
+  {
+   "id": 4639,
+   "modelName": "paypark_lan02",
+   "txdName": "crparkgm_lan2",
+   "drawDistance": 80,
+   "flags": 0
+  },
+  {
+   "id": 4640,
+   "modelName": "paypark_lan03",
+   "txdName": "crparkgm_lan2",
+   "drawDistance": 80,
+   "flags": 0
+  },
+  {
+   "id": 4641,
+   "modelName": "paypark_lan04",
+   "txdName": "crparkgm_lan2",
+   "drawDistance": 80,
+   "flags": 0
+  },
+  {
+   "id": 4642,
+   "modelName": "paypark_lan",
+   "txdName": "crparkgm_lan2",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 4643,
+   "modelName": "LAplaza2b_LAn2",
+   "txdName": "plaza1_lan2",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4644,
+   "modelName": "road06_LAn2",
+   "txdName": "roadlan2",
+   "drawDistance": 140,
+   "flags": 1
+  },
+  {
+   "id": 4645,
+   "modelName": "road14_LAn2",
+   "txdName": "roadlan2",
+   "drawDistance": 140,
+   "flags": 1
+  },
+  {
+   "id": 4646,
+   "modelName": "road13_LAn2",
+   "txdName": "roadlan2",
+   "drawDistance": 135,
+   "flags": 1
+  },
+  {
+   "id": 4647,
+   "modelName": "road11_LAn2",
+   "txdName": "roadlan2",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 4648,
+   "modelName": "road05_LAn2",
+   "txdName": "roadlan2",
+   "drawDistance": 120,
+   "flags": 1
+  },
+  {
+   "id": 4649,
+   "modelName": "road01_LAn2",
+   "txdName": "roadlan2",
+   "drawDistance": 140,
+   "flags": 1
+  },
+  {
+   "id": 4650,
+   "modelName": "road02_LAn2",
+   "txdName": "roadlan2",
+   "drawDistance": 140,
+   "flags": 1
+  },
+  {
+   "id": 4651,
+   "modelName": "road03_LAn2",
+   "txdName": "roadlan2",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 4652,
+   "modelName": "road04_LAn2",
+   "txdName": "roadlan2",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 4653,
+   "modelName": "Freeway7_LAn2",
+   "txdName": "lan2freeway",
+   "drawDistance": 165,
+   "flags": 1
+  },
+  {
+   "id": 4654,
+   "modelName": "road09_LAn2",
+   "txdName": "roadlan2",
+   "drawDistance": 120,
+   "flags": 1
+  },
+  {
+   "id": 4655,
+   "modelName": "LODFreeway7_LAn",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4656,
+   "modelName": "Freeway1_LAn2",
+   "txdName": "lan2freeway",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 4657,
+   "modelName": "LODFreeway1_LAn2",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4658,
+   "modelName": "Freeway2_LAn2",
+   "txdName": "lan2freeway",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 4659,
+   "modelName": "LODFreeway2_LAn2",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4660,
+   "modelName": "Freeway3_LAn2",
+   "txdName": "lan2freeway",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 4661,
+   "modelName": "LODFreeway3_LAn2",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4662,
+   "modelName": "Freeway4_LAn2",
+   "txdName": "lan2freeway",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 4663,
+   "modelName": "LODFreeway4_LAn2",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4664,
+   "modelName": "Freeway5_LAn2",
+   "txdName": "lan2freeway",
+   "drawDistance": 165,
+   "flags": 1
+  },
+  {
+   "id": 4665,
+   "modelName": "LODFreeway5_LAn2",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4666,
+   "modelName": "Freeway6_LAn2",
+   "txdName": "lan2freeway",
+   "drawDistance": 175,
+   "flags": 1
+  },
+  {
+   "id": 4667,
+   "modelName": "LODFreeway6_LAn2",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4668,
+   "modelName": "LODroad01_LAn2",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4669,
+   "modelName": "LODroad02_LAn2",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4670,
+   "modelName": "LODroad03_LAn2",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4671,
+   "modelName": "LODroad04_LAn2",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4672,
+   "modelName": "LODground01_LAn2",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4673,
+   "modelName": "LODroad06_LAn2",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4674,
+   "modelName": "LODroad07_LAn2",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4675,
+   "modelName": "LODroad08_LAn2",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4676,
+   "modelName": "LODroad12_LAn2",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4677,
+   "modelName": "LODroad13_LAn2",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4678,
+   "modelName": "LODFreeway8_LAn2",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4679,
+   "modelName": "Freeway8_LAn2",
+   "txdName": "lan2freeway",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 4680,
+   "modelName": "LODLAdtbuild6_LAn2",
+   "txdName": "lodhuge_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4681,
+   "modelName": "LAdtbuild6_LAn2",
+   "txdName": "stolenbuild03",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 4682,
+   "modelName": "LAdtbuild3_LAn2",
+   "txdName": "dtbuil1_lan2",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 4683,
+   "modelName": "LAdtbuild2_LAn2",
+   "txdName": "dtbuil1_lan2",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 4684,
+   "modelName": "LAalley1_LAn2",
+   "txdName": "plaza1_lan2",
+   "drawDistance": 140,
+   "flags": 0
+  },
+  {
+   "id": 4685,
+   "modelName": "LAalley2_LAn2",
+   "txdName": "plaza1_lan2",
+   "drawDistance": 140,
+   "flags": 0
+  },
+  {
+   "id": 4686,
+   "modelName": "LODLAdtbuild3_LAn2",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4687,
+   "modelName": "LODLAdtbuild1_LAn22",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4688,
+   "modelName": "LODLAalley1_LAn2",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4689,
+   "modelName": "LODLAalley2_LAn2",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4690,
+   "modelName": "skyscrapn202",
+   "txdName": "skyscrap2_lan2",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 4691,
+   "modelName": "csp3GM_LAN2",
+   "txdName": "crparkgm_lan2",
+   "drawDistance": 110,
+   "flags": 69
+  },
+  {
+   "id": 4692,
+   "modelName": "Freeway9_LAn2",
+   "txdName": "lan2freeway",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 4693,
+   "modelName": "LODFreeway10_LAn2",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4694,
+   "modelName": "Freeway10_LAn2",
+   "txdName": "lan2freeway",
+   "drawDistance": 130,
+   "flags": 1
+  },
+  {
+   "id": 4695,
+   "modelName": "Freeway11_LAn2",
+   "txdName": "lan2freeway",
+   "drawDistance": 130,
+   "flags": 1
+  },
+  {
+   "id": 4696,
+   "modelName": "LODFreeway9_LAn2",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4697,
+   "modelName": "crprkblok1_LAN2",
+   "txdName": "crparkgm_lan2",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 4698,
+   "modelName": "LODLAplaza2_LAn",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4699,
+   "modelName": "LODLAplaza2b_LAn",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4700,
+   "modelName": "cpark01_LAN2",
+   "txdName": "crparkgm_lan2",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 4701,
+   "modelName": "cpark02_LAN2",
+   "txdName": "crparkgm_lan2",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 4702,
+   "modelName": "cpark03_LAN2",
+   "txdName": "crparkgm_lan2",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 4703,
+   "modelName": "cpark04_LAN2",
+   "txdName": "crparkgm_lan2",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 4704,
+   "modelName": "LODcpark03_LAN2",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4705,
+   "modelName": "LODcpark02_LAN2",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4706,
+   "modelName": "LODcpark01_LAN2",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4707,
+   "modelName": "LODcpark04_LAN2",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4708,
+   "modelName": "LAdtbuild1_LAn2",
+   "txdName": "dtbuil1_lan2",
+   "drawDistance": 120,
+   "flags": 0
+  },
+  {
+   "id": 4709,
+   "modelName": "LODlan2shit05",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4710,
+   "modelName": "road08_LAn2",
+   "txdName": "roadlan2",
+   "drawDistance": 150,
+   "flags": 1
+  },
+  {
+   "id": 4711,
+   "modelName": "amublokalpha_LAn2",
+   "txdName": "sunset1alp_lan2",
+   "drawDistance": 80,
+   "flags": 4
+  },
+  {
+   "id": 4712,
+   "modelName": "LibPlaza1_LAn",
+   "txdName": "skyscr1_lan2",
+   "drawDistance": 150,
+   "flags": 64
+  },
+  {
+   "id": 4713,
+   "modelName": "LODLibPlaza1_LAn",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4714,
+   "modelName": "Lacmaalphas1_LAn",
+   "txdName": "lanlacma_tr_lan2",
+   "drawDistance": 120,
+   "flags": 4
+  },
+  {
+   "id": 4718,
+   "modelName": "gm_build4_LAn2",
+   "txdName": "buildblk555",
+   "drawDistance": 150,
+   "flags": 128
+  },
+  {
+   "id": 4719,
+   "modelName": "LODgm_build4_LAn2",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4720,
+   "modelName": "LTSLAsky1b_LAn",
+   "txdName": "nightlights1_lan2",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4721,
+   "modelName": "LTSLAsky2b_LAn2",
+   "txdName": "nightlights1_lan2",
+   "drawDistance": 500,
+   "flags": 0
+  },
+  {
+   "id": 4722,
+   "modelName": "LTSLAsky3b_LAn2",
+   "txdName": "nightlights1_lan2",
+   "drawDistance": 450,
+   "flags": 0
+  },
+  {
+   "id": 4724,
+   "modelName": "librarywall_lan2",
+   "txdName": "skyscr1_lan2",
+   "drawDistance": 100,
+   "flags": 64
+  },
+  {
+   "id": 4726,
+   "modelName": "libtwrhelipd_LAn2",
+   "txdName": "libhelipad_lan2",
+   "drawDistance": 80,
+   "flags": 0
+  },
+  {
+   "id": 4727,
+   "modelName": "libtwrhelipda_LAn2",
+   "txdName": "libhelipad_lan2",
+   "drawDistance": 80,
+   "flags": 4
+  },
+  {
+   "id": 4728,
+   "modelName": "LODtwrhelipd_LAn",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4729,
+   "modelName": "billbrdlan2_01",
+   "txdName": "billbrd01_lan2",
+   "drawDistance": 80,
+   "flags": 0
+  },
+  {
+   "id": 4730,
+   "modelName": "billbrdlan2_03",
+   "txdName": "billbrd01_lan2",
+   "drawDistance": 80,
+   "flags": 0
+  },
+  {
+   "id": 4731,
+   "modelName": "billbrdlan2_05",
+   "txdName": "billbrd01_lan2",
+   "drawDistance": 80,
+   "flags": 0
+  },
+  {
+   "id": 4732,
+   "modelName": "billbrdlan2_06",
+   "txdName": "billbrd01_lan2",
+   "drawDistance": 80,
+   "flags": 0
+  },
+  {
+   "id": 4733,
+   "modelName": "billbrdlan2_07",
+   "txdName": "billbrd01_lan2",
+   "drawDistance": 90,
+   "flags": 0
+  },
+  {
+   "id": 4734,
+   "modelName": "billbrdlan2_08",
+   "txdName": "billbrd01_lan2",
+   "drawDistance": 110,
+   "flags": 0
+  },
+  {
+   "id": 4735,
+   "modelName": "billbrdlan2_09",
+   "txdName": "billbrd01_lan2",
+   "drawDistance": 100,
+   "flags": 4
+  },
+  {
+   "id": 4736,
+   "modelName": "billbrdlan2_10",
+   "txdName": "billbrd01_lan2",
+   "drawDistance": 130,
+   "flags": 0
+  },
+  {
+   "id": 4737,
+   "modelName": "fireescapes3_lan2",
+   "txdName": "lan2_alphas",
+   "drawDistance": 140,
+   "flags": 4
+  },
+  {
+   "id": 4738,
+   "modelName": "fireescapes2_lan2",
+   "txdName": "sunset1alp_lan2",
+   "drawDistance": 140,
+   "flags": 4
+  },
+  {
+   "id": 4753,
+   "modelName": "LODbillbrdlan2_08",
+   "txdName": "lod_lan2",
+   "drawDistance": 800,
+   "flags": 0
+  },
+  {
+   "id": 4754,
+   "modelName": "LODbillbrdlan2_01",
+   "txdName": "lod_lan2",
+   "drawDistance": 800,
+   "flags": 0
+  },
+  {
+   "id": 4755,
+   "modelName": "LODbillbrdlan2_07",
+   "txdName": "lod_lan2",
+   "drawDistance": 800,
+   "flags": 0
+  },
+  {
+   "id": 4756,
+   "modelName": "LODbillbrdlan2_06",
+   "txdName": "lod_lan2",
+   "drawDistance": 800,
+   "flags": 0
+  },
+  {
+   "id": 4757,
+   "modelName": "LODbillbrdlan2_10",
+   "txdName": "lod_lan2",
+   "drawDistance": 800,
+   "flags": 0
+  },
+  {
+   "id": 4758,
+   "modelName": "LODbillbrdlan2_03",
+   "txdName": "lod_lan2",
+   "drawDistance": 800,
+   "flags": 0
+  },
+  {
+   "id": 4759,
+   "modelName": "LODbillbrdlan2_05",
+   "txdName": "lod_lan2",
+   "drawDistance": 800,
+   "flags": 0
+  },
+  {
+   "id": 4760,
+   "modelName": "LODFreeway11_LAn2",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4761,
+   "modelName": "LODskyscrapn203",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 0
+  },
+  {
+   "id": 4762,
+   "modelName": "LODskyscr203_gls",
+   "txdName": "lod_lan2",
+   "drawDistance": 1500,
+   "flags": 4
+  }
+ ],
+ "tobj": [
+  {
+   "id": 4715,
+   "modelName": "LTSLAsky1_LAn2",
+   "txdName": "nightlights1_lan2",
+   "drawDistance": 600,
+   "flags": 140,
+   "timeOn": 20,
+   "timeOff": 6
+  },
+  {
+   "id": 4716,
+   "modelName": "LTSLAsky2_LAn2",
+   "txdName": "nightlights1_lan2",
+   "drawDistance": 600,
+   "flags": 140,
+   "timeOn": 20,
+   "timeOff": 6
+  },
+  {
+   "id": 4717,
+   "modelName": "LTSLAsky3_LAn2",
+   "txdName": "nightlights1_lan2",
+   "drawDistance": 600,
+   "flags": 140,
+   "timeOn": 20,
+   "timeOff": 6
+  },
+  {
+   "id": 4723,
+   "modelName": "LTSLAsky4_LAn2",
+   "txdName": "nightlights1_lan2",
+   "drawDistance": 600,
+   "flags": 140,
+   "timeOn": 20,
+   "timeOff": 6
+  },
+  {
+   "id": 4725,
+   "modelName": "LTSLAsky6_LAn2",
+   "txdName": "nightlights1_lan2",
+   "drawDistance": 600,
+   "flags": 140,
+   "timeOn": 20,
+   "timeOff": 6
+  },
+  {
+   "id": 4739,
+   "modelName": "LTSLAbuild1_LAn2",
+   "txdName": "nightlights1_lan2",
+   "drawDistance": 300,
+   "flags": 140,
+   "timeOn": 20,
+   "timeOff": 6
+  },
+  {
+   "id": 4740,
+   "modelName": "LTSLAbuild2_LAn2",
+   "txdName": "nightlights1_lan2",
+   "drawDistance": 600,
+   "flags": 140,
+   "timeOn": 20,
+   "timeOff": 6
+  },
+  {
+   "id": 4741,
+   "modelName": "LTSLAbuild3_LAn2",
+   "txdName": "nightlights1_lan2",
+   "drawDistance": 400,
+   "flags": 140,
+   "timeOn": 20,
+   "timeOff": 6
+  },
+  {
+   "id": 4742,
+   "modelName": "LTSLAbuild4_LAn2",
+   "txdName": "nightlights1_lan2",
+   "drawDistance": 450,
+   "flags": 140,
+   "timeOn": 20,
+   "timeOff": 6
+  },
+  {
+   "id": 4743,
+   "modelName": "LTSLAsky5_LAn2",
+   "txdName": "nightlights1_lan2",
+   "drawDistance": 450,
+   "flags": 140,
+   "timeOn": 20,
+   "timeOff": 6
+  },
+  {
+   "id": 4744,
+   "modelName": "LTSLAbuild5_LAn2",
+   "txdName": "nightlights1_lan2",
+   "drawDistance": 400,
+   "flags": 140,
+   "timeOn": 20,
+   "timeOff": 6
+  },
+  {
+   "id": 4745,
+   "modelName": "LTSLAbuild6_LAn2",
+   "txdName": "nightlights1_lan2",
+   "drawDistance": 300,
+   "flags": 140,
+   "timeOn": 20,
+   "timeOff": 6
+  },
+  {
+   "id": 4746,
+   "modelName": "LTSLAsky7_LAn2",
+   "txdName": "nightlights1_lan2",
+   "drawDistance": 400,
+   "flags": 140,
+   "timeOn": 20,
+   "timeOff": 6
+  },
+  {
+   "id": 4747,
+   "modelName": "LTSLAsky8_LAn2",
+   "txdName": "nightlights1_lan2",
+   "drawDistance": 350,
+   "flags": 140,
+   "timeOn": 20,
+   "timeOff": 6
+  },
+  {
+   "id": 4748,
+   "modelName": "LTSLAbuild7_LAn2",
+   "txdName": "nightlights1_lan2",
+   "drawDistance": 350,
+   "flags": 140,
+   "timeOn": 20,
+   "timeOff": 6
+  },
+  {
+   "id": 4749,
+   "modelName": "LTSLAbuild8_LAn2",
+   "txdName": "nightlights1_lan2",
+   "drawDistance": 300,
+   "flags": 140,
+   "timeOn": 20,
+   "timeOff": 6
+  },
+  {
+   "id": 4750,
+   "modelName": "LTSLAbuild9_LAn2",
+   "txdName": "nightlights1_lan2",
+   "drawDistance": 300,
+   "flags": 140,
+   "timeOn": 20,
+   "timeOff": 6
+  },
+  {
+   "id": 4751,
+   "modelName": "LTSLAbuild10_LAn2",
+   "txdName": "nightlights1_lan2",
+   "drawDistance": 300,
+   "flags": 140,
+   "timeOn": 20,
+   "timeOff": 6
+  },
+  {
+   "id": 4752,
+   "modelName": "LTSLAbuild11_LAn2",
+   "txdName": "nightlights1_lan2",
+   "drawDistance": 300,
+   "flags": 140,
+   "timeOn": 20,
+   "timeOff": 6
+  }
+ ],
+ "path": [],
+ "2dfx": [],
+ "anim": [],
+ "txdp": []
+}

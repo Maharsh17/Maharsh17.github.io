@@ -1,0 +1,719 @@
+{
+ "objs": [
+  {
+   "id": 3785,
+   "modelName": "bulkheadlight",
+   "txdName": "bulkheadlight",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 3786,
+   "modelName": "missile_05_SFXR",
+   "txdName": "missiles_SFS",
+   "drawDistance": 100,
+   "flags": 65536
+  },
+  {
+   "id": 3787,
+   "modelName": "missile_02_SFXR",
+   "txdName": "missiles_SFS",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3788,
+   "modelName": "missile_03_SFXR",
+   "txdName": "missiles_SFS",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3789,
+   "modelName": "missile_09_SFXR",
+   "txdName": "missiles_SFS",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3790,
+   "modelName": "missile_01_SFXR",
+   "txdName": "missiles_SFS",
+   "drawDistance": 100,
+   "flags": 65536
+  },
+  {
+   "id": 3791,
+   "modelName": "missile_10_SFXR",
+   "txdName": "missiles_SFS",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3792,
+   "modelName": "missile_08_SFXR",
+   "txdName": "missiles_SFS",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3793,
+   "modelName": "missile_06_SFXR",
+   "txdName": "missiles_SFS",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3794,
+   "modelName": "missile_07_SFXR",
+   "txdName": "missiles_SFS",
+   "drawDistance": 100,
+   "flags": 65536
+  },
+  {
+   "id": 3795,
+   "modelName": "missile_04_SFXR",
+   "txdName": "missiles_SFS",
+   "drawDistance": 100,
+   "flags": 65536
+  },
+  {
+   "id": 3796,
+   "modelName": "acbox1_SFS",
+   "txdName": "xrfcrates_SFS",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3797,
+   "modelName": "missile_11_SFXR",
+   "txdName": "missiles_SFS",
+   "drawDistance": 100,
+   "flags": 65536
+  },
+  {
+   "id": 3798,
+   "modelName": "acbox3_SFS",
+   "txdName": "xrfcrates_SFS",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3799,
+   "modelName": "acbox2_SFS",
+   "txdName": "xrfcrates_SFS",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3800,
+   "modelName": "acbox4_SFS",
+   "txdName": "xrfcrates_SFS",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3801,
+   "modelName": "sfx_lite04",
+   "txdName": "sfxref",
+   "drawDistance": 80,
+   "flags": 4
+  },
+  {
+   "id": 3802,
+   "modelName": "sfx_plant03",
+   "txdName": "sfxref",
+   "drawDistance": 80,
+   "flags": 4
+  },
+  {
+   "id": 3803,
+   "modelName": "sfx_alarms03",
+   "txdName": "sfxref",
+   "drawDistance": 80,
+   "flags": 4
+  },
+  {
+   "id": 3804,
+   "modelName": "sfxref_aircon11",
+   "txdName": "sfxref",
+   "drawDistance": 80,
+   "flags": 4
+  },
+  {
+   "id": 3805,
+   "modelName": "sfxref_aircon12",
+   "txdName": "sfxref",
+   "drawDistance": 80,
+   "flags": 4
+  },
+  {
+   "id": 3806,
+   "modelName": "sfx_winplant07",
+   "txdName": "sfxref",
+   "drawDistance": 80,
+   "flags": 4
+  },
+  {
+   "id": 3807,
+   "modelName": "sfx_flag02",
+   "txdName": "sfxref",
+   "drawDistance": 80,
+   "flags": 4
+  },
+  {
+   "id": 3808,
+   "modelName": "sfx_alarms04",
+   "txdName": "sfxref",
+   "drawDistance": 80,
+   "flags": 4
+  },
+  {
+   "id": 3809,
+   "modelName": "sfx_lite05",
+   "txdName": "sfxref",
+   "drawDistance": 80,
+   "flags": 4
+  },
+  {
+   "id": 3810,
+   "modelName": "sfx_plant04",
+   "txdName": "sfxref",
+   "drawDistance": 80,
+   "flags": 4
+  },
+  {
+   "id": 3811,
+   "modelName": "sfx_winplant08",
+   "txdName": "sfxref",
+   "drawDistance": 80,
+   "flags": 4
+  },
+  {
+   "id": 3812,
+   "modelName": "sfxref_aircon13",
+   "txdName": "sfxref",
+   "drawDistance": 80,
+   "flags": 4
+  },
+  {
+   "id": 3813,
+   "modelName": "sfxref_aircon14",
+   "txdName": "sfxref",
+   "drawDistance": 80,
+   "flags": 4
+  },
+  {
+   "id": 3814,
+   "modelName": "hangar1_SFXREF",
+   "txdName": "hangar1_SFXREF",
+   "drawDistance": 180,
+   "flags": 0
+  },
+  {
+   "id": 3815,
+   "modelName": "LODhangar1_SFXREF",
+   "txdName": "lodhangar_SFSXREF",
+   "drawDistance": 600,
+   "flags": 0
+  },
+  {
+   "id": 3816,
+   "modelName": "bighangar1_SFx",
+   "txdName": "bighangarSFxr",
+   "drawDistance": 180,
+   "flags": 4
+  },
+  {
+   "id": 3817,
+   "modelName": "LODhangar1_SFx",
+   "txdName": "lodhangar_SFSXREF",
+   "drawDistance": 600,
+   "flags": 0
+  },
+  {
+   "id": 3818,
+   "modelName": "sf_frwaysig",
+   "txdName": "sfroadsign",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 3819,
+   "modelName": "bleacher_SFSx",
+   "txdName": "baseball_SFSX",
+   "drawDistance": 120,
+   "flags": 4
+  },
+  {
+   "id": 3820,
+   "modelName": "box_hse_09_SFXRF",
+   "txdName": "boxhses_SFSX",
+   "drawDistance": 70,
+   "flags": 4
+  },
+  {
+   "id": 3821,
+   "modelName": "box_hse_02_SFXRF",
+   "txdName": "boxhses_SFSX",
+   "drawDistance": 70,
+   "flags": 0
+  },
+  {
+   "id": 3822,
+   "modelName": "box_hse_03_SFXRF",
+   "txdName": "boxhses_SFSX",
+   "drawDistance": 70,
+   "flags": 4
+  },
+  {
+   "id": 3823,
+   "modelName": "box_hse_11_SFXRF",
+   "txdName": "boxhses_SFSX",
+   "drawDistance": 70,
+   "flags": 0
+  },
+  {
+   "id": 3824,
+   "modelName": "box_hse_10_SFXRF",
+   "txdName": "boxhses_SFSX",
+   "drawDistance": 70,
+   "flags": 4
+  },
+  {
+   "id": 3825,
+   "modelName": "box_hse_01_SFXRF",
+   "txdName": "boxhses_SFSX",
+   "drawDistance": 70,
+   "flags": 0
+  },
+  {
+   "id": 3826,
+   "modelName": "box_hse_06_SFXRF",
+   "txdName": "boxhses_SFSX",
+   "drawDistance": 70,
+   "flags": 0
+  },
+  {
+   "id": 3827,
+   "modelName": "box_hse_07_SFXRF",
+   "txdName": "boxhses_SFSX",
+   "drawDistance": 70,
+   "flags": 0
+  },
+  {
+   "id": 3828,
+   "modelName": "box_hse_05_SFXRF",
+   "txdName": "boxhses_SFSX",
+   "drawDistance": 70,
+   "flags": 0
+  },
+  {
+   "id": 3829,
+   "modelName": "box_hse_04_SFXRF",
+   "txdName": "boxhses_SFSX",
+   "drawDistance": 70,
+   "flags": 4
+  },
+  {
+   "id": 3830,
+   "modelName": "box_hse_08_SFXRF",
+   "txdName": "boxhses_SFSX",
+   "drawDistance": 70,
+   "flags": 0
+  },
+  {
+   "id": 3831,
+   "modelName": "LOD_hse_09_SFXRF",
+   "txdName": "lod_boxhses_SFSX",
+   "drawDistance": 600,
+   "flags": 0
+  },
+  {
+   "id": 3832,
+   "modelName": "LOD_hse_02_SFXRF",
+   "txdName": "lod_boxhses_SFSX",
+   "drawDistance": 600,
+   "flags": 0
+  },
+  {
+   "id": 3833,
+   "modelName": "LOD_hse_03_SFXRF",
+   "txdName": "lod_boxhses_SFSX",
+   "drawDistance": 600,
+   "flags": 0
+  },
+  {
+   "id": 3834,
+   "modelName": "LOD_hse_11_SFXRF",
+   "txdName": "lod_boxhses_SFSX",
+   "drawDistance": 600,
+   "flags": 0
+  },
+  {
+   "id": 3835,
+   "modelName": "LOD_hse_10_SFXRF",
+   "txdName": "lod_boxhses_SFSX",
+   "drawDistance": 600,
+   "flags": 0
+  },
+  {
+   "id": 3836,
+   "modelName": "LOD_hse_08_SFXRF",
+   "txdName": "lod_boxhses_SFSX",
+   "drawDistance": 600,
+   "flags": 0
+  },
+  {
+   "id": 3837,
+   "modelName": "LOD_hse_05_SFXRF",
+   "txdName": "lod_boxhses_SFSX",
+   "drawDistance": 600,
+   "flags": 0
+  },
+  {
+   "id": 3838,
+   "modelName": "LOD_hse_07_SFXRF",
+   "txdName": "lod_boxhses_SFSX",
+   "drawDistance": 600,
+   "flags": 0
+  },
+  {
+   "id": 3839,
+   "modelName": "LOD_hse_04_SFXRF",
+   "txdName": "lod_boxhses_SFSX",
+   "drawDistance": 600,
+   "flags": 0
+  },
+  {
+   "id": 3840,
+   "modelName": "LOD_hse_06_SFXRF",
+   "txdName": "lod_boxhses_SFSX",
+   "drawDistance": 600,
+   "flags": 0
+  },
+  {
+   "id": 3841,
+   "modelName": "LOD_hse_01_SFXRF",
+   "txdName": "lod_boxhses_SFSX",
+   "drawDistance": 600,
+   "flags": 0
+  },
+  {
+   "id": 3842,
+   "modelName": "box_hse_14_SFXRF",
+   "txdName": "boxhses_SFSX",
+   "drawDistance": 70,
+   "flags": 0
+  },
+  {
+   "id": 3843,
+   "modelName": "box_hse_12_SFXRF",
+   "txdName": "boxhses_SFSX",
+   "drawDistance": 70,
+   "flags": 0
+  },
+  {
+   "id": 3844,
+   "modelName": "box_hse_15_SFXRF",
+   "txdName": "boxhses_SFSX",
+   "drawDistance": 70,
+   "flags": 0
+  },
+  {
+   "id": 3845,
+   "modelName": "box_hse_13_SFXRF",
+   "txdName": "boxhses_SFSX",
+   "drawDistance": 70,
+   "flags": 0
+  },
+  {
+   "id": 3846,
+   "modelName": "LOD_hse_13_SFXRF",
+   "txdName": "lod_boxhses_SFSX",
+   "drawDistance": 600,
+   "flags": 0
+  },
+  {
+   "id": 3847,
+   "modelName": "LOD_hse_14_SFXRF",
+   "txdName": "lod_boxhses_SFSX",
+   "drawDistance": 600,
+   "flags": 0
+  },
+  {
+   "id": 3848,
+   "modelName": "LOD_hse_15_SFXRF",
+   "txdName": "lod_boxhses_SFSX",
+   "drawDistance": 600,
+   "flags": 0
+  },
+  {
+   "id": 3849,
+   "modelName": "LOD_hse_12_SFXRF",
+   "txdName": "lod_boxhses_SFSX",
+   "drawDistance": 600,
+   "flags": 0
+  },
+  {
+   "id": 3850,
+   "modelName": "carshowbann_SFSX",
+   "txdName": "carshowglass_SFSX",
+   "drawDistance": 50,
+   "flags": 2098180
+  },
+  {
+   "id": 3851,
+   "modelName": "carshowwin_SFSX",
+   "txdName": "carshowglass_SFSX",
+   "drawDistance": 100,
+   "flags": 2098180
+  },
+  {
+   "id": 3852,
+   "modelName": "sf_jump",
+   "txdName": "jump_sfxref",
+   "drawDistance": 180,
+   "flags": 0
+  },
+  {
+   "id": 3853,
+   "modelName": "Gay_lamppost",
+   "txdName": "gay_xref",
+   "drawDistance": 62,
+   "flags": 2130048
+  },
+  {
+   "id": 3854,
+   "modelName": "GAY_telgrphpole",
+   "txdName": "gay_xref",
+   "drawDistance": 100,
+   "flags": 32896
+  },
+  {
+   "id": 3855,
+   "modelName": "GAY_TRAFFIC_LIGHT",
+   "txdName": "gay_xref",
+   "drawDistance": 50,
+   "flags": 32896
+  },
+  {
+   "id": 3856,
+   "modelName": "sf_frwaysig_half",
+   "txdName": "sfroadsign",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 3857,
+   "modelName": "ottosmash3",
+   "txdName": "ottos_glass",
+   "drawDistance": 50,
+   "flags": 2098244
+  },
+  {
+   "id": 3858,
+   "modelName": "ottosmash1",
+   "txdName": "ottos_glass",
+   "drawDistance": 50,
+   "flags": 2098244
+  },
+  {
+   "id": 3859,
+   "modelName": "ottosmash04",
+   "txdName": "ottos_glass",
+   "drawDistance": 50,
+   "flags": 2098244
+  },
+  {
+   "id": 3860,
+   "modelName": "marketstall04_SFXRF",
+   "txdName": "hashmarket_SFSX",
+   "drawDistance": 60,
+   "flags": 128
+  },
+  {
+   "id": 3861,
+   "modelName": "marketstall01_SFXRF",
+   "txdName": "hashmarket_SFSX",
+   "drawDistance": 60,
+   "flags": 128
+  },
+  {
+   "id": 3862,
+   "modelName": "marketstall02_SFXRF",
+   "txdName": "hashmarket_SFSX",
+   "drawDistance": 60,
+   "flags": 128
+  },
+  {
+   "id": 3863,
+   "modelName": "marketstall03_SFXRF",
+   "txdName": "hashmarket_SFSX",
+   "drawDistance": 60,
+   "flags": 128
+  },
+  {
+   "id": 3864,
+   "modelName": "WS_floodlight",
+   "txdName": "SFSE_hubstuff",
+   "drawDistance": 60,
+   "flags": 4
+  },
+  {
+   "id": 3865,
+   "modelName": "concpipe_SFXRF",
+   "txdName": "SFSE_hubstuff",
+   "drawDistance": 200,
+   "flags": 0
+  },
+  {
+   "id": 3866,
+   "modelName": "demolish1_SFXRF",
+   "txdName": "dem1_SFXRF",
+   "drawDistance": 150,
+   "flags": 4
+  },
+  {
+   "id": 3867,
+   "modelName": "ws_scaffolding_SFX",
+   "txdName": "scaffolding_SFX",
+   "drawDistance": 100,
+   "flags": 4
+  },
+  {
+   "id": 3868,
+   "modelName": "LODscaffolding_SFX",
+   "txdName": "LODscaffolding_SFX",
+   "drawDistance": 600,
+   "flags": 4
+  },
+  {
+   "id": 3869,
+   "modelName": "LODdemolish1_SFXRF",
+   "txdName": "LOD_dem_SFXRF",
+   "drawDistance": 600,
+   "flags": 0
+  },
+  {
+   "id": 3873,
+   "modelName": "Silicon04_SFS",
+   "txdName": "silicon_sfxrf",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 3874,
+   "modelName": "LODSilicon04_SFS",
+   "txdName": "lod_silicon_sfxrf",
+   "drawDistance": 600,
+   "flags": 0
+  },
+  {
+   "id": 3875,
+   "modelName": "SFtelepole",
+   "txdName": "sf_telpole",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3876,
+   "modelName": "sf_roofmast",
+   "txdName": "sfroofshit",
+   "drawDistance": 200,
+   "flags": 4
+  },
+  {
+   "id": 3877,
+   "modelName": "sf_rooflite",
+   "txdName": "sfroofshit",
+   "drawDistance": 90,
+   "flags": 0
+  },
+  {
+   "id": 3878,
+   "modelName": "headstones_SFSx",
+   "txdName": "headstones_SFSx",
+   "drawDistance": 50,
+   "flags": 128
+  },
+  {
+   "id": 3879,
+   "modelName": "ws_jetty_SFX",
+   "txdName": "ws_jetty_SFX",
+   "drawDistance": 100,
+   "flags": 4
+  },
+  {
+   "id": 3880,
+   "modelName": "LODws_jetty_SFX",
+   "txdName": "LODjetty_SFX",
+   "drawDistance": 600,
+   "flags": 0
+  },
+  {
+   "id": 3881,
+   "modelName": "airsecbooth_SFSe",
+   "txdName": "apsecurity_sfxrf",
+   "drawDistance": 150,
+   "flags": 4
+  },
+  {
+   "id": 3882,
+   "modelName": "airsecboothint_SFSe",
+   "txdName": "apsecurity_sfxrf",
+   "drawDistance": 20,
+   "flags": 0
+  },
+  {
+   "id": 3884,
+   "modelName": "samsite_SFXRF",
+   "txdName": "samsite_SFXRF",
+   "drawDistance": 200,
+   "flags": 0
+  },
+  {
+   "id": 3885,
+   "modelName": "sambase_SFXRF",
+   "txdName": "samsite_SFXRF",
+   "drawDistance": 200,
+   "flags": 0
+  },
+  {
+   "id": 3886,
+   "modelName": "ws_jettynol_SFX",
+   "txdName": "ws_jetty_SFX",
+   "drawDistance": 100,
+   "flags": 4
+  },
+  {
+   "id": 3887,
+   "modelName": "demolish4_SFXRF",
+   "txdName": "dem4_SFXRF",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 3888,
+   "modelName": "LODdemolish4_SFXRF",
+   "txdName": "LOD_dem_SFXRF",
+   "drawDistance": 600,
+   "flags": 0
+  }
+ ],
+ "tobj": [
+  {
+   "id": 3872,
+   "modelName": "WS_floodbeams",
+   "txdName": "SFSE_hubstuff",
+   "drawDistance": 60,
+   "flags": 68,
+   "timeOn": 21,
+   "timeOff": 6
+  }
+ ],
+ "path": [],
+ "2dfx": [],
+ "anim": [],
+ "txdp": []
+}

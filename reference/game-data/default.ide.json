@@ -1,0 +1,883 @@
+{
+ "objs": [
+  {
+   "id": 320,
+   "modelName": "airtrain_vlo",
+   "txdName": "generic",
+   "drawDistance": 1,
+   "flags": 2000,
+   "extra": [
+    0
+   ]
+  }
+ ],
+ "weap": [
+  {
+   "id": 321,
+   "modelName": "gun_dildo1",
+   "txdName": "gun_dildo1",
+   "animName": "null",
+   "meshCount": 1,
+   "drawDistance": 50,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 322,
+   "modelName": "gun_dildo2",
+   "txdName": "gun_dildo2",
+   "animName": "null",
+   "meshCount": 1,
+   "drawDistance": 50,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 323,
+   "modelName": "gun_vibe1",
+   "txdName": "gun_vibe1",
+   "animName": "null",
+   "meshCount": 1,
+   "drawDistance": 50,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 324,
+   "modelName": "gun_vibe2",
+   "txdName": "gun_vibe2",
+   "animName": "null",
+   "meshCount": 1,
+   "drawDistance": 50,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 325,
+   "modelName": "flowera",
+   "txdName": "flowera",
+   "animName": "null",
+   "meshCount": 1,
+   "drawDistance": 30,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 326,
+   "modelName": "gun_cane",
+   "txdName": "gun_cane",
+   "animName": "null",
+   "meshCount": 1,
+   "drawDistance": 50,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 327,
+   "modelName": "gun_boxwee",
+   "txdName": "gun_boxwee",
+   "animName": "colt45",
+   "meshCount": 1,
+   "drawDistance": 50,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 328,
+   "modelName": "gun_boxbig",
+   "txdName": "gun_boxbig",
+   "animName": "null",
+   "meshCount": 1,
+   "drawDistance": 50,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 330,
+   "modelName": "cellphone",
+   "txdName": "cellphone",
+   "animName": "null",
+   "meshCount": 1,
+   "drawDistance": 50,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 331,
+   "modelName": "brassknuckle",
+   "txdName": "brassknuckle",
+   "animName": "null",
+   "meshCount": 1,
+   "drawDistance": 50,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 333,
+   "modelName": "golfclub",
+   "txdName": "golfclub",
+   "animName": "null",
+   "meshCount": 1,
+   "drawDistance": 50,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 334,
+   "modelName": "nitestick",
+   "txdName": "nitestick",
+   "animName": "null",
+   "meshCount": 1,
+   "drawDistance": 50,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 335,
+   "modelName": "knifecur",
+   "txdName": "knifecur",
+   "animName": "null",
+   "meshCount": 1,
+   "drawDistance": 50,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 336,
+   "modelName": "bat",
+   "txdName": "bat",
+   "animName": "null",
+   "meshCount": 1,
+   "drawDistance": 50,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 337,
+   "modelName": "shovel",
+   "txdName": "shovel",
+   "animName": "null",
+   "meshCount": 1,
+   "drawDistance": 50,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 338,
+   "modelName": "poolcue",
+   "txdName": "poolcue",
+   "animName": "null",
+   "meshCount": 1,
+   "drawDistance": 50,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 339,
+   "modelName": "katana",
+   "txdName": "katana",
+   "animName": "null",
+   "meshCount": 1,
+   "drawDistance": 50,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 341,
+   "modelName": "chnsaw",
+   "txdName": "chnsaw",
+   "animName": "chainsaw",
+   "meshCount": 1,
+   "drawDistance": 50,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 342,
+   "modelName": "grenade",
+   "txdName": "grenade",
+   "animName": "grenade",
+   "meshCount": 1,
+   "drawDistance": 100,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 343,
+   "modelName": "teargas",
+   "txdName": "teargas",
+   "animName": "grenade",
+   "meshCount": 1,
+   "drawDistance": 50,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 344,
+   "modelName": "molotov",
+   "txdName": "molotov",
+   "animName": "grenade",
+   "meshCount": 1,
+   "drawDistance": 100,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 345,
+   "modelName": "missile",
+   "txdName": "missile",
+   "animName": "null",
+   "meshCount": 1,
+   "drawDistance": 100,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 346,
+   "modelName": "colt45",
+   "txdName": "colt45",
+   "animName": "colt45",
+   "meshCount": 1,
+   "drawDistance": 30,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 347,
+   "modelName": "silenced",
+   "txdName": "silenced",
+   "animName": "silenced",
+   "meshCount": 1,
+   "drawDistance": 30,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 348,
+   "modelName": "desert_eagle",
+   "txdName": "desert_eagle",
+   "animName": "python",
+   "meshCount": 1,
+   "drawDistance": 30,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 349,
+   "modelName": "chromegun",
+   "txdName": "chromegun",
+   "animName": "shotgun",
+   "meshCount": 1,
+   "drawDistance": 50,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 350,
+   "modelName": "sawnoff",
+   "txdName": "sawnoff",
+   "animName": "colt45",
+   "meshCount": 1,
+   "drawDistance": 30,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 351,
+   "modelName": "shotgspa",
+   "txdName": "shotgspa",
+   "animName": "buddy",
+   "meshCount": 1,
+   "drawDistance": 50,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 352,
+   "modelName": "micro_uzi",
+   "txdName": "micro_uzi",
+   "animName": "colt45",
+   "meshCount": 1,
+   "drawDistance": 30,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 353,
+   "modelName": "mp5lng",
+   "txdName": "mp5lng",
+   "animName": "uzi",
+   "meshCount": 1,
+   "drawDistance": 50,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 354,
+   "modelName": "flare",
+   "txdName": "flare",
+   "animName": "null",
+   "meshCount": 1,
+   "drawDistance": 100,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 355,
+   "modelName": "ak47",
+   "txdName": "ak47",
+   "animName": "rifle",
+   "meshCount": 1,
+   "drawDistance": 50,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 356,
+   "modelName": "m4",
+   "txdName": "m4",
+   "animName": "rifle",
+   "meshCount": 1,
+   "drawDistance": 30,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 357,
+   "modelName": "cuntgun",
+   "txdName": "cuntgun",
+   "animName": "rifle",
+   "meshCount": 1,
+   "drawDistance": 50,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 358,
+   "modelName": "sniper",
+   "txdName": "sniper",
+   "animName": "rifle",
+   "meshCount": 1,
+   "drawDistance": 50,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 359,
+   "modelName": "rocketla",
+   "txdName": "rocketla",
+   "animName": "rocket",
+   "meshCount": 1,
+   "drawDistance": 50,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 360,
+   "modelName": "heatseek",
+   "txdName": "heatseek",
+   "animName": "rocket",
+   "meshCount": 1,
+   "drawDistance": 50,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 361,
+   "modelName": "flame",
+   "txdName": "flame",
+   "animName": "flame",
+   "meshCount": 1,
+   "drawDistance": 50,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 362,
+   "modelName": "minigun",
+   "txdName": "minigun",
+   "animName": "flame",
+   "meshCount": 1,
+   "drawDistance": 50,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 363,
+   "modelName": "satchel",
+   "txdName": "satchel",
+   "animName": "grenade",
+   "meshCount": 1,
+   "drawDistance": 50,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 364,
+   "modelName": "bomb",
+   "txdName": "bomb",
+   "animName": "null",
+   "meshCount": 1,
+   "drawDistance": 50,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 365,
+   "modelName": "spraycan",
+   "txdName": "spraycan",
+   "animName": "spraycan",
+   "meshCount": 1,
+   "drawDistance": 50,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 366,
+   "modelName": "fire_ex",
+   "txdName": "fire_ex",
+   "animName": "flame",
+   "meshCount": 1,
+   "drawDistance": 50,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 367,
+   "modelName": "camera",
+   "txdName": "camera",
+   "animName": "rifle",
+   "meshCount": 1,
+   "drawDistance": 50,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 368,
+   "modelName": "nvgoggles",
+   "txdName": "nvgoggles",
+   "animName": "goggles",
+   "meshCount": 1,
+   "drawDistance": 50,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 369,
+   "modelName": "irgoggles",
+   "txdName": "irgoggles",
+   "animName": "goggles",
+   "meshCount": 1,
+   "drawDistance": 50,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 370,
+   "modelName": "jetpack",
+   "txdName": "jetpack",
+   "animName": "null",
+   "meshCount": 1,
+   "drawDistance": 100,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 371,
+   "modelName": "gun_para",
+   "txdName": "gun_para",
+   "animName": "null",
+   "meshCount": 1,
+   "drawDistance": 100,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 372,
+   "modelName": "tec9",
+   "txdName": "tec9",
+   "animName": "colt45",
+   "meshCount": 1,
+   "drawDistance": 30,
+   "extra": [
+    0
+   ]
+  },
+  {
+   "id": 373,
+   "modelName": "armour",
+   "txdName": "armour",
+   "animName": "null",
+   "meshCount": 1,
+   "drawDistance": 30,
+   "extra": [
+    0
+   ]
+  }
+ ],
+ "hier": [
+  {
+   "id": 1,
+   "modelName": "csplay",
+   "txdName": "player",
+   "extra": [
+    "null",
+    2000.0
+   ]
+  },
+  {
+   "id": 384,
+   "modelName": "clothes01",
+   "txdName": "generic",
+   "extra": [
+    "null",
+    2000.0
+   ]
+  },
+  {
+   "id": 385,
+   "modelName": "clothes01",
+   "txdName": "generic",
+   "extra": [
+    "null",
+    2000.0
+   ]
+  },
+  {
+   "id": 386,
+   "modelName": "clothes01",
+   "txdName": "generic",
+   "extra": [
+    "null",
+    2000.0
+   ]
+  },
+  {
+   "id": 387,
+   "modelName": "clothes01",
+   "txdName": "generic",
+   "extra": [
+    "null",
+    2000.0
+   ]
+  },
+  {
+   "id": 388,
+   "modelName": "clothes01",
+   "txdName": "generic",
+   "extra": [
+    "null",
+    2000.0
+   ]
+  },
+  {
+   "id": 389,
+   "modelName": "clothes01",
+   "txdName": "generic",
+   "extra": [
+    "null",
+    2000.0
+   ]
+  },
+  {
+   "id": 390,
+   "modelName": "clothes01",
+   "txdName": "generic",
+   "extra": [
+    "null",
+    2000.0
+   ]
+  },
+  {
+   "id": 391,
+   "modelName": "clothes01",
+   "txdName": "generic",
+   "extra": [
+    "null",
+    2000.0
+   ]
+  },
+  {
+   "id": 392,
+   "modelName": "clothes01",
+   "txdName": "generic",
+   "extra": [
+    "null",
+    2000.0
+   ]
+  },
+  {
+   "id": 393,
+   "modelName": "clothes01",
+   "txdName": "generic",
+   "extra": [
+    "null",
+    2000.0
+   ]
+  },
+  {
+   "id": 394,
+   "modelName": "SHANDL",
+   "txdName": "generic",
+   "extra": [
+    "null",
+    15.0
+   ]
+  },
+  {
+   "id": 395,
+   "modelName": "SHANDR",
+   "txdName": "generic",
+   "extra": [
+    "null",
+    15.0
+   ]
+  },
+  {
+   "id": 396,
+   "modelName": "FHANDL",
+   "txdName": "generic",
+   "extra": [
+    "null",
+    15.0
+   ]
+  },
+  {
+   "id": 397,
+   "modelName": "FHANDR",
+   "txdName": "generic",
+   "extra": [
+    "null",
+    15.0
+   ]
+  },
+  {
+   "id": 300,
+   "modelName": "cutobj01",
+   "txdName": "generic",
+   "extra": [
+    "null",
+    2000.0
+   ]
+  },
+  {
+   "id": 301,
+   "modelName": "cutobj02",
+   "txdName": "generic",
+   "extra": [
+    "null",
+    2000.0
+   ]
+  },
+  {
+   "id": 302,
+   "modelName": "cutobj03",
+   "txdName": "generic",
+   "extra": [
+    "null",
+    2000.0
+   ]
+  },
+  {
+   "id": 303,
+   "modelName": "cutobj04",
+   "txdName": "generic",
+   "extra": [
+    "null",
+    2000.0
+   ]
+  },
+  {
+   "id": 304,
+   "modelName": "cutobj05",
+   "txdName": "generic",
+   "extra": [
+    "null",
+    2000.0
+   ]
+  },
+  {
+   "id": 305,
+   "modelName": "cutobj06",
+   "txdName": "generic",
+   "extra": [
+    "null",
+    2000.0
+   ]
+  },
+  {
+   "id": 306,
+   "modelName": "cutobj07",
+   "txdName": "generic",
+   "extra": [
+    "null",
+    2000.0
+   ]
+  },
+  {
+   "id": 307,
+   "modelName": "cutobj08",
+   "txdName": "generic",
+   "extra": [
+    "null",
+    2000.0
+   ]
+  },
+  {
+   "id": 308,
+   "modelName": "cutobj09",
+   "txdName": "generic",
+   "extra": [
+    "null",
+    2000.0
+   ]
+  },
+  {
+   "id": 309,
+   "modelName": "cutobj10",
+   "txdName": "generic",
+   "extra": [
+    "null",
+    2000.0
+   ]
+  },
+  {
+   "id": 310,
+   "modelName": "cutobj11",
+   "txdName": "generic",
+   "extra": [
+    "null",
+    2000.0
+   ]
+  },
+  {
+   "id": 311,
+   "modelName": "cutobj12",
+   "txdName": "generic",
+   "extra": [
+    "null",
+    2000.0
+   ]
+  },
+  {
+   "id": 312,
+   "modelName": "cutobj13",
+   "txdName": "generic",
+   "extra": [
+    "null",
+    2000.0
+   ]
+  },
+  {
+   "id": 313,
+   "modelName": "cutobj14",
+   "txdName": "generic",
+   "extra": [
+    "null",
+    2000.0
+   ]
+  },
+  {
+   "id": 314,
+   "modelName": "cutobj15",
+   "txdName": "generic",
+   "extra": [
+    "null",
+    2000.0
+   ]
+  },
+  {
+   "id": 315,
+   "modelName": "cutobj16",
+   "txdName": "generic",
+   "extra": [
+    "null",
+    2000.0
+   ]
+  },
+  {
+   "id": 316,
+   "modelName": "cutobj17",
+   "txdName": "generic",
+   "extra": [
+    "null",
+    2000.0
+   ]
+  },
+  {
+   "id": 317,
+   "modelName": "cutobj18",
+   "txdName": "generic",
+   "extra": [
+    "null",
+    2000.0
+   ]
+  },
+  {
+   "id": 318,
+   "modelName": "cutobj19",
+   "txdName": "generic",
+   "extra": [
+    "null",
+    2000.0
+   ]
+  },
+  {
+   "id": 319,
+   "modelName": "cutobj20",
+   "txdName": "generic",
+   "extra": [
+    "null",
+    2000.0
+   ]
+  }
+ ]
+}

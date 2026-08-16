@@ -1,0 +1,513 @@
+{
+ "objs": [
+  {
+   "id": 14770,
+   "modelName": "int_brothelseats",
+   "txdName": "genintgenintint3",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14771,
+   "modelName": "int3int_brothel",
+   "txdName": "int_brothelint3",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14772,
+   "modelName": "int3int_LOW_TV",
+   "txdName": "int_brothelint3",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 14773,
+   "modelName": "int3int_brothel03",
+   "txdName": "int_brothelint3",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14774,
+   "modelName": "int_5kb_flykiller",
+   "txdName": "int_brothelint3",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14775,
+   "modelName": "int3int_brothel04",
+   "txdName": "int_brothelint3",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14776,
+   "modelName": "int3int_carupg_int",
+   "txdName": "genintINTCARint3",
+   "drawDistance": 100,
+   "flags": 4
+  },
+  {
+   "id": 14777,
+   "modelName": "int_5weecasino",
+   "txdName": "int_casinoint3",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14778,
+   "modelName": "int_boxing02",
+   "txdName": "intring_gymint3",
+   "drawDistance": 40,
+   "flags": 0
+  },
+  {
+   "id": 14779,
+   "modelName": "int_boxing03",
+   "txdName": "intring_gymint3",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 14780,
+   "modelName": "in_bxing04",
+   "txdName": "Lring_gmint3",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 14781,
+   "modelName": "in_bxing05",
+   "txdName": "Lring_gmint3",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 14782,
+   "modelName": "int3int_boxing30",
+   "txdName": "intring_gymint3",
+   "drawDistance": 30,
+   "flags": 0
+  },
+  {
+   "id": 14783,
+   "modelName": "int3int_kbsgarage",
+   "txdName": "intgarage2aint3",
+   "drawDistance": 150,
+   "flags": 4
+  },
+  {
+   "id": 14784,
+   "modelName": "genint_warehs",
+   "txdName": "genintwarehsint3",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 14785,
+   "modelName": "gen_otb",
+   "txdName": "gen_offtrackINT",
+   "drawDistance": 80,
+   "flags": 0
+  },
+  {
+   "id": 14786,
+   "modelName": "ab_sfGymBeams1",
+   "txdName": "ab_sfGymBeams",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14787,
+   "modelName": "ab_sfGymBits02a",
+   "txdName": "ab_sfGymBits02",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14788,
+   "modelName": "ab_sfGymBits01a",
+   "txdName": "ab_sfGymBits01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14789,
+   "modelName": "ab_sfGymMain1",
+   "txdName": "ab_sfGymMain",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14790,
+   "modelName": "ab_sfGymBits03a",
+   "txdName": "ab_sfGymBits02",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14791,
+   "modelName": "a_vgsGymBoxa",
+   "txdName": "L_vgGyBox",
+   "drawDistance": 30,
+   "flags": 4
+  },
+  {
+   "id": 14792,
+   "modelName": "ab_vgsGymBits01a",
+   "txdName": "ab_vgsGymBits01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14793,
+   "modelName": "ab_vegasGymLitesa",
+   "txdName": "ab_vegasGymLites",
+   "drawDistance": 40,
+   "flags": 0
+  },
+  {
+   "id": 14794,
+   "modelName": "ab_vegasGymMain2",
+   "txdName": "ab_vegasGymMain",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14795,
+   "modelName": "genint3_smashtv",
+   "txdName": "smashtv",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 14796,
+   "modelName": "int_kbsgarage05b",
+   "txdName": "genintintgarage2",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14797,
+   "modelName": "int_kbsgarage3b",
+   "txdName": "genintintgarage3b",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14798,
+   "modelName": "int_kbsgarage3",
+   "txdName": "int_kbsgarage3",
+   "drawDistance": 100,
+   "flags": 4
+  },
+  {
+   "id": 14799,
+   "modelName": "otb_glass",
+   "txdName": "gen_offtrackINT",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 14800,
+   "modelName": "gen_otb_bits",
+   "txdName": "gen_otb_bits",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14801,
+   "modelName": "Bdups_main",
+   "txdName": "Lee_BdupsMain",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14802,
+   "modelName": "BDups_interior",
+   "txdName": "Lee_Bdupsflat",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14803,
+   "modelName": "BDupsNEW",
+   "txdName": "BDupsNew",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 14804,
+   "modelName": "BDups_plant",
+   "txdName": "BDupsNew",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 14805,
+   "modelName": "BDupsNew_int",
+   "txdName": "BDupsfurn",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 14806,
+   "modelName": "BDupshifi",
+   "txdName": "BDupshifi",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 14807,
+   "modelName": "BDupslight01",
+   "txdName": "BDupslight",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 14808,
+   "modelName": "Strip2_Building",
+   "txdName": "Lee_Strip2",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 14809,
+   "modelName": "Strip2_Platforms",
+   "txdName": "Lee_Strip2",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 14810,
+   "modelName": "Strip2_Tables",
+   "txdName": "Lee_Strip2",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 14811,
+   "modelName": "Strip2_neon",
+   "txdName": "Lee_Strip2_1",
+   "drawDistance": 50,
+   "flags": 4
+  },
+  {
+   "id": 14812,
+   "modelName": "StudioHall_frames",
+   "txdName": "LEE_StudHall",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 14813,
+   "modelName": "StudioHall_Furn",
+   "txdName": "LEE_StudHall",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 14814,
+   "modelName": "StudioHallBuild",
+   "txdName": "LEE_StudHall",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 14815,
+   "modelName": "Whhouse_main",
+   "txdName": "WHore_main",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14816,
+   "modelName": "Whhouse_furn",
+   "txdName": "WHore_furn",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14817,
+   "modelName": "Whhouse_Rms",
+   "txdName": "WHore_Rms",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14818,
+   "modelName": "mc_straps",
+   "txdName": "starps_ext",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14819,
+   "modelName": "OG_Door",
+   "txdName": "straps_int",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14820,
+   "modelName": "dj_stuff",
+   "txdName": "mixkb1",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14821,
+   "modelName": "mc_straps_int",
+   "txdName": "straps_int",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14822,
+   "modelName": "Gym2_doorway",
+   "txdName": "ab_sfGymMain",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14823,
+   "modelName": "Gym3_doorway",
+   "txdName": "ab_sfGymMain",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14824,
+   "modelName": "Gym1_doorway",
+   "txdName": "ab_sfGymMain",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14825,
+   "modelName": "int_boxing07",
+   "txdName": "genintint2_gym",
+   "drawDistance": 60,
+   "flags": 0
+  },
+  {
+   "id": 14826,
+   "modelName": "int_kbsgarage2",
+   "txdName": "genintintgarage2a",
+   "drawDistance": 150,
+   "flags": 0
+  },
+  {
+   "id": 14827,
+   "modelName": "ab_sfGymBits01a2",
+   "txdName": "ab_sfGymBits01",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14828,
+   "modelName": "LM_strip2Priv",
+   "txdName": "Lee_Strip2",
+   "drawDistance": 50,
+   "flags": 0
+  },
+  {
+   "id": 14829,
+   "modelName": "strip_signs",
+   "txdName": "Lee_StripClub1",
+   "drawDistance": 70,
+   "flags": 4
+  },
+  {
+   "id": 14830,
+   "modelName": "strip_lights",
+   "txdName": "Lee_StripClub1",
+   "drawDistance": 70,
+   "flags": 0
+  },
+  {
+   "id": 14831,
+   "modelName": "LM_stripbar",
+   "txdName": "Lee_StripClub1",
+   "drawDistance": 70,
+   "flags": 0
+  },
+  {
+   "id": 14832,
+   "modelName": "LM_stripCorner",
+   "txdName": "Lee_StripClub",
+   "drawDistance": 70,
+   "flags": 0
+  },
+  {
+   "id": 14833,
+   "modelName": "LM_stripchairs1",
+   "txdName": "Lee_StripClub",
+   "drawDistance": 70,
+   "flags": 0
+  },
+  {
+   "id": 14834,
+   "modelName": "LM_stripplant",
+   "txdName": "Lee_StripClub",
+   "drawDistance": 70,
+   "flags": 4
+  },
+  {
+   "id": 14835,
+   "modelName": "LM_stripColumns",
+   "txdName": "Lee_StripClub",
+   "drawDistance": 70,
+   "flags": 0
+  },
+  {
+   "id": 14836,
+   "modelName": "LM_strippoles",
+   "txdName": "Lee_StripClub",
+   "drawDistance": 70,
+   "flags": 0
+  },
+  {
+   "id": 14837,
+   "modelName": "LM_stripchairs",
+   "txdName": "Lee_StripClub",
+   "drawDistance": 70,
+   "flags": 0
+  },
+  {
+   "id": 14838,
+   "modelName": "int_strip_club",
+   "txdName": "Lee_StripClub",
+   "drawDistance": 70,
+   "flags": 0
+  },
+  {
+   "id": 14839,
+   "modelName": "LM_stripPriv",
+   "txdName": "Lee_StripPriv",
+   "drawDistance": 70,
+   "flags": 0
+  },
+  {
+   "id": 14840,
+   "modelName": "Bdups_graf",
+   "txdName": "Lee_BdupsMain",
+   "drawDistance": 100,
+   "flags": 0
+  },
+  {
+   "id": 14841,
+   "modelName": "Lee_gymers",
+   "txdName": "L_gymers",
+   "drawDistance": 30,
+   "flags": 4
+  }
+ ],
+ "tobj": [],
+ "path": [],
+ "2dfx": [],
+ "anim": [],
+ "txdp": []
+}
