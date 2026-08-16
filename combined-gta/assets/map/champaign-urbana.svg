@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 720" width="100%" height="100%" role="img" aria-label="Champaign-Urbana in GTA San Andreas pause-map style" shape-rendering="crispEdges" font-family="monospace">
+<rect width="1000" height="720" fill="#0d1b1e"/>
+<clipPath id="panel"><rect x="0" y="0" width="700" height="720"/></clipPath>
+<g clip-path="url(#panel)">
+<rect width="700" height="720" fill="#1d3a24"/>
+<path d="M514.2,139.6 L581.8,139.6 L581.8,197.6 L514.2,197.6 Z" fill="#3f7a3a"/>
+<path d="M263.1,313.6 L311.4,313.6 L311.4,348.4 L263.1,348.4 Z" fill="#3f7a3a"/>
+<path d="M311.4,197.6 L340.3,197.6 L340.3,226.6 L311.4,226.6 Z" fill="#3f7a3a"/>
+<path d="M533.5,429.6 L610.7,429.6 L610.7,510.8 L533.5,510.8 Z" fill="#3f7a3a"/>
+<path d="M407.9,302.0 L465.9,302.0 L465.9,360.0 L407.9,360.0 Z" fill="#3f7a3a"/>
+<path d="M12.0,447.0 L176.2,447.0 L176.2,708.0 L12.0,708.0 Z" fill="#3f7a3a"/>
+<path d="M108.6,99.0 L359.7,81.6 L369.3,348.4 L118.2,360.0 Z" fill="#e8e6dd"/>
+<path d="M422.4,116.4 L639.7,128.0 L639.7,348.4 L417.6,336.8 Z" fill="#d6d3c7"/>
+<path d="M350.0,197.6 L456.2,197.6 L456.2,371.6 L350.0,371.6 Z" fill="#e8e6dd"/>
+<path d="M205.1,12.0 L388.6,12.0 L388.6,93.2 L205.1,93.2 Z" fill="#d6d3c7"/>
+<path d="M243.8,522.4 L388.6,522.4 L388.6,650.0 L243.8,650.0 Z" fill="#e8e6dd"/>
+<path d="M528.7,151.2 L562.5,151.2 L562.5,180.2 L528.7,180.2 Z" fill="#2f6ea8"/>
+<path d="M224.5,209.2 L301.7,203.4 L350.0,215.0 L407.9,226.6 L475.5,232.4 L543.1,244.0" fill="none" stroke="#2f6ea8" stroke-width="4"/>
+<path d="M108.6,229.5 L350.0,229.5 L543.1,232.4 L659.0,233.6" fill="none" stroke="#3a3f42" stroke-width="4"/>
+<path d="M253.4,242.3 L350.0,242.8 L446.6,244.0 L562.5,245.2" fill="none" stroke="#3a3f42" stroke-width="4"/>
+<path d="M118.2,216.2 L350.0,217.9 L562.5,219.6" fill="none" stroke="#3a3f42" stroke-width="4"/>
+<path d="M118.2,328.1 L350.0,329.8 L591.4,331.0" fill="none" stroke="#3a3f42" stroke-width="4"/>
+<path d="M118.2,444.1 L398.3,445.8 L610.7,447.0" fill="none" stroke="#3a3f42" stroke-width="4"/>
+<path d="M333.1,12.0 L333.1,232.4 L332.1,534.0 L330.7,696.4" fill="none" stroke="#3a3f42" stroke-width="4"/>
+<path d="M234.1,23.6 L233.1,232.4 L231.7,476.0" fill="none" stroke="#3a3f42" stroke-width="4"/>
+<path d="M161.7,41.0 L160.7,244.0 L159.3,447.0" fill="none" stroke="#3a3f42" stroke-width="4"/>
+<path d="M446.6,70.0 L445.6,232.4 L444.2,476.0" fill="none" stroke="#3a3f42" stroke-width="4"/>
+<path d="M523.8,99.0 L522.9,244.0 L521.4,476.0" fill="none" stroke="#3a3f42" stroke-width="4"/>
+<path d="M509.3,12.0 L502.1,128.0 L497.3,197.6" fill="none" stroke="#3a3f42" stroke-width="4"/>
+<path d="M359.7,157.0 L358.7,360.0" fill="none" stroke="#3a3f42" stroke-width="4"/>
+<path d="M69.9,12.0 L74.8,302.0 L79.6,708.0" fill="none" stroke="#3a3f42" stroke-width="9"/>
+<path d="M69.9,12.0 L74.8,302.0 L79.6,708.0" fill="none" stroke="#6f7679" stroke-width="3"/>
+<path d="M12.0,139.6 L205.1,133.8 L398.3,122.2 L639.7,110.6 L688.0,104.8" fill="none" stroke="#3a3f42" stroke-width="9"/>
+<path d="M12.0,139.6 L205.1,133.8 L398.3,122.2 L639.7,110.6 L688.0,104.8" fill="none" stroke="#6f7679" stroke-width="3"/>
+<path d="M12.0,580.4 L156.9,592.0 L325.9,609.4 L543.1,615.2 L688.0,615.2" fill="none" stroke="#3a3f42" stroke-width="9"/>
+<path d="M12.0,580.4 L156.9,592.0 L325.9,609.4 L543.1,615.2 L688.0,615.2" fill="none" stroke="#6f7679" stroke-width="3"/>
+<image href="./assets/game/hud/radar_Flag.png" x="360.3" y="295.9" width="18" height="18"><title>Memorial Stadium</title></image>
+<image href="./assets/game/hud/radar_race.png" x="360.8" y="312.1" width="18" height="18"><title>State Farm Center</title></image>
+<image href="./assets/game/hud/radar_school.png" x="402.8" y="239.6" width="18" height="18"><title>Main Quad &amp; Illini Union</title></image>
+<image href="./assets/game/hud/radar_dateDisco.png" x="416.3" y="243.7" width="18" height="18"><title>Krannert Center</title></image>
+<image href="./assets/game/hud/radar_qmark.png" x="403.8" y="222.8" width="18" height="18"><title>Grainger Library</title></image>
+<image href="./assets/game/hud/radar_light.png" x="350.7" y="333.6" width="18" height="18"><title>Research Park</title></image>
+<image href="./assets/game/hud/radar_propertyG.png" x="324.6" y="197.9" width="18" height="18"><title>Downtown Champaign</title></image>
+<image href="./assets/game/hud/radar_police.png" x="498.9" y="231.5" width="18" height="18"><title>Downtown Urbana</title></image>
+<image href="./assets/game/hud/radar_saveGame.png" x="532.7" y="157.3" width="18" height="18"><title>Crystal Lake Park</title></image>
+<image href="./assets/game/hud/radar_airYard.png" x="156.5" y="645.6" width="18" height="18"><title>Willard Airport</title></image>
+</g>
+<rect x="0.5" y="0.5" width="699" height="719" fill="none" stroke="#7c7b7b" stroke-width="3"/>
+<g><circle cx="654" cy="46" r="22" fill="rgba(0,0,0,.55)" stroke="#d9dcd9" stroke-width="1.5"/><path d="M654,28 L660,46 L654,64 L648,46 Z" fill="#d9dcd9"/><path d="M654,28 L660,46 L648,46 Z" fill="#bf242a"/><text x="654" y="20" fill="#d9dcd9" font-size="11" text-anchor="middle">N</text></g>
+<text x="726" y="46" fill="#c2a22b" font-size="21" letter-spacing="2">MAP LEGEND</text>
+<text x="726" y="68" fill="#d9dcd9" font-size="11" opacity=".65">CHAMPAIGN - URBANA, ILLINOIS</text>
+<image href="./assets/game/hud/radar_Flag.png" x="726" y="91" width="17" height="17"/>
+<text x="752" y="104" fill="#d9dcd9" font-size="13">Memorial Stadium</text>
+<image href="./assets/game/hud/radar_race.png" x="726" y="121" width="17" height="17"/>
+<text x="752" y="134" fill="#d9dcd9" font-size="13">State Farm Center</text>
+<image href="./assets/game/hud/radar_school.png" x="726" y="151" width="17" height="17"/>
+<text x="752" y="164" fill="#d9dcd9" font-size="13">Main Quad &amp; Illini Union</text>
+<image href="./assets/game/hud/radar_dateDisco.png" x="726" y="181" width="17" height="17"/>
+<text x="752" y="194" fill="#d9dcd9" font-size="13">Krannert Center</text>
+<image href="./assets/game/hud/radar_qmark.png" x="726" y="211" width="17" height="17"/>
+<text x="752" y="224" fill="#d9dcd9" font-size="13">Grainger Library</text>
+<image href="./assets/game/hud/radar_light.png" x="726" y="241" width="17" height="17"/>
+<text x="752" y="254" fill="#d9dcd9" font-size="13">Research Park</text>
+<image href="./assets/game/hud/radar_propertyG.png" x="726" y="271" width="17" height="17"/>
+<text x="752" y="284" fill="#d9dcd9" font-size="13">Downtown Champaign</text>
+<image href="./assets/game/hud/radar_police.png" x="726" y="301" width="17" height="17"/>
+<text x="752" y="314" fill="#d9dcd9" font-size="13">Downtown Urbana</text>
+<image href="./assets/game/hud/radar_saveGame.png" x="726" y="331" width="17" height="17"/>
+<text x="752" y="344" fill="#d9dcd9" font-size="13">Crystal Lake Park</text>
+<image href="./assets/game/hud/radar_airYard.png" x="726" y="361" width="17" height="17"/>
+<text x="752" y="374" fill="#d9dcd9" font-size="13">Willard Airport</text>
+<text x="726" y="694" fill="#d9dcd9" font-size="10" opacity=".5">Real coordinates, simplified road geometry</text>
+</svg>

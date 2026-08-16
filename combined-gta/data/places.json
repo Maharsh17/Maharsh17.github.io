@@ -1,47 +1,34 @@
 {
- "note": "Real places from Maharsh's life, pinned onto the San Andreas map. x/y are percentages of the map area. Icons are authentic radar sprites from the game's hud.txd.",
+ "note": "Maharsh's own places, in real WGS84 coordinates, projected onto the generated Champaign-Urbana map. Must use the same bounding box as scripts/build-cu-map.py.",
+ "bbox": { "latN": 40.150, "latS": 40.030, "lonW": -88.310, "lonE": -88.170 },
  "places": [
   {
    "name": "NSF AI INVITE Institute",
-   "detail": "Software Engineer, Dec 2025 to present. Champaign, IL.",
+   "detail": "Software Engineer, Dec 2025 to present",
    "icon": "radar_propertyG.png",
-   "x": 34,
-   "y": 41
-  },
-  {
-   "name": "University of Illinois Urbana-Champaign",
-   "detail": "CS and Learning Sciences, expected May 2028.",
-   "icon": "radar_school.png",
-   "x": 47,
-   "y": 55
+   "lat": 40.1150,
+   "lon": -88.2278
   },
   {
    "name": "Illinois WCS DevAda",
-   "detail": "Lead Software Engineer, Jan 2026 to present.",
+   "detail": "Lead Software Engineer, Jan 2026 to present",
    "icon": "radar_light.png",
-   "x": 60,
-   "y": 33
+   "lat": 40.1136,
+   "lon": -88.2250
   },
   {
    "name": "Student Alumni Ambassadors",
-   "detail": "VP of Alumni Relations, Mar 2026 to present.",
+   "detail": "VP of Alumni Relations, Mar 2026 to present",
    "icon": "radar_Flag.png",
-   "x": 25,
-   "y": 66
-  },
-  {
-   "name": "Management Leadership for Tomorrow",
-   "detail": "Career Prep Fellow. Remote.",
-   "icon": "radar_waypoint.png",
-   "x": 73,
-   "y": 62
+   "lat": 40.1063,
+   "lon": -88.2196
   },
   {
    "name": "Home base",
-   "detail": "Chambana, IL.",
+   "detail": "Chambana, IL",
    "icon": "radar_saveGame.png",
-   "x": 52,
-   "y": 76
+   "lat": 40.1150,
+   "lon": -88.2500
   }
  ]
 }

@@ -246,3 +246,45 @@ body::before {
 
 /* The HUD page paints the whole sky already; a strip on top of it is noise. */
 .site-hud-page::before { display: none; }
+
+/* Champaign-Urbana map page. The frame locks the SVG's 1000x720 aspect ratio,
+   because the personal pins are positioned as percentages of that viewBox. Let
+   it letterbox and the pins drift off their real coordinates. */
+.site-map {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 0 24px;
+	min-height: 0;
+}
+
+.site-map-frame {
+	position: relative;
+	width: 100%;
+	max-width: 1000px;
+	aspect-ratio: 1000 / 720;
+	max-height: 100%;
+	border: 4px solid rgb(124, 123, 123);
+}
+
+.site-map-svg {
+	display: block;
+	width: 100%;
+	height: 100%;
+	pointer-events: none;
+}
+
+.site-map-pins {
+	position: absolute;
+	inset: 0;
+}
+
+/* Personal pins are gold-ringed so they read as distinct from the ten
+   landmark icons baked into the SVG itself. */
+.site-map-pins .site-pin-icon {
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	box-shadow: 0 0 0 2px rgb(194, 162, 43), 0 1px 3px rgba(0, 0, 0, .9);
+	background: rgba(0, 0, 0, .55);
+}
