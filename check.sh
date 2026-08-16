@@ -25,7 +25,7 @@ for j in js/*.js; do
 done
 
 # 4. Data files are valid JSON
-for d in data/projects.json data/overrides.json; do
+for d in data/projects.json data/overrides.json data/timecyc.json; do
   [ -f "$d" ] || { fail "missing $d"; continue; }
   jq empty "$d" >/dev/null 2>&1 || fail "invalid JSON in $d"
 done
