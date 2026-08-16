@@ -33,3 +33,22 @@
 .site-prose li { margin-bottom: 6px; }
 
 .site-prose a { color: rgb(194, 162, 43); }
+
+/* HUD page. The React HUD widget itself is untouched; only the page around
+   it changes, so it stops being a white sheet between two black menu pages. */
+.site-hud-page {
+	background: #000;
+	min-height: 100vh;
+}
+
+.site-hud-art {
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 512px;
+	height: 512px;
+	background-image: url("../assets/game/back6.png");
+	background-repeat: no-repeat;
+	pointer-events: none;
+	z-index: 0;
+}

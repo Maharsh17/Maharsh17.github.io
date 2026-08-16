@@ -248,8 +248,19 @@ what the source material does.
 
 ## Asset Licensing
 
-The retail install at `gta-web/GTA San Andreas/` is reference only. Nothing
-extracted from it ships.
+**Amended after implementation, at Maharsh's explicit direction.** The original
+position was reference-only, nothing ships. Two textures now ship.
+
+`back6.png` and `back7.png` are decoded from `models/fronten2.txd` by
+`scripts/extract-txd.py` and live in `combined-gta/assets/game/`. They are the
+only two menu backgrounds the fan recreation does not already include; the
+others were extracted, compared at identical resolution, and deleted rather
+than shipped for no gain.
+
+These are Rockstar's copyrighted assets and the site is deployed publicly. That
+tradeoff was raised twice and accepted. They are isolated in one directory with
+a README documenting exactly how to remove them, so the decision stays
+reversible in two edits.
 
 The four combined projects are fan-made recreations, which is what makes them
 distributable. `gtasamenu.css` reimplements the menu in CSS with free lookalike
