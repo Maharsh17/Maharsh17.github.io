@@ -32,7 +32,7 @@ python3 -c 'import ast,sys; ast.parse(open(sys.argv[1]).read())' ../scripts/buil
   || fail "syntax error in scripts/build-blog.py"
 
 # 4. Data files are valid JSON
-for d in data/projects.json data/overrides.json data/timecyc.json data/places.json data/vehicles.json; do
+for d in data/overrides.json data/timecyc.json data/places.json data/vehicles.json; do
   [ -f "$d" ] || { fail "missing $d"; continue; }
   jq empty "$d" >/dev/null 2>&1 || fail "invalid JSON in $d"
 done

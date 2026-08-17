@@ -5,9 +5,7 @@
     "slotName": "vex learner models",
     "line": "Glass-box models over VEX robotics telemetry",
     "blurb": "Glass-box explainable boosting models over VEX robotics telemetry, predicting learner outcomes from behaviour traces rather than from a black box.",
-    "status": "active",
-    "noRepo": true,
-    "pushedAt": "2026-08-01"
+    "noRepo": true
   },
   "brain-encoder-audit": {
     "category": "research work",
@@ -15,33 +13,28 @@
     "slotName": "brain encoder audit",
     "line": "Do the features it is credited with actually reach the prediction?",
     "blurb": "Information-flow audit of a multimodal brain encoder: minimal pairs and LEACE concept erasure to test whether the features it is credited with using actually reach the prediction.",
-    "status": "active",
-    "noRepo": true,
-    "pushedAt": "2026-07-15"
+    "noRepo": true
   },
   "InviteInstitute/lm-dashboard": {
     "category": "research software",
     "order": 1,
     "slotName": "lm dashboard",
     "line": "Realtime learning analytics for AI tutors",
-    "blurb": "Realtime learning analytics for AI tutors. Turns 41K+ live events into structured context so a tutor can catch a struggling student mid-lesson.",
-    "status": "shipped"
+    "blurb": "Realtime learning analytics for AI tutors. Turns 41K+ live events into structured context so a tutor can catch a struggling student mid-lesson."
   },
   "InviteInstitute/vex-agent-integration": {
     "category": "research software",
     "order": 2,
     "slotName": "vex agent",
     "line": "Robotics triggers wired to a pedagogical agent",
-    "blurb": "Connects VEX robotics triggers and episodes to a pedagogical agent, evaluating behavioral rules against live data on a 5 second cycle.",
-    "status": "active"
+    "blurb": "Connects VEX robotics triggers and episodes to a pedagogical agent, evaluating behavioral rules against live data on a 5 second cycle."
   },
   "InviteInstitute/agent-lm-packages": {
     "category": "research software",
     "order": 3,
     "slotName": "agent lm packages",
     "line": "VEX log parser and learner models",
-    "blurb": "VEX log parser and learner models built for the Shan and Noah study.",
-    "status": "active"
+    "blurb": "VEX log parser and learner models built for the Shan and Noah study."
   },
   "firewatch": {
     "category": "personal",
@@ -49,40 +42,34 @@
     "slotName": "firewatch",
     "line": "Wildfire severity forecast, 52 weeks out",
     "blurb": "Wildfire severity forecasting 52 weeks out, merging 3 federal datasets and 11K+ fire observations. Led 4 developers across 10 sprints.",
-    "status": "shipped",
-    "noRepo": true,
-    "pushedAt": "2026-05-01"
+    "noRepo": true
   },
   "Maharsh17/county-clustering": {
     "category": "personal",
     "order": 2,
     "slotName": "county clustering",
     "line": "3,128 US counties grouped by mobility and vulnerability",
-    "blurb": "Groups 3,128 US counties by social vulnerability and upward mobility, then tests whether the groups are real or an artifact of what was measured.",
-    "status": "shipped"
+    "blurb": "Groups 3,128 US counties by social vulnerability and upward mobility, then tests whether the groups are real or an artifact of what was measured."
   },
   "CS222-UIUC/fa25-team118-titans": {
     "category": "personal",
     "order": 3,
     "slotName": "collab editor",
     "line": "Google Docs style editing over Yjs CRDTs",
-    "blurb": "Google Docs style editor with sub-second multi-user sync over Yjs CRDT WebSockets. 88 commits, 10 weeks, team of 4.",
-    "status": "shipped"
+    "blurb": "Google Docs style editor with sub-second multi-user sync over Yjs CRDT WebSockets. 88 commits, 10 weeks, team of 4."
   },
   "Maharsh17/resume-blaster": {
     "category": "personal",
     "order": 4,
     "slotName": "resume blaster",
     "line": "LaTeX resume tailoring driven by language models",
-    "blurb": "LaTeX resume tailoring driven by language models.",
-    "status": "active"
+    "blurb": "LaTeX resume tailoring driven by language models."
   },
   "HarshithaS2023/ai4all": {
     "category": "personal",
     "order": 5,
     "slotName": "ai4all",
     "line": "AI4ALL coursework and project site",
-    "blurb": "AI4ALL coursework and project site.",
-    "status": "active"
+    "blurb": "AI4ALL coursework and project site."
   }
 }

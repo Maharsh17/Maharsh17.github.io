@@ -16,15 +16,6 @@
 	// category in overrides.json drops the entry loudly instead of inventing
 	// a fourth band nobody styled.
 	var BANDS = ["research work", "research software", "personal"];
-	var MONTHS = ["JAN","FEB","MAR","APR","MAY","JUN","JUL","AUG","SEP","OCT","NOV","DEC"];
-
-	function pad(n) { return n < 10 ? "0" + n : "" + n; }
-
-	function fmtDate(iso) {
-		if (!iso) return "";
-		var p = iso.split("-");
-		return pad(parseInt(p[2], 10)) + " " + MONTHS[parseInt(p[1], 10) - 1] + " " + p[0];
-	}
 
 	function esc(s) {
 		return String(s == null ? "" : s)
@@ -71,34 +62,26 @@
 		return html + "</ul>";
 	}
 
-	function render(overrides, projects, garageData) {
+	function render(overrides, garageData) {
 		var garage = (garageData && garageData.garage) || {};
-		var byName = {};
-		var i;
-		if (projects && projects.repos) {
-			for (i = 0; i < projects.repos.length; i++) {
-				byName[projects.repos[i].nameWithOwner] = projects.repos[i];
-			}
-		}
-
 		var grouped = {};
+		var i;
 		for (i = 0; i < BANDS.length; i++) grouped[BANDS[i]] = [];
 
 		for (var key in overrides) {
 			if (!Object.prototype.hasOwnProperty.call(overrides, key)) continue;
 			var o = overrides[key];
 			if (!grouped[o.category]) continue;
-			var repo = byName[key] || {};
 			grouped[o.category].push({
 				nameWithOwner: key,
 				order: o.order || 99,
 				slotName: o.slotName,
 				line: o.line,
 				blurb: o.blurb,
-				status: o.status,
 				noRepo: !!o.noRepo,
-				isPrivate: !!repo.isPrivate,
-				pushedAt: repo.pushedAt || o.pushedAt || "",
+				// Set "private": true on an override when a repo stops being
+				// public, so the row stays listed but does not link to a 404.
+				isPrivate: !!o.private,
 				vehicle: (garage[key] || {}).vehicle || ""
 			});
 		}
@@ -116,16 +99,10 @@
 	}
 
 	getJSON("./data/overrides.json").then(function (overrides) {
-		// Slots must render even if the generated file is missing.
-		return getJSON("./data/projects.json").then(
-			function (projects) {
-				// The garage is optional decoration; never let it block slots.
-				return getJSON("./data/vehicles.json").then(
-					function (g) { render(overrides, projects, g); },
-					function () { render(overrides, projects, null); }
-				);
-			},
-			function () { render(overrides, null, null); }
+		// The garage is optional decoration; never let it block slots.
+		return getJSON("./data/vehicles.json").then(
+			function (g) { render(overrides, g); },
+			function () { render(overrides, null); }
 		);
 	}).catch(function () {
 		host.innerHTML = '<ul class="menu-container"><li class="menu-option ' +
