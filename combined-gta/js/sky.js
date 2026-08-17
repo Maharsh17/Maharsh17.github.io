@@ -58,7 +58,13 @@
 		}
 	}
 
-	fetch("./data/timecyc.json").then(function (r) {
+	// Resolved against this file's own URL rather than the page's. Blog posts
+	// live one directory down, so a "./data/..." path 404s there and the only
+	// symptom is the horizon strip quietly falling back to its midday blue.
+	var here = document.currentScript && document.currentScript.src;
+	var DATA = here ? new URL("../data/timecyc.json", here).href : "./data/timecyc.json";
+
+	fetch(DATA).then(function (r) {
 		if (!r.ok) throw new Error(r.status);
 		return r.json();
 	}).then(function (data) {
