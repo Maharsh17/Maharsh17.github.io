@@ -1,7 +1,0 @@
-Hi, thanks for building this. I'm using it as the base for a personal site and wanted to ask about licensing.
-
-There's no LICENSE file in the repo right now, which under default copyright means the code is all rights reserved even though it's public. That leaves people unsure whether they can use or adapt it.
-
-Would you consider adding one? MIT is the usual pick for something like this and is a one-file change. GitHub can do it for you via Add file > Create new file > name it LICENSE, which brings up a template picker.
-
-Totally your call either way, and thanks again for the work.

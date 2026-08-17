@@ -15,7 +15,8 @@ for p in $PAGES; do
 done
 
 # 2. Retired pages are gone
-for p in game.html deletegame.html language.html notifications.html loadgame.html missions.html; do
+for p in game.html deletegame.html language.html notifications.html loadgame.html missions.html \
+         hud.html stats.html weapons.html; do
   [ -e "$p" ] && fail "retired page still present: $p"
 done
 
@@ -28,7 +29,7 @@ done
 python3 -m py_compile ../scripts/build-blog.py 2>/dev/null || fail "syntax error in scripts/build-blog.py"
 
 # 4. Data files are valid JSON
-for d in data/projects.json data/overrides.json data/timecyc.json data/weapons.json data/places.json data/vehicles.json; do
+for d in data/projects.json data/overrides.json data/timecyc.json data/places.json data/vehicles.json; do
   [ -f "$d" ] || { fail "missing $d"; continue; }
   jq empty "$d" >/dev/null 2>&1 || fail "invalid JSON in $d"
 done
