@@ -1,8 +1,9 @@
 # Extracted game assets
 
 Decoded from a retail Grand Theft Auto: San Andreas install by
-`scripts/extract-txd.py`, which parses RenderWare texture dictionaries and
-decompresses DXT1/DXT3 to PNG using only `struct` and `zlib`.
+a RenderWare texture-dictionary decoder that decompressed DXT1/DXT3 to PNG
+using only `struct` and `zlib`. The decoder was removed along with the game
+install it read from; these PNGs are what it produced.
 
 ## What is here
 
@@ -51,12 +52,12 @@ They are isolated in this one directory so removal stays trivial:
 rm -rf combined-gta/assets/game
 ```
 
-Then point `missions.html` back at `./assets/menu/images/back5.png` and drop
-the `.site-hud-art` rule from `css/site.css`. Nothing else depends on them.
+Then point `experience.html` back at `./assets/menu/images/back5.png`. Nothing
+else depends on them.
 
 ## Related
 
-`scripts/extract-gxt.py` dumps every in-game string to
-`reference/gxt-strings.json` (16,588 strings, 127 tables). That file is
-reference only and deliberately lives outside `combined-gta/`, so it is never
-served.
+The cheat messages in `js/cheats.js` use the game's own wording, dumped from
+american.gxt (16,588 strings across 127 tables). Only the handful of strings
+actually shown on the site were kept; the full dump and the extractors that
+produced it were removed along with the game install they read from.
