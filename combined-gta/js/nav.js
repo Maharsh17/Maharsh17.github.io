@@ -85,7 +85,14 @@
 			var el = document.createElement("link");
 			el.rel = "stylesheet";
 			el.href = href;
-			document.head.appendChild(el);
+			// Inserted before site.css, never appended. Appending would put a
+			// vendored stylesheet after the one that overrides it, and later
+			// wins at equal specificity, so arriving at the map by clicking
+			// would have undone every control restyle that a direct load
+			// applied. Same page, two different appearances.
+			var own = document.querySelector('link[href*="css/site.css"]');
+			if (own) own.parentNode.insertBefore(el, own);
+			else document.head.appendChild(el);
 		});
 	}
 

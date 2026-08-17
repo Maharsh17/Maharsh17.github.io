@@ -456,6 +456,66 @@ body::before {
 
 .maplibregl-popup-tip { display: none; }
 
+/* MapLibre's own controls ship white: white zoom buttons, a translucent white
+   scale bar, a white attribution strip. Contrast inside each chip is fine
+   (12:1 on the scale, 21:1 on the attribution), so this is not a contrast fix
+   - the problem is small dark text in a bright box floating over a light map
+   on an otherwise black page. Recoloured into the site's palette so they read
+   as part of the frame instead of browser furniture. */
+.maplibregl-ctrl-group {
+	background: rgba(0, 0, 0, .78);
+	border: 1px solid rgba(194, 162, 43, .5);
+	border-radius: 0;
+	box-shadow: none;
+}
+
+.maplibregl-ctrl-group button + button { border-top: 1px solid rgba(194, 162, 43, .3); }
+
+.maplibregl-ctrl-group button {
+	background: transparent;
+	color: rgb(194, 162, 43);
+}
+
+.maplibregl-ctrl-group button:hover { background: rgba(194, 162, 43, .22); }
+
+/* The +, - and compass glyphs are dark SVGs baked into maplibre-gl.css as
+   data URIs, so they cannot be recoloured directly. Inverting the icon is
+   what turns them light without touching the vendored stylesheet. */
+.maplibregl-ctrl-group button .maplibregl-ctrl-icon { filter: invert(1); }
+
+.maplibregl-ctrl-scale {
+	background: rgba(0, 0, 0, .78);
+	border: 1px solid rgba(194, 162, 43, .5);
+	border-top: none;
+	color: rgb(194, 162, 43);
+	font-family: Futura, Arial, sans-serif;
+	font-size: 11px;
+	letter-spacing: .5px;
+}
+
+/* The compact attribution carries .maplibregl-compact as well, and the
+   vendored rule for that pair is more specific than a single class, so a
+   plain .maplibregl-ctrl-attrib override lost the background while still
+   winning the colour: light text on the white box it failed to repaint.
+   Both selectors are matched here so the pair cannot come apart. */
+.maplibregl-ctrl-attrib,
+.maplibregl-ctrl-attrib.maplibregl-compact {
+	background: rgba(0, 0, 0, .72);
+	border: 1px solid rgba(194, 162, 43, .35);
+	border-radius: 0;
+	font-family: Futura, Arial, sans-serif;
+}
+
+.maplibregl-ctrl-attrib,
+.maplibregl-ctrl-attrib.maplibregl-compact,
+.maplibregl-ctrl-attrib-inner,
+.maplibregl-ctrl-attrib-inner a { color: rgba(217, 220, 217, .78); }
+
+.maplibregl-ctrl-attrib-inner a:hover { color: rgb(194, 162, 43); }
+
+/* The compact attribution toggle is the same baked-in dark SVG problem. */
+.maplibregl-ctrl-attrib-button { filter: invert(1); }
+
 /* Main-menu music player. Art only: no track name, no duration.
    radio_TPLAYER is SA's own Track Player sprite. Nothing autoplays.
    Single authoritative block: earlier edits left duplicate rules later in the
