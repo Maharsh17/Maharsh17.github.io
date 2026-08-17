@@ -309,3 +309,24 @@ body::before {
 
 /* Personal pins are gold-ringed so they read as distinct from the ten
    landmark icons baked into the SVG itself. */
+
+/* Main-menu theme toggle. Sits in the footer, deliberately quiet: the site
+   should not look like it wants to play you music. */
+.site-theme-btn {
+	position: absolute;
+	right: 24px;
+	bottom: 18px;
+	z-index: 20;
+	background: rgba(0, 0, 0, .5);
+	border: 1px solid rgba(194, 162, 43, .45);
+	padding: 5px 12px;
+	font-family: BankGothic, sans-serif;
+	font-size: 13px;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	color: rgba(194, 162, 43, .75);
+	cursor: inherit;
+}
+
+.site-theme-btn:hover { color: #fff; border-color: rgb(194, 162, 43); }
+.site-theme-btn.is-on { color: #fff; border-color: rgb(194, 162, 43); }
