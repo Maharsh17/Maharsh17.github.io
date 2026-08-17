@@ -388,22 +388,51 @@ body::before {
    This reserves the column once, for the header and for every scrolling prose
    block, so the collision cannot happen on any page, including pages added
    later. Fixing it here rather than in missions.html is the whole point. */
-:root { --corner-art: 512px; --corner-gap: 40px; }
+/* --corner-run is how far the art reaches past the top of the prose block:
+   the art is 512px tall and the header above the prose is roughly 210px. */
+:root { --corner-art: 512px; --corner-gap: 40px; --corner-run: 300px; }
 
-.menu-header,
-.site-scroll {
+/* The header sits alongside the art for its whole height, so it reserves the
+   column outright. */
+.menu-header {
 	padding-right: calc(var(--corner-art) + var(--corner-gap));
 	box-sizing: border-box;
 }
 
+/* Prose only needs to clear the art where the art actually is. A float spacer
+   makes text wrap around the top-right corner and then reclaim the full width
+   underneath, instead of surrendering the column for the entire page. */
+.site-prose::before {
+	content: "";
+	float: right;
+	width: calc(var(--corner-art) + var(--corner-gap));
+	height: var(--corner-run);
+	shape-outside: inset(0);
+}
+
+.site-prose > * { min-width: 0; }
+
 /* Narrow viewports: a fixed 512px panel would swallow the page, so it scales
    down and the reservation follows it rather than being hard-coded. */
 @media (max-width: 1180px) {
-	:root { --corner-art: 300px; }
+	:root { --corner-art: 300px; --corner-run: 180px; }
 	.menu-image { width: 300px; height: 300px; background-size: contain; }
 }
 
 @media (max-width: 820px) {
-	:root { --corner-art: 0px; --corner-gap: 24px; }
+	:root { --corner-art: 0px; --corner-gap: 24px; --corner-run: 0px; }
 	.menu-image { display: none; }
 }
+
+/* Layer 2 of the corner-art guard.
+   The float above only helps flowing text; floats do not affect grid items, so
+   a card grid like the weapons page could still slide under the art. Content
+   is given a stacking context above the art so it can never be hidden by it,
+   and cards carry an opaque background so they stay readable where they do
+   overlap. Decorative art should lose to content, always. */
+.menu-image { z-index: 0; }
+
+.menu-header,
+.menu-content { position: relative; z-index: 1; }
+
+.site-wcard { background: rgba(0, 0, 0, .88); }
