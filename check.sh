@@ -99,6 +99,11 @@ BAD=$(for c in $(find assets -name '*.css' 2>/dev/null); do
 done)
 [ -n "$BAD" ] && { echo "$BAD" | sed 's/^/FAIL: /'; FAIL=1; }
 
+# 6b. The custom domain lives in a CNAME file at the repo root. GitHub writes
+# it when the domain is set in Settings, so a local checkout that predates
+# that will quietly delete it on the next push and take janimaharsh.com down.
+[ -f CNAME ] || fail "CNAME missing: pushing would drop the custom domain"
+
 # 7. No phone number leaked. Scoped to what a deployed site would serve, and
 # excluding this file, which necessarily contains the pattern it searches for.
 # Flattening the site to the repo root put docs/ and posts/ inside the served
