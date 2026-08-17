@@ -252,39 +252,60 @@ body::before {
    it letterbox and the pins drift off their real coordinates. */
 .site-map {
 	display: flex;
-	align-items: center;
+	align-items: stretch;
 	justify-content: center;
-	padding: 0 24px;
+	padding: 0 24px 10px;
 	min-height: 0;
 }
 
 .site-map-frame {
 	position: relative;
 	width: 100%;
-	max-width: 1000px;
-	aspect-ratio: 1000 / 720;
-	max-height: 100%;
+	max-width: 1100px;
+	height: 100%;
+	min-height: 320px;
 	border: 4px solid rgb(124, 123, 123);
 }
 
-.site-map-svg {
-	display: block;
-	width: 100%;
-	height: 100%;
-	pointer-events: none;
+#map { position: absolute; inset: 0; }
+
+/* Radar sprites as map markers. */
+.site-marker {
+	width: 26px;
+	height: 26px;
+	image-rendering: pixelated;
+	border-radius: 50%;
+	background: rgba(0, 0, 0, .6);
+	box-shadow: 0 0 0 2px rgb(194, 162, 43);
+	cursor: pointer;
 }
 
-.site-map-pins {
+.site-map-status {
 	position: absolute;
-	inset: 0;
+	left: 10px;
+	top: 10px;
+	z-index: 2;
+	margin: 0;
+	padding: 5px 10px;
+	background: rgba(0, 0, 0, .72);
+	border: 1px solid rgba(194, 162, 43, .5);
+	font-family: BankGothic, sans-serif;
+	font-size: 12px;
+	letter-spacing: 1px;
+	color: rgb(194, 162, 43);
+	text-transform: uppercase;
 }
+
+.maplibregl-popup-content {
+	background: #0d1b1e;
+	color: #d9dcd9;
+	border: 1px solid rgba(194, 162, 43, .6);
+	font-family: Futura, Arial, sans-serif;
+	font-size: 12px;
+	border-radius: 0;
+}
+
+.maplibregl-popup-tip { display: none; }
 
 /* Personal pins are gold-ringed so they read as distinct from the ten
    landmark icons baked into the SVG itself. */
-.site-map-pins .site-pin-icon {
-	width: 20px;
-	height: 20px;
-	border-radius: 50%;
-	box-shadow: 0 0 0 2px rgb(194, 162, 43), 0 1px 3px rgba(0, 0, 0, .9);
-	background: rgba(0, 0, 0, .55);
-}

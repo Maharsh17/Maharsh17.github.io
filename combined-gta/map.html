@@ -6,29 +6,30 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Maharsh Jani - Map</title>
 	<link rel="icon" type="image/png" sizes="32x32" href="./assets/menu/images/favicon-32x32.png">
-	<meta name="description" content="Champaign-Urbana rendered as a GTA San Andreas pause menu map">
+	<meta name="description" content="Interactive map in GTA San Andreas style, centred on you or on Champaign-Urbana">
 	<link rel="stylesheet" href="./assets/menu/fonts/myfonts.min.css">
 	<link rel="stylesheet" href="./assets/menu/css/normalize.min.css">
 	<link rel="stylesheet" href="./assets/menu/css/gtasamenu.min.css">
 	<link rel="stylesheet" href="./assets/notify/css/gtasa-notification.min.css">
+	<link rel="stylesheet" href="./assets/maplibre/maplibre-gl.css">
 	<link rel="stylesheet" href="./css/site.css">
 </head>
 <body data-section="map" class="container container--map">
 	<header class="menu-header"></header>
 	<main class="menu-content site-map">
 		<div class="site-map-frame">
-			<object class="site-map-svg" type="image/svg+xml" data="./assets/map/champaign-urbana.svg" aria-label="Champaign-Urbana street map in GTA San Andreas style"></object>
-			<div class="site-map-pins"></div>
+			<div id="map"></div>
+			<p class="site-map-status"></p>
 		</div>
 	</main>
 	<footer class="menu-footer">
 		<span class="menu-option menu-option--back-left"><a href="./index.html">back</a></span>
-		<span class="menu-map--message">champaign - urbana, illinois<br>hover a gold marker for my places</span>
-		<p class="menu-footer-message">Built from real coordinates. Road geometry is simplified, the way the game's own pause map is.</p>
+		<span class="menu-map--message">drag to pan &middot; scroll to zoom<br>hover a marker for my places</span>
 	</footer>
+	<script src="./assets/maplibre/maplibre-gl.js"></script>
 	<script src="./assets/menu/js/gtasamenu.min.js"></script>
 	<script src="./assets/notify/js/gtasa-notification.min.js"></script>
-	<script src="./js/places.js"></script>
+	<script src="./js/map.js"></script>
 	<script src="./js/sky.js"></script><script src="./js/cheats.js"></script>
 	<script src="./js/site.js"></script>
 </body>

@@ -1,20 +1,33 @@
 {
- "note": "Maharsh's own places, in real WGS84 coordinates, projected onto the generated Champaign-Urbana map. Must use the same bounding box as scripts/build-cu-map.py.",
- "bbox": { "latN": 40.150, "latS": 40.030, "lonW": -88.310, "lonE": -88.170 },
+ "note": "Maharsh's own places in real WGS84 coordinates, rendered as MapLibre markers on map.html. Icons are radar sprites from the game's hud.txd.",
  "places": [
   {
-   "name": "NSF AI INVITE Institute",
-   "detail": "Software Engineer, Dec 2025 to present",
-   "icon": "radar_propertyG.png",
-   "lat": 40.1150,
-   "lon": -88.2278
+   "name": "Home base",
+   "detail": "Campus Circle",
+   "icon": "radar_saveGame.png",
+   "lat": 40.1163,
+   "lon": -88.234
   },
   {
-   "name": "Illinois WCS DevAda",
-   "detail": "Lead Software Engineer, Jan 2026 to present",
-   "icon": "radar_light.png",
-   "lat": 40.1136,
-   "lon": -88.2250
+   "name": "Siebel Center for Computer Science",
+   "detail": "CS half of the degree",
+   "icon": "radar_school.png",
+   "lat": 40.1138,
+   "lon": -88.2249
+  },
+  {
+   "name": "College of Education",
+   "detail": "Learning Sciences half of the degree",
+   "icon": "radar_school.png",
+   "lat": 40.1023,
+   "lon": -88.2295
+  },
+  {
+   "name": "Chipotle",
+   "detail": "Food spot",
+   "icon": "radar_diner.png",
+   "lat": 40.1102,
+   "lon": -88.2286
   },
   {
    "name": "Student Alumni Ambassadors",
@@ -22,13 +35,6 @@
    "icon": "radar_Flag.png",
    "lat": 40.1063,
    "lon": -88.2196
-  },
-  {
-   "name": "Home base",
-   "detail": "Chambana, IL",
-   "icon": "radar_saveGame.png",
-   "lat": 40.1150,
-   "lon": -88.2500
   }
  ]
 }
