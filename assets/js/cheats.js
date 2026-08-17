@@ -17,6 +17,7 @@
 	var HERE = (document.currentScript && document.currentScript.src) || location.href;
 	var MAP = new URL("../../map/", HERE).href;
 	var WASTED = new URL("../../404.html", HERE).href;
+	var AWSHI = new Audio(new URL("../audio/awshi.mp3", HERE).href);
 
 	function notify(message, position) {
 		GTASA.notification({
@@ -65,6 +66,9 @@
 		HESOYAM: function () {
 			notify("Cheat activated~n~~n~$250,000, full health, full armour");
 			maxBars();
+			// Rewind so a second HESOYAM restarts the clip instead of no-opping.
+			AWSHI.currentTime = 0;
+			AWSHI.play();
 		},
 		// Infinite health.
 		BAGUVIX: function () {
