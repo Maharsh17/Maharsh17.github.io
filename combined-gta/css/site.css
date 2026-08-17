@@ -310,23 +310,77 @@ body::before {
 /* Personal pins are gold-ringed so they read as distinct from the ten
    landmark icons baked into the SVG itself. */
 
-/* Main-menu theme toggle. Sits in the footer, deliberately quiet: the site
-   should not look like it wants to play you music. */
-.site-theme-btn {
+
+/* Main-menu music player. Art is radio_TPLAYER, SA's own Track Player logo,
+   which the game uses for the player's own music. Nothing autoplays. */
+.site-player {
 	position: absolute;
 	right: 24px;
-	bottom: 18px;
+	bottom: 16px;
 	z-index: 20;
-	background: rgba(0, 0, 0, .5);
-	border: 1px solid rgba(194, 162, 43, .45);
-	padding: 5px 12px;
+	display: flex;
+	align-items: center;
+	gap: 10px;
+	padding: 8px 10px;
+	background: rgba(0, 0, 0, .62);
+	border: 1px solid rgba(194, 162, 43, .4);
+	width: 300px;
+	max-width: calc(100vw - 48px);
+}
+
+.site-player-art {
+	width: 44px;
+	height: 44px;
+	image-rendering: pixelated;
+	flex: none;
+}
+
+.site-player-body { flex: 1; min-width: 0; }
+
+.site-player-title {
+	margin: 0 0 5px;
 	font-family: BankGothic, sans-serif;
-	font-size: 13px;
-	letter-spacing: 2px;
+	font-size: 11px;
+	letter-spacing: 1.5px;
 	text-transform: uppercase;
-	color: rgba(194, 162, 43, .75);
+	color: rgba(217, 220, 217, .9);
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.site-player-bar {
+	height: 6px;
+	background: rgba(255, 255, 255, .14);
+	border: 1px solid rgba(0, 0, 0, .7);
 	cursor: inherit;
 }
 
-.site-theme-btn:hover { color: #fff; border-color: rgb(194, 162, 43); }
-.site-theme-btn.is-on { color: #fff; border-color: rgb(194, 162, 43); }
+.site-player-fill {
+	display: block;
+	height: 100%;
+	width: 0;
+	background: rgb(194, 162, 43);
+}
+
+.site-player-time {
+	margin: 5px 0 0;
+	font-family: Futura, Arial, sans-serif;
+	font-size: 10px;
+	color: rgba(217, 220, 217, .55);
+}
+
+.site-player-play {
+	flex: none;
+	width: 38px;
+	height: 38px;
+	background: rgba(0, 0, 0, .5);
+	border: 1px solid rgba(194, 162, 43, .5);
+	color: rgb(194, 162, 43);
+	font-size: 14px;
+	line-height: 1;
+	cursor: inherit;
+}
+
+.site-player-play:hover { color: #fff; border-color: rgb(194, 162, 43); }
+.site-player.is-playing .site-player-play { color: #fff; border-color: rgb(194, 162, 43); }
