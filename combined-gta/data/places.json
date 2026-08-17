@@ -3,10 +3,10 @@
  "places": [
   {
    "name": "Home base",
-   "detail": "Campus Circle",
+   "detail": "Campus Circle, 1010 W University Ave, Urbana",
    "icon": "radar_saveGame.png",
-   "lat": 40.1163,
-   "lon": -88.234
+   "lat": 40.117,
+   "lon": -88.2226
   },
   {
    "name": "Siebel Center for Computer Science",
@@ -24,10 +24,10 @@
   },
   {
    "name": "Chipotle",
-   "detail": "Food spot",
+   "detail": "Food spot, 528 E Green St",
    "icon": "radar_diner.png",
-   "lat": 40.1102,
-   "lon": -88.2286
+   "lat": 40.11042,
+   "lon": -88.23079
   },
   {
    "name": "Student Alumni Ambassadors",
