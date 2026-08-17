@@ -30,6 +30,13 @@ for d in data/projects.json data/overrides.json data/timecyc.json data/weapons.j
   jq empty "$d" >/dev/null 2>&1 || fail "invalid JSON in $d"
 done
 
+# 4b. Every page loads site.css. Markup can reference a .site-* class while
+# the stylesheet defining it is never linked, which renders unstyled but still
+# passes an asset-resolution check. That happened to index.html.
+for p in $PAGES; do
+  grep -q 'css/site.css' "$p" || fail "$p does not link css/site.css"
+done
+
 # 5. Every local href/src resolves
 BAD=$(for f in *.html; do
   grep -oE '(href|src)="\./[^"]*"' "$f" | sed -E 's/^(href|src)="//; s/"$//' | sort -u | while read -r p; do

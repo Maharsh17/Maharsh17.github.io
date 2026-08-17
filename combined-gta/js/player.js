@@ -16,20 +16,13 @@
 	var playBtn = root.querySelector(".site-player-play");
 	var bar = root.querySelector(".site-player-bar");
 	var fill = root.querySelector(".site-player-fill");
-	var time = root.querySelector(".site-player-time");
-	if (!audio || !playBtn || !bar || !fill || !time) return;
-
-	function clock(s) {
-		if (!isFinite(s)) return "0:00";
-		var m = Math.floor(s / 60);
-		var r = Math.floor(s % 60);
-		return m + ":" + (r < 10 ? "0" : "") + r;
-	}
+	if (!audio || !playBtn || !bar || !fill) return;
 
 	function paint() {
 		var playing = !audio.paused && !audio.ended;
-		playBtn.textContent = playing ? "❚❚" : "▶";
-		playBtn.setAttribute("aria-label", playing ? "Pause" : "Play");
+		var glyph = root.querySelector(".site-player-glyph");
+		if (glyph) glyph.innerHTML = playing ? "&#10074;&#10074;" : "&#9654;";
+		playBtn.setAttribute("aria-label", playing ? "Pause theme" : "Play theme");
 		root.classList.toggle("is-playing", playing);
 	}
 
@@ -51,11 +44,6 @@
 		var d = audio.duration;
 		if (!isFinite(d) || !d) return;
 		fill.style.width = ((audio.currentTime / d) * 100).toFixed(2) + "%";
-		time.textContent = clock(audio.currentTime) + " / " + clock(d);
-	});
-
-	audio.addEventListener("loadedmetadata", function () {
-		time.textContent = "0:00 / " + clock(audio.duration);
 	});
 
 	// Click anywhere on the bar to seek.

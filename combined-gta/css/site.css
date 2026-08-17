@@ -307,52 +307,73 @@ body::before {
 
 .maplibregl-popup-tip { display: none; }
 
-/* Personal pins are gold-ringed so they read as distinct from the ten
-   landmark icons baked into the SVG itself. */
-
-
-/* Main-menu music player. Art is radio_TPLAYER, SA's own Track Player logo,
-   which the game uses for the player's own music. Nothing autoplays. */
+/* Main-menu music player. Art only: no track name, no duration.
+   radio_TPLAYER is SA's own Track Player sprite. Nothing autoplays.
+   Single authoritative block: earlier edits left duplicate rules later in the
+   file that silently won the cascade and shrank this to 44px. */
 .site-player {
-	position: absolute;
-	right: 24px;
-	bottom: 16px;
+	position: fixed;
+	left: 28px;
+	top: 50%;
+	transform: translateY(-50%);
 	z-index: 20;
-	display: flex;
-	align-items: center;
-	gap: 10px;
-	padding: 8px 10px;
-	background: rgba(0, 0, 0, .62);
-	border: 1px solid rgba(194, 162, 43, .4);
-	width: 300px;
-	max-width: calc(100vw - 48px);
+	width: 112px;
+}
+
+.site-player-play {
+	display: block;
+	position: relative;
+	width: 112px;
+	height: 112px;
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+	line-height: 0;
+	background: rgba(0, 0, 0, .55);
+	border: 1px solid rgba(194, 162, 43, .35);
+	cursor: inherit;
+	overflow: hidden;
 }
 
 .site-player-art {
-	width: 44px;
-	height: 44px;
+	display: block;
+	width: 110px;
+	height: 110px;
 	image-rendering: pixelated;
-	flex: none;
+	opacity: .85;
+	transition: opacity .15s ease;
 }
 
-.site-player-body { flex: 1; min-width: 0; }
+.site-player-play:hover .site-player-art { opacity: 1; }
 
-.site-player-title {
-	margin: 0 0 5px;
-	font-family: BankGothic, sans-serif;
-	font-size: 11px;
-	letter-spacing: 1.5px;
-	text-transform: uppercase;
-	color: rgba(217, 220, 217, .9);
-	white-space: nowrap;
-	overflow: hidden;
-	text-overflow: ellipsis;
+.site-player-glyph {
+	position: absolute;
+	inset: 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 26px;
+	line-height: 1;
+	color: #fff;
+	background: rgba(0, 0, 0, .45);
+	text-shadow: 0 2px 6px #000;
+	opacity: 0;
+	transition: opacity .15s ease;
 }
+
+.site-player-play:hover .site-player-glyph { opacity: 1; }
+
+.site-player-play:hover,
+.site-player.is-playing .site-player-play { border-color: rgb(194, 162, 43); }
 
 .site-player-bar {
-	height: 6px;
+	display: block;
+	width: 112px;
+	box-sizing: border-box;
+	margin-top: 7px;
+	height: 5px;
 	background: rgba(255, 255, 255, .14);
-	border: 1px solid rgba(0, 0, 0, .7);
+	border: 1px solid rgba(0, 0, 0, .8);
 	cursor: inherit;
 }
 
@@ -362,25 +383,3 @@ body::before {
 	width: 0;
 	background: rgb(194, 162, 43);
 }
-
-.site-player-time {
-	margin: 5px 0 0;
-	font-family: Futura, Arial, sans-serif;
-	font-size: 10px;
-	color: rgba(217, 220, 217, .55);
-}
-
-.site-player-play {
-	flex: none;
-	width: 38px;
-	height: 38px;
-	background: rgba(0, 0, 0, .5);
-	border: 1px solid rgba(194, 162, 43, .5);
-	color: rgb(194, 162, 43);
-	font-size: 14px;
-	line-height: 1;
-	cursor: inherit;
-}
-
-.site-player-play:hover { color: #fff; border-color: rgb(194, 162, 43); }
-.site-player.is-playing .site-player-play { color: #fff; border-color: rgb(194, 162, 43); }
