@@ -45,6 +45,13 @@
 			/\.html$/.test(a.pathname);
 	}
 
+	// Libraries marked data-once load on the first page that needs them and
+	// are never re-executed. Seeded with whatever the entry page already ran.
+	var loaded = {};
+	Array.prototype.slice.call(document.scripts).forEach(function (s) {
+		if (s.src) loaded[s.src] = true;
+	});
+
 	function runScript(node) {
 		// A cloned <script> never executes. It has to be built fresh.
 		var s = document.createElement("script");
@@ -52,7 +59,34 @@
 			s.setAttribute(node.attributes[i].name, node.attributes[i].value);
 		}
 		if (!node.src) s.textContent = node.textContent;
+		// Scripts created this way default to async, which means they run in
+		// whatever order they finish downloading. map.js would then race the
+		// 800KB MapLibre bundle it depends on and usually lose. async = false
+		// restores document order.
+		s.async = false;
 		document.body.appendChild(s);
+	}
+
+	// Per-page stylesheets live in <head>, which is never swapped, so a page
+	// reached by a link would otherwise arrive without its own CSS: the map
+	// page needs maplibre-gl.css and nothing else loads it. Missing sheets are
+	// added and none are removed, because they are namespaced and an extra one
+	// costs nothing next to a flash of unstyled content.
+	function mergeStyles(doc) {
+		var have = {};
+		Array.prototype.slice.call(document.styleSheets).forEach(function (s) {
+			if (s.href) have[s.href] = true;
+		});
+		Array.prototype.slice.call(
+			doc.querySelectorAll('link[rel="stylesheet"][href]')
+		).forEach(function (link) {
+			var href = new URL(link.getAttribute("href"), location.href).href;
+			if (have[href]) return;
+			var el = document.createElement("link");
+			el.rel = "stylesheet";
+			el.href = href;
+			document.head.appendChild(el);
+		});
 	}
 
 	function swap(html, url) {
@@ -64,6 +98,8 @@
 		// insertion time. Blog posts sit one directory down and reference
 		// ../assets, which is only correct once the URL says so.
 		if (url !== location.href) history.pushState({ nav: 1 }, "", url);
+
+		mergeStyles(doc);
 
 		var keep = [];
 		Array.prototype.slice.call(document.body.children).forEach(function (el) {
@@ -84,7 +120,14 @@
 
 		// Page scripts run last, against the DOM they expect. Anything marked
 		// data-keep was skipped above and is still running from the first load.
-		scripts.forEach(runScript);
+		scripts.forEach(function (el) {
+			if (el.hasAttribute("data-once")) {
+				var src = new URL(el.getAttribute("src"), location.href).href;
+				if (loaded[src]) return;
+				loaded[src] = true;
+			}
+			runScript(el);
+		});
 		window.scrollTo(0, 0);
 	}
 

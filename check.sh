@@ -38,6 +38,23 @@ done
 BAD=$(jq -r 'to_entries[] | select((.value.category // "") | inside("research work,research software,personal") | not) | .key' data/overrides.json 2>/dev/null)
 [ -n "$BAD" ] && { echo "$BAD" | sed 's/^/FAIL: unknown category on /'; FAIL=1; }
 
+# 4b2. Pages that need a library actually load it. A page rewrite dropped the
+# MapLibre <script> from map.html and every other check still passed: the file
+# was on disk, every remaining path resolved, and the page returned 200. The
+# only symptom was an empty map.
+grep -q 'maplibre/maplibre-gl.js' map.html || fail "map.html does not load maplibre-gl.js"
+grep -q 'maplibre/maplibre-gl.css' map.html || fail "map.html does not load maplibre-gl.css"
+grep -q 'js/map.js' map.html || fail "map.html does not load map.js"
+
+# 4b3. Every page carries the persistent shell and the navigation script, or
+# the music stops the moment a visitor leaves it.
+for p in $PAGES blog/*.html; do
+  [ -f "$p" ] || continue
+  grep -q 'id="shell" data-keep' "$p" || fail "$p has no persistent #shell"
+  grep -q 'js/nav.js' "$p" || fail "$p does not load js/nav.js"
+  grep -q 'id="theme"' "$p" || fail "$p has no audio element"
+done
+
 # 4c. Every page loads site.css. Markup can reference a .site-* class while
 # the stylesheet defining it is never linked, which renders unstyled but still
 # passes an asset-resolution check. That happened to index.html.
