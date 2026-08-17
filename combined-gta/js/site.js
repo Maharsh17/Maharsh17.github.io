@@ -21,26 +21,6 @@
 	var section = document.body.dataset.section;
 	if (!section || typeof GTASA === "undefined") return;
 
-	// The game announces the area you have just walked into. The second line is
-	// the visitor's own clock read through GTA's EXTRASUNNY_LA weather preset,
-	// the same keyframes sky.js interpolates for the horizon strip, so the
-	// greeting matches the colour at the top of the page instead of contradicting
-	// it. "Clear" is not decoration: that preset has no other weather in it.
-	function skyState(hour) {
-		if (hour < 5) return "clear night";
-		if (hour < 8) return "sunrise";
-		if (hour < 12) return "clear morning";
-		if (hour < 17) return "clear afternoon";
-		if (hour < 20) return "sunset";
-		return "clear night";
-	}
-
-	function clock(now) {
-		var h = now.getHours();
-		var m = now.getMinutes();
-		return (h < 10 ? "0" : "") + h + ":" + (m < 10 ? "0" : "") + m;
-	}
-
 	// 11th, 12th and 13th are the exceptions every naive version of this gets
 	// wrong, so they are checked before the last digit is looked at.
 	function ordinal(n) {
@@ -77,18 +57,16 @@
 	if (window.__gtaGreeted) return;
 	window.__gtaGreeted = true;
 
-	var now = new Date();
 	var announced = false;
 
 	function announce(count) {
 		if (announced) return;
 		announced = true;
-		var message = "You have entered Chambana~n~~n~" +
-			clock(now) + " - " + skyState(now.getHours());
+		var message = "Welcome CJ";
 		// The greeting has to stand on its own. If the counter is slow, down or
 		// blocked, the visitor still gets the same welcome minus one line,
 		// rather than an apology or a zero presented as a real tally.
-		if (count > 0) message += "~n~You are the " + ordinal(count) + " visitor";
+		if (count > 0) message += "~n~~n~You're the " + ordinal(count) + " viewer";
 		GTASA.notification({
 			message: message,
 			position: "bottom right",
