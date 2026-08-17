@@ -26,7 +26,8 @@ for j in js/*.js; do
 done
 
 # 3b. The blog generator parses
-python3 -m py_compile ../scripts/build-blog.py 2>/dev/null || fail "syntax error in scripts/build-blog.py"
+# -B so a verification run does not leave a __pycache__ behind in scripts/
+python3 -B -m py_compile ../scripts/build-blog.py 2>/dev/null || fail "syntax error in scripts/build-blog.py"
 
 # 4. Data files are valid JSON
 for d in data/projects.json data/overrides.json data/timecyc.json data/places.json data/vehicles.json; do
