@@ -58,11 +58,12 @@
 		}
 	}
 
-	// Resolved against this file's own URL rather than the page's. Blog posts
-	// live one directory down, so a "./data/..." path 404s there and the only
-	// symptom is the horizon strip quietly falling back to its midday blue.
+	// Resolved against this file's own URL, never the page's. Pages sit at
+	// three different depths now (/, /projects/, /blog/<slug>/), so any
+	// page-relative data path is wrong on two of them, and the only symptom
+	// would be the horizon strip quietly falling back to its midday blue.
 	var here = document.currentScript && document.currentScript.src;
-	var DATA = here ? new URL("../data/timecyc.json", here).href : "./data/timecyc.json";
+	var DATA = new URL("../data/timecyc.json", here || location.href).href;
 
 	fetch(DATA).then(function (r) {
 		if (!r.ok) throw new Error(r.status);

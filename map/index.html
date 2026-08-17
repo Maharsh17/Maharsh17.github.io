@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Maharsh Jani - Map</title>
+	<link rel="icon" type="image/png" sizes="32x32" href="../assets/vendor/menu/images/favicon-32x32.png">
+	<meta name="description" content="Interactive map in GTA San Andreas style, centred on you or on Champaign-Urbana">
+	<link rel="stylesheet" href="../assets/vendor/menu/fonts/myfonts.min.css">
+	<link rel="stylesheet" href="../assets/vendor/menu/css/normalize.min.css">
+	<link rel="stylesheet" href="../assets/vendor/menu/css/gtasamenu.min.css">
+	<link rel="stylesheet" href="../assets/vendor/notify/css/gtasa-notification.min.css">
+	<link rel="stylesheet" href="../assets/vendor/maplibre/maplibre-gl.css">
+	<link rel="stylesheet" href="../assets/css/site.css">
+</head>
+<body data-section="map" class="container container--map">
+	<header class="menu-header"></header>
+	<main class="menu-content site-map">
+		<div class="site-map-frame">
+			<div id="map"></div>
+			<p class="site-map-status"></p>
+		</div>
+	</main>
+	<footer class="menu-footer">
+		<span class="menu-option menu-option--back-left"><a href="../">back</a></span>
+		<span class="menu-map--message">drag to pan &middot; scroll to zoom<br>hover a marker for my places</span>
+	</footer>
+	<div id="shell" data-keep>
+		<div id="player" class="site-player">
+			<button type="button" class="site-player-play" aria-label="Play theme">
+				<img class="site-player-art" src="../assets/game/fronten1/radio_bounce.png" alt="">
+				<span class="site-player-glyph">&#9654;</span>
+			</button>
+			<span class="site-player-bar"><span class="site-player-fill"></span></span>
+		</div>
+		<audio id="theme" preload="metadata" loop src="../assets/audio/theme.mp3"></audio>
+	</div>
+	<script src="../assets/vendor/notify/js/gtasa-notification.min.js" data-keep></script>
+	<script src="../assets/js/sky.js" data-keep></script>
+	<script src="../assets/js/cheats.js" data-keep></script>
+	<script src="../assets/js/player.js" data-keep></script>
+	<script src="../assets/js/nav.js" data-keep></script>
+	<script src="../assets/js/menu-sound.js" data-keep></script>
+	<script src="../assets/vendor/maplibre/maplibre-gl.js" data-once></script>
+	<script src="../assets/js/map.js"></script>
+	<script src="../assets/js/site.js"></script>
+</body>
+</html>

@@ -36,13 +36,21 @@
 		);
 	}
 
+	// <head> is never swapped, so its links outlive every URL change and hit
+	// the same problem: the favicon href is written relative, and after a
+	// pushState into /projects/ the browser re-resolved it to
+	// /projects/assets/... and 404'd on every navigation.
+	Array.prototype.slice.call(document.head.querySelectorAll("link[href]"))
+		.forEach(function (el) { el.href = el.href; });
+
 	function isInternal(a) {
 		return a &&
 			a.href &&
 			a.origin === location.origin &&
 			!a.hasAttribute("download") &&
 			(!a.target || a.target === "_self") &&
-			/\.html$/.test(a.pathname);
+			// Clean URLs end in a slash; 404.html is the one real .html left.
+			(/\/$/.test(a.pathname) || /\.html$/.test(a.pathname));
 	}
 
 	// Libraries marked data-once load on the first page that needs them and

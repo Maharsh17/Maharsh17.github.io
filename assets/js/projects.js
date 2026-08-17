@@ -11,6 +11,11 @@
 	var host = document.getElementById("project-bands");
 	if (!host) return;
 
+	// Data paths resolve against this file, not the page. Pages live at three
+	// depths, so a page-relative "./data/..." is wrong on two of them.
+	var HERE = (document.currentScript && document.currentScript.src) || location.href;
+	function dataURL(name) { return new URL("../data/" + name, HERE).href; }
+
 	// Band order is deliberate: research first, because that is the work the
 	// site is actually about. BANDS is also the whitelist, so a typo'd
 	// category in overrides.json drops the entry loudly instead of inventing
@@ -98,9 +103,9 @@
 		});
 	}
 
-	getJSON("./data/overrides.json").then(function (overrides) {
+	getJSON(dataURL("overrides.json")).then(function (overrides) {
 		// The garage is optional decoration; never let it block slots.
-		return getJSON("./data/vehicles.json").then(
+		return getJSON(dataURL("vehicles.json")).then(
 			function (g) { render(overrides, g); },
 			function () { render(overrides, null); }
 		);

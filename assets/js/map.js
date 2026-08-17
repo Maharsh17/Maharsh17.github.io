@@ -14,6 +14,11 @@
 	var el = document.getElementById("map");
 	if (!el || typeof maplibregl === "undefined") return;
 
+	// Resolved against this file, not the page, for the same reason as
+	// projects.js: the map page is one level down but the script is shared.
+	var HERE = (document.currentScript && document.currentScript.src) || location.href;
+	function asset(rel) { return new URL(rel, HERE).href; }
+
 	var STYLE = "https://api.maptiler.com/maps/2b36665a-5454-4b57-9676-ff47dc5d11cc/style.json?key=V8DFSo7qMSgAu0JLPgjH";
 
 	// Champaign-Urbana, from the styled map's own share link.
@@ -68,14 +73,14 @@
 	/* Personal markers. Only meaningful over Champaign, so they are added once
 	   and simply sit off-screen if the viewer is somewhere else. */
 	function addPlaces() {
-		fetch("./data/places.json").then(function (r) {
+		fetch(asset("../data/places.json")).then(function (r) {
 			if (!r.ok) throw new Error(r.status);
 			return r.json();
 		}).then(function (data) {
 			var bounds = new maplibregl.LngLatBounds();
 			data.places.forEach(function (p) {
 				var img = document.createElement("img");
-				img.src = "./assets/game/hud/" + p.icon;
+				img.src = asset("../game/hud/" + p.icon);
 				img.className = "site-marker";
 				img.alt = p.name;
 				new maplibregl.Marker({ element: img })

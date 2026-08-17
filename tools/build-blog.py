@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Build the blog from markdown.
 
-    posts/YYYY-MM-DD-slug.md  ->  blog/slug.html
-                              ->  blog.html (the index)
+    src/posts/YYYY-MM-DD-slug.md  ->  blog/slug/index.html
+                                  ->  blog/index.html (the index)
 
 Stdlib only, on purpose. This runs on a laptop before a git push, not in a
 build pipeline, so a dependency to install is a dependency to remember.
@@ -16,7 +16,7 @@ import re
 import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-POSTS = os.path.join(ROOT, "posts")
+POSTS = os.path.join(ROOT, "src", "posts")
 SITE = ROOT
 OUT = os.path.join(SITE, "blog")
 
@@ -157,13 +157,13 @@ HEAD = """<!DOCTYPE html>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>%(title)s</title>
-	<link rel="icon" type="image/png" sizes="32x32" href="%(up)sassets/menu/images/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="%(up)sassets/vendor/menu/images/favicon-32x32.png">
 	<meta name="description" content="%(desc)s">
-	<link rel="stylesheet" href="%(up)sassets/menu/fonts/myfonts.min.css">
-	<link rel="stylesheet" href="%(up)sassets/menu/css/normalize.min.css">
-	<link rel="stylesheet" href="%(up)sassets/menu/css/gtasamenu.min.css">
-	<link rel="stylesheet" href="%(up)sassets/notify/css/gtasa-notification.min.css">
-	<link rel="stylesheet" href="%(up)scss/site.css">
+	<link rel="stylesheet" href="%(up)sassets/vendor/menu/fonts/myfonts.min.css">
+	<link rel="stylesheet" href="%(up)sassets/vendor/menu/css/normalize.min.css">
+	<link rel="stylesheet" href="%(up)sassets/vendor/menu/css/gtasamenu.min.css">
+	<link rel="stylesheet" href="%(up)sassets/vendor/notify/css/gtasa-notification.min.css">
+	<link rel="stylesheet" href="%(up)sassets/css/site.css">
 </head>
 <body data-section="brief" class="container site-tall">
 	<header class="menu-header">
@@ -186,13 +186,13 @@ FOOT = """	<footer class="menu-footer">
 		</div>
 		<audio id="theme" preload="metadata" loop src="%(up)sassets/audio/theme.mp3"></audio>
 	</div>
-	<script src="%(up)sassets/notify/js/gtasa-notification.min.js" data-keep></script>
-	<script src="%(up)sjs/sky.js" data-keep></script>
-	<script src="%(up)sjs/cheats.js" data-keep></script>
-	<script src="%(up)sjs/player.js" data-keep></script>
-	<script src="%(up)sjs/nav.js" data-keep></script>
-	<script src="%(up)sjs/menu-sound.js" data-keep></script>
-	<script src="%(up)sjs/site.js"></script>
+	<script src="%(up)sassets/vendor/notify/js/gtasa-notification.min.js" data-keep></script>
+	<script src="%(up)sassets/js/sky.js" data-keep></script>
+	<script src="%(up)sassets/js/cheats.js" data-keep></script>
+	<script src="%(up)sassets/js/player.js" data-keep></script>
+	<script src="%(up)sassets/js/nav.js" data-keep></script>
+	<script src="%(up)sassets/js/menu-sound.js" data-keep></script>
+	<script src="%(up)sassets/js/site.js"></script>
 </body>
 </html>
 """
@@ -215,8 +215,8 @@ def build_post(meta, body):
         "desc": html.escape(str(meta.get("summary", ""))),
         "heading": html.escape(str(meta["title"])),
         "subtitle": fmt_date(meta["date"]),
-        "up": "../",
-        "back": "../blog.html",
+        "up": "../../",
+        "back": "../",
     }
     page = (HEAD % ctx) + (
         '	<main class="menu-content site-scroll">\n'
@@ -225,7 +225,9 @@ def build_post(meta, body):
         '		</div>\n'
         '	</main>\n'
     ) + (FOOT % ctx)
-    write(os.path.join(OUT, meta["slug"] + ".html"), page)
+    slug_dir = os.path.join(OUT, meta["slug"])
+    os.makedirs(slug_dir, exist_ok=True)
+    write(os.path.join(slug_dir, "index.html"), page)
 
 
 def build_index(posts):
@@ -234,15 +236,15 @@ def build_index(posts):
         "desc": "Writing by Maharsh Jani",
         "heading": "Blog",
         "subtitle": "Select an entry to read:",
-        "up": "./",
-        "back": "./index.html",
+        "up": "../",
+        "back": "../",
     }
     if posts:
         rows = []
         for meta in posts:
             rows.append(
                 '<li class="menu-option menu-option--datagame">'
-                '<a href="./blog/%s.html" title="%s">'
+                '<a href="./%s/" title="%s">'
                 '<span class="menu-option--datagame-left">%s</span>'
                 '<span class="menu-option--datagame-right">%s</span>'
                 '</a></li>' % (
@@ -263,12 +265,12 @@ def build_index(posts):
         '		<div class="site-rows site-measure">' + body + "</div>\n"
         '	</main>\n'
     ) + (FOOT % ctx)
-    write(os.path.join(SITE, "blog.html"), page)
+    write(os.path.join(OUT, "index.html"), page)
 
 
 def main():
     if not os.path.isdir(POSTS):
-        sys.exit("no posts/ directory")
+        sys.exit("no src/posts/ directory")
     os.makedirs(OUT, exist_ok=True)
 
     published = []

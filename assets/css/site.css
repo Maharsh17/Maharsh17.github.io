@@ -117,7 +117,7 @@
 	right: 0;
 	width: 512px;
 	height: 512px;
-	background-image: url("../assets/game/fronten2/back6.png");
+	background-image: url("../game/fronten2/back6.png");
 	background-repeat: no-repeat;
 	pointer-events: none;
 	z-index: 0;
@@ -301,7 +301,7 @@
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	cursor: url("../assets/menu/images/mouse.png"), auto;
+	cursor: url("../vendor/menu/images/mouse.png"), auto;
 }
 
 .site-wasted-inner { text-align: center; padding: 20px; }

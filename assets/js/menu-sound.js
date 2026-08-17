@@ -20,8 +20,8 @@
 	// and immune to the base URL changing under a client-side navigation.
 	var here = document.currentScript && document.currentScript.src;
 	var SRC = here
-		? new URL("../assets/menu/sounds/button.wav", here).href
-		: "./assets/menu/sounds/button.wav";
+		? new URL("../vendor/menu/sounds/button.wav", here).href
+		: "../vendor/menu/sounds/button.wav";
 
 	var sound = new Audio(SRC);
 	sound.preload = "auto";

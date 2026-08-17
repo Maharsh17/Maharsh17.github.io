@@ -12,6 +12,12 @@
 	var BUFFER_MAX = 16;
 	var buffer = "";
 
+	// Absolute, because a cheat can be typed on any page and the pages sit at
+	// three different depths.
+	var HERE = (document.currentScript && document.currentScript.src) || location.href;
+	var MAP = new URL("../../map/", HERE).href;
+	var WASTED = new URL("../../404.html", HERE).href;
+
 	function notify(message, position) {
 		GTASA.notification({
 			message: message,
@@ -65,15 +71,15 @@
 			notify("Cheat activated~n~~n~Infinite health", "top left");
 			flash("#306C26");
 		},
-		// Weapon set. Sends you to the page that actually has them.
+		// Weapon set. The weapons page is gone, so this is message only now.
 		PROFESSIONALSKIT: function () {
 			notify("Cheat activated~n~~n~Weapon set 2", "top right");
-			setTimeout(function () { window.location.href = "./weapons.html"; }, 900);
+			flash("#C2A22B");
 		},
-		// Jetpack. The HUD page is the closest thing to being in the world.
+		// Jetpack. Takes you to the map, the only page that is a place.
 		ROCKETMAN: function () {
 			notify("Cheat activated~n~~n~Jetpack", "top right");
-			setTimeout(function () { window.location.href = "./hud.html"; }, 900);
+			setTimeout(function () { window.location.href = MAP; }, 900);
 		},
 		// Riot mode. Just a colour and a message.
 		STATEOFEMERGENCY: function () {
@@ -83,7 +89,7 @@
 		// Wanted level. Fires the death screen.
 		BRINGITON: function () {
 			notify("Cheat activated~n~~n~Six star wanted level", "top left");
-			setTimeout(function () { window.location.href = "./404.html"; }, 900);
+			setTimeout(function () { window.location.href = WASTED; }, 900);
 		}
 	};
 

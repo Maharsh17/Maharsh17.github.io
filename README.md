@@ -28,35 +28,47 @@ Needs `node`, `jq`, `curl` and `python3`.
 
 ## Layout
 
-```
-index.html          Main menu
-projects.html       Research work / research software / personal
-experience.html     Roles and education
-blog.html           Post index, generated
-map.html            Champaign-Urbana, with my places
-options.html        Contact
-quitgame.html       Yes or no
-404.html            WASTED
+Every page is a folder with an `index.html`, so URLs carry no `.html`.
 
-posts/              Blog sources, markdown
-blog/               Blog output, generated from posts/
-js/                 Runtime, 8 files, no framework
-css/site.css        The only stylesheet written for this site
-data/               Content as JSON, edited by hand
-assets/             Fonts, sprites, audio, vendored libraries
-scripts/            build-blog.py, the one build step
 ```
+index.html              /
+404.html
+projects/               /projects
+experience/             /experience
+blog/                   /blog          generated
+blog/<slug>/            /blog/<slug>   generated
+map/                    /map
+contact/                /contact
+quit/                   /quit
+
+assets/
+  css/site.css          the only stylesheet written for this site
+  js/                   runtime, 8 files, no framework
+  data/                 content as JSON, edited by hand
+  game/                 sprites decoded from the game
+  audio/                the theme
+  vendor/               maplibre, menu, notify. Not ours, do not edit.
+
+src/posts/              blog sources, markdown. Not served as pages.
+tools/build-blog.py     the one build step
+check.sh
+```
+
+Paths inside `assets/js` and `assets/css` resolve against the file itself,
+never the page, because pages sit at three different depths. A page-relative
+data path would be correct at `/` and wrong at `/projects/` and
+`/blog/<slug>/`.
 
 ## Write A Post
 
 ```bash
-cp posts/TEMPLATE.md posts/2026-08-20-some-slug.md
+cp src/posts/TEMPLATE.md src/posts/2026-08-20-some-slug.md
 # edit it, set draft: false
-python3 scripts/build-blog.py
+python3 tools/build-blog.py
 ```
 
 The filename's slug becomes the URL: `2026-08-20-some-slug.md` publishes at
-`/blog/some-slug.html`. Front matter takes `title`, `date`, `summary` and
+`/blog/some-slug/`. Front matter takes `title`, `date`, `summary` and
 `draft`. A post with `draft: true` is skipped; a missing `draft` publishes.
 
 The generator handles a small markdown subset: headings, lists, links, bold,
@@ -65,14 +77,14 @@ library only.
 
 ## Edit Content
 
-Everything the site says about itself lives in `data/`, not in markup.
+Everything the site says about itself lives in `assets/data/`, not in markup.
 
 | File | Holds |
 |---|---|
-| `overrides.json` | Projects: band, order, name, one-liner, blurb |
-| `places.json` | Map markers: name, detail, coordinates, radar sprite |
-| `vehicles.json` | The garage line in each project's tooltip |
-| `timecyc.json` | Eight sky keyframes from the game's `timecyc.dat` |
+| `assets/data/overrides.json` | Projects: band, order, name, one-liner, blurb |
+| `assets/data/places.json` | Map markers: name, detail, coordinates, radar sprite |
+| `assets/data/vehicles.json` | The garage line in each project's tooltip |
+| `assets/data/timecyc.json` | Eight sky keyframes from the game's `timecyc.dat` |
 
 To add a project, add an entry to `overrides.json` with a `category` of
 `research work`, `research software` or `personal`. Set `"noRepo": true` if
@@ -82,14 +94,14 @@ would 404.
 
 ## How A Few Things Work
 
-**Navigation.** `js/nav.js` intercepts internal links and swaps page content
+**Navigation.** `assets/js/nav.js` intercepts internal links and swaps page content
 into the live document instead of loading a new one. Chrome refuses
 `audio.play()` on a fresh document, so this is the only way the music can
 survive a page change. The pages are still real files: every URL works typed
 in, shared, or with JavaScript off, and any failure falls back to a normal
 navigation. One attribute decides what survives a swap, `data-keep`.
 
-**The sky.** `js/sky.js` interpolates the game's own EXTRASUNNY_LA colour
+**The sky.** `assets/js/sky.js` interpolates the game's own EXTRASUNNY_LA colour
 keyframes by your local hour, so the strip across the top of every page warms
 at sunset and goes near-black at midnight.
 
