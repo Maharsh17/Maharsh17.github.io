@@ -57,7 +57,7 @@
 	font-size: 13px;
 	color: rgb(214, 192, 110);
 	background: rgba(0, 0, 0, .45);
-	padding: 1px 4px;
+	padding: 0 3px;
 }
 
 .site-prose pre {
@@ -133,20 +133,26 @@
 
 .site-band:first-child { margin-top: 0; }
 
-/* Save rows inside a band. The recreation sizes a row at 80% of the page and
-   splits it 40/60, which assumes the row owns the full width. Inside the
-   measured column that leaves the name side too narrow and project names
-   wrap onto a second line, so the split is rebalanced and the row stretches
-   to align its left edge with the band heading above it. */
-#project-bands .menu-option--datagame {
+/* Save-slot rows used as a document list, on projects.html and the blog
+   index. The recreation centres its list in the content area and sizes a row
+   at 80% of the page split 40/60, which is right for a menu of six options
+   and wrong for a list: one blog post landed dead centre of an empty screen.
+   These rows start at the top, stretch to their column, and give the name
+   side enough room that a real title does not wrap. */
+.site-rows .menu-container {
+	justify-content: flex-start;
+	height: auto;
+}
+
+.site-rows .menu-option--datagame {
 	width: 100%;
 	align-self: stretch;
 	margin-left: 0;
 	margin-right: 0;
 }
 
-#project-bands .menu-option--datagame-left { width: 62%; }
-#project-bands .menu-option--datagame-right { width: 38%; }
+.site-rows .menu-option--datagame-left { width: 62%; }
+.site-rows .menu-option--datagame-right { width: 38%; }
 
 /* Content-heavy pages. The recreation's 0.8 / 1.6 / 0.6 row split spends 27%
    of the viewport on a two-line header and leaves the content area shorter

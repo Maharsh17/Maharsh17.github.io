@@ -58,8 +58,13 @@ def should_publish(meta):
     Called once per file in blog/posts/. Returning False skips the post
     entirely: no page is written and it never appears on the index.
     """
-    # TODO(human)
-    raise NotImplementedError("should_publish is not implemented yet")
+    # Publish unless the post says otherwise. A missing draft field means the
+    # post goes up: a forgotten field should not silently swallow finished
+    # writing, and TEMPLATE.md ships with draft: true so the accident this
+    # guards against cannot start from a copy of the template.
+    # ponytail: no future-date scheduling. Add it the first time a post needs
+    # to go up while you are asleep.
+    return not meta.get("draft", False)
 
 
 # --- markdown --------------------------------------------------------------
@@ -240,8 +245,9 @@ def build_index(posts):
                 '<a href="#">no entries yet</a></li></ul>')
 
     page = (HEAD % ctx) + (
-        '	<main class="menu-content site-scroll">\n		'
-        + body + "\n	</main>\n"
+        '	<main class="menu-content site-scroll">\n'
+        '		<div class="site-rows site-measure">' + body + "</div>\n"
+        '	</main>\n'
     ) + (FOOT % ctx)
     write(os.path.join(SITE, "blog.html"), page)
 
