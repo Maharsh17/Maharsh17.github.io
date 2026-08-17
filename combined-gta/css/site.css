@@ -199,6 +199,35 @@
    past, it is invisible. */
 .site-tall { grid-template-rows: 0.6fr 2.2fr 0.2fr; }
 
+/* Content-heavy pages also pay for the corner art twice: once for the panel
+   itself and again for the column every block reserves to clear it, which on
+   a 1600px screen cost about a third of the width. Shrinking it here is
+   enough on its own, because --corner-art is what both the header padding
+   and --measure are derived from, so the reservation follows the art down
+   without a second rule.
+
+   The art is also masked and dimmed so it reads as atmosphere behind the
+   page rather than a photo competing with the text. That is what made the
+   reservation necessary in the first place: a bright photo under body copy.
+   Two gradients intersect, one fading it out towards the text and one
+   fading it into the page along the bottom. */
+.site-tall { --corner-art: 300px; }
+
+.site-tall .menu-image {
+	width: 300px;
+	height: 300px;
+	background-size: contain;
+	opacity: .58;
+	-webkit-mask-image:
+		linear-gradient(to left, #000 42%, transparent 100%),
+		linear-gradient(to top, transparent 0%, #000 52%);
+	mask-image:
+		linear-gradient(to left, #000 42%, transparent 100%),
+		linear-gradient(to top, transparent 0%, #000 52%);
+	-webkit-mask-composite: source-in;
+	mask-composite: intersect;
+}
+
 /* Experience roles. Title and org/date sit on one justified line so the page
    can be scanned down the left edge for what, and down the right edge for
    where and when, instead of read as prose. */
