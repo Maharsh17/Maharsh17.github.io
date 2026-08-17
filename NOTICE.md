@@ -36,10 +36,16 @@ keep the site private.
 
 Recorded here so the changes are not mistaken for upstream behaviour.
 
-- `assets/menu/js/gtasamenu*.js` and `assets/notify/js/gtasa-notification*.js`:
-  sound paths rewritten for this directory layout, and `Audio.play()` promise
-  rejections caught. Browsers block audio before a user gesture, so the
-  original threw unhandled rejections on every page load.
+- `assets/notify/js/gtasa-notification*.js`: sound paths rewritten for this
+  directory layout, and `Audio.play()` promise rejections caught. Browsers
+  block audio before a user gesture, so the original threw unhandled
+  rejections on every page load.
+- `assets/menu/js/gtasamenu*.js` is no longer loaded by any linked page. It
+  bound a hover handler to every `.menu-option` present when it ran, which
+  missed rows rendered later, used a relative sound path that broke one
+  directory down, and shared a single `Audio` so a fast pass down a list
+  blipped once. `combined-gta/js/menu-sound.js` replaces it with one
+  delegated listener. The file is left in place unmodified.
 - `assets/hud/`: the upstream React app built with `PUBLIC_URL=.` for relative
   asset paths. Source unmodified.
 

@@ -191,7 +191,7 @@ FOOT = """	<footer class="menu-footer">
 	<script src="%(up)sjs/cheats.js" data-keep></script>
 	<script src="%(up)sjs/player.js" data-keep></script>
 	<script src="%(up)sjs/nav.js" data-keep></script>
-	<script src="%(up)sassets/menu/js/gtasamenu.min.js"></script>
+	<script src="%(up)sjs/menu-sound.js" data-keep></script>
 	<script src="%(up)sjs/site.js"></script>
 </body>
 </html>
