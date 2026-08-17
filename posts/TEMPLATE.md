@@ -5,7 +5,7 @@ summary: One sentence. This is the only thing shown on the blog index, so make i
 draft: true
 ---
 
-Copy this file into `blog/posts/` and rename it `YYYY-MM-DD-some-slug.md`.
+Copy this file into `posts/` and rename it `YYYY-MM-DD-some-slug.md`.
 The filename's slug becomes the URL, so `2026-08-17-why-i-hate-yaml.md`
 publishes at `/blog/why-i-hate-yaml.html`.
 

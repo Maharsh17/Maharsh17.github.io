@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Build the blog from markdown.
 
-    blog/posts/YYYY-MM-DD-slug.md  ->  combined-gta/blog/slug.html
-                                   ->  combined-gta/blog.html (the index)
+    posts/YYYY-MM-DD-slug.md  ->  blog/slug.html
+                              ->  blog.html (the index)
 
 Stdlib only, on purpose. This runs on a laptop before a git push, not in a
 build pipeline, so a dependency to install is a dependency to remember.
@@ -16,8 +16,8 @@ import re
 import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-POSTS = os.path.join(ROOT, "blog", "posts")
-SITE = os.path.join(ROOT, "combined-gta")
+POSTS = os.path.join(ROOT, "posts")
+SITE = ROOT
 OUT = os.path.join(SITE, "blog")
 
 MONTHS = ["JAN", "FEB", "MAR", "APR", "MAY", "JUN",
@@ -268,12 +268,12 @@ def build_index(posts):
 
 def main():
     if not os.path.isdir(POSTS):
-        sys.exit("no blog/posts/ directory")
+        sys.exit("no posts/ directory")
     os.makedirs(OUT, exist_ok=True)
 
     published = []
     for name in sorted(os.listdir(POSTS)):
-        if not name.endswith(".md"):
+        if not name.endswith(".md") or name == "TEMPLATE.md":
             continue
         meta, body = parse(os.path.join(POSTS, name))
         if not should_publish(meta):

@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
-# Verification harness for combined-gta. Exits non-zero on any failure.
+# Verification harness for the site. Exits non-zero on any failure.
 set -uo pipefail
-cd "$(dirname "$0")/combined-gta" || exit 1
+cd "$(dirname "$0")" || exit 1
 
 PORT=8899
 FAIL=0
@@ -28,7 +28,7 @@ done
 # 3b. The blog generator parses
 # ast.parse rather than py_compile: writing bytecode is py_compile's whole job,
 # so it ignores -B and left a __pycache__ in scripts/ on every verification run.
-python3 -c 'import ast,sys; ast.parse(open(sys.argv[1]).read())' ../scripts/build-blog.py 2>/dev/null \
+python3 -c 'import ast,sys; ast.parse(open(sys.argv[1]).read())' scripts/build-blog.py 2>/dev/null \
   || fail "syntax error in scripts/build-blog.py"
 
 # 4. Data files are valid JSON
@@ -88,8 +88,12 @@ BAD=$(for c in $(find assets css -name '*.css' 2>/dev/null); do
 done)
 [ -n "$BAD" ] && { echo "$BAD" | sed 's/^/FAIL: /'; FAIL=1; }
 
-# 7. No phone number leaked
-grep -rqn "717-461" . 2>/dev/null && fail "phone number present on site"
+# 7. No phone number leaked. Scoped to what a deployed site would serve, and
+# excluding this file, which necessarily contains the pattern it searches for.
+# Flattening the site to the repo root put docs/ and posts/ inside the served
+# tree, so anything in them is publicly fetchable once deployed.
+grep -rqn "717-461" --exclude=check.sh --exclude-dir=.git . 2>/dev/null \
+  && fail "phone number present in the served tree"
 
 # 8. Pages serve 200
 lsof -ti :$PORT | xargs kill -9 2>/dev/null

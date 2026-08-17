@@ -49,7 +49,7 @@ distributable on its own terms.
 They are isolated in this one directory so removal stays trivial:
 
 ```bash
-rm -rf combined-gta/assets/game
+rm -rf assets/game
 ```
 
 Then point `experience.html` back at `./assets/menu/images/back5.png`. Nothing

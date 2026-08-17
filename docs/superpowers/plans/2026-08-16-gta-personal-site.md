@@ -819,7 +819,7 @@ Phone number deliberately absent, per the global constraints.
 - [ ] **Step 2: Verify no phone number leaked onto any page**
 
 ```bash
-grep -rn "717-461\|7174610675" combined-gta/ && echo "LEAK FOUND" || echo "clean"
+grep -rn "<phone-number>" . && echo "LEAK FOUND" || echo "clean"
 ```
 
 Expected: `clean`

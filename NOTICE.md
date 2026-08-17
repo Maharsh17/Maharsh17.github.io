@@ -4,11 +4,11 @@ No single license covers this project. Each part carries its own.
 
 | Part | Location | License |
 |---|---|---|
-| Original work | `combined-gta/{js,css,data}`, page markup, `scripts/`, `check.sh` | AGPL-3.0, see `LICENSE` |
-| MapLibre GL JS 4.7.1 | `combined-gta/assets/maplibre/` | BSD-3-Clause, © MapLibre contributors |
-| GTA SA menu recreation | `combined-gta/assets/menu/` | **none declared**, © J33sus |
-| Notification library | `combined-gta/assets/notify/` | **none declared**, © J33sus |
-| Decoded game textures | `combined-gta/assets/game/` | Rockstar Games, all rights reserved |
+| Original work | `js/`, `css/`, `data/`, page markup, `scripts/`, `check.sh` | AGPL-3.0, see `LICENSE` |
+| MapLibre GL JS 4.7.1 | `assets/maplibre/` | BSD-3-Clause, © MapLibre contributors |
+| GTA SA menu recreation | `assets/menu/` | **none declared**, © J33sus |
+| Notification library | `assets/notify/` | **none declared**, © J33sus |
+| Decoded game textures | `assets/game/` | Rockstar Games, all rights reserved |
 
 `LICENSE` covers row 1 only. It cannot grant rights to work it does not own.
 
