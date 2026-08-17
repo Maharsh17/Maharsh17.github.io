@@ -1,12 +1,21 @@
-/* Renders project save slots into loadgame.html.
+/* Renders project save slots into projects.html, grouped into three bands.
+ *
  * Slot markup mirrors the original gta-sa-menu loadgame page exactly:
  * li.menu-option.menu-option--datagame > a > span.left + span.right
- * Empty slots use menu-option--datagame-blank, same as the game. */
+ * Empty slots use menu-option--datagame-blank, same as the game.
+ *
+ * A project's band comes from its "category" in data/overrides.json, so
+ * recategorising something is a data edit, never a code edit.
+ */
 (function () {
-	var list = document.getElementById("save-slots");
-	if (!list) return;
+	var host = document.getElementById("project-bands");
+	if (!host) return;
 
-	var SLOTS = 8;
+	// Band order is deliberate: research first, because that is the work the
+	// site is actually about. BANDS is also the whitelist, so a typo'd
+	// category in overrides.json drops the entry loudly instead of inventing
+	// a fourth band nobody styled.
+	var BANDS = ["research work", "research software", "personal"];
 	var MONTHS = ["JAN","FEB","MAR","APR","MAY","JUN","JUL","AUG","SEP","OCT","NOV","DEC"];
 
 	function pad(n) { return n < 10 ? "0" + n : "" + n; }
@@ -23,9 +32,9 @@
 			.replace(/"/g, "&quot;");
 	}
 
-	function blankSlot(i) {
+	function emptyBand() {
 		return '<li class="menu-option menu-option--datagame menu-option--datagame-blank">' +
-			'<a href="#">save file ' + i + ' not present</a></li>';
+			'<a href="#">no save files</a></li>';
 	}
 
 	function filledSlot(entry) {
@@ -44,6 +53,18 @@
 			'</a></li>';
 	}
 
+	function band(name, entries) {
+		entries.sort(function (a, b) { return a.order - b.order; });
+		var html = '<h2 class="site-band">' + esc(name) + '</h2>' +
+			'<ul class="menu-container">';
+		// No blank-slot padding: the game centres those rows and the real ones
+		// are left-aligned, so a half-filled band reads as broken rather than
+		// as a save screen with room to grow.
+		for (var i = 0; i < entries.length; i++) html += filledSlot(entries[i]);
+		if (!entries.length) html += emptyBand();
+		return html + "</ul>";
+	}
+
 	function render(overrides, projects, garageData) {
 		var garage = (garageData && garageData.garage) || {};
 		var byName = {};
@@ -54,13 +75,17 @@
 			}
 		}
 
-		var slots = [];
+		var grouped = {};
+		for (i = 0; i < BANDS.length; i++) grouped[BANDS[i]] = [];
+
 		for (var key in overrides) {
 			if (!Object.prototype.hasOwnProperty.call(overrides, key)) continue;
 			var o = overrides[key];
+			if (!grouped[o.category]) continue;
 			var repo = byName[key] || {};
-			slots[o.slot] = {
+			grouped[o.category].push({
 				nameWithOwner: key,
+				order: o.order || 99,
 				slotName: o.slotName,
 				blurb: o.blurb,
 				status: o.status,
@@ -68,14 +93,12 @@
 				isPrivate: !!repo.isPrivate,
 				pushedAt: repo.pushedAt || o.pushedAt || "",
 				vehicle: (garage[key] || {}).vehicle || ""
-			};
+			});
 		}
 
 		var html = "";
-		for (i = 1; i <= SLOTS; i++) {
-			html += slots[i] ? filledSlot(slots[i]) : blankSlot(i);
-		}
-		list.innerHTML = html;
+		for (i = 0; i < BANDS.length; i++) html += band(BANDS[i], grouped[BANDS[i]]);
+		host.innerHTML = html;
 	}
 
 	function getJSON(url) {
@@ -98,7 +121,8 @@
 			function () { render(overrides, null, null); }
 		);
 	}).catch(function () {
-		list.innerHTML = '<li class="menu-option menu-option--datagame ' +
-			'menu-option--datagame-blank"><a href="#">save data unavailable</a></li>';
+		host.innerHTML = '<ul class="menu-container"><li class="menu-option ' +
+			'menu-option--datagame menu-option--datagame-blank">' +
+			'<a href="#">save data unavailable</a></li></ul>';
 	});
 })();

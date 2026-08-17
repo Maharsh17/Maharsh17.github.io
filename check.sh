@@ -7,7 +7,7 @@ PORT=8899
 FAIL=0
 fail() { echo "FAIL: $*"; FAIL=1; }
 
-PAGES="index.html loadgame.html stats.html weapons.html 404.html missions.html map.html hud.html options.html quitgame.html"
+PAGES="index.html projects.html experience.html blog.html map.html options.html quitgame.html 404.html"
 
 # 1. Required pages exist
 for p in $PAGES; do
@@ -15,7 +15,7 @@ for p in $PAGES; do
 done
 
 # 2. Retired pages are gone
-for p in game.html deletegame.html language.html notifications.html; do
+for p in game.html deletegame.html language.html notifications.html loadgame.html missions.html; do
   [ -e "$p" ] && fail "retired page still present: $p"
 done
 
@@ -24,23 +24,35 @@ for j in js/*.js; do
   node --check "$j" >/dev/null 2>&1 || fail "syntax error in $j"
 done
 
+# 3b. The blog generator parses
+python3 -m py_compile ../scripts/build-blog.py 2>/dev/null || fail "syntax error in scripts/build-blog.py"
+
 # 4. Data files are valid JSON
 for d in data/projects.json data/overrides.json data/timecyc.json data/weapons.json data/places.json data/vehicles.json; do
   [ -f "$d" ] || { fail "missing $d"; continue; }
   jq empty "$d" >/dev/null 2>&1 || fail "invalid JSON in $d"
 done
 
-# 4b. Every page loads site.css. Markup can reference a .site-* class while
+# 4b. Every project override carries a band the renderer knows about, or it
+# is silently dropped from the page.
+BAD=$(jq -r 'to_entries[] | select((.value.category // "") | inside("research work,research software,personal") | not) | .key' data/overrides.json 2>/dev/null)
+[ -n "$BAD" ] && { echo "$BAD" | sed 's/^/FAIL: unknown category on /'; FAIL=1; }
+
+# 4c. Every page loads site.css. Markup can reference a .site-* class while
 # the stylesheet defining it is never linked, which renders unstyled but still
 # passes an asset-resolution check. That happened to index.html.
-for p in $PAGES; do
+for p in $PAGES blog/*.html; do
+  [ -f "$p" ] || continue
   grep -q 'css/site.css' "$p" || fail "$p does not link css/site.css"
 done
 
-# 5. Every local href/src resolves
-BAD=$(for f in *.html; do
-  grep -oE '(href|src)="\./[^"]*"' "$f" | sed -E 's/^(href|src)="//; s/"$//' | sort -u | while read -r p; do
-    [ -e "$p" ] || echo "$f references missing $p"
+# 5. Every local href/src resolves, including the generated posts one level
+# down, which reference ../assets rather than ./assets
+BAD=$(for f in *.html blog/*.html; do
+  [ -f "$f" ] || continue
+  d=$(dirname "$f")
+  grep -oE '(href|src)="\.\.?/[^"]*"' "$f" | sed -E 's/^(href|src)="//; s/"$//' | sort -u | while read -r p; do
+    [ -e "$d/$p" ] || echo "$f references missing $p"
   done
 done)
 [ -n "$BAD" ] && { echo "$BAD" | sed 's/^/FAIL: /'; FAIL=1; }
@@ -63,7 +75,8 @@ lsof -ti :$PORT | xargs kill -9 2>/dev/null
 python3 -m http.server $PORT >/dev/null 2>&1 &
 SRV=$!
 sleep 2
-for p in $PAGES; do
+for p in $PAGES blog/*.html; do
+  [ -f "$p" ] || continue
   code=$(curl -s -o /dev/null -w '%{http_code}' "http://localhost:$PORT/$p")
   [ "$code" = "200" ] || fail "$p returned $code"
 done

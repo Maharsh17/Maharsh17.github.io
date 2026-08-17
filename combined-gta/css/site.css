@@ -34,6 +34,56 @@
 
 .site-prose a { color: rgb(194, 162, 43); }
 
+/* Blog posts. .site-prose already covers h2 / p / ul / a; these are the
+   elements only a written post reaches for. Capped at a readable measure,
+   because full-width body text on a 1920px screen is unreadable. */
+.site-post { max-width: min(68ch, var(--measure)); }
+
+.site-prose h3 {
+	font-family: BankGothic, sans-serif;
+	font-size: 15px;
+	color: #d9dcd9;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	margin: 18px 0 4px;
+}
+
+.site-prose ol { margin: 0 0 16px; padding-left: 22px; }
+
+.site-prose strong { color: #fff; }
+
+.site-prose code {
+	font-family: Menlo, Consolas, monospace;
+	font-size: 13px;
+	color: rgb(214, 192, 110);
+	background: rgba(0, 0, 0, .45);
+	padding: 1px 4px;
+}
+
+.site-prose pre {
+	background: rgba(0, 0, 0, .55);
+	border-left: 3px solid rgba(194, 162, 43, .6);
+	padding: 10px 14px;
+	overflow-x: auto;
+	margin: 0 0 16px;
+}
+
+.site-prose pre code { background: none; padding: 0; color: #cfd3cf; }
+
+.site-prose blockquote {
+	margin: 0 0 16px;
+	padding-left: 14px;
+	border-left: 3px solid rgba(194, 162, 43, .45);
+	color: rgba(217, 220, 217, .8);
+	font-style: italic;
+}
+
+.site-prose hr {
+	border: 0;
+	border-top: 1px solid rgba(194, 162, 43, .3);
+	margin: 24px 0;
+}
+
 /* HUD page. The React HUD widget itself is untouched; only the page around
    it changes, so it stops being a white sheet between two black menu pages. */
 .site-hud-page {
@@ -69,8 +119,10 @@
 	text-shadow: 0 1px 2px rgba(0, 0, 0, 0.8);
 }
 
-/* Weapons page grid. */
-.site-wgroup {
+/* Section headings shared by the weapons grid and the project bands, so the
+   two list screens read as one family rather than two designs. */
+.site-wgroup,
+.site-band {
 	font-family: BankGothic, sans-serif;
 	font-size: 22px;
 	color: rgb(194, 162, 43);
@@ -78,6 +130,59 @@
 	letter-spacing: 2px;
 	margin: 18px 0 10px;
 }
+
+.site-band:first-child { margin-top: 0; }
+
+/* Save rows inside a band. The recreation sizes a row at 80% of the page and
+   splits it 40/60, which assumes the row owns the full width. Inside the
+   measured column that leaves the name side too narrow and project names
+   wrap onto a second line, so the split is rebalanced and the row stretches
+   to align its left edge with the band heading above it. */
+#project-bands .menu-option--datagame {
+	width: 100%;
+	align-self: stretch;
+	margin-left: 0;
+	margin-right: 0;
+}
+
+#project-bands .menu-option--datagame-left { width: 62%; }
+#project-bands .menu-option--datagame-right { width: 38%; }
+
+/* Content-heavy pages. The recreation's 0.8 / 1.6 / 0.6 row split spends 27%
+   of the viewport on a two-line header and leaves the content area shorter
+   than the content, which is right for a six-item menu and wrong for a list
+   of ten. .container sets overflow: hidden, so the excess is not scrolled
+   past, it is invisible. */
+.site-tall { grid-template-rows: 0.6fr 2.2fr 0.2fr; }
+
+/* Experience roles. Title and org/date sit on one justified line so the page
+   can be scanned down the left edge for what, and down the right edge for
+   where and when, instead of read as prose. */
+.site-role { margin: 0 0 22px; }
+
+.site-role-head {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: baseline;
+	justify-content: space-between;
+	gap: 4px 16px;
+	border-bottom: 1px solid rgba(194, 162, 43, .28);
+	padding-bottom: 4px;
+	margin-bottom: 8px;
+}
+
+.site-prose .site-role-head h2 { margin: 0; }
+
+.site-role-meta {
+	font-family: Futura, Arial, sans-serif;
+	font-size: 12px;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	color: rgba(217, 220, 217, .62);
+	white-space: nowrap;
+}
+
+.site-prose .site-role ul { margin-bottom: 0; }
 
 .site-wlist {
 	list-style: none;
@@ -411,6 +516,32 @@ body::before {
 }
 
 .site-prose > * { min-width: 0; }
+
+/* --measure is the widest a block can be and still clear the art at every
+   height, so anything capped to it never needs the float spacer. Two ways to
+   clear the same art: the float, for blocks that should reclaim the full
+   width lower down, and this, for blocks whose right edge must stay put.
+   Prose wants the second. A block that establishes its own formatting
+   context (the flex role heads) shrinks beside the float and then jumps back
+   to full width once past it, which left the role metadata ragged. */
+:root { --measure: calc(100% - var(--corner-art) - var(--corner-gap)); }
+
+.site-measure { max-width: var(--measure); }
+
+.site-measure::before,
+.site-post::before { content: none; }
+
+/* The recreation never styled this class, so it fell through to the browser
+   default and rendered as unstyled serif flush to the left edge. */
+.menu-footer-message {
+	font-family: Futura, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	letter-spacing: 1px;
+	color: rgba(217, 220, 217, .55);
+	text-transform: none;
+	margin: 0;
+	padding: 0 40px 6px;
+}
 
 /* Narrow viewports: a fixed 512px panel would swallow the page, so it scales
    down and the reservation follows it rather than being hard-coded. */
