@@ -27,7 +27,7 @@
 	<main class="menu-content">
 		<ul class="menu-container">
 			<li class="menu-option"><a href="./index.html">no</a></li>
-			<li class="menu-option"><a href="./index.html" id="quit-yes">yes</a></li>
+			<li class="menu-option"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" rel="noopener">yes</a></li>
 		</ul>		
 	</main>
 	<footer class="menu-footer">
@@ -35,18 +35,5 @@
 	<script src="./assets/menu/js/gtasamenu.min.js"></script>
 	<script src="./assets/notify/js/gtasa-notification.min.js"></script>
 	<script src="./js/sky.js"></script><script src="./js/cheats.js"></script><script src="./js/site.js"></script>
-	<script>
-		/* "yes" does not let you leave. The game refuses to quit, fires a real
-		   GTA notification, then drops you back on the main menu. Needs no
-		   external link and rewards the click instead of punishing it. */
-		document.getElementById("quit-yes").addEventListener("click", function (e) {
-			e.preventDefault();
-			if (typeof GTASA !== "undefined") {
-				GTASA.notification("You cannot leave San Andreas~n~~n~Returning to main menu",
-					"top left", 2600);
-			}
-			setTimeout(function () { window.location.href = "./index.html"; }, 2400);
-		});
-	</script>
 </body>
 </html>
