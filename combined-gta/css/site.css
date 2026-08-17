@@ -329,8 +329,8 @@ body::before {
 	padding: 0;
 	margin: 0;
 	line-height: 0;
-	background: rgba(0, 0, 0, .55);
-	border: 1px solid rgba(194, 162, 43, .35);
+	background: transparent;
+	border: 0;
 	cursor: inherit;
 	overflow: hidden;
 }
@@ -362,9 +362,6 @@ body::before {
 }
 
 .site-player-play:hover .site-player-glyph { opacity: 1; }
-
-.site-player-play:hover,
-.site-player.is-playing .site-player-play { border-color: rgb(194, 162, 43); }
 
 .site-player-bar {
 	display: block;
