@@ -1,5 +1,24 @@
 /* New styling only. Never edit anything under assets/. */
 
+/* Home page title. Keeps the recreation's Beckett face and colour, scaled up
+   from the stock 4.5rem, with a headline underneath so the landing page says
+   what the name does. */
+.site-logo {
+	font-size: clamp(64px, 8vw, 118px);
+	line-height: 1.05;
+}
+
+/* .menu-subtitle indents 6rem to clear a stock-size title's first letter.
+   At this size the title starts further left, so the headline follows it. */
+.site-logo-sub {
+	padding-left: 3.4rem;
+	margin-top: 6px;
+	font-size: 15px;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	color: rgba(217, 220, 217, .5);
+}
+
 .site-prose {
 	font-family: Futura, Arial, Helvetica, sans-serif;
 	font-size: 15px;
@@ -151,8 +170,27 @@
 	margin-right: 0;
 }
 
-.site-rows .menu-option--datagame-left { width: 62%; }
-.site-rows .menu-option--datagame-right { width: 38%; }
+/* The right column carries a one-line description, not a right-aligned date,
+   so it starts at a fixed left edge and reads as prose. Right-aligning a
+   sentence leaves every row's first word at a different x, which is the one
+   thing a scannable list cannot afford. */
+.site-rows .menu-option--datagame-left { width: 38%; }
+
+.site-rows .menu-option--datagame-right {
+	width: 62%;
+	justify-content: flex-start;
+	align-items: center;
+	font-family: Futura, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	letter-spacing: .3px;
+	text-transform: none;
+	color: rgba(217, 220, 217, .58);
+	text-shadow: none;
+}
+
+/* Rows with no repo behind them are plain text, so they carry the colour the
+   anchor would have given them and skip the pointer cursor. */
+.site-row-static { color: rgb(74, 90, 107); }
 
 /* Content-heavy pages. The recreation's 0.8 / 1.6 / 0.6 row split spends 27%
    of the viewport on a two-line header and leaves the content area shorter
@@ -571,5 +609,25 @@ body::before {
 
 .menu-header,
 .menu-content { position: relative; z-index: 1; }
+
+/* The footer has to sit above .menu-content, not just above the art.
+   .menu-option--back is absolutely positioned 40px off the bottom, and the
+   content row's box reaches far enough down that its top half was covered by
+   .menu-content's invisible box the moment that box got a stacking context
+   above it. The link looked fine and ignored roughly half the hovers.
+   Positioning the footer also gives that absolute link a containing block,
+   which lands in the same place: the footer row already ends at the viewport
+   bottom, so bottom: 40px / right: 80px resolve identically. */
+.menu-footer { position: relative; z-index: 2; }
+
+/* A one-line-tall hit area on a 24px link is a small target that the pointer
+   leaves on any vertical drift. The padding is inside the link, so it grows
+   what is clickable without moving the text. */
+.menu-option--back > a,
+.menu-option--back-left > a {
+	display: inline-block;
+	padding: 8px 12px;
+	margin: -8px -12px;
+}
 
 .site-wcard { background: rgba(0, 0, 0, .88); }

@@ -178,6 +178,8 @@ FOOT = """	<footer class="menu-footer">
 	</footer>
 	<script src="%(up)sassets/menu/js/gtasamenu.min.js"></script>
 	<script src="%(up)sassets/notify/js/gtasa-notification.min.js"></script>
+	<audio id="theme" preload="metadata" loop src="%(up)sassets/audio/theme.mp3"></audio>
+	<script src="%(up)sjs/player.js"></script>
 	<script src="%(up)sjs/sky.js"></script><script src="%(up)sjs/cheats.js"></script><script src="%(up)sjs/site.js"></script>
 </body>
 </html>

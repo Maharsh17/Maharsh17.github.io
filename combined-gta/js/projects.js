@@ -41,16 +41,22 @@
 		// Garage line comes from data/vehicles.json when present. Derived from
 		// repo size and push recency, so it is reproducible rather than my taste.
 		var garage = entry.vehicle ? "  |  garage: " + entry.vehicle : "";
-		var href = entry.noRepo || entry.isPrivate
-			? "#"
-			: "https://github.com/" + entry.nameWithOwner;
-		var right = fmtDate(entry.pushedAt) + "  " + entry.status.toUpperCase();
-		return '<li class="menu-option menu-option--datagame"><a href="' + esc(href) + '"' +
-			(href === "#" ? "" : ' target="_blank" rel="noopener"') +
-			' title="' + esc(entry.blurb + garage) + '">' +
+		var linkable = !entry.noRepo && !entry.isPrivate && entry.nameWithOwner;
+		var inner =
 			'<span class="menu-option--datagame-left">' + esc(entry.slotName) + '</span>' +
-			'<span class="menu-option--datagame-right">' + esc(right) + '</span>' +
-			'</a></li>';
+			'<span class="menu-option--datagame-right">' + esc(entry.line || "") + '</span>';
+		var title = ' title="' + esc(entry.blurb + garage) + '"';
+
+		// Rows with no repo behind them render as plain text. An <a href="#">
+		// looks identical to a real link and hovers like one, which promises a
+		// destination that does not exist.
+		if (!linkable) {
+			return '<li class="menu-option menu-option--datagame site-row-static"' +
+				title + '>' + inner + '</li>';
+		}
+		return '<li class="menu-option menu-option--datagame">' +
+			'<a href="https://github.com/' + esc(entry.nameWithOwner) + '"' +
+			' target="_blank" rel="noopener"' + title + '>' + inner + '</a></li>';
 	}
 
 	function band(name, entries) {
@@ -87,6 +93,7 @@
 				nameWithOwner: key,
 				order: o.order || 99,
 				slotName: o.slotName,
+				line: o.line,
 				blurb: o.blurb,
 				status: o.status,
 				noRepo: !!o.noRepo,

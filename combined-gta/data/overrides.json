@@ -3,6 +3,7 @@
     "category": "research work",
     "order": 1,
     "slotName": "vex learner models",
+    "line": "Glass-box models over VEX robotics telemetry",
     "blurb": "Glass-box explainable boosting models over VEX robotics telemetry, predicting learner outcomes from behaviour traces rather than from a black box.",
     "status": "active",
     "noRepo": true,
@@ -12,16 +13,17 @@
     "category": "research work",
     "order": 2,
     "slotName": "brain encoder audit",
+    "line": "Do the features it is credited with actually reach the prediction?",
     "blurb": "Information-flow audit of a multimodal brain encoder: minimal pairs and LEACE concept erasure to test whether the features it is credited with using actually reach the prediction.",
     "status": "active",
     "noRepo": true,
     "pushedAt": "2026-07-15"
   },
-
   "InviteInstitute/lm-dashboard": {
     "category": "research software",
     "order": 1,
     "slotName": "lm dashboard",
+    "line": "Realtime learning analytics for AI tutors",
     "blurb": "Realtime learning analytics for AI tutors. Turns 41K+ live events into structured context so a tutor can catch a struggling student mid-lesson.",
     "status": "shipped"
   },
@@ -29,6 +31,7 @@
     "category": "research software",
     "order": 2,
     "slotName": "vex agent",
+    "line": "Robotics triggers wired to a pedagogical agent",
     "blurb": "Connects VEX robotics triggers and episodes to a pedagogical agent, evaluating behavioral rules against live data on a 5 second cycle.",
     "status": "active"
   },
@@ -36,14 +39,15 @@
     "category": "research software",
     "order": 3,
     "slotName": "agent lm packages",
+    "line": "VEX log parser and learner models",
     "blurb": "VEX log parser and learner models built for the Shan and Noah study.",
     "status": "active"
   },
-
   "firewatch": {
     "category": "personal",
     "order": 1,
     "slotName": "firewatch",
+    "line": "Wildfire severity forecast, 52 weeks out",
     "blurb": "Wildfire severity forecasting 52 weeks out, merging 3 federal datasets and 11K+ fire observations. Led 4 developers across 10 sprints.",
     "status": "shipped",
     "noRepo": true,
@@ -53,6 +57,7 @@
     "category": "personal",
     "order": 2,
     "slotName": "county clustering",
+    "line": "3,128 US counties grouped by mobility and vulnerability",
     "blurb": "Groups 3,128 US counties by social vulnerability and upward mobility, then tests whether the groups are real or an artifact of what was measured.",
     "status": "shipped"
   },
@@ -60,6 +65,7 @@
     "category": "personal",
     "order": 3,
     "slotName": "collab editor",
+    "line": "Google Docs style editing over Yjs CRDTs",
     "blurb": "Google Docs style editor with sub-second multi-user sync over Yjs CRDT WebSockets. 88 commits, 10 weeks, team of 4.",
     "status": "shipped"
   },
@@ -67,6 +73,7 @@
     "category": "personal",
     "order": 4,
     "slotName": "resume blaster",
+    "line": "LaTeX resume tailoring driven by language models",
     "blurb": "LaTeX resume tailoring driven by language models.",
     "status": "active"
   },
@@ -74,6 +81,7 @@
     "category": "personal",
     "order": 5,
     "slotName": "ai4all",
+    "line": "AI4ALL coursework and project site",
     "blurb": "AI4ALL coursework and project site.",
     "status": "active"
   }
