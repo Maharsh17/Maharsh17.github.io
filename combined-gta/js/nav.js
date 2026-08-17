@@ -1,0 +1,117 @@
+/* Client-side navigation, so the music survives a page change.
+ *
+ * Chrome refuses audio.play() on a freshly loaded document no matter what the
+ * previous page did, so "keep playing across pages" is impossible while each
+ * page is its own document. Proven, not assumed: the same code that stops with
+ * the autoplay policy on continues with --autoplay-policy=no-user-gesture-
+ * required. The element has to survive the navigation.
+ *
+ * So it does. Links are intercepted, the target page is fetched, and its
+ * content replaces this page's content inside the same document. The <audio>
+ * element never leaves the DOM, so nothing has to be restarted.
+ *
+ * The pages stay real files on disk. Every URL still works typed in, shared,
+ * or with JavaScript off, and GitHub Pages serves them the ordinary way. This
+ * only makes navigating between them cheaper.
+ *
+ * The rule for what survives a swap is one attribute: data-keep stays, and
+ * everything else in <body> is replaced.
+ */
+(function () {
+	if (!window.history || !window.fetch || !window.DOMParser) return;
+
+	var parser = new DOMParser();
+
+	// A persistent node keeps its attributes, not its resolved URLs. The
+	// <audio> src is written relative, so the moment pushState moved the base
+	// into blog/ the browser re-resolved it to blog/assets/audio/theme.mp3,
+	// 404'd, and stopped the playback this whole file exists to protect.
+	// Reading .src gives the absolute form; writing it back pins it there.
+	// Done once at load, before anything is playing, so the reload it triggers
+	// on the media element costs nothing.
+	var shell = document.getElementById("shell");
+	if (shell) {
+		Array.prototype.slice.call(shell.querySelectorAll("[src]")).forEach(
+			function (el) { el.src = el.src; }
+		);
+	}
+
+	function isInternal(a) {
+		return a &&
+			a.href &&
+			a.origin === location.origin &&
+			!a.hasAttribute("download") &&
+			(!a.target || a.target === "_self") &&
+			/\.html$/.test(a.pathname);
+	}
+
+	function runScript(node) {
+		// A cloned <script> never executes. It has to be built fresh.
+		var s = document.createElement("script");
+		for (var i = 0; i < node.attributes.length; i++) {
+			s.setAttribute(node.attributes[i].name, node.attributes[i].value);
+		}
+		if (!node.src) s.textContent = node.textContent;
+		document.body.appendChild(s);
+	}
+
+	function swap(html, url) {
+		var doc = parser.parseFromString(html, "text/html");
+		if (!doc.body) throw new Error("no body");
+
+		// The URL is updated before anything is inserted, because relative
+		// paths in the incoming markup resolve against document.baseURI at
+		// insertion time. Blog posts sit one directory down and reference
+		// ../assets, which is only correct once the URL says so.
+		if (url !== location.href) history.pushState({ nav: 1 }, "", url);
+
+		var keep = [];
+		Array.prototype.slice.call(document.body.children).forEach(function (el) {
+			if (el.hasAttribute("data-keep")) keep.push(el);
+			else el.remove();
+		});
+
+		document.title = doc.title;
+		document.body.className = doc.body.className;
+		document.body.dataset.section = doc.body.dataset.section || "";
+
+		var scripts = [];
+		Array.prototype.slice.call(doc.body.children).forEach(function (el) {
+			if (el.hasAttribute("data-keep")) return;   // already alive here
+			if (el.tagName === "SCRIPT") { scripts.push(el); return; }
+			document.body.insertBefore(document.importNode(el, true), keep[0] || null);
+		});
+
+		// Page scripts run last, against the DOM they expect. Anything marked
+		// data-keep was skipped above and is still running from the first load.
+		scripts.forEach(runScript);
+		window.scrollTo(0, 0);
+	}
+
+	function go(url, push) {
+		return fetch(url, { credentials: "same-origin" })
+			.then(function (r) {
+				if (!r.ok) throw new Error(r.status);
+				return r.text();
+			})
+			.then(function (html) { swap(html, push ? url : location.href); })
+			.catch(function () {
+				// Any failure falls back to a real navigation. A visitor who
+				// cannot reach a page is never left on the old one.
+				location.href = url;
+			});
+	}
+
+	document.addEventListener("click", function (e) {
+		if (e.defaultPrevented || e.button !== 0 || e.metaKey || e.ctrlKey ||
+			e.shiftKey || e.altKey) return;
+		var a = e.target.closest && e.target.closest("a");
+		if (!isInternal(a)) return;
+		e.preventDefault();
+		go(a.href, true);
+	});
+
+	window.addEventListener("popstate", function () {
+		go(location.href, false);
+	});
+})();

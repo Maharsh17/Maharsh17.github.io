@@ -176,11 +176,23 @@ HEAD = """<!DOCTYPE html>
 FOOT = """	<footer class="menu-footer">
 		<span class="menu-option menu-option--back"><a href="%(back)s">back</a></span>
 	</footer>
+	<div id="shell" data-keep>
+		<div id="player" class="site-player">
+			<button type="button" class="site-player-play" aria-label="Play theme">
+				<img class="site-player-art" src="%(up)sassets/game/fronten1/radio_bounce.png" alt="">
+				<span class="site-player-glyph">&#9654;</span>
+			</button>
+			<span class="site-player-bar"><span class="site-player-fill"></span></span>
+		</div>
+		<audio id="theme" preload="metadata" loop src="%(up)sassets/audio/theme.mp3"></audio>
+	</div>
+	<script src="%(up)sassets/notify/js/gtasa-notification.min.js" data-keep></script>
+	<script src="%(up)sjs/sky.js" data-keep></script>
+	<script src="%(up)sjs/cheats.js" data-keep></script>
+	<script src="%(up)sjs/player.js" data-keep></script>
+	<script src="%(up)sjs/nav.js" data-keep></script>
 	<script src="%(up)sassets/menu/js/gtasamenu.min.js"></script>
-	<script src="%(up)sassets/notify/js/gtasa-notification.min.js"></script>
-	<audio id="theme" preload="metadata" loop src="%(up)sassets/audio/theme.mp3"></audio>
-	<script src="%(up)sjs/player.js"></script>
-	<script src="%(up)sjs/sky.js"></script><script src="%(up)sjs/cheats.js"></script><script src="%(up)sjs/site.js"></script>
+	<script src="%(up)sjs/site.js"></script>
 </body>
 </html>
 """

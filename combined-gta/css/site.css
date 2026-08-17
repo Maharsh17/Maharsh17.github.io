@@ -460,13 +460,20 @@ body::before {
    radio_TPLAYER is SA's own Track Player sprite. Nothing autoplays.
    Single authoritative block: earlier edits left duplicate rules later in the
    file that silently won the cascade and shrank this to 44px. */
+/* The player lives in #shell now, which survives every navigation so the
+   track is never torn down. Controls still belong to the main menu only, so
+   everywhere else it is hidden rather than absent: the audio keeps playing
+   behind whatever page you are on. */
 .site-player {
 	position: fixed;
 	left: 28px;
 	bottom: 28px;
 	z-index: 20;
 	width: 112px;
+	display: none;
 }
+
+body[data-section="main"] .site-player { display: block; }
 
 .site-player-play {
 	display: block;

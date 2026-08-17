@@ -71,6 +71,12 @@
 	// we pass. Pages that notify after a click (notifications.html) keep sound.
 	if (section !== "main") return;
 
+	// This file re-runs on every client-side swap, so returning to the main
+	// menu would otherwise greet and re-count the visitor each time. The flag
+	// lives on window because the swap re-executes this whole closure.
+	if (window.__gtaGreeted) return;
+	window.__gtaGreeted = true;
+
 	var now = new Date();
 	var announced = false;
 
