@@ -55,9 +55,9 @@
 	if (window.__gtaGreeted) return;
 	window.__gtaGreeted = true;
 
-	// The tally is a first-visit moment. A returning visitor gets the greeting
-	// alone and does not re-increment the counter, so the number stays a count
-	// of people rather than of page loads. localStorage can throw when storage
+	// Only a first visit increments the counter; every later visit reads it.
+	// That keeps the number a count of people rather than of page loads while
+	// still showing the tally every time. localStorage can throw when storage
 	// is blocked, in which case every visit reads as the first one.
 	var SEEN = "gta-viewer-count-seen";
 	var seen = false;
@@ -88,9 +88,7 @@
 
 	setTimeout(function () { announce(0); }, 2500);
 
-	if (seen) return;
-
-	fetch(COUNTER + (LOCAL ? "get" : "hit") + "/janimaharsh.com/home")
+	fetch(COUNTER + (LOCAL || seen ? "get" : "hit") + "/janimaharsh.com/home")
 		.then(function (r) { return r.ok ? r.json() : null; })
 		.then(function (d) { announce(d && d.value ? d.value : 0); })
 		.catch(function () { announce(0); });

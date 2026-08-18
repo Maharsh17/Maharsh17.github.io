@@ -13,10 +13,13 @@
 .site-logo-sub {
 	padding-left: 3.4rem;
 	margin-top: 6px;
-	font-size: 15px;
+	/* Same gold BankGothic as .site-band, so the subtitle reads as part of the
+	   same family as the section headings on the list screens. */
+	font-family: BankGothic, sans-serif;
+	font-size: 18px;
 	letter-spacing: 2px;
 	text-transform: uppercase;
-	color: rgba(217, 220, 217, .5);
+	color: rgb(194, 162, 43);
 }
 
 .site-prose {
