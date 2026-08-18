@@ -1,8 +1,8 @@
 /* Cheat codes. Type a real San Andreas code anywhere on the site.
  *
  * Loaded on every page. Keeps a rolling buffer of the last N letters typed and
- * matches it against the codes below. Effects are per-page where one makes
- * sense, and every message uses the game's own wording from american.gxt.
+ * matches it against the codes below. Every code does the same thing: the
+ * game's own wording from american.gxt, and every stat bar on the page filled.
  *
  * Deliberately undiscoverable: nothing on the site advertises this. A visitor
  * who knows GTA finds it; everyone else sees a clean site. */
@@ -15,18 +15,26 @@
 	// Absolute, because a cheat can be typed on any page and the pages sit at
 	// three different depths.
 	var HERE = (document.currentScript && document.currentScript.src) || location.href;
-	var MAP = new URL("../../map/", HERE).href;
-	var WASTED = new URL("../../404.html", HERE).href;
 	var AWSHI = new Audio(new URL("../audio/awshi.mp3", HERE).href);
+	// Fetched up front so the clip is ready the instant HESOYAM is typed.
+	AWSHI.preload = "auto";
+	// The vendor default soundUrl is relative and wrong for this layout, so the
+	// notification sound only fires if we hand it an absolute one.
+	var NOTIFY_WAV = new URL("../vendor/notify/sounds/notification.wav", HERE).href;
 
-	function notify(message, position) {
-		GTASA.notification({
-			message: message,
-			position: position || "bottom right",
-			time: 4000,
-			enableSound: true
-		});
+	/* HESOYAM plays the tone and then the sound bite, one after the other. The
+	   library only fires its clip and forgets it, with no hook for the end, so
+	   HESOYAM owns its own tone and chains off that instead. */
+	var TONE = new Audio(NOTIFY_WAV);
+	TONE.preload = "auto";
+
+	function playAwshi() {
+		AWSHI.currentTime = 0;
+		// A blocked or missing clip just stays quiet.
+		AWSHI.play().catch(function () {});
 	}
+
+	TONE.addEventListener("ended", playAwshi);
 
 	/* Fill every stat bar, hold, then restore. Works on the stats page and the
 	   weapons page, both of which render .gtasa-stats-bar--progress or
@@ -34,7 +42,7 @@
 	function maxBars() {
 		var fills = document.querySelectorAll(
 			".gtasa-stats-bar--progress > div, .site-wbar-fill");
-		if (!fills.length) return false;
+		if (!fills.length) return;
 		var previous = [];
 		var i;
 		for (i = 0; i < fills.length; i++) {
@@ -47,54 +55,24 @@
 				fills[j].style.width = previous[j];
 			}
 		}, 6000);
-		return true;
 	}
 
-	function flash(color) {
-		var el = document.createElement("div");
-		el.style.cssText = "position:fixed;inset:0;z-index:9998;pointer-events:none;" +
-			"background:" + color + ";opacity:.55;transition:opacity 1.2s ease";
-		document.body.appendChild(el);
-		requestAnimationFrame(function () { el.style.opacity = "0"; });
-		setTimeout(function () {
-			if (el.parentNode) el.parentNode.removeChild(el);
-		}, 1400);
-	}
-
+	// Code to the line the game prints when you enter it. Every code behaves
+	// identically, so this is a table rather than thirteen copies of HESOYAM.
 	var CODES = {
-		// Health, armour and money. The one everybody remembers.
-		HESOYAM: function () {
-			notify("Cheat activated~n~~n~$250,000, full health, full armour");
-			maxBars();
-			// Rewind so a second HESOYAM restarts the clip instead of no-opping.
-			AWSHI.currentTime = 0;
-			AWSHI.play();
-		},
-		// Infinite health.
-		BAGUVIX: function () {
-			notify("Cheat activated~n~~n~Infinite health", "top left");
-			flash("#306C26");
-		},
-		// Weapon set. The weapons page is gone, so this is message only now.
-		PROFESSIONALSKIT: function () {
-			notify("Cheat activated~n~~n~Weapon set 2", "top right");
-			flash("#C2A22B");
-		},
-		// Jetpack. Takes you to the map, the only page that is a place.
-		ROCKETMAN: function () {
-			notify("Cheat activated~n~~n~Jetpack", "top right");
-			setTimeout(function () { window.location.href = MAP; }, 900);
-		},
-		// Riot mode. Just a colour and a message.
-		STATEOFEMERGENCY: function () {
-			notify("Cheat activated~n~~n~Riot mode", "bottom left");
-			flash("#BF242A");
-		},
-		// Wanted level. Fires the death screen.
-		BRINGITON: function () {
-			notify("Cheat activated~n~~n~Six star wanted level", "top left");
-			setTimeout(function () { window.location.href = WASTED; }, 900);
-		}
+		HESOYAM: "$250,000, full health, full armour",
+		BAGUVIX: "Infinite health",
+		LXGIWYL: "Weapon set 1",
+		PROFESSIONALSKIT: "Weapon set 2",
+		FULLCLIP: "Infinite ammo, no reload",
+		ROCKETMAN: "Jetpack",
+		JUMPJET: "Spawn Hydra",
+		OHDUDE: "Spawn Hunter",
+		AIWPRTON: "Spawn Rhino",
+		CHITTYCHITTYBANGBANG: "Cars can fly",
+		AEZAKMI: "Never wanted",
+		BRINGITON: "Six star wanted level",
+		STATEOFEMERGENCY: "Riot mode"
 	};
 
 	// Longest code decides how much history we need to keep.
@@ -102,6 +80,26 @@
 		if (Object.prototype.hasOwnProperty.call(CODES, code)) {
 			BUFFER_MAX = Math.max(BUFFER_MAX, code.length);
 		}
+	}
+
+	function activate(code) {
+		var hesoyam = code === "HESOYAM";
+		GTASA.notification({
+			message: "Cheat activated~n~~n~" + CODES[code],
+			position: "bottom right",
+			time: 4000,
+			// Every other code lets the library play the tone. HESOYAM plays
+			// its own below, so it can follow it with the sound bite.
+			enableSound: !hesoyam,
+			soundUrl: NOTIFY_WAV
+		});
+		maxBars();
+		if (!hesoyam) return;
+		// Rewound so a second HESOYAM restarts the run instead of no-opping.
+		// If the tone cannot play at all, go straight to the sound bite rather
+		// than losing it to a silent first half.
+		TONE.currentTime = 0;
+		TONE.play().catch(playAwshi);
 	}
 
 	document.addEventListener("keydown", function (e) {
@@ -116,7 +114,7 @@
 			if (!Object.prototype.hasOwnProperty.call(CODES, code)) continue;
 			if (buffer.slice(-code.length) === code) {
 				buffer = "";
-				CODES[code]();
+				activate(code);
 				return;
 			}
 		}
