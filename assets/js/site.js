@@ -57,6 +57,14 @@
 	if (window.__gtaGreeted) return;
 	window.__gtaGreeted = true;
 
+	// The tally is a first-visit moment. A returning visitor gets the greeting
+	// alone and does not re-increment the counter, so the number stays a count
+	// of people rather than of page loads. localStorage can throw when storage
+	// is blocked, in which case every visit reads as the first one.
+	var SEEN = "gta-viewer-count-seen";
+	var seen = false;
+	try { seen = localStorage.getItem(SEEN) === "1"; } catch (e) {}
+
 	var announced = false;
 
 	function announce(count) {
@@ -66,7 +74,12 @@
 		// The greeting has to stand on its own. If the counter is slow, down or
 		// blocked, the visitor still gets the same welcome minus one line,
 		// rather than an apology or a zero presented as a real tally.
-		if (count > 0) message += "~n~~n~You're the " + ordinal(count) + " viewer";
+		if (count > 0) {
+			message += "~n~~n~You're the " + ordinal(count) + " viewer";
+			// Marked only once the tally is actually on screen, so a counter
+			// outage does not silently spend the visitor's one shot at it.
+			try { localStorage.setItem(SEEN, "1"); } catch (e) {}
+		}
 		GTASA.notification({
 			message: message,
 			position: "bottom right",
@@ -76,6 +89,8 @@
 	}
 
 	setTimeout(function () { announce(0); }, 2500);
+
+	if (seen) return;
 
 	fetch(COUNTER + (LOCAL ? "get" : "hit") + "/janimaharsh.com/home")
 		.then(function (r) { return r.ok ? r.json() : null; })
