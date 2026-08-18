@@ -103,41 +103,6 @@
 	margin: 24px 0;
 }
 
-/* HUD page. The React HUD widget itself is untouched; only the page around
-   it changes, so it stops being a white sheet between two black menu pages. */
-.site-hud-page {
-	/* Fallback if data/timecyc.json fails; sky.js overwrites this. */
-	background: rgb(68, 117, 210);
-	min-height: 100vh;
-}
-
-.site-hud-art {
-	position: absolute;
-	top: 0;
-	right: 0;
-	width: 512px;
-	height: 512px;
-	background-image: url("../game/fronten2/back6.png");
-	background-repeat: no-repeat;
-	pointer-events: none;
-	z-index: 0;
-}
-
-/* Sky behind the HUD, repainted from GTA's own timecyc.dat by local hour.
-   The solid colour is the fallback if data/timecyc.json fails to load. */
-.site-sky-label {
-	position: fixed;
-	bottom: 14px;
-	left: 24px;
-	margin: 0;
-	z-index: 10;
-	font-family: Futura, Arial, sans-serif;
-	font-size: 12px;
-	letter-spacing: 1px;
-	color: rgba(255, 255, 255, 0.75);
-	text-shadow: 0 1px 2px rgba(0, 0, 0, 0.8);
-}
-
 /* Section headings shared by the weapons grid and the project bands, so the
    two list screens read as one family rather than two designs. */
 .site-wgroup,
@@ -393,8 +358,6 @@ body::before {
 	background: linear-gradient(90deg, var(--sky-top), var(--sky-bottom));
 }
 
-/* The HUD page paints the whole sky already; a strip on top of it is noise. */
-.site-hud-page::before { display: none; }
 
 /* Champaign-Urbana map page. The frame locks the SVG's 1000x720 aspect ratio,
    because the personal pins are positioned as percentages of that viewBox. Let

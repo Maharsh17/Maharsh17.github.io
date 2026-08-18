@@ -19,8 +19,8 @@ to compile.
 ./check.sh
 ```
 
-Thirteen checks: pages exist, retired pages stay gone, JavaScript parses, JSON
-is valid, every project has a known band, `map.html` loads MapLibre, every
+Fourteen checks: pages exist, retired pages stay gone, JavaScript parses, JSON
+is valid, every project has a known band, `map/` loads MapLibre, every
 page carries the persistent shell, every link and CSS `url()` resolves, and
 every page returns 200. It has caught real bugs that looked fine in a browser.
 
@@ -105,7 +105,7 @@ navigation. One attribute decides what survives a swap, `data-keep`.
 keyframes by your local hour, so the strip across the top of every page warms
 at sunset and goes near-black at midnight.
 
-**Cheats.** Six real San Andreas codes work anywhere on the site. Nothing
+**Cheats.** Thirteen real San Andreas codes work anywhere on the site. Nothing
 advertises them.
 
 ## Licensing

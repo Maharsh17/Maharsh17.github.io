@@ -5,11 +5,8 @@
  * so at 3am the page is the game's midnight sky and at noon it is its midday
  * blue. Wraps around midnight, hence the modular distance below. */
 (function () {
-	// Runs on every page. The HUD page gets the full sky painted onto its body;
-	// every other page only receives --sky-top / --sky-bottom custom properties
-	// so accents can warm at sunset without repainting the GTA menu chrome.
-	var host = document.querySelector(".site-hud-page");
-
+	// Runs on every page, and only ever sets --sky-top / --sky-bottom, so
+	// accents can warm at sunset without repainting the GTA menu chrome.
 	function lerp(a, b, t) { return Math.round(a + (b - a) * t); }
 
 	function rgb(c) { return "rgb(" + c[0] + "," + c[1] + "," + c[2] + ")"; }
@@ -44,18 +41,6 @@
 		var root = document.documentElement;
 		root.style.setProperty("--sky-top", rgb(top));
 		root.style.setProperty("--sky-bottom", rgb(bottom));
-
-		if (host) {
-			host.style.background =
-				"linear-gradient(" + rgb(top) + " 0%, " + rgb(bottom) + " 100%)";
-		}
-
-		var label = document.querySelector(".site-sky-label");
-		if (label) {
-			label.textContent = "San Andreas sky at your local " +
-				(now.getHours() < 10 ? "0" : "") + now.getHours() +
-				(now.getMinutes() < 10 ? ":0" : ":") + now.getMinutes();
-		}
 	}
 
 	// Resolved against this file's own URL, never the page's. Pages sit at

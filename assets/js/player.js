@@ -1,9 +1,9 @@
 /* The theme track, continued across pages.
  *
- * A multi-page site tears the <audio> element down on every navigation, so
- * "keep playing" has to mean "restart at the position it reached, on the next
- * page". Two values in localStorage carry that: whether it is on, and how far
- * in it got.
+ * nav.js normally keeps the <audio> element alive across a link, so nothing
+ * here runs on that path. This is the fallback for the loads that are real:
+ * a typed URL, a shared link, a refresh, or nav.js giving up on a fetch. Two
+ * values in localStorage carry it: whether it is on, and how far in it got.
  *
  * Only the main menu has controls. Every other page runs this file purely to
  * pick the track back up, which is why the flag is written from the click

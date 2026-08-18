@@ -7,8 +7,7 @@
  * disturbing that page's own styles.
  *
  * Sections in use:
- *   main, hud, stats, map, notifications,
- *   game, options, language, loadgame, deletegame, quitgame
+ *   main, brief, missions, loadgame, options, map, quitgame, wasted
  *
  * GTASA.notification(messageOrOptions, position, time)
  *   message   string, "~n~" becomes a line break
@@ -18,8 +17,10 @@
  */
 
 (function () {
-	var section = document.body.dataset.section;
-	if (!section || typeof GTASA === "undefined") return;
+	// Only the main menu speaks on entry. Firing on every section turns a nice
+	// moment into background noise, so the rest never run this at all.
+	if (document.body.dataset.section !== "main" ||
+		typeof GTASA === "undefined") return;
 
 	// 11th, 12th and 13th are the exceptions every naive version of this gets
 	// wrong, so they are checked before the last digit is looked at.
@@ -44,12 +45,9 @@
 		location.hostname === "127.0.0.1" ||
 		location.protocol === "file:";
 
-	// Only the main menu speaks on entry. Firing on all 11 sections turns a
-	// nice moment into background noise, so the rest stay quiet.
 	// ponytail: sound is off on purpose. Browsers block audio until the user
 	// has clicked something, so an entry notification is silent no matter what
-	// we pass. Pages that notify after a click (notifications.html) keep sound.
-	if (section !== "main") return;
+	// we pass.
 
 	// This file re-runs on every client-side swap, so returning to the main
 	// menu would otherwise greet and re-count the visitor each time. The flag

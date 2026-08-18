@@ -9,7 +9,7 @@
 (function () {
 	if (typeof GTASA === "undefined") return;
 
-	var BUFFER_MAX = 16;
+	var BUFFER_MAX = 0;
 	var buffer = "";
 
 	// Absolute, because a cheat can be typed on any page and the pages sit at
